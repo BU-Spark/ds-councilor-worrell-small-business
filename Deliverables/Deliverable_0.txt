@@ -1,0 +1,27 @@
+Deliverable 0
+
+Team3
+
+a.What is the project focus/overall goal?
+
+This project goal is to analyze the current status of small businesses in District 4, Councilor Worrell’s district. The goals are to first identify the current landscape, then see what will attract more small businesses to the area while understanding the current issues small businesses face.
+
+b.What type of data will you collect or be analyzing?
+
+List of businesses for district 4
+Foot traffic based on cell phone mobility data
+Business owner demographics data (what percent of small businesses are owned by women and minorities?)
+Rating data (yelp or googleplaces API)
+Business licenses
+
+c.What are potential limitations of the project?
+
+The small businesses owner’s financial and business data are also important but difficult to obtain. As well, there will be a redistricting occurring during the project, and as such we need to be able to update the information should we need to include/exclude businesses and their data after starting the project.
+
+d.Why is this project important or Why did you choose this project?
+
+This project can help the government to manage this district’s business , which will help the residents living in this district more conveniently. On the other hand, the small business owner also can get useful information and suggestions from this project.
+
+e. What are your team’s next steps?
+
+Try to answer the clients questions based on the information collected. Create visualizations as needed. Also be on the lookout for other datasets or sources that could help provide information for the project.
