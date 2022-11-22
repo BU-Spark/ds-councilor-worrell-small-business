@@ -1,6 +1,16 @@
-# TEMPLATE-base-repo
+# CS506 Team 5 Project (Councilor Worrell)
+## Team Members:
+* Xiaojie Li
+* Simon Cen
+* Reshaub Chhabra
+* Dave Godfrey
 
-# Add Users
-To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.
+## Topic
+Our topic is focusing on analyzing the popularity of small businesses in District 4 compared to the other districts
 
-All Pull Requests must follow the Pull Request Template, with a title formatted like such `[Project Name]: <Descriptive Title>`
+## Points of Interest:
+* spending in district 4 vs. other districts
+* foot traffic in istrict 4 vs. other districts
+* makeup of the businesses within district 4 compared to other districts (eg: the top districts by foot traffic has a lot more restaurants than district 4, so maybe district 4 needs more restaurants)
+* effect of entertainmnet/other licenses on district 4's businesses, (Eg. top districts by foot traffic have more entertainment licenses compared to district 4)
+* employment proportions in district 4 compared to other districts
