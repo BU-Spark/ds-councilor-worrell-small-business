@@ -12,6 +12,7 @@
 
 `spending_data_analysis.ipynb` - district4 Mattapan Weekly Spending Data to observe business status pre, during, and post Covid
 
+---
 #### Visualizations: ####
 `businesstypes_alldistricts_bar.png` - bar graph of number of businesstypes of all districts
 
@@ -19,6 +20,7 @@
 
 `businesstypes_alldistricts_bar_professionalscitech` - bar graph of number of businesses in the professional, scientific and technical services category of all districts 
 
+--- 
 #### Datasets: ####
 
 businesses in all districts:
@@ -36,5 +38,6 @@ businesses in each district:
 - `district8_businesses.csv`
 - `district9_businesses.csv`
 
-###### Other datasets: ######
+---
+#### Other datasets: ####
 (put into csv or just link?)
