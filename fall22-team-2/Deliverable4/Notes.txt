@@ -1,0 +1,27 @@
+[Working notes]
+
+Deliverable4.pdf
+
+Code:
+
+district_businesses.ipynb - initial look at the data, getting just district4
+employmentdata.ipynb - district4's employment data compared to others (income, education level, etc)
+
+Visualizations:
+-maybe put into a folder? or pdf
+
+Datasets:
+businesses in each district:
+district1_businesses.csv
+district2_businesses.csv
+district3_businesses.csv
+district4_businesses.csv
+district5_businesses.csv
+district6_businesses.csv
+district7_businesses.csv
+district8_businesses.csv
+district9_businesses.csv
+
+Other datasets:
+(put into csv or just link?)
+
