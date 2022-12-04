@@ -21,7 +21,14 @@
 `businesstypes_alldistricts_bar_professionalscitech` - bar graph of number of businesses in the professional, scientific and technical services category of all districts 
 
 --- 
-#### Datasets: ####
+
+### Provided Datasets/Files ###
+- [BDPA Data](https://drive.google.com/drive/folders/1pqwVj7PQ_YaXCPW4H3AAFenMzZWP6191?usp=share_link)
+- [District 4 Shapefile](https://data.boston.gov/dataset/city-council-districts-view)
+- [Certified Business Directory](https://data.boston.gov/dataset/certified-business-directory)
+
+---
+#### Created Datasets: ####
 
 businesses in all districts:
 
@@ -38,6 +45,10 @@ businesses in each district:
 - `district8_businesses.csv`
 - `district9_businesses.csv`
 
+certified businesses:
+- `district4_certifiedbusiness.csv`
+
 ---
 #### Other datasets: ####
-(put into csv or just link?)
+
+
