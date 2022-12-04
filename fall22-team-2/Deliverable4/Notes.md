@@ -4,7 +4,7 @@
 
 #### Code: ####
 
-`district_businesses.ipynb` - initial look at the data, getting the businesses for each district
+`district_businesses.ipynb` - initial look at the data, getting the businesses for each district //certified business part is not cleaned yet
 
 `estimated_employment_analysis.ipynb` - a look at the estimated employment of businesses in district 4 and other districts
 
@@ -14,7 +14,7 @@
 
 ---
 #### Visualizations: ####
-`businesstypes_alldistricts_bar.png` - bar graph of number of businesstypes of all districts
+`businesstypes_alldistricts_bar.png` - bar graph of number of businesstypes of all districts 
 
 `businesstypes_alldistricts_bar_artsandeducation.png` - bar graph of businesses in the arts, entertainment and recreation and educational services categories of all districts 
 
