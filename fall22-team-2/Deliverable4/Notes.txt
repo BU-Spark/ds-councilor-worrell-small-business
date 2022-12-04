@@ -4,13 +4,19 @@ Deliverable4.pdf
 
 Code:
 
-district_businesses.ipynb - initial look at the data, getting just district4
-employmentdata.ipynb - district4's employment data compared to others (income, education level, etc)
+district_businesses.ipynb - initial look at the data, getting the businesses for each district
+employment.ipynb - district4's employment data compared to others (income, education level, etc)
 
 Visualizations:
--maybe put into a folder? or pdf
+businesstypes_alldistricts_bar.png - bar graph of number of businesstypes of all districts
+businesstypes_alldistricts_bar_artsandeducation.png - bar graph of businesses in the arts, entertainment and recreation and educational services categories of all districts 
+businesstypes_alldistricts_bar_professionalscitech - bar graph of number of businesses in the professional, scientific and technical services category of all districts 
 
 Datasets:
+
+businesses in all districts:
+businesses_districts.csv - has a new column for 'District'
+
 businesses in each district:
 district1_businesses.csv
 district2_businesses.csv
