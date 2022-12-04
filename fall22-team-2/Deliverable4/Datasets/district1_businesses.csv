@@ -1,0 +1,310 @@
+,...1,latitude,longitude,business_name,street_address,zip,NAICS_2017_6digit_code,NAICS_2017_6digit_desc,NAICS_2017_2digit_code,NAICS_2017_2digit_desc,estimated_employment,employment_buckets,mainstreet,geometry,district,index_right,DISTRICT
+695,696,42.370221,-71.038709,zion multi-svc,46 Maverick Sq,2128,813110,Religious Organizations,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.038709 42.370221),,0,1
+696,697,42.369918,-71.037917,yah kid,154 Maverick St,2128,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,23.0,10 to 24,East Boston,POINT (-71.037917 42.369918),,0,1
+697,698,42.369381,-71.039824,western union agent location,14 Maverick Sq,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,East Boston,POINT (-71.039824 42.369381),,0,1
+698,699,42.374317,-71.03862,western union agent location,1 Central Sq,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,East Boston,POINT (-71.03862 42.374317),,0,1
+699,700,42.375824,-71.039345,western union agent location,238 Meridian St,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,East Boston,POINT (-71.039345 42.375824),,0,1
+700,701,42.374317,-71.03862,walgreens,1 Central Sq,2128,446110,Pharmacies and Drug Stores,44,Retail Trade,60.0,50 to 99,East Boston,POINT (-71.03862 42.374317),,0,1
+701,702,42.372818,-71.039268,w b mason,104 Meridian St,2128,453210,Office Supplies and Stationery Stores,45,Retail Trade,18.0,10 to 24,East Boston,POINT (-71.039268 42.372818),,0,1
+702,703,42.37203,-71.038808,vmga corp,75 Meridian St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.038808 42.37203),,0,1
+703,704,42.376084,-71.038864,vilma's boutique,253 Meridian St,2128,448140,Family Clothing Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.038864 42.376084),,0,1
+704,705,42.3759,-71.038947,velasquez jewelry,245 Meridian St,2128,448310,Jewelry Stores,44,Retail Trade,1.0,1 to 9,East Boston,POINT (-71.038947 42.3759),,0,1
+705,706,42.376095,-71.039337,vault advertising,250 Meridian St,2128,541890,Other Services Related to Advertising,54,"Professional, Scientific, and Technical Services",0.0,Not Available,East Boston,POINT (-71.039337 42.376095),,0,1
+706,707,42.375206,-71.037603,variedades kiara,31 Bennington St,2128,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.037603 42.375206),,0,1
+707,708,42.371575,-71.039016,usps,50 Meridian St,2128,491110,Postal Service,49,Transportation and Warehosuing,4.0,1 to 9,East Boston,POINT (-71.039016 42.371575),,0,1
+708,709,42.375446,-71.040644,ups access point location,210 Border St,2128,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,East Boston,POINT (-71.040644 42.375446),,0,1
+709,710,42.370212,-71.039445,ups access point location,123 Maverick St,2128,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,East Boston,POINT (-71.039445 42.370212),,0,1
+710,711,42.370221,-71.038709,unlimited pcs,46 Maverick Sq,2128,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,3.0,1 to 9,East Boston,POINT (-71.038709 42.370221),,0,1
+711,712,42.373487,-71.039272,topacio restaurant,120 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,East Boston,POINT (-71.039272 42.373487),,0,1
+712,713,42.369305,-71.038904,tony's realty,37 Maverick Sq,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,East Boston,POINT (-71.038904 42.369305),,0,1
+713,714,42.369529,-71.038526,tim lynch photography,63 Maverick Sq,2128,541921,"Photography Studios, Portrait",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,East Boston,POINT (-71.038526 42.369529),,0,1
+714,715,42.370212,-71.039445,tidy up boston,125 Maverick St,2128,561720,Janitorial Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,East Boston,POINT (-71.039445 42.370212),,0,1
+715,716,42.375676,-71.037415,theresa m di joseph law office,46 Bennington St,2128,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,East Boston,POINT (-71.037415 42.375676),,0,1
+716,717,42.376163,-71.039488,the threading place,248 Meridian St,2128,812112,Beauty Salons,81,Other Services,0.0,Not Available,East Boston,POINT (-71.039488 42.376163),,0,1
+717,718,42.368929,-71.039245,the station grocery,9 Maverick Sq,2128,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.039245 42.368929),,0,1
+718,719,42.371017,-71.039424,the rifle,60 Paris St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.039424 42.371017),,0,1
+719,720,42.375986,-71.03895,the pizza shuttle inc,239 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,East Boston,POINT (-71.03895 42.375986),,0,1
+720,721,42.374585,-71.037795,tertulias,28 Porter St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.037795 42.374585),,0,1
+721,722,42.375149,-71.037656,telepaisa,29 Bennington St,2128,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,East Boston,POINT (-71.037656 42.375149),,0,1
+722,723,42.370767,-71.038735,tax pro-east boston,25 Meridian St,2128,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,East Boston,POINT (-71.038735 42.370767),,0,1
+723,724,42.369263,-71.040128,taqueria cancun,192 Sumner St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,18.0,10 to 24,East Boston,POINT (-71.040128 42.369263),,0,1
+724,725,42.369675,-71.038607,taco mex,65 Maverick Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,12.0,10 to 24,East Boston,POINT (-71.038607 42.369675),,0,1
+725,726,42.375923,-71.039345,taco mania,244 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,East Boston,POINT (-71.039345 42.375923),,0,1
+726,727,42.375406,-71.040485,t-mobile,192 Border St,2128,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,23.0,10 to 24,East Boston,POINT (-71.040485 42.375406),,0,1
+727,728,42.37023,-71.038709,t b diamond,48 Maverick Sq,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,East Boston,POINT (-71.038709 42.37023),,0,1
+728,729,42.375044,-71.037855,superley inc,21 Bennington St,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,East Boston,POINT (-71.037855 42.375044),,0,1
+729,730,42.369918,-71.037917,super cargo corp,154 Maverick St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.037917 42.369918),,0,1
+730,731,42.374551,-71.038751,subway,13 Central Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,East Boston,POINT (-71.038751 42.374551),,0,1
+731,732,42.370358,-71.038548,su muebleria east boston furniture,8 Chelsea St,2128,442110,Furniture Stores,44,Retail Trade,1.0,1 to 9,East Boston,POINT (-71.038548 42.370358),,0,1
+732,733,42.373588,-71.039324,style center salon,124 Meridian St,2128,812111,Barber Shops,81,Other Services,1.0,1 to 9,East Boston,POINT (-71.039324 42.373588),,0,1
+733,734,42.374491,-71.038838,square smoke shop,9 Central Sq,2128,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.038838 42.374491),,0,1
+734,735,42.375856,-71.039342,soriano professional service,242 Meridian St,2128,541219,Other Accounting Services,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,East Boston,POINT (-71.039342 42.375856),,0,1
+735,736,42.376163,-71.039488,soledads fashion beauty,248 Meridian St,2128,812990,All Other Personal Services,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.039488 42.376163),,0,1
+736,737,42.370116,-71.038011,solano tax service,13 Chelsea St,2128,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,East Boston,POINT (-71.038011 42.370116),,0,1
+737,738,42.375171,-71.038599,sofia's food enterprise,22 Central Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038599 42.375171),,0,1
+738,739,42.375291,-71.038441,smile dental center,14 Bennington St,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,East Boston,POINT (-71.038441 42.375291),,0,1
+739,740,42.375492,-71.037913,shree maruti inc,32 Bennington St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.037913 42.375492),,0,1
+740,741,42.369171,-71.03901,shine cleaning service inc,27 Maverick Sq,2128,561720,Janitorial Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,East Boston,POINT (-71.03901 42.369171),,0,1
+741,742,42.376073,-71.036179,shalom physical therapy,78 Bennington St,2128,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,4.0,1 to 9,East Boston,POINT (-71.036179 42.376073),,0,1
+742,743,42.370358,-71.038548,salvy the florist,8 Chelsea St,2128,453110,Florists,45,Retail Trade,7.0,1 to 9,East Boston,POINT (-71.038548 42.370358),,0,1
+743,744,42.370116,-71.038011,salvy florist,9 Chelsea St,2128,453110,Florists,45,Retail Trade,4.0,1 to 9,East Boston,POINT (-71.038011 42.370116),,0,1
+744,745,42.370023,-71.038397,rsm us llp,1 Chelsea St,2128,541211,Offices of Certified Public Accountants,54,"Professional, Scientific, and Technical Services",700.0,100+,East Boston,POINT (-71.038397 42.370023),,0,1
+745,746,42.375025,-71.037933,roma restaurant,19 Bennington St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.037933 42.375025),,0,1
+746,747,42.373618,-71.038858,rizos beauty salon,137 Meridian St,2128,812112,Beauty Salons,81,Other Services,4.0,1 to 9,East Boston,POINT (-71.038858 42.373618),,0,1
+747,748,42.375716,-71.039245,ria financial service inc,232 Meridian St,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,East Boston,POINT (-71.039245 42.375716),,0,1
+748,749,42.37466,-71.03865,rey enterprises,7 Porter St,2128,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.03865 42.37466),,0,1
+749,750,42.37545,-71.038749,restaurante monte cristo,36 Central Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038749 42.37545),,0,1
+750,751,42.37466,-71.03865,reparacion de celulares,7 Porter St,2128,238990,All Other Specialty Trade Contractors,23,Construction,3.0,1 to 9,East Boston,POINT (-71.03865 42.37466),,0,1
+751,752,42.369918,-71.037917,raining combos caldwell llc,154 Maverick St,2128,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+752,753,42.375412,-71.038176,punto rojo,16 Bennington St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,East Boston,POINT (-71.038176 42.375412),,0,1
+753,754,42.373764,-71.038887,primelending,149 Meridian St,2128,522292,Real Estate Credit,52,Finance and Insurance,6.0,1 to 9,East Boston,POINT (-71.038887 42.373764),,0,1
+754,755,42.375406,-71.040485,pollo campero,188 Border St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,16.0,10 to 24,East Boston,POINT (-71.040485 42.375406),,0,1
+755,756,42.374936,-71.038301,pmo trading,13 Bennington St,2128,523210,Securities and Commodity Exchanges,52,Finance and Insurance,10.0,10 to 24,East Boston,POINT (-71.038301 42.374936),,0,1
+756,757,42.368978,-71.039209,pls financial,19 Maverick Sq,2128,523930,Investment Advice,52,Finance and Insurance,3.0,1 to 9,East Boston,POINT (-71.039209 42.368978),,0,1
+757,758,42.368978,-71.039209,pls check cashers,19 Maverick Sq,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,10.0,10 to 24,East Boston,POINT (-71.039209 42.368978),,0,1
+758,759,42.371777,-71.038696,platinos hair salon,59 Meridian St,2128,812112,Beauty Salons,81,Other Services,4.0,1 to 9,East Boston,POINT (-71.038696 42.371777),,0,1
+759,760,42.371777,-71.038696,platino's salon,59 Meridian St,2128,812112,Beauty Salons,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.038696 42.371777),,0,1
+760,761,42.375676,-71.037415,petruccelli & foster law offices,46 Bennington St,2128,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,East Boston,POINT (-71.037415 42.375676),,0,1
+761,762,42.370408,-71.038517,petalos boutique floristeria,10 Chelsea St,2128,453110,Florists,45,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.038517 42.370408),,0,1
+762,763,42.373853,-71.039306,perlera real estate,142 Meridian St,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,3.0,1 to 9,East Boston,POINT (-71.039306 42.373853),,0,1
+763,764,42.375717,-71.036393,peach's & cream,73 Bennington St,2128,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,East Boston,POINT (-71.036393 42.375717),,0,1
+764,765,42.373195,-71.038864,oxigeno beauty salon,123 Meridian St,2128,812112,Beauty Salons,81,Other Services,4.0,1 to 9,East Boston,POINT (-71.038864 42.373195),,0,1
+765,766,42.369918,-71.037917,ospina/mejia inc,154 Maverick St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.037917 42.369918),,0,1
+766,767,42.370212,-71.039445,orlandi valuta financial service,123 Maverick St,2128,523930,Investment Advice,52,Finance and Insurance,9.0,1 to 9,East Boston,POINT (-71.039445 42.370212),,0,1
+767,768,42.372442,-71.039346,omar oscar jewelry,100 Meridian St,2128,811490,Other Personal and Household Goods Repair and Maintenance,81,Other Services,4.0,1 to 9,East Boston,POINT (-71.039346 42.372442),,0,1
+768,769,42.375171,-71.038599,oliveira's steakhouse-east boston,22 Central Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038599 42.375171),,0,1
+769,770,42.370683,-71.038741,nube,19 Meridian St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.038741 42.370683),,0,1
+770,771,42.374746,-71.038271,north suffolk mental health association,14 Porter St,2128,622210,Psychiatric and Substance Abuse Hospitals,62,Healthcare and Social Assistance,41.0,25 to 49,East Boston,POINT (-71.038271 42.374746),,0,1
+771,772,42.375212,-71.037506,north suffolk mental health,35 Bennington St,2128,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,East Boston,POINT (-71.037506 42.375212),,0,1
+772,773,42.374746,-71.038271,noodles island multi service agency,14 Porter St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,30.0,25 to 49,East Boston,POINT (-71.038271 42.374746),,0,1
+773,774,42.370181,-71.039376,nfarra2,127 Maverick St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.039376 42.370181),,0,1
+774,775,42.371017,-71.039424,new england wounded veterans,60 Paris St,2128,813410,Civic and Social Organizations,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.039424 42.371017),,0,1
+775,776,42.369322,-71.040261,neighborhood of affordbl hsng,184 Sumner St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,11.0,10 to 24,East Boston,POINT (-71.040261 42.369322),,0,1
+776,777,42.375923,-71.039345,nathaly's bakery inc,244 Meridian St,2128,311811,Retail Bakeries,31,Manufacturing,0.0,Not Available,East Boston,POINT (-71.039345 42.375923),,0,1
+777,778,42.373793,-71.038801,my dental east boston pc,151 Meridian St,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,East Boston,POINT (-71.038801 42.373793),,0,1
+778,779,42.37564,-71.039347,moneygram international,230 Meridian St,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,East Boston,POINT (-71.039347 42.37564),,0,1
+779,780,42.375929,-71.038948,mix restaurant,235 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038948 42.375929),,0,1
+780,781,42.375064,-71.038048,miss mello psychic readings,17 Bennington St,2128,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,1.0,1 to 9,East Boston,POINT (-71.038048 42.375064),,0,1
+781,782,42.370212,-71.039445,minas brazil,123 Maverick St,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,1.0,1 to 9,East Boston,POINT (-71.039445 42.370212),,0,1
+782,783,42.371524,-71.038818,mi rancho restaurant,45 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,East Boston,POINT (-71.038818 42.371524),,0,1
+783,784,42.375412,-71.038176,mi rancho restaurant,30 Bennington St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038176 42.375412),,0,1
+784,785,42.375343,-71.037242,metro services,43 Bennington St,2128,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,1.0,1 to 9,East Boston,POINT (-71.037242 42.375343),,0,1
+785,786,42.376073,-71.036179,metro boston insurance,78 Bennington St,2128,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,East Boston,POINT (-71.036179 42.376073),,0,1
+786,787,42.373208,-71.038846,meridian wholesaler inc,121 Meridian St,2128,423920,Toy and Hobby Goods and Supplies Merchant Wholesalers,42,Wholesale Trade,8.0,1 to 9,East Boston,POINT (-71.038846 42.373208),,0,1
+787,788,42.372442,-71.039346,meridian rooms inc,100 Meridian St,2128,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,1.0,1 to 9,East Boston,POINT (-71.039346 42.372442),,0,1
+788,789,42.373208,-71.038846,meridian food market,121 Meridian St,2128,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,7.0,1 to 9,East Boston,POINT (-71.038846 42.373208),,0,1
+789,790,42.370585,-71.039207,meridian financial service inc,10 Meridian St,2128,523930,Investment Advice,52,Finance and Insurance,9.0,1 to 9,East Boston,POINT (-71.039207 42.370585),,0,1
+790,791,42.373855,-71.03886,meridian 155,155 Meridian St,2128,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,2.0,1 to 9,East Boston,POINT (-71.03886 42.373855),,0,1
+791,792,42.371636,-71.038778,meridain dr dental,55 Meridian St,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,East Boston,POINT (-71.038778 42.371636),,0,1
+792,793,42.374446,-71.04033,mcdonald's,178 Border St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,28.0,25 to 49,East Boston,POINT (-71.04033 42.374446),,0,1
+793,794,42.369918,-71.037917,maverick's,154 Maverick St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+794,795,42.369918,-71.037917,marva's place,154 Maverick St,2128,812112,Beauty Salons,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+795,796,42.375406,-71.040485,marshalls,200 Border St,2128,452210,Department Stores,45,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.040485 42.375406),,0,1
+796,797,42.369918,-71.037917,marquis design,154 Maverick St,2128,541430,Graphic Design Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+797,798,42.369725,-71.039606,market cafe,20 Maverick Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.039606 42.369725),,0,1
+798,799,42.371274,-71.039342,margarita tax services,50 Meridian St,2128,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,East Boston,POINT (-71.039342 42.371274),,0,1
+799,800,42.375787,-71.038919,manny cafe,237 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038919 42.375787),,0,1
+800,801,42.375827,-71.039563,madrag,221 Border St,2128,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.039563 42.375827),,0,1
+801,802,42.370028,-71.039292,m p & co tax & financial services inc,36 Maverick Sq,2128,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,East Boston,POINT (-71.039292 42.370028),,0,1
+802,803,42.373761,-71.039264,los primos barbershop,136 Meridian St,2128,812111,Barber Shops,81,Other Services,6.0,1 to 9,East Boston,POINT (-71.039264 42.373761),,0,1
+803,804,42.370547,-71.038747,los paisanos market llc,11 Meridian St,2128,445120,Convenience Stores,44,Retail Trade,1.0,1 to 9,East Boston,POINT (-71.038747 42.370547),,0,1
+804,805,42.370602,-71.038748,los arrieros,13 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,East Boston,POINT (-71.038748 42.370602),,0,1
+805,806,42.375372,-71.037183,lomba driving school,45 Bennington St,2128,611692,Automobile Driving Schools,61,Educational Services,3.0,1 to 9,East Boston,POINT (-71.037183 42.375372),,0,1
+806,807,42.375018,-71.038137,liquors,11 Bennington St,2128,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,East Boston,POINT (-71.038137 42.375018),,0,1
+807,808,42.372442,-71.039346,lilly's nails & waxing,100 Meridian St,2128,812113,Nail Salons,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.039346 42.372442),,0,1
+808,809,42.375406,-71.040485,liberty plaza realty,220 Border St,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,East Boston,POINT (-71.040485 42.375406),,0,1
+809,810,42.371274,-71.039342,liberia cristiana,50 Meridian St,2128,451211,Book Stores,45,Retail Trade,4.0,1 to 9,East Boston,POINT (-71.039342 42.371274),,0,1
+810,811,42.371524,-71.038818,ledan inc,45 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038818 42.371524),,0,1
+811,812,42.375018,-71.038137,leanmax nutrition center,15 Bennington St,2128,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,2.0,1 to 9,East Boston,POINT (-71.038137 42.375018),,0,1
+812,813,42.370683,-71.038741,law office of robert a constatino pc,19 Meridian St,2128,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,East Boston,POINT (-71.038741 42.370683),,0,1
+813,814,42.371274,-71.039342,law office of dr francisco navarro,50 Meridian St,2128,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,East Boston,POINT (-71.039342 42.371274),,0,1
+814,815,42.375025,-71.037933,laterrasa,19 Bennington St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,East Boston,POINT (-71.037933 42.375025),,0,1
+815,816,42.370116,-71.038011,las palmas market,13 Chelsea St,2128,452319,All Other General Merchandise Stores,45,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.038011 42.370116),,0,1
+816,817,42.368929,-71.039245,las americas travel,9 Maverick Sq,2128,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,East Boston,POINT (-71.039245 42.368929),,0,1
+817,818,42.374376,-71.038307,la tienda jeans,21 Porter St,2128,236220,Commercial and Institutional Building Construction,23,Construction,7.0,1 to 9,East Boston,POINT (-71.038307 42.374376),,0,1
+818,819,42.369955,-71.038046,la tia tobacco & misc,148 Maverick St,2128,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.038046 42.369955),,0,1
+819,820,42.369918,-71.037917,la tia smoke shop,154 Maverick St,2128,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+820,821,42.375025,-71.037933,la terraza bar restaurant,19 Bennington St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.037933 42.375025),,0,1
+821,822,42.3701,-71.039234,la sultana bakery,40 Maverick Sq,2128,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,East Boston,POINT (-71.039234 42.3701),,0,1
+822,823,42.3761,-71.036116,la reina cafeteria,80 Bennington St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,East Boston,POINT (-71.036116 42.3761),,0,1
+823,824,42.373989,-71.039263,la hacienda restaurant,150 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,12.0,10 to 24,East Boston,POINT (-71.039263 42.373989),,0,1
+824,825,42.375206,-71.037603,la guanaquita boutique,31 Bennington St,2128,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.037603 42.375206),,0,1
+825,826,42.374376,-71.038307,la guanaquita boutique,21 Porter St,2128,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.038307 42.374376),,0,1
+826,827,42.375171,-71.038599,la gran manzana,22 Central Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038599 42.375171),,0,1
+827,828,42.375824,-71.039345,la esperanza market,238 Meridian St,2128,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.039345 42.375824),,0,1
+828,829,42.37561,-71.03939,la comunidad tax service,38 Central Sq,2128,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,East Boston,POINT (-71.03939 42.37561),,0,1
+829,830,42.376309,-71.038934,la casa del pan de bono,271 Meridian St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.038934 42.376309),,0,1
+830,831,42.375492,-71.037913,la bendicion,32 Bennington St,2128,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.037913 42.375492),,0,1
+831,832,42.371777,-71.038696,la abundansia,59 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038696 42.371777),,0,1
+832,833,42.375325,-71.037314,karen market,41 Bennington St,2128,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,1.0,1 to 9,East Boston,POINT (-71.037314 42.375325),,0,1
+833,834,42.375325,-71.037314,karen food market,41 Bennington St,2128,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.037314 42.375325),,0,1
+834,835,42.375721,-71.040451,kappy's liquors,216 Border St,2128,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,12.0,10 to 24,East Boston,POINT (-71.040451 42.375721),,0,1
+835,836,42.375721,-71.040451,kappy's fine wine & spirits,216 Border St,2128,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,0.0,Not Available,East Boston,POINT (-71.040451 42.375721),,0,1
+836,837,42.375953,-71.036664,juan f esquivel electric,64 Bennington St,2128,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,4.0,1 to 9,East Boston,POINT (-71.036664 42.375953),,0,1
+837,838,42.375124,-71.038565,joyerias sofia y variedades,8 Bennington St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.038565 42.375124),,0,1
+838,839,42.375124,-71.038565,joyeria sofia inc,8 Bennington St,2128,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.038565 42.375124),,0,1
+839,840,42.370198,-71.038649,jak pizzeria,50 Maverick Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038649 42.370198),,0,1
+840,841,42.371017,-71.039424,italian american,60 Paris St,2128,813319,Other Social Advocacy Organizations,81,Other Services,5.0,1 to 9,East Boston,POINT (-71.039424 42.371017),,0,1
+841,842,42.370754,-71.039158,intergroup realty corp,18 Meridian St,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,East Boston,POINT (-71.039158 42.370754),,0,1
+842,843,42.370767,-71.038735,insurance-pro corp,25 Meridian St,2128,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,East Boston,POINT (-71.038735 42.370767),,0,1
+843,844,42.370767,-71.038735,infinity latin group inc,25 Meridian St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.038735 42.370767),,0,1
+844,845,42.370683,-71.038741,illusions unisex salon,17 Meridian St,2128,812112,Beauty Salons,81,Other Services,5.0,1 to 9,East Boston,POINT (-71.038741 42.370683),,0,1
+845,846,42.373388,-71.039339,iglesia del dios vivo la luz del mundo,130 London St,2128,813110,Religious Organizations,81,Other Services,2.0,1 to 9,East Boston,POINT (-71.039339 42.373388),,0,1
+846,847,42.375291,-71.038441,iglesia de dios pentecostal mi,12 Bennington St,2128,813110,Religious Organizations,81,Other Services,2.0,1 to 9,East Boston,POINT (-71.038441 42.375291),,0,1
+847,848,42.369918,-71.037917,hugisses gift boutique,154 Maverick St,2128,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+848,849,42.368882,-71.039283,hong kong harbor restaurant,5 Maverick Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,East Boston,POINT (-71.039283 42.368882),,0,1
+849,850,42.370754,-71.039158,"homebridge financial services, inc",20 Meridian St,2128,522292,Real Estate Credit,52,Finance and Insurance,7.0,1 to 9,East Boston,POINT (-71.039158 42.370754),,0,1
+850,851,42.36874,-71.03899,hispaniola,6 Bremen St,2128,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,East Boston,POINT (-71.03899 42.36874),,0,1
+851,852,42.375412,-71.038176,hf management,18 Bennington St,2128,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,4.0,1 to 9,East Boston,POINT (-71.038176 42.375412),,0,1
+852,853,42.374936,-71.038301,harborside mortgage corp,13 Bennington St,2128,522292,Real Estate Credit,52,Finance and Insurance,7.0,1 to 9,East Boston,POINT (-71.038301 42.374936),,0,1
+853,854,42.370311,-71.038598,hacienda realty,6 Chelsea St,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,East Boston,POINT (-71.038598 42.370311),,0,1
+854,855,42.375782,-71.037118,h & a remodeling,52 Bennington St,2128,323111,Commercial Printing (except Screen and Books),32,Manufacturing,3.0,1 to 9,East Boston,POINT (-71.037118 42.375782),,0,1
+855,856,42.374936,-71.038301,gonzalez & levin,13 Bennington St,2128,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,East Boston,POINT (-71.038301 42.374936),,0,1
+856,857,42.375499,-71.036891,golden fins imports,55 Bennington St,2128,453910,Pet and Pet Supplies Stores,45,Retail Trade,4.0,1 to 9,East Boston,POINT (-71.036891 42.375499),,0,1
+857,858,42.375782,-71.037118,globos y fiestas,52 Bennington St,2128,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,1.0,1 to 9,East Boston,POINT (-71.037118 42.375782),,0,1
+858,859,42.375827,-71.039563,global properties developers,225 Border St,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,East Boston,POINT (-71.039563 42.375827),,0,1
+859,860,42.375856,-71.039342,gamez multiservices,240 Meridian St,2128,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,East Boston,POINT (-71.039342 42.375856),,0,1
+860,861,42.375988,-71.036434,gaby teran beauty salon,72 Bennington St,2128,812112,Beauty Salons,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.036434 42.375988),,0,1
+861,862,42.369728,-71.038566,frankies cleaners,69 Maverick Sq,2128,448190,Other Clothing Stores,44,Retail Trade,4.0,1 to 9,East Boston,POINT (-71.038566 42.369728),,0,1
+862,863,42.375149,-71.037656,fotografia professional maduar,29 Bennington St,2128,926120,Regulation and Administration of Transportation Programs,92,Public Administration,0.0,Not Available,East Boston,POINT (-71.037656 42.375149),,0,1
+863,864,42.36874,-71.03899,flight strategy,6 Bremen St,2128,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,East Boston,POINT (-71.03899 42.36874),,0,1
+864,865,42.370242,-71.039514,first class salon,121 Maverick St,2128,812112,Beauty Salons,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.039514 42.370242),,0,1
+865,866,42.36977,-71.038416,fiesta nail inc,147 Maverick St,2128,812113,Nail Salons,81,Other Services,2.0,1 to 9,East Boston,POINT (-71.038416 42.36977),,0,1
+866,867,42.376163,-71.039488,fashion window shade co,270 Meridian St,2128,442299,All Other Home Furnishings Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.039488 42.376163),,0,1
+867,868,42.375325,-71.037314,farina co,41 Bennington St,2128,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,0.0,Not Available,East Boston,POINT (-71.037314 42.375325),,0,1
+868,869,42.375365,-71.038029,family dollar store,22 Bennington St,2128,452319,All Other General Merchandise Stores,45,Retail Trade,8.0,1 to 9,East Boston,POINT (-71.038029 42.375365),,0,1
+869,870,42.375499,-71.036891,faith travel inc,53 Bennington St,2128,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,East Boston,POINT (-71.036891 42.375499),,0,1
+870,871,42.370754,-71.039158,faith group,20 Meridian St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,11.0,10 to 24,East Boston,POINT (-71.039158 42.370754),,0,1
+871,872,42.373694,-71.039262,ez telecom,132 Meridian St,2128,517919,All Other Telecommunications,51,Information,3.0,1 to 9,East Boston,POINT (-71.039262 42.373694),,0,1
+872,873,42.375856,-71.039342,ez pawn & diamonds inc,240 Meridian St,2128,448310,Jewelry Stores,44,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.039342 42.375856),,0,1
+873,874,42.375111,-71.037736,expressions instyle salon,25 Bennington St,2128,812112,Beauty Salons,81,Other Services,5.0,1 to 9,East Boston,POINT (-71.037736 42.375111),,0,1
+874,875,42.375406,-71.040485,expressions,220 Border St,2128,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.040485 42.375406),,0,1
+875,876,42.370198,-71.038649,etax professional accounting,50 Maverick Sq,2128,541219,Other Accounting Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,East Boston,POINT (-71.038649 42.370198),,0,1
+876,877,42.372741,-71.039279,espinoza raymundo,102 Meridian St,2128,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,1.0,1 to 9,East Boston,POINT (-71.039279 42.372741),,0,1
+877,878,42.375782,-71.037118,el penllo arriba peru,54 Bennington St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,East Boston,POINT (-71.037118 42.375782),,0,1
+878,879,42.37196,-71.038799,el diamante,73 Meridian St,2128,611620,Sports and Recreation Instruction,61,Educational Services,5.0,1 to 9,East Boston,POINT (-71.038799 42.37196),,0,1
+879,880,42.37422,-71.0396,education for all inc,68 Central Sq,2128,611710,Educational Support Services,61,Educational Services,7.0,1 to 9,East Boston,POINT (-71.0396 42.37422),,0,1
+880,881,42.369953,-71.039352,eddie c's,34 Maverick Sq,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.039352 42.369953),,0,1
+881,882,42.369725,-71.039606,eaton apothecary,20 Maverick Sq,2128,446110,Pharmacies and Drug Stores,44,Retail Trade,25.0,25 to 49,East Boston,POINT (-71.039606 42.369725),,0,1
+882,883,42.36874,-71.03899,easy realty group,6 Bremen St,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,East Boston,POINT (-71.03899 42.36874),,0,1
+883,884,42.37605,-71.036243,eastie smoke shop,76 Bennington St,2128,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.036243 42.37605),,0,1
+884,885,42.370683,-71.038741,eastboston.com,21 Meridian St,2128,541890,Other Services Related to Advertising,54,"Professional, Scientific, and Technical Services",19.0,10 to 24,East Boston,POINT (-71.038741 42.370683),,0,1
+885,886,42.375637,-71.036535,east coast variety,67 Bennington St,2128,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.036535 42.375637),,0,1
+886,887,42.375984,-71.038968,east boston wireless,247 Meridian St,2128,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,East Boston,POINT (-71.038968 42.375984),,0,1
+887,888,42.369274,-71.039787,east boston tunnel taxi,10 Maverick Sq,2128,485310,Taxi Service,48,Transportation and Warehosuing,20.0,10 to 24,East Boston,POINT (-71.039787 42.369274),,0,1
+888,889,42.374323,-71.039456,east boston social center,68 Central Sq,2128,813319,Other Social Advocacy Organizations,81,Other Services,50.0,50 to 99,East Boston,POINT (-71.039456 42.374323),,0,1
+889,890,42.371562,-71.039281,east boston shell,52 Meridian St,2128,447190,Other Gasoline Stations,44,Retail Trade,5.0,1 to 9,East Boston,POINT (-71.039281 42.371562),,0,1
+890,891,42.370585,-71.039207,east boston savings bank,10 Meridian St,2128,522110,Commercial Banking,52,Finance and Insurance,60.0,50 to 99,East Boston,POINT (-71.039207 42.370585),,0,1
+891,892,42.374869,-71.038532,east boston savings bank,1 Bennington St,2128,522110,Commercial Banking,52,Finance and Insurance,10.0,10 to 24,East Boston,POINT (-71.038532 42.374869),,0,1
+892,893,42.371636,-71.038778,east boston post mail plus inc,53 Meridian St,2128,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,East Boston,POINT (-71.038778 42.371636),,0,1
+893,894,42.371777,-71.038696,east boston neighborhood health,59 Meridian St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,23.0,10 to 24,East Boston,POINT (-71.038696 42.371777),,0,1
+894,895,42.369918,-71.037917,east boston main streets,154 Maverick St,2128,485310,Taxi Service,48,Transportation and Warehosuing,2.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+895,896,42.371048,-71.038669,east boston judiciary courts,37 Meridian St,2128,522110,Commercial Banking,52,Finance and Insurance,50.0,50 to 99,East Boston,POINT (-71.038669 42.371048),,0,1
+896,897,42.376309,-71.038934,east boston house of pizza,271 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,East Boston,POINT (-71.038934 42.376309),,0,1
+897,898,42.37203,-71.038808,east boston farm stand,75 Meridian St,2128,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,East Boston,POINT (-71.038808 42.37203),,0,1
+898,899,42.372155,-71.038812,east boston family dental,79 Meridian St,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,3.0,1 to 9,East Boston,POINT (-71.038812 42.372155),,0,1
+899,900,42.371274,-71.039342,east boston ecumenical cmnty,282 Meridian St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,East Boston,POINT (-71.039342 42.371274),,0,1
+900,901,42.371048,-71.038669,east boston district court,37 Meridian St,2128,921120,Legislative Bodies,92,Public Administration,50.0,50 to 99,East Boston,POINT (-71.038669 42.371048),,0,1
+901,902,42.370264,-71.038926,east boston dental associates,3 Meridian St,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,12.0,10 to 24,East Boston,POINT (-71.038926 42.370264),,0,1
+902,903,42.375291,-71.038441,east boston dental & orthodontics pc,10 Bennington St,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,East Boston,POINT (-71.038441 42.375291),,0,1
+903,904,42.374746,-71.038271,east boston counseling center,14 Porter St,2128,622210,Psychiatric and Substance Abuse Hospitals,62,Healthcare and Social Assistance,20.0,10 to 24,East Boston,POINT (-71.038271 42.374746),,0,1
+904,905,42.373208,-71.038846,east boston chiropractic,125 Meridian St,2128,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,2.0,1 to 9,East Boston,POINT (-71.038846 42.373208),,0,1
+905,906,42.372818,-71.039268,east boston center,104 Meridian St,2128,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,East Boston,POINT (-71.039268 42.372818),,0,1
+906,907,42.370683,-71.038741,east boston area planning action council,21 Meridian St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,East Boston,POINT (-71.038741 42.370683),,0,1
+907,908,42.36874,-71.03899,e & c construction inc,6 Bremen St,2128,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,0.0,Not Available,East Boston,POINT (-71.03899 42.36874),,0,1
+908,909,42.37545,-71.038749,dunkin',34 Central Sq,2128,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,12.0,10 to 24,East Boston,POINT (-71.038749 42.37545),,0,1
+909,910,42.37526,-71.037399,dtl inc,37 Bennington St,2128,611420,Computer Training,61,Educational Services,9.0,1 to 9,East Boston,POINT (-71.037399 42.37526),,0,1
+910,911,42.37561,-71.03939,dreamcatcher investment group,38 Central Sq,2128,523910,Miscellaneous Intermediation,52,Finance and Insurance,2.0,1 to 9,East Boston,POINT (-71.03939 42.37561),,0,1
+911,912,42.371636,-71.038778,dr dental,55 Meridian St,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,11.0,10 to 24,East Boston,POINT (-71.038778 42.371636),,0,1
+912,913,42.369348,-71.040324,dparma restaurant,182 Sumner St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,East Boston,POINT (-71.040324 42.369348),,0,1
+913,914,42.370754,-71.039158,downing insurance agency inc,20 Meridian St,2128,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,East Boston,POINT (-71.039158 42.370754),,0,1
+914,915,42.376095,-71.039337,dorman consulting group,250 Meridian St,2128,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,East Boston,POINT (-71.039337 42.376095),,0,1
+915,916,42.370221,-71.038709,doris travel & tours,46 Maverick Sq,2128,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,East Boston,POINT (-71.038709 42.370221),,0,1
+916,917,42.373325,-71.038701,donna calsimitto fabrics,123 London St,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,East Boston,POINT (-71.038701 42.373325),,0,1
+917,918,42.375592,-71.036612,djoel barbershop,61 Bennington St,2128,812111,Barber Shops,81,Other Services,2.0,1 to 9,East Boston,POINT (-71.036612 42.375592),,0,1
+918,919,42.369918,-71.037917,didi's spa,154 Maverick St,2128,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",7.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+919,920,42.369357,-71.038862,dental,45 Maverick Sq,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,East Boston,POINT (-71.038862 42.369357),,0,1
+920,921,42.375018,-71.038137,david r oriola management,11 Bennington St,2128,711190,Other Performing Arts Companies,71,"Arts, Entertainment, and Recreation",1.0,1 to 9,East Boston,POINT (-71.038137 42.375018),,0,1
+921,922,42.369918,-71.037917,davenport mckesson,154 Maverick St,2128,541820,Public Relations Agencies,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+922,923,42.371636,-71.038778,d a trucking corp,53 Meridian St,2128,484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance",48,Transportation and Warehosuing,7.0,1 to 9,East Boston,POINT (-71.038778 42.371636),,0,1
+923,924,42.375446,-71.040644,cvs pharmacy,210 Border St,2128,446110,Pharmacies and Drug Stores,44,Retail Trade,12.0,10 to 24,East Boston,POINT (-71.040644 42.375446),,0,1
+924,925,42.375018,-71.038137,cricket wireless authorized retailer,15 Bennington St,2128,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,4.0,1 to 9,East Boston,POINT (-71.038137 42.375018),,0,1
+925,926,42.37023,-71.038709,crg central realty group,48 Maverick Sq,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,East Boston,POINT (-71.038709 42.37023),,0,1
+926,927,42.373853,-71.039306,costello & figueroa attorneys at law pc,142 Meridian St,2128,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,East Boston,POINT (-71.039306 42.373853),,0,1
+927,928,42.369918,-71.037917,cosmos fashion,154 Maverick St,2128,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.037917 42.369918),,0,1
+928,929,42.375018,-71.038137,corporate cleaning service llc,11 Bennington St,2128,0,,99,Undefined,10.0,10 to 24,East Boston,POINT (-71.038137 42.375018),,0,1
+929,930,42.375716,-71.039245,continental exchange solutions,232 Meridian St,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,4.0,1 to 9,East Boston,POINT (-71.039245 42.375716),,0,1
+930,931,42.375676,-71.037415,consulate general-el salvador,46 Bennington St,2128,928120,International Affairs,92,Public Administration,7.0,1 to 9,East Boston,POINT (-71.037415 42.375676),,0,1
+931,932,42.374064,-71.039237,comunidad de dios inc,154 Meridian St,2128,813110,Religious Organizations,81,Other Services,2.0,1 to 9,East Boston,POINT (-71.039237 42.374064),,0,1
+932,933,42.375206,-71.037603,club de los amigos,31 Bennington St,2128,813410,Civic and Social Organizations,81,Other Services,5.0,1 to 9,East Boston,POINT (-71.037603 42.375206),,0,1
+933,934,42.369054,-71.039103,clipper ship wine & spirits,17 Maverick Sq,2128,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,East Boston,POINT (-71.039103 42.369054),,0,1
+934,935,42.371773,-71.038544,cleanslate outpatient addiction medicine,82 Paris St,2128,622110,General Medical and Surgical Hospitals,62,Healthcare and Social Assistance,30.0,25 to 49,East Boston,POINT (-71.038544 42.371773),,0,1
+935,936,42.375034,-71.038787,citizens bank,26 Central Sq,2128,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,East Boston,POINT (-71.038787 42.375034),,0,1
+936,937,42.371636,-71.038778,chino roofing co,53 Meridian St,2128,238160,Roofing Contractors,23,Construction,5.0,1 to 9,East Boston,POINT (-71.038778 42.371636),,0,1
+937,938,42.375291,-71.038441,centro presente inc,12 Bennington St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,15.0,10 to 24,East Boston,POINT (-71.038441 42.375291),,0,1
+938,939,42.37561,-71.03939,central square smiles,38 Central Sq,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,10.0,10 to 24,East Boston,POINT (-71.03939 42.37561),,0,1
+939,940,42.375594,-71.039554,central square medical center inc,40 Central Sq,2128,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,East Boston,POINT (-71.039554 42.375594),,0,1
+940,941,42.374572,-71.038568,central square limo,11 Porter St,2128,485320,Limousine Service,48,Transportation and Warehosuing,1.0,1 to 9,East Boston,POINT (-71.038568 42.374572),,0,1
+941,942,42.37564,-71.039347,central square check cashing,230 Meridian St,2128,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,East Boston,POINT (-71.039347 42.37564),,0,1
+942,943,42.375943,-71.038741,central park lanes,10 Saratoga St,2128,713950,Bowling Centers,71,"Arts, Entertainment, and Recreation",2.0,1 to 9,East Boston,POINT (-71.038741 42.375943),,0,1
+943,944,42.375715,-71.037282,central assembly of god,50 Bennington St,2128,813110,Religious Organizations,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.037282 42.375715),,0,1
+944,945,42.37564,-71.039347,castillo liquors inc,228 Meridian St,2128,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.039347 42.37564),,0,1
+945,946,42.371636,-71.038778,casas home realty,57 Meridian St,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,East Boston,POINT (-71.038778 42.371636),,0,1
+946,947,42.375676,-71.037415,casa el salvador,46 Bennington St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,East Boston,POINT (-71.037415 42.375676),,0,1
+947,948,42.370754,-71.039158,carlos len style,20 Meridian St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.039158 42.370754),,0,1
+948,949,42.373989,-71.039263,"callejas, inc",150 Meridian St,2128,511210,Software Publishers,51,Information,10.0,10 to 24,East Boston,POINT (-71.039263 42.373989),,0,1
+949,950,42.370116,-71.038011,call me gps,13 Chelsea St,2128,441310,Automotive Parts and Accessories Stores,44,Retail Trade,5.0,1 to 9,East Boston,POINT (-71.038011 42.370116),,0,1
+950,951,42.372741,-71.039279,cafe gigu,102 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,East Boston,POINT (-71.039279 42.372741),,0,1
+951,952,42.372741,-71.039279,cadavid ii corp,102 Meridian St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.039279 42.372741),,0,1
+952,953,42.37015,-71.039194,cactus grill,44 Maverick Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,East Boston,POINT (-71.039194 42.37015),,0,1
+953,954,42.374491,-71.038838,cache beauty center,12 Central Sq,2128,812112,Beauty Salons,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.038838 42.374491),,0,1
+954,955,42.370683,-71.038741,c b unlimited community service corp,19 Meridian St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,8.0,1 to 9,East Boston,POINT (-71.038741 42.370683),,0,1
+955,956,42.37044,-71.038747,byn graphics,7 Meridian St,2128,541430,Graphic Design Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,East Boston,POINT (-71.038747 42.37044),,0,1
+956,957,42.368834,-71.03932,burger king,1 Maverick Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,25.0,25 to 49,East Boston,POINT (-71.03932 42.368834),,0,1
+957,958,42.370273,-71.039587,burbujas laundry,115 Maverick St,2128,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,East Boston,POINT (-71.039587 42.370273),,0,1
+958,959,42.370116,-71.038011,brother united inc,13 Chelsea St,2128,517311,Wired Telecommunications Carriers,51,Information,4.0,1 to 9,East Boston,POINT (-71.038011 42.370116),,0,1
+959,960,42.36923,-71.03901,brasil brazil,31 Maverick Sq,2128,423990,Other Miscellaneous Durable Goods Merchant Wholesalers,42,Wholesale Trade,2.0,1 to 9,East Boston,POINT (-71.03901 42.36923),,0,1
+960,961,42.375782,-71.037118,box express nj lic,52 Bennington St,2128,492110,Couriers and Express Delivery Services,49,Transportation and Warehosuing,8.0,1 to 9,East Boston,POINT (-71.037118 42.375782),,0,1
+961,962,42.371274,-71.039342,boston therapy,50 Meridian St,2128,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,6.0,1 to 9,East Boston,POINT (-71.039342 42.371274),,0,1
+962,963,42.37044,-71.038747,boston photo studio,7 Meridian St,2128,541922,Commercial Photography,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,East Boston,POINT (-71.038747 42.37044),,0,1
+963,964,42.371048,-71.038669,boston municipal court-east boston division,37 Meridian St,2128,922110,Courts,92,Public Administration,3.0,1 to 9,East Boston,POINT (-71.038669 42.371048),,0,1
+964,965,42.369293,-71.040196,boston harbor real estate,188 Sumner St,2128,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,East Boston,POINT (-71.040196 42.369293),,0,1
+965,966,42.368978,-71.039209,boston checkcashers inc,19 Maverick Sq,2128,485999,All Other Transit and Ground Passenger Transportation,48,Transportation and Warehosuing,1.0,1 to 9,East Boston,POINT (-71.039209 42.368978),,0,1
+966,967,42.375149,-71.037656,boston car keys,29 Bennington St,2128,561622,Locksmiths,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,East Boston,POINT (-71.037656 42.375149),,0,1
+967,968,42.370221,-71.038709,bois international travel,46 Maverick Sq,2128,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,East Boston,POINT (-71.038709 42.370221),,0,1
+968,969,42.375436,-71.037837,billiards colombia,28 Bennington St,2128,423910,Sporting and Recreational Goods and Supplies Merchant Wholesalers,42,Wholesale Trade,4.0,1 to 9,East Boston,POINT (-71.037837 42.375436),,0,1
+969,970,42.375206,-71.037603,bienestar,31 Bennington St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.037603 42.375206),,0,1
+970,971,42.376084,-71.038864,berkshire roots dispensary,,2128,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,4.0,1 to 9,East Boston,POINT (-71.038864 42.376084),,0,1
+971,972,42.376138,-71.038881,beautique salon & beauty supply,255 Meridian St,2128,812112,Beauty Salons,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.038881 42.376138),,0,1
+972,973,42.376071,-71.039324,beacon hill athletic club,252 Meridian St,2128,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",8.0,1 to 9,East Boston,POINT (-71.039324 42.376071),,0,1
+973,974,42.376141,-71.039325,bay state records,262 Meridian St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.039325 42.376141),,0,1
+974,975,42.36923,-71.03901,barcelos tax & financial service,31 Maverick Sq,2128,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,East Boston,POINT (-71.03901 42.36923),,0,1
+975,976,42.369918,-71.037917,babbling brook family tutoring,154 Maverick St,2128,611691,Exam Preparation and Tutoring,61,Educational Services,11.0,10 to 24,East Boston,POINT (-71.037917 42.369918),,0,1
+976,977,42.375492,-71.037913,b m krupa corporation,32 Bennington St,2128,339999,All Other Miscellaneous Manufacturing,33,Manufacturing,17.0,10 to 24,East Boston,POINT (-71.037913 42.375492),,0,1
+977,978,42.370754,-71.039158,axl cycle studio,20 Meridian St,2128,441228,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.039158 42.370754),,0,1
+978,979,42.375406,-71.040485,autozone,184 Border St,2128,441310,Automotive Parts and Accessories Stores,44,Retail Trade,10.0,10 to 24,East Boston,POINT (-71.040485 42.375406),,0,1
+979,980,42.375291,-71.038441,assembley of god east boston,12 Bennington St,2128,813110,Religious Organizations,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.038441 42.375291),,0,1
+980,981,42.374064,-71.039237,aries communications,154 Meridian St,2128,517919,All Other Telecommunications,51,Information,2.0,1 to 9,East Boston,POINT (-71.039237 42.374064),,0,1
+981,982,42.375412,-71.038176,arguetas corp,30 Bennington St,2128,0,,99,Undefined,0.0,Not Available,East Boston,POINT (-71.038176 42.375412),,0,1
+982,983,42.370683,-71.038741,apac,21 Meridian St,2128,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,5.0,1 to 9,East Boston,POINT (-71.038741 42.370683),,0,1
+983,984,42.376327,-71.039642,ap dental & laser center,231 Border St,2128,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,East Boston,POINT (-71.039642 42.376327),,0,1
+984,985,42.37526,-71.037399,ag bella beauty salon,37 Bennington St,2128,812112,Beauty Salons,81,Other Services,3.0,1 to 9,East Boston,POINT (-71.037399 42.37526),,0,1
+985,986,42.369232,-71.039166,aeroservicio express inc,35 Maverick Sq,2128,813410,Civic and Social Organizations,81,Other Services,8.0,1 to 9,East Boston,POINT (-71.039166 42.369232),,0,1
+986,987,42.371048,-71.038669,adult probation department,37 Meridian St,2128,921120,Legislative Bodies,92,Public Administration,18.0,10 to 24,East Boston,POINT (-71.038669 42.371048),,0,1
+987,988,42.374936,-71.038301,accounting & tax practices,13 Bennington St,2128,541219,Other Accounting Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,East Boston,POINT (-71.038301 42.374936),,0,1
+988,989,42.37422,-71.0396,abcd east boston head start,68 Central Sq,2128,624410,Child Day Care Services,62,Healthcare and Social Assistance,2.0,1 to 9,East Boston,POINT (-71.0396 42.37422),,0,1
+989,990,42.370683,-71.038741,abcd,21 Meridian St,2128,813319,Other Social Advocacy Organizations,81,Other Services,0.0,Not Available,East Boston,POINT (-71.038741 42.370683),,0,1
+990,991,42.368775,-71.039113,"a-affordable insurance agency, inc",222 Sumner St,2128,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,East Boston,POINT (-71.039113 42.368775),,0,1
+991,992,42.375149,-71.037656,a & e hardware,29 Bennington St,2128,444130,Hardware Stores,44,Retail Trade,3.0,1 to 9,East Boston,POINT (-71.037656 42.375149),,0,1
+992,993,42.375984,-71.036583,99 cent center,66 Bennington St,2128,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.036583 42.375984),,0,1
+993,994,42.369381,-71.039824,7-eleven,14 Maverick Sq,2128,445120,Convenience Stores,44,Retail Trade,7.0,1 to 9,East Boston,POINT (-71.039824 42.369381),,0,1
+994,995,42.370491,-71.038746,1a carniceria y legumbreria,9 Meridian St,2128,445210,Meat Markets,44,Retail Trade,4.0,1 to 9,East Boston,POINT (-71.038746 42.370491),,0,1
+995,996,42.37545,-71.038749,taqueria monte cristo,36 Central Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,East Boston,POINT (-71.038749 42.37545),,0,1
+996,997,42.375923,-71.039345,tacomania restaurant,244 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,East Boston,POINT (-71.039345 42.375923),,0,1
+997,998,42.374491,-71.038838,sweet boba,9 Central Sq,2128,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,East Boston,POINT (-71.038838 42.374491),,0,1
+998,999,42.375573,-71.038836,restaurante montecristo,35 Central Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038836 42.375573),,0,1
+999,1000,42.376122,-71.036049,los pinos medican restaurant,82 Bennington St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,East Boston,POINT (-71.036049 42.376122),,0,1
+1000,1001,42.371777,-71.038696,laavuneansia restaurant,59 Meridian St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.038696 42.371777),,0,1
+1001,1002,42.373727,-71.038877,ispanoamericana market,153 Meridian St,2128,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,East Boston,POINT (-71.038877 42.373727),,0,1
+1002,1003,42.375782,-71.037118,el penol,54 Bennington St,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.037118 42.375782),,0,1
+1003,1004,42.37461,-71.03871,el jardin,15 Central Sq,2128,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,East Boston,POINT (-71.03871 42.37461),,0,1
