@@ -2,15 +2,11 @@
 ## Team Members:
 * Xiaojie Li
 * Simon Cen
-* Reshaub Chhabra
+* Reshab Chhabra
 * Dave Godfrey
 
 ## Topic
-Our topic is focusing on analyzing the popularity of small businesses in District 4 compared to the other districts
+Our topic is focusing on analyzing the foot traffic, spending rate, and other predictors to determine what Boston's District 4 can do to improve on attracting small businesses and compared this idea to other districts.
 
-## Points of Interest:
-* spending in district 4 vs. other districts
-* foot traffic in istrict 4 vs. other districts
-* makeup of the businesses within district 4 compared to other districts (eg: the top districts by foot traffic has a lot more restaurants than district 4, so maybe district 4 needs more restaurants)
-* effect of entertainmnet/other licenses on district 4's businesses, (Eg. top districts by foot traffic have more entertainment licenses compared to district 4)
-* employment proportions in district 4 compared to other districts
+## Organization
+We've organized each assignment --- `Deliverable 0`, `Deliverable 1`, `Deliverable 2`, `Deliverable 3`, `Deliverale 4`, `Deliverable 5`, `Final Report` --- into folders for legibility. We've also organized all of our datasets into the `datasets` folder.
