@@ -1,0 +1,256 @@
+latitude,longitude,business_name,street_address,zip,NAICS_2017_6digit_code,NAICS_2017_6digit_desc,NAICS_2017_2digit_code,NAICS_2017_2digit_desc,estimated_employment,employment_buckets,mainstreet,geometry,district,index_right,DISTRICT
+42.333447,-71.105691,y tea house corp,754 Huntington Ave,2115,445230,Fruit and Vegetable Markets,44,Retail Trade,2.0,1 to 9,Mission Hill,POINT (-71.105691 42.333447),,3,8
+42.333908,-71.109673,wwj jr inc,25 Mission Park Dr,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.109673 42.333908),,3,8
+42.33617,-71.107132,women's & perinatal pathology,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333651,-71.103737,western union agent location,1630 Tremont St,2120,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,Mission Hill,POINT (-71.103737 42.333651),,3,8
+42.334142,-71.104168,western union agent location,722 Huntington Ave,2115,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,Mission Hill,POINT (-71.104168 42.334142),,3,8
+42.334908,-71.103841,warren anatomical museum,10 Shattuck St,2115,712110,Museums,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Mission Hill,POINT (-71.103841 42.334908),,3,8
+42.333651,-71.103737,walgreens,1630 Tremont St,2120,446110,Pharmacies and Drug Stores,44,Retail Trade,20.0,10 to 24,Mission Hill,POINT (-71.103737 42.333651),,3,8
+42.333447,-71.105691,vyntage sound,754 Huntington Ave,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.105691 42.333447),,3,8
+42.337074,-71.10408,veritas forum,260 Longwood Ave,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.10408 42.337074),,3,8
+42.334406,-71.10544,vera home improvement llc,10 Francis St,2115,236118,Residential Remodelers,23,Construction,3.0,1 to 9,Mission Hill,POINT (-71.10544 42.334406),,3,8
+42.33617,-71.107132,"venkatachalam, veena",75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,3.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333206,-71.101944,usps,1575 Tremont St,2120,491110,Postal Service,49,Transportation and Warehosuing,4.0,1 to 9,Mission Hill,POINT (-71.101944 42.333206),,3,8
+42.33617,-71.107132,urology consultants-the north,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,28.0,25 to 49,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.335159,-71.103207,uptodate inc,677 Huntington Ave,2115,511210,Software Publishers,51,Information,10.0,10 to 24,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.33617,-71.107132,university of pittsburgh medical,75 Francis St,2115,622110,General Medical and Surgical Hospitals,62,Healthcare and Social Assistance,13.0,10 to 24,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.335678,-71.10424,udn,25 Shattuck St,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.10424 42.335678),,3,8
+42.333385,-71.103052,tremont house of pizza,1590 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Mission Hill,POINT (-71.103052 42.333385),,3,8
+42.332113,-71.099582,tremont corp,1508 Tremont St,2120,722310,Food Service Contractors,72,Accommodation and Food Services,45.0,25 to 49,Mission Hill,POINT (-71.099582 42.332113),,3,8
+42.332076,-71.097896,tremont & sason llc,1467 Tremont St,2120,238990,All Other Specialty Trade Contractors,23,Construction,0.0,Not Available,Mission Hill,POINT (-71.097896 42.332076),,3,8
+42.332476,-71.09819,tobin community center,1481 Tremont St,2120,624110,Child and Youth Services,62,Healthcare and Social Assistance,9.0,1 to 9,Mission Hill,POINT (-71.09819 42.332476),,3,8
+42.333089,-71.107474,tka architects,800 Huntington Ave,2115,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Mission Hill,POINT (-71.107474 42.333089),,3,8
+42.330852,-71.096326,thompson auto shop,30 Terrace St,2120,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Mission Hill,POINT (-71.096326 42.330852),,3,8
+42.333796,-71.104563,tgi friday's,1626 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,90.0,50 to 99,Mission Hill,POINT (-71.104563 42.333796),,3,8
+42.331772,-71.098679,tavern of tales,1478 Tremont St,2120,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,25.0,25 to 49,Mission Hill,POINT (-71.098679 42.331772),,3,8
+42.332901,-71.101708,sushi today,1562 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Mission Hill,POINT (-71.101708 42.332901),,3,8
+42.331578,-71.097599,sunny laundromat,1458 Tremont St,2120,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,1.0,1 to 9,Mission Hill,POINT (-71.097599 42.331578),,3,8
+42.333423,-71.103179,sully's barber,1596 Tremont St,2120,812111,Barber Shops,81,Other Services,2.0,1 to 9,Mission Hill,POINT (-71.103179 42.333423),,3,8
+42.333216,-71.102571,subway,1578 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Mission Hill,POINT (-71.102571 42.333216),,3,8
+42.333569,-71.104126,stop & shop supermarket,1620 Tremont St,2120,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,90.0,50 to 99,Mission Hill,POINT (-71.104126 42.333569),,3,8
+42.333569,-71.104126,stop & shop florist,1620 Tremont St,2120,453110,Florists,45,Retail Trade,3.0,1 to 9,Mission Hill,POINT (-71.104126 42.333569),,3,8
+42.332409,-71.111774,star realty group,895 Huntington Ave,2115,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,0.0,Not Available,Mission Hill,POINT (-71.111774 42.332409),,3,8
+42.334604,-71.10298,stanhope garage,690 Huntington Ave,2115,812930,Parking Lots and Garages,81,Other Services,2.0,1 to 9,Mission Hill,POINT (-71.10298 42.334604),,3,8
+42.336491,-71.102478,standard parking,200 Longwood Ave,2115,812930,Parking Lots and Garages,81,Other Services,10.0,10 to 24,Mission Hill,POINT (-71.102478 42.336491),,3,8
+42.332858,-71.101591,spinney insurance agency,1560 Tremont St,2120,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,2.0,1 to 9,Mission Hill,POINT (-71.101591 42.332858),,3,8
+42.330473,-71.097454,spanish church of god,738 Parker St,2120,813110,Religious Organizations,81,Other Services,1.0,1 to 9,Mission Hill,POINT (-71.097454 42.330473),,3,8
+42.33374,-71.105232,solid ground cafe,742 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.105232 42.33374),,3,8
+42.333092,-71.108899,sofia's alteration & cleaners,824 Huntington Ave,2115,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,1.0,1 to 9,Mission Hill,POINT (-71.108899 42.333092),,3,8
+42.332325,-71.100261,sociedad latina inc,1530 Tremont St,2120,561311,Employment Placement Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",13.0,10 to 24,Mission Hill,POINT (-71.100261 42.332325),,3,8
+42.333288,-71.106218,shp management corp,768 Huntington Ave,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.106218 42.333288),,3,8
+42.333508,-71.103476,shell,1600 Tremont St,2120,447190,Other Gasoline Stations,44,Retail Trade,6.0,1 to 9,Mission Hill,POINT (-71.103476 42.333508),,3,8
+42.33617,-71.107132,shahram khoshbin md,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,10.0,10 to 24,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.33348,-71.10171,seic inc,1575 Tremont St,2120,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Mission Hill,POINT (-71.10171 42.33348),,3,8
+42.335678,-71.10424,secondary field,25 Shattuck St,2115,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",71,"Arts, Entertainment, and Recreation",10.0,10 to 24,Mission Hill,POINT (-71.10424 42.335678),,3,8
+42.3336,-71.1055,schoon venture corp,738 Huntington Ave,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.1055 42.3336),,3,8
+42.33617,-71.107132,ruth g passow surgery,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.335052,-71.109329,rth mission park realty corp,11 New Whitney St,2115,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.109329 42.335052),,3,8
+42.334255,-71.109116,rth mission park inc,2 New Whitney St,2115,712190,Nature Parks and Other Similar Institutions,71,"Arts, Entertainment, and Recreation",13.0,10 to 24,Mission Hill,POINT (-71.109116 42.334255),,3,8
+42.333894,-71.105502,rth community housing,1 Fenwood Rd,2115,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,2.0,1 to 9,Mission Hill,POINT (-71.105502 42.333894),,3,8
+42.335052,-71.109329,rth community center realty inc,11 New Whitney St,2115,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.109329 42.335052),,3,8
+42.330473,-71.097454,roxbury-parker saint church of god,738 Parker St,2120,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Mission Hill,POINT (-71.097454 42.330473),,3,8
+42.335052,-71.109329,roxbury tenants of harvard,11 New Whitney St,2115,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,5.0,1 to 9,Mission Hill,POINT (-71.109329 42.335052),,3,8
+42.335907,-71.103455,romantique plaza llc,220 Longwood Ave,2115,531120,Lessors of Nonresidential Buildings (except Miniwarehouses),53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.103455 42.335907),,3,8
+42.335052,-71.109329,restoration housing,11 New Whitney St,2115,236118,Residential Remodelers,23,Construction,3.0,1 to 9,Mission Hill,POINT (-71.109329 42.335052),,3,8
+42.33617,-71.107132,reproductive endocrinology,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,22.0,10 to 24,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333206,-71.101944,renewal house,1575 Tremont St,2120,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Mission Hill,POINT (-71.101944 42.333206),,3,8
+42.333182,-71.102476,punjab mini mart inc,1576 Tremont St,2120,445120,Convenience Stores,44,Retail Trade,1.0,1 to 9,Mission Hill,POINT (-71.102476 42.333182),,3,8
+42.333414,-71.103179,pudding stone tavern,1592 Tremont St,2120,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.103179 42.333414),,3,8
+42.335691,-71.101802,program on international health-human,665 Huntington Ave,2115,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,9.0,1 to 9,Mission Hill,POINT (-71.101802 42.335691),,3,8
+42.33617,-71.107132,print house,75 Francis St,2115,323111,Commercial Printing (except Screen and Books),32,Manufacturing,2.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.33243,-71.100533,president & fellows,1542 Tremont St,2120,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,7.0,1 to 9,Mission Hill,POINT (-71.100533 42.33243),,3,8
+42.33482,-71.10232,premier boston realty,144 Smith St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.10232 42.33482),,3,8
+42.335142,-71.100581,powermix music productions,650 Huntington Ave,2115,451140,Musical Instrument and Supplies Stores,45,Retail Trade,3.0,1 to 9,Mission Hill,POINT (-71.100581 42.335142),,3,8
+42.33215,-71.09971,plexus properties,1518 Tremont St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.09971 42.33215),,3,8
+42.33617,-71.107132,phyllis jen center for primary care,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,180.0,100+,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.336124,-71.107483,performing arts occupational,45 Francis St,2115,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,1.0,1 to 9,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.334117,-71.105319,penguin pizza,735 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Mission Hill,POINT (-71.105319 42.334117),,3,8
+42.33617,-71.107132,pathology department,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,5.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333569,-71.104126,pathology administration,1620 Tremont St,2120,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,10.0,10 to 24,Mission Hill,POINT (-71.104126 42.333569),,3,8
+42.335653,-71.10609,pat's place,15 Francis St,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Mission Hill,POINT (-71.10609 42.335653),,3,8
+42.335691,-71.101802,partners medical international inc,665 Huntington Ave,2115,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Mission Hill,POINT (-71.101802 42.335691),,3,8
+42.335653,-71.10609,partners healthcare system inc,15 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,25.0,25 to 49,Mission Hill,POINT (-71.10609 42.335653),,3,8
+42.336124,-71.107483,partners healthcare system inc,45 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,30.0,25 to 49,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.33617,-71.107132,partners healthcare system inc,75 Francis St,2115,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333853,-71.103971,partners healthcare system inc,1620 Tremont St,2120,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,23.0,10 to 24,Mission Hill,POINT (-71.103971 42.333853),,3,8
+42.332025,-71.097807,parker hill public library,1497 Tremont St,2120,519120,Libraries and Archives,51,Information,4.0,1 to 9,Mission Hill,POINT (-71.097807 42.332025),,3,8
+42.334825,-71.102384,papa's pizza co,682 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.102384 42.334825),,3,8
+42.33482,-71.10232,papa's pizza co,144 Smith St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.10232 42.33482),,3,8
+42.333146,-71.100355,our lady of perpetual help,1545 Tremont St,2120,813110,Religious Organizations,81,Other Services,11.0,10 to 24,Mission Hill,POINT (-71.100355 42.333146),,3,8
+42.3336,-71.1055,odb liquor,732 Huntington Ave,2115,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Mission Hill,POINT (-71.1055 42.3336),,3,8
+42.335159,-71.103207,nutrition source,677 Huntington Ave,2115,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,5.0,1 to 9,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.336124,-71.107483,nutrition consultation service,45 Francis St,2115,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,9.0,1 to 9,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.333569,-71.104126,north american thrombosis frm,1620 Tremont St,2120,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.104126 42.333569),,3,8
+42.33215,-71.09971,nextgen realty inc,1518 Tremont St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.09971 42.33215),,3,8
+42.33617,-71.107132,newton-wellesley,75 Francis St,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.33617,-71.107132,newborn brain society inc,75 Francis St,2115,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.33617,-71.107132,new england society of pathologists,75 Francis St,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.335345,-71.104448,new england journal-medicine,10 Shattuck St,2115,511120,Periodical Publishers,51,Information,40.0,25 to 49,Mission Hill,POINT (-71.104448 42.335345),,3,8
+42.331043,-71.096187,new england brake center,22 Terrace St,2120,811118,Other Automotive Mechanical and Electrical Repair and Maintenance,81,Other Services,2.0,1 to 9,Mission Hill,POINT (-71.096187 42.331043),,3,8
+42.335345,-71.104448,nejm catalyst,10 Shattuck St,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.104448 42.335345),,3,8
+42.331994,-71.097419,needham bank,1457 Tremont St,2120,522110,Commercial Banking,52,Finance and Insurance,50.0,50 to 99,Mission Hill,POINT (-71.097419 42.331994),,3,8
+42.332158,-71.112359,nana's hair braiding,901 Huntington Ave,2115,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Mission Hill,POINT (-71.112359 42.332158),,3,8
+42.334263,-71.103706,nails spa by time,712 Huntington Ave,2115,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Mission Hill,POINT (-71.103706 42.334263),,3,8
+42.33454,-71.103268,mission vector,698 Huntington Ave,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.103268 42.33454),,3,8
+42.33394,-71.103524,mission sushi & wok,1625 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.103524 42.33394),,3,8
+42.333773,-71.102951,mission realty advisors llc,1613 Tremont St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Mission Hill,POINT (-71.102951 42.333773),,3,8
+42.333866,-71.108894,mission park apartments levenson tower,835 Huntington Ave,2115,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,24.0,10 to 24,Mission Hill,POINT (-71.108894 42.333866),,3,8
+42.333909,-71.103433,mission hills liquors,1623 Tremont St,2120,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,6.0,1 to 9,Mission Hill,POINT (-71.103433 42.333909),,3,8
+42.332076,-71.097896,mission hill yoga,1467 Tremont St,2120,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,3.0,1 to 9,Mission Hill,POINT (-71.097896 42.332076),,3,8
+42.333539,-71.103729,"mission hill neighborhood housing services, incorporated",1 Brigham Cir,2120,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Mission Hill,POINT (-71.103729 42.333539),,3,8
+42.333569,-71.104126,mission hill neighborhood housing,1620 Tremont St,2120,0,,99,Undefined,12.0,10 to 24,Mission Hill,POINT (-71.104126 42.333569),,3,8
+42.332325,-71.100261,mission hill main streets inc,1530 Tremont St,2120,813410,Civic and Social Organizations,81,Other Services,8.0,1 to 9,Mission Hill,POINT (-71.100261 42.332325),,3,8
+42.33243,-71.100533,mission hill main streets,1542 Tremont St,2120,813319,Other Social Advocacy Organizations,81,Other Services,8.0,1 to 9,Mission Hill,POINT (-71.100533 42.33243),,3,8
+42.332356,-71.100371,mission hill health movement inc,1534 Tremont St,2120,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Mission Hill,POINT (-71.100371 42.332356),,3,8
+42.331994,-71.097419,mission hill flats llc,1457 Tremont St,2120,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.097419 42.331994),,3,8
+42.332476,-71.09819,"mission hill community school council, inc",1481 Tremont St,2120,0,,99,Undefined,12.0,10 to 24,Mission Hill,POINT (-71.09819 42.332476),,3,8
+42.333878,-71.100479,mission church grammar school,94 Saint Alphonsus St,2120,611110,Elementary and Secondary Schools,61,Educational Services,25.0,25 to 49,Mission Hill,POINT (-71.100479 42.333878),,3,8
+42.33374,-71.105232,mission bar & grill,724 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,30.0,25 to 49,Mission Hill,POINT (-71.105232 42.33374),,3,8
+42.332113,-71.099582,milkweed,1508 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.099582 42.332113),,3,8
+42.332226,-71.099958,mike's donut shop,1524 Tremont St,2120,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,6.0,1 to 9,Mission Hill,POINT (-71.099958 42.332226),,3,8
+42.333569,-71.104126,mhnhs roxbury crossing senior building inc,1620 Tremont St,2120,236220,Commercial and Institutional Building Construction,23,Construction,8.0,1 to 9,Mission Hill,POINT (-71.104126 42.333569),,3,8
+42.335653,-71.10609,mended hearts inc,721 Huntington Ave,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.10609 42.335653),,3,8
+42.33243,-71.100533,melburne st partners llp,1542 Tremont St,2120,541614,"Process, Physical Distribution, and Logistics Consulting Services",54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Mission Hill,POINT (-71.100533 42.33243),,3,8
+42.334908,-71.103841,"medical heritage library, inc",10 Shattuck St,2115,519120,Libraries and Archives,51,Information,6.0,1 to 9,Mission Hill,POINT (-71.103841 42.334908),,3,8
+42.33617,-71.107132,"mckemmie, katherine",75 Francis St,2115,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,31.0,25 to 49,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.336491,-71.102478,max l nibert,200 Longwood Ave,2115,541910,Marketing Research and Public Opinion Polling,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Mission Hill,POINT (-71.102478 42.336491),,3,8
+42.33617,-71.107132,maternal & fater medicine center,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,12.0,10 to 24,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.334908,-71.103841,massachusetts medical society,10 Shattuck St,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.103841 42.334908),,3,8
+42.335159,-71.103207,massachusetts institute-tech,677 Huntington Ave,2115,721110,Hotels (except Casino Hotels) and Motels,72,Accommodation and Food Services,3.0,1 to 9,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.333089,-71.107474,"mass eye & ear, longwood",800 Huntington Ave,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,5.0,1 to 9,Mission Hill,POINT (-71.107474 42.333089),,3,8
+42.335159,-71.103207,martingale asset management lp,677 Huntington Ave,2115,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.333328,-71.105972,mama's place,764 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.105972 42.333328),,3,8
+42.335142,-71.100581,"maloney properties, inc",650 Huntington Ave,2115,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.100581 42.335142),,3,8
+42.333206,-71.101944,longwood apartments,1575 Tremont St,2120,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,10.0,10 to 24,Mission Hill,POINT (-71.101944 42.333206),,3,8
+42.333756,-71.102873,liz's hair care,1605 Tremont St,2120,812112,Beauty Salons,81,Other Services,9.0,1 to 9,Mission Hill,POINT (-71.102873 42.333756),,3,8
+42.332226,-71.099958,lilly's gourmet pasta,1528 Tremont St,2120,722513,Limited-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Mission Hill,POINT (-71.099958 42.332226),,3,8
+42.33617,-71.107132,"levin, alison",75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,5.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.334095,-71.105358,laughing monk cafe,737 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.105358 42.334095),,3,8
+42.33617,-71.107132,lab-reproductive endocrinology,75 Francis St,2115,621511,Medical Laboratories,62,Healthcare and Social Assistance,7.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333508,-71.103476,krispy krunchy chicken,1600 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Mission Hill,POINT (-71.103476 42.333508),,3,8
+42.333328,-71.105972,kohi inc,764A Huntington Ave,2115,511210,Software Publishers,51,Information,10.0,10 to 24,Mission Hill,POINT (-71.105972 42.333328),,3,8
+42.333622,-71.104271,jp licks,1618 Tremont St,2120,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,15.0,10 to 24,Mission Hill,POINT (-71.104271 42.333622),,3,8
+42.335678,-71.10424,joslin diabetes center inc,25 Shattuck St,2115,541720,Research and Development in the Social Sciences and Humanities,54,"Professional, Scientific, and Technical Services",15.0,10 to 24,Mission Hill,POINT (-71.10424 42.335678),,3,8
+42.33243,-71.100533,johnson-smith marcus,1536 Tremont St,2120,0,,99,Undefined,12.0,10 to 24,Mission Hill,POINT (-71.100533 42.33243),,3,8
+42.333294,-71.102654,jc iron works,1580 Tremont St,2120,332323,Ornamental and Architectural Metal Work Manufacturing,33,Manufacturing,3.0,1 to 9,Mission Hill,POINT (-71.102654 42.333294),,3,8
+42.333809,-71.105125,jaq inc,728 Huntington Ave,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.105125 42.333809),,3,8
+42.336552,-71.104752,jackson laboratory,250 Longwood Ave,2115,541720,Research and Development in the Social Sciences and Humanities,54,"Professional, Scientific, and Technical Services",15.0,10 to 24,Mission Hill,POINT (-71.104752 42.336552),,3,8
+42.336124,-71.107483,"izzy, saef, md",45 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,1.0,1 to 9,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.33617,-71.107132,ishlt,75 Francis St,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.335159,-71.103207,impactree inc,677 Huntington Ave,2115,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.3336,-71.1055,ilmondo pizza shop,738 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Mission Hill,POINT (-71.1055 42.3336),,3,8
+42.3336,-71.1055,il mondo pizza,738 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Mission Hill,POINT (-71.1055 42.3336),,3,8
+42.335142,-71.100581,hypothocated homes,650 Huntington Ave,2115,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Mission Hill,POINT (-71.100581 42.335142),,3,8
+42.333008,-71.108736,huntington markets,818 Huntington Ave,2115,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,4.0,1 to 9,Mission Hill,POINT (-71.108736 42.333008),,3,8
+42.334263,-71.103706,huntington apartments,706 Huntington Ave,2115,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.103706 42.334263),,3,8
+42.33617,-71.107132,hunterdon medical center,75 Francis St,2115,622110,General Medical and Surgical Hospitals,62,Healthcare and Social Assistance,30.0,25 to 49,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.335159,-71.103207,huecu-hrvd,677 Huntington Ave,2115,522130,Credit Unions,52,Finance and Insurance,7.0,1 to 9,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.335142,-71.100581,historic boston crime tours,650 Huntington Ave,2115,561520,Tour Operators,56,"Adminstrative, Support, Waste Management, and Remediation Services",8.0,1 to 9,Mission Hill,POINT (-71.100581 42.335142),,3,8
+42.333288,-71.106218,hemenway apartments,768 Huntington Ave,2115,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,4.0,1 to 9,Mission Hill,POINT (-71.106218 42.333288),,3,8
+42.33617,-71.107132,healthstyle,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,8.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.332356,-71.100371,healthcare-now educ fund inc,9A Hamilton Pl,2108,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Mission Hill,POINT (-71.100371 42.332356),,3,8
+42.332356,-71.100371,health care now,1534 Tremont St,2120,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Mission Hill,POINT (-71.100371 42.332356),,3,8
+42.333146,-71.100355,healing & restoration prayer,1545 Tremont St,2120,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Mission Hill,POINT (-71.100355 42.333146),,3,8
+42.33617,-71.107132,harvard university police,75 Francis St,2115,922120,Police Protection,92,Public Administration,88.0,50 to 99,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.335159,-71.103207,harvard university empl credit union,677 Huntington Ave,2115,522130,Credit Unions,52,Finance and Insurance,7.0,1 to 9,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.335159,-71.103207,harvard university,677 Huntington Ave,2115,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,21.0,10 to 24,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.335159,-71.103207,harvard t.h. chan school of public health,677 Huntington Ave,2115,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,100.0,100+,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.335907,-71.103455,harvard medical school-dept of neurobiology,220 Longwood Ave,2115,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,200.0,100+,Mission Hill,POINT (-71.103455 42.335907),,3,8
+42.335538,-71.104523,harvard medical school,25 Shattuck St,2115,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,41.0,25 to 49,Mission Hill,POINT (-71.104523 42.335538),,3,8
+42.335907,-71.103455,harvard medical school,220 Longwood Ave,2115,611110,Elementary and Secondary Schools,61,Educational Services,16.0,10 to 24,Mission Hill,POINT (-71.103455 42.335907),,3,8
+42.335602,-71.101875,harvard medical school,651 Huntington Ave,2115,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,41.0,25 to 49,Mission Hill,POINT (-71.101875 42.335602),,3,8
+42.333569,-71.104126,harvard medical school,1620 Tremont St,2120,611110,Elementary and Secondary Schools,61,Educational Services,16.0,10 to 24,Mission Hill,POINT (-71.104126 42.333569),,3,8
+42.336491,-71.102478,harvard medical international,200 Longwood Ave,2115,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Mission Hill,POINT (-71.102478 42.336491),,3,8
+42.335843,-71.10532,harvard medical,45 Shattuck St,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.10532 42.335843),,3,8
+42.335159,-71.103207,harvard global equity inttv,677 Huntington Ave,2115,522292,Real Estate Credit,52,Finance and Insurance,7.0,1 to 9,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.33625,-71.10434,harvard cell biology department,240 Longwood Ave,2115,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,21.0,10 to 24,Mission Hill,POINT (-71.10434 42.33625),,3,8
+42.3336,-71.1055,halal indian cuisine,736 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Mission Hill,POINT (-71.1055 42.3336),,3,8
+42.33339,-71.10428,"great hill dental partners, llc",1610 Tremont St,2120,621210,Offices of Dentists,62,Healthcare and Social Assistance,7.0,1 to 9,Mission Hill,POINT (-71.10428 42.33339),,3,8
+42.33617,-71.107132,global health delivery online,75 Francis St,2115,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,5.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.336491,-71.102478,global health committee inc,200 Longwood Ave,2115,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Mission Hill,POINT (-71.102478 42.336491),,3,8
+42.33394,-71.103524,ginger exchange roxbury,1625 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.103524 42.33394),,3,8
+42.33617,-71.107132,"giblin, gerard, thomas, md",75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,26.0,25 to 49,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333182,-71.102476,free door service with repair,1576 Tremont St,2120,444190,Other Building Material Dealers,44,Retail Trade,6.0,1 to 9,Mission Hill,POINT (-71.102476 42.333182),,3,8
+42.330852,-71.096326,franklin's auto repair,30 Terrace St,2120,811111,General Automotive Repair,81,Other Services,1.0,1 to 9,Mission Hill,POINT (-71.096326 42.330852),,3,8
+42.333206,-71.101944,franklin square house day care,1575 Tremont St,2120,624410,Child Day Care Services,62,Healthcare and Social Assistance,9.0,1 to 9,Mission Hill,POINT (-71.101944 42.333206),,3,8
+42.335602,-71.101875,francois xavier bagnound center,651 Huntington Ave,2115,541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",54,"Professional, Scientific, and Technical Services",20.0,10 to 24,Mission Hill,POINT (-71.101875 42.335602),,3,8
+42.333582,-71.105508,flames restaurant ii inc,746 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Mission Hill,POINT (-71.105508 42.333582),,3,8
+42.336491,-71.102478,family van at harvard medical,200 Longwood Ave,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,11.0,10 to 24,Mission Hill,POINT (-71.102478 42.336491),,3,8
+42.33243,-71.100533,family van,1542 Tremont St,2120,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.100533 42.33243),,3,8
+42.33617,-71.107132,"emergency dept, brigham & women's hospital",75 Francis St,2115,622110,General Medical and Surgical Hospitals,62,Healthcare and Social Assistance,13.0,10 to 24,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.334145,-71.106438,edward m kennedy academy for health careers,10 Fenwood Rd,2115,611110,Elementary and Secondary Schools,61,Educational Services,12.0,10 to 24,Mission Hill,POINT (-71.106438 42.334145),,3,8
+42.332554,-71.108505,educational development group,812 Huntington Ave,2115,611710,Educational Support Services,61,Educational Services,7.0,1 to 9,Mission Hill,POINT (-71.108505 42.332554),,3,8
+42.334062,-71.103857,dunkin',1631 Tremont St,2120,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,12.0,10 to 24,Mission Hill,POINT (-71.103857 42.334062),,3,8
+42.333092,-71.108899,diligent painting co,824 Huntington Ave,2115,238320,Painting and Wall Covering Contractors,23,Construction,5.0,1 to 9,Mission Hill,POINT (-71.108899 42.333092),,3,8
+42.335678,-71.10424,department of neurobiology,25 Shattuck St,2115,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.10424 42.335678),,3,8
+42.333089,-71.107474,del's lemondade,800 Huntington Ave,2115,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Mission Hill,POINT (-71.107474 42.333089),,3,8
+42.333525,-71.105586,dara's wine & spirits,750 Huntington Ave,2115,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Mission Hill,POINT (-71.105586 42.333525),,3,8
+42.335678,-71.10424,dana-farber cancer institute,25 Shattuck St,2115,622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,62,Healthcare and Social Assistance,4.0,1 to 9,Mission Hill,POINT (-71.10424 42.335678),,3,8
+42.33348,-71.10171,"cure rare disease, inc",1575 Tremont St,2120,0,,99,Undefined,12.0,10 to 24,Mission Hill,POINT (-71.10171 42.33348),,3,8
+42.330852,-71.096326,crossing auto repair,30 Terrace St,2120,811111,General Automotive Repair,81,Other Services,1.0,1 to 9,Mission Hill,POINT (-71.096326 42.330852),,3,8
+42.332113,-71.099582,crispy dough pizzeria,1514 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Mission Hill,POINT (-71.099582 42.332113),,3,8
+42.335653,-71.10609,craig p hersh md,15 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Mission Hill,POINT (-71.10609 42.335653),,3,8
+42.333569,-71.104126,cpt brigham circle llc,1620 Tremont St,2120,517311,Wired Telecommunications Carriers,51,Information,0.0,Not Available,Mission Hill,POINT (-71.104126 42.333569),,3,8
+42.335345,-71.104448,countway library of medicine,10 Shattuck St,2115,519120,Libraries and Archives,51,Information,85.0,50 to 99,Mission Hill,POINT (-71.104448 42.335345),,3,8
+42.331986,-71.097173,cornerstone real estate,1451 Tremont St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.097173 42.331986),,3,8
+42.33243,-71.100533,community sickle cell support,1542 Tremont St,2120,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Mission Hill,POINT (-71.100533 42.33243),,3,8
+42.33243,-71.100533,clearwater branding,1536 Tremont St,2120,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.100533 42.33243),,3,8
+42.33617,-71.107132,clare m tempany,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,50.0,50 to 99,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333713,-71.103781,citizens bank,1628 Tremont St,2120,522110,Commercial Banking,52,Finance and Insurance,9.0,1 to 9,Mission Hill,POINT (-71.103781 42.333713),,3,8
+42.333146,-71.100355,choral arts new england inc,1545 Tremont St,2120,712110,Museums,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Mission Hill,POINT (-71.100355 42.333146),,3,8
+42.332176,-71.099794,chi wellness clinic,1520 Tremont St,2120,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,10.0,10 to 24,Mission Hill,POINT (-71.099794 42.332176),,3,8
+42.335142,-71.100581,charlesbank cooperative apartments management offc,650 Huntington Ave,2115,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,Mission Hill,POINT (-71.100581 42.335142),,3,8
+42.335142,-71.100581,charlesbank construction,650 Huntington Ave,2115,237990,Other Heavy and Civil Engineering Construction,23,Construction,9.0,1 to 9,Mission Hill,POINT (-71.100581 42.335142),,3,8
+42.335142,-71.100581,charles bank,650 Huntington Ave,2115,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,7.0,1 to 9,Mission Hill,POINT (-71.100581 42.335142),,3,8
+42.332062,-71.099297,chacho's pizza & subs,1502 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Mission Hill,POINT (-71.099297 42.332062),,3,8
+42.336491,-71.102478,center for health decision science,200 Longwood Ave,2115,443142,Electronics Stores,44,Retail Trade,30.0,25 to 49,Mission Hill,POINT (-71.102478 42.336491),,3,8
+42.335159,-71.103207,center for continuing pro education,677 Huntington Ave,2115,611710,Educational Support Services,61,Educational Services,25.0,25 to 49,Mission Hill,POINT (-71.103207 42.335159),,3,8
+42.333328,-71.105972,carman's beauty salon,764 Huntington Ave,2115,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Mission Hill,POINT (-71.105972 42.333328),,3,8
+42.33617,-71.107132,cardiac risk reduction program,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,27.0,25 to 49,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.335142,-71.100581,calexia,650 Huntington Ave,2115,541519,Other Computer Related Services,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Mission Hill,POINT (-71.100581 42.335142),,3,8
+42.33617,-71.107132,bwh research inc,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,11.0,10 to 24,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.33617,-71.107132,bwh radiation oncology,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.33617,-71.107132,brigham surgical group-dr shoji,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,20.0,10 to 24,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.33617,-71.107132,brigham surgical group colon & rectal sur,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,5.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.336124,-71.107483,brigham pulmonary asthma center & associates,45 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,15.0,10 to 24,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.336124,-71.107483,brigham orthopedic associates,45 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.336124,-71.107483,brigham medical group,45 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,300.0,100+,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.336124,-71.107483,brigham gastroenterology associates,45 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,30.0,25 to 49,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.33617,-71.107132,brigham endocrinology associates,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,50.0,50 to 99,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333809,-71.105125,brigham circle chinese food,728 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Mission Hill,POINT (-71.105125 42.333809),,3,8
+42.336124,-71.107483,brigham cardiovascular associates,45 Francis St,2115,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.335459,-71.104539,brigham & womens hospital,20 Shattuck St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,10.0,10 to 24,Mission Hill,POINT (-71.104539 42.335459),,3,8
+42.333539,-71.103729,brigham & womens hospital,1 Brigham Cir,2120,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Mission Hill,POINT (-71.103729 42.333539),,3,8
+42.336124,-71.107483,brigham & women's urology,45 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,30.0,25 to 49,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.33617,-71.107132,brigham & women's ob/gyn,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,27.0,25 to 49,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.33617,-71.107132,brigham & women's mri associates,75 Francis St,2115,621512,Diagnostic Imaging Centers,62,Healthcare and Social Assistance,11.0,10 to 24,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333569,-71.104126,brigham & women's hospital-medicine,1620 Tremont St,2120,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,88.0,50 to 99,Mission Hill,POINT (-71.104126 42.333569),,3,8
+42.336124,-71.107483,brigham & women's hospital,45 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,0.0,Not Available,Mission Hill,POINT (-71.107483 42.336124),,3,8
+42.334006,-71.105312,brigham & women's hospital,721 Huntington Ave,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Mission Hill,POINT (-71.105312 42.334006),,3,8
+42.335653,-71.10609,brigham & women's hospital,15 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,30.0,25 to 49,Mission Hill,POINT (-71.10609 42.335653),,3,8
+42.33617,-71.107132,brigham & women's hand surgery,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,5.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.332858,-71.101591,boston smoke shop,1564 Tremont St,2120,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Mission Hill,POINT (-71.101591 42.332858),,3,8
+42.333063,-71.102191,boston properties,1570 Tremont St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,8.0,1 to 9,Mission Hill,POINT (-71.102191 42.333063),,3,8
+42.333773,-71.102951,boston properties,1607 Tremont St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.102951 42.333773),,3,8
+42.332249,-71.098244,boston police athletic,1483 Tremont St,2120,922120,Police Protection,92,Public Administration,88.0,50 to 99,Mission Hill,POINT (-71.098244 42.332249),,3,8
+42.334908,-71.103841,boston medical library,10 Shattuck St,2115,519120,Libraries and Archives,51,Information,5.0,1 to 9,Mission Hill,POINT (-71.103841 42.334908),,3,8
+42.332248,-71.099185,boston library,1497 Tremont St,2120,519120,Libraries and Archives,51,Information,5.0,1 to 9,Mission Hill,POINT (-71.099185 42.332248),,3,8
+42.33243,-71.100533,boston green realty,1542 Tremont St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.100533 42.33243),,3,8
+42.332249,-71.098244,boston community center,1483 Tremont St,2120,921120,Legislative Bodies,92,Public Administration,70.0,50 to 99,Mission Hill,POINT (-71.098244 42.332249),,3,8
+42.332249,-71.098244,boston city roots,1483 Tremont St,2120,921120,Legislative Bodies,92,Public Administration,10.0,10 to 24,Mission Hill,POINT (-71.098244 42.332249),,3,8
+42.332249,-71.098244,boston city human service office,1483 Tremont St,2120,921120,Legislative Bodies,92,Public Administration,10.0,10 to 24,Mission Hill,POINT (-71.098244 42.332249),,3,8
+42.332476,-71.09819,boston city hall,1481 Tremont St,2120,921120,Legislative Bodies,92,Public Administration,21.0,10 to 24,Mission Hill,POINT (-71.09819 42.332476),,3,8
+42.333146,-71.100355,boston basilica,1545 Tremont St,2120,813110,Religious Organizations,81,Other Services,0.0,Not Available,Mission Hill,POINT (-71.100355 42.333146),,3,8
+42.332176,-71.099794,boba me,1520 Tremont St,2120,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Mission Hill,POINT (-71.099794 42.332176),,3,8
+42.333414,-71.103179,boardwalk properties at msn hill,1592 Tremont St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,3.0,1 to 9,Mission Hill,POINT (-71.103179 42.333414),,3,8
+42.33215,-71.09971,boardwalk properties,1518 Tremont St,2120,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,8.0,1 to 9,Mission Hill,POINT (-71.09971 42.33215),,3,8
+42.33617,-71.107132,binney medical group,75 Francis St,2115,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333908,-71.109673,betty power library computer,25 Mission Park Dr,2115,519120,Libraries and Archives,51,Information,4.0,1 to 9,Mission Hill,POINT (-71.109673 42.333908),,3,8
+42.33617,-71.107132,au bon pain,75 Francis St,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,50.0,50 to 99,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.333828,-71.103102,american legion,1617 Tremont St,2120,813410,Civic and Social Organizations,81,Other Services,1.0,1 to 9,Mission Hill,POINT (-71.103102 42.333828),,3,8
+42.33617,-71.107132,ambulatory building,75 Francis St,2115,236220,Commercial and Institutional Building Construction,23,Construction,8.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8
+42.331053,-71.097192,abcd,714 Parker St,2120,624410,Child Day Care Services,62,Healthcare and Social Assistance,15.0,10 to 24,Mission Hill,POINT (-71.097192 42.331053),,3,8
+42.334142,-71.104168,7-eleven,722 Huntington Ave,2115,445120,Convenience Stores,44,Retail Trade,9.0,1 to 9,Mission Hill,POINT (-71.104168 42.334142),,3,8
+42.332113,-71.099582,"123 terrace street, llc",1514 Tremont St,2120,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.099582 42.332113),,3,8
+42.333447,-71.105691,t baar,754 Huntington Ave,2115,445299,All Other Specialty Food Stores,44,Retail Trade,0.0,Not Available,Mission Hill,POINT (-71.105691 42.333447),,3,8
+42.33617,-71.107132,"brigham & women's physicians organization, inc",75 Francis St,2115,0,,99,Undefined,4.0,1 to 9,Mission Hill,POINT (-71.107132 42.33617),,3,8

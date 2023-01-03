@@ -1,0 +1,547 @@
+latitude,longitude,business_name,street_address,zip,NAICS_2017_6digit_code,NAICS_2017_6digit_desc,NAICS_2017_2digit_code,NAICS_2017_2digit_desc,estimated_employment,employment_buckets,mainstreet,geometry,district,index_right,DISTRICT
+42.336937,-71.075881,toro,1704 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Washington St Gateway,POINT (-71.075881 42.336937),,4,3
+42.338249,-71.073105,the franklin,11 E Newton St,2118,621610,Home Health Care Services,62,Healthcare and Social Assistance,5.0,1 to 9,Washington St Gateway,POINT (-71.073105 42.338249),,4,3
+42.335999,-71.07724,roxbury corners llc,1782 Washington St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,4.0,1 to 9,Washington St Gateway,POINT (-71.07724 42.335999),,4,3
+42.336431,-71.076565,rosie's place,1750 Washington St,2118,624230,Emergency and Other Relief Services,62,Healthcare and Social Assistance,10.0,10 to 24,Washington St Gateway,POINT (-71.076565 42.336431),,4,3
+42.335999,-71.07724,parmelee court homes,1782 Washington St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,4.0,1 to 9,Washington St Gateway,POINT (-71.07724 42.335999),,4,3
+42.337426,-71.075091,orange octopus trust,1662 Washington St,2118,523991,"Trust, Fiduciary, and Custody Activities",52,Finance and Insurance,5.0,1 to 9,Washington St Gateway,POINT (-71.075091 42.337426),,4,3
+42.336974,-71.076084,mike's city diner,1714 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,15.0,10 to 24,Washington St Gateway,POINT (-71.076084 42.336974),,4,3
+42.33848,-71.073387,marais historic investments llc,19 Father Francis Gilday St,2118,523910,Miscellaneous Intermediation,52,Finance and Insurance,12.0,10 to 24,Washington St Gateway,POINT (-71.073387 42.33848),,4,3
+42.337939,-71.074712,little lovage club,1636 Washington St,2118,813410,Civic and Social Organizations,81,Other Services,5.0,1 to 9,Washington St Gateway,POINT (-71.074712 42.337939),,4,3
+42.336495,-71.076477,laz cafe,1744 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,1.0,1 to 9,Washington St Gateway,POINT (-71.076477 42.336495),,4,3
+42.336431,-71.076565,keel gear,1750 Washington St,2118,611620,Sports and Recreation Instruction,61,Educational Services,5.0,1 to 9,Washington St Gateway,POINT (-71.076565 42.336431),,4,3
+42.337655,-71.074928,hearth inc,1640 Washington St,2118,623311,Continuing Care Retirement Communities,62,Healthcare and Social Assistance,10.0,10 to 24,Washington St Gateway,POINT (-71.074928 42.337655),,4,3
+42.33734,-71.075215,gateman clinic,1670 Washington St,2118,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Washington St Gateway,POINT (-71.075215 42.33734),,4,3
+42.338249,-71.073105,franklin square apartments,11 E Newton St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.073105 42.338249),,4,3
+42.337939,-71.074712,endurance pilates & yoga llc,1636 Washington St,2118,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",7.0,1 to 9,Washington St Gateway,POINT (-71.074712 42.337939),,4,3
+42.337655,-71.074928,east concord street limited partnership,1640 Washington St,2118,0,,99,Undefined,12.0,10 to 24,Washington St Gateway,POINT (-71.074928 42.337655),,4,3
+42.335981,-71.077031,crystal realty co,1762 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.077031 42.335981),,4,3
+42.337655,-71.074928,committee to end elder,1640 Washington St,2118,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,23.0,10 to 24,Washington St Gateway,POINT (-71.074928 42.337655),,4,3
+42.337939,-71.074712,code ten,1636 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Washington St Gateway,POINT (-71.074712 42.337939),,4,3
+42.337925,-71.074732,code 10 restaurant cafe,1638 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Washington St Gateway,POINT (-71.074732 42.337925),,4,3
+42.336136,-71.07719,clear sky day care,1776 Washington St,2118,624410,Child Day Care Services,62,Healthcare and Social Assistance,6.0,1 to 9,Washington St Gateway,POINT (-71.07719 42.336136),,4,3
+42.337655,-71.074928,ceeh,1640 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.074928 42.337655),,4,3
+42.336431,-71.076565,bostonian building products inc,1750 Washington St,2118,444110,Home Centers,44,Retail Trade,6.0,1 to 9,Washington St Gateway,POINT (-71.076565 42.336431),,4,3
+42.336431,-71.076565,bar lyon,1750 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Washington St Gateway,POINT (-71.076565 42.336431),,4,3
+42.335981,-71.077031,bank of america advanced center,1762 Washington St,2118,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,4.0,1 to 9,Washington St Gateway,POINT (-71.077031 42.335981),,4,3
+42.337655,-71.074928,apartments.com,1640 Washington St,2118,541890,Other Services Related to Advertising,54,"Professional, Scientific, and Technical Services",19.0,10 to 24,Washington St Gateway,POINT (-71.074928 42.337655),,4,3
+42.337655,-71.074928,anna bissonnette house,1640 Washington St,2118,0,,99,Undefined,25.0,25 to 49,Washington St Gateway,POINT (-71.074928 42.337655),,4,3
+42.335981,-71.077031,alinea capital partners llc,1786 Washington St,2118,237210,Land Subdivision,23,Construction,4.0,1 to 9,Washington St Gateway,POINT (-71.077031 42.335981),,4,3
+42.336431,-71.076565,afrikcan forward inc,1746 Washington St,2118,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Washington St Gateway,POINT (-71.076565 42.336431),,4,3
+42.336431,-71.076565,a d construction llc,1750 Washington St,2118,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Washington St Gateway,POINT (-71.076565 42.336431),,4,3
+42.336937,-71.075881,1704 washington llc,1704 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.075881 42.336937),,4,3
+42.336431,-71.076565,teranga restaurant,1746 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.076565 42.336431),,4,3
+42.307955,-71.065443,your style sportswear,308 Bowdoin St,2122,448140,Family Clothing Stores,44,Retail Trade,1.0,1 to 9,Bowdoin/Geneva,POINT (-71.065443 42.307955),,4,3
+42.306522,-71.066959,yellow brick road ice cream,252 Bowdoin St,2122,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,9.0,1 to 9,Bowdoin/Geneva,POINT (-71.066959 42.306522),,4,3
+42.30704,-71.066531,urban gear outfitters llc,268 Bowdoin St,2122,448140,Family Clothing Stores,44,Retail Trade,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.066531 42.30704),,4,3
+42.30644,-71.067075,ups access point location,248 Bowdoin St,2122,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,Bowdoin/Geneva,POINT (-71.067075 42.30644),,4,3
+42.307255,-71.065407,trinity green investments,307 Bowdoin St,2122,523910,Miscellaneous Intermediation,52,Finance and Insurance,12.0,10 to 24,Bowdoin/Geneva,POINT (-71.065407 42.307255),,4,3
+42.309796,-71.063314,top & son,379 Bowdoin St,2122,811121,"Automotive Body, Paint, and Interior Repair and Maintenance",81,Other Services,4.0,1 to 9,Bowdoin/Geneva,POINT (-71.063314 42.309796),,4,3
+42.306463,-71.066527,time of party,263 Bowdoin St,2122,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.066527 42.306463),,4,3
+42.306509,-71.066457,teahouse of almighty,265 Bowdoin St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Bowdoin/Geneva,POINT (-71.066457 42.306509),,4,3
+42.307678,-71.065968,st peter's school,294 Bowdoin St,2122,611110,Elementary and Secondary Schools,61,Educational Services,17.0,10 to 24,Bowdoin/Geneva,POINT (-71.065968 42.307678),,4,3
+42.308968,-71.064404,sparks with purpose,368 Bowdoin St,2122,541612,Human Resources Consulting Services,54,"Professional, Scientific, and Technical Services",0.0,Not Available,Bowdoin/Geneva,POINT (-71.064404 42.308968),,4,3
+42.307903,-71.065451,soris beauty salon,304 Bowdoin St,2122,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.065451 42.307903),,4,3
+42.306522,-71.066959,soares barber shop,250 Bowdoin St,2122,812111,Barber Shops,81,Other Services,3.0,1 to 9,Bowdoin/Geneva,POINT (-71.066959 42.306522),,4,3
+42.307678,-71.065968,seiu,294 Bowdoin St,2122,813930,Labor Unions and Similar Labor Organizations,81,Other Services,6.0,1 to 9,Bowdoin/Geneva,POINT (-71.065968 42.307678),,4,3
+42.309743,-71.063465,sarahy beauty center,387 Bowdoin St,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Bowdoin/Geneva,POINT (-71.063465 42.309743),,4,3
+42.307598,-71.066772,saint peter's parish-dorchester,278 Bowdoin St,2122,813110,Religious Organizations,81,Other Services,6.0,1 to 9,Bowdoin/Geneva,POINT (-71.066772 42.307598),,4,3
+42.30742,-71.065004,saint peter's church,309 Bowdoin St,2122,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.065004 42.30742),,4,3
+42.30752,-71.065854,saint peter parish,284 Bowdoin St,2122,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.065854 42.30752),,4,3
+42.300564,-71.066313,rossi market,430 Geneva Ave,2122,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.066313 42.300564),,4,3
+42.307955,-71.065443,rodriguez barbershop,302 Bowdoin St,2122,812111,Barber Shops,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.065443 42.307955),,4,3
+42.306922,-71.066661,restaurante cesaria,266 Bowdoin St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,9.0,1 to 9,Bowdoin/Geneva,POINT (-71.066661 42.306922),,4,3
+42.31,-71.062818,rafael rental inc,401 Bowdoin St,2122,0,,99,Undefined,0.0,Not Available,Bowdoin/Geneva,POINT (-71.062818 42.31),,4,3
+42.307255,-71.065407,pine street inn,307 Bowdoin St,2122,812910,Pet Care (except Veterinary) Services,81,Other Services,15.0,10 to 24,Bowdoin/Geneva,POINT (-71.065407 42.307255),,4,3
+42.306509,-71.066457,pete's pizza & seafood,267 Bowdoin St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Bowdoin/Geneva,POINT (-71.066457 42.306509),,4,3
+42.306522,-71.066959,peoples choice unisex salon,250 Bowdoin St,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Bowdoin/Geneva,POINT (-71.066959 42.306522),,4,3
+42.307769,-71.065689,only one jamaican restaurant iv,310 Bowdoin St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Bowdoin/Geneva,POINT (-71.065689 42.307769),,4,3
+42.299652,-71.064771,one punch at time,466 Geneva Ave,2122,0,,99,Undefined,0.0,Not Available,Bowdoin/Geneva,POINT (-71.064771 42.299652),,4,3
+42.310448,-71.062088,one good credit,427 Bowdoin St,2122,812199,Other Personal Care Services,81,Other Services,3.0,1 to 9,Bowdoin/Geneva,POINT (-71.062088 42.310448),,4,3
+42.310478,-71.061981,neicy's new & used furniture,423 Bowdoin St,2122,442110,Furniture Stores,44,Retail Trade,3.0,1 to 9,Bowdoin/Geneva,POINT (-71.061981 42.310478),,4,3
+42.306509,-71.066457,modern party art,267 Bowdoin St,2122,453920,Art Dealers,45,Retail Trade,3.0,1 to 9,Bowdoin/Geneva,POINT (-71.066457 42.306509),,4,3
+42.309743,-71.063465,mll vision,387 Bowdoin St,2122,621320,Offices of Optometrists,62,Healthcare and Social Assistance,5.0,1 to 9,Bowdoin/Geneva,POINT (-71.063465 42.309743),,4,3
+42.300552,-71.066305,minina cafe,432 Geneva Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Bowdoin/Geneva,POINT (-71.066305 42.300552),,4,3
+42.310439,-71.061941,mata african hair braiding,419 Bowdoin St,2122,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Bowdoin/Geneva,POINT (-71.061941 42.310439),,4,3
+42.309537,-71.064207,manny s launderette,388 Bowdoin St,2122,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,4.0,1 to 9,Bowdoin/Geneva,POINT (-71.064207 42.309537),,4,3
+42.300564,-71.066313,los primos 5 barber shop,436 Geneva Ave,2122,812111,Barber Shops,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.066313 42.300564),,4,3
+42.306509,-71.066457,lee's nail,261 Bowdoin St,2122,812113,Nail Salons,81,Other Services,3.0,1 to 9,Bowdoin/Geneva,POINT (-71.066457 42.306509),,4,3
+42.306509,-71.066457,leal supply,261 Bowdoin St,2122,444130,Hardware Stores,44,Retail Trade,3.0,1 to 9,Bowdoin/Geneva,POINT (-71.066457 42.306509),,4,3
+42.306509,-71.066457,kathy's nail's,261 Bowdoin St,2122,812113,Nail Salons,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.066457 42.306509),,4,3
+42.300948,-71.06698,joyavi geneva inc,422 Geneva Ave,2122,0,,99,Undefined,0.0,Not Available,Bowdoin/Geneva,POINT (-71.06698 42.300948),,4,3
+42.307769,-71.065689,johny's barber shop,296 Bowdoin St,2122,812111,Barber Shops,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.065689 42.307769),,4,3
+42.307769,-71.065689,johnnys barber,296 Bowdoin St,2122,812111,Barber Shops,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.065689 42.307769),,4,3
+42.310467,-71.062042,isabel unisex salon,421 Bowdoin St,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Bowdoin/Geneva,POINT (-71.062042 42.310467),,4,3
+42.306522,-71.066959,hot grabba inc,252 Bowdoin St,2122,0,,99,Undefined,0.0,Not Available,Bowdoin/Geneva,POINT (-71.066959 42.306522),,4,3
+42.309796,-71.063314,glass plus inc,379 Bowdoin St,2122,444190,Other Building Material Dealers,44,Retail Trade,1.0,1 to 9,Bowdoin/Geneva,POINT (-71.063314 42.309796),,4,3
+42.30644,-71.067075,genius planet llc,248 Bowdoin St,2122,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.067075 42.30644),,4,3
+42.310194,-71.062267,gemini cab inc,411 Bowdoin St,2122,485310,Taxi Service,48,Transportation and Warehosuing,12.0,10 to 24,Bowdoin/Geneva,POINT (-71.062267 42.310194),,4,3
+42.306522,-71.066959,fwresh salon & barbershop,252 Bowdoin St,2122,812112,Beauty Salons,81,Other Services,4.0,1 to 9,Bowdoin/Geneva,POINT (-71.066959 42.306522),,4,3
+42.306522,-71.066959,fwresh inc,252 Bowdoin St,2122,812111,Barber Shops,81,Other Services,1.0,1 to 9,Bowdoin/Geneva,POINT (-71.066959 42.306522),,4,3
+42.306522,-71.066959,fresh barber shop,252 Bowdoin St,2122,812111,Barber Shops,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.066959 42.306522),,4,3
+42.30799,-71.065358,fish shack,312 Bowdoin St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Bowdoin/Geneva,POINT (-71.065358 42.30799),,4,3
+42.31,-71.062818,fine line auto repair inc,401 Bowdoin St,2122,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.062818 42.31),,4,3
+42.300948,-71.06698,el pilon restaurant,422 Geneva Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Bowdoin/Geneva,POINT (-71.06698 42.300948),,4,3
+42.306285,-71.066554,dollar tree,259 Bowdoin St,2122,452319,All Other General Merchandise Stores,45,Retail Trade,11.0,10 to 24,Bowdoin/Geneva,POINT (-71.066554 42.306285),,4,3
+42.30704,-71.066531,cvc unido,268 Bowdoin St,2122,624410,Child Day Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Bowdoin/Geneva,POINT (-71.066531 42.30704),,4,3
+42.307955,-71.065443,copley food market,316 Bowdoin St,2122,447190,Other Gasoline Stations,44,Retail Trade,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.065443 42.307955),,4,3
+42.309743,-71.063465,consumer financial services,387 Bowdoin St,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,9.0,1 to 9,Bowdoin/Geneva,POINT (-71.063465 42.309743),,4,3
+42.307652,-71.066032,compass school,290 Bowdoin St,2122,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,100.0,100+,Bowdoin/Geneva,POINT (-71.066032 42.307652),,4,3
+42.307678,-71.065968,community providers-adolescent,294 Bowdoin St,2122,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Bowdoin/Geneva,POINT (-71.065968 42.307678),,4,3
+42.310392,-71.062138,champion taekwondo center,425 Bowdoin St,2122,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.062138 42.310392),,4,3
+42.300797,-71.066763,cellular paging-dorchester,420 Geneva Ave,2122,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,1.0,1 to 9,Bowdoin/Geneva,POINT (-71.066763 42.300797),,4,3
+42.307598,-71.066772,cape verdean community unido,278 Bowdoin St,2122,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Bowdoin/Geneva,POINT (-71.066772 42.307598),,4,3
+42.300564,-71.066313,brothers geneva inc,430 Geneva Ave,2122,0,,99,Undefined,0.0,Not Available,Bowdoin/Geneva,POINT (-71.066313 42.300564),,4,3
+42.310436,-71.062869,brandao transportation,422 Bowdoin St,2122,485999,All Other Transit and Ground Passenger Transportation,48,Transportation and Warehosuing,9.0,1 to 9,Bowdoin/Geneva,POINT (-71.062869 42.310436),,4,3
+42.310478,-71.061981,botanica papa boco,423 Bowdoin St,2122,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.061981 42.310478),,4,3
+42.308521,-71.065135,boston housing authority,330 Bowdoin St,2122,531311,Residential Property Managers,53,Real Estate Rental and Leasing,5.0,1 to 9,Bowdoin/Geneva,POINT (-71.065135 42.308521),,4,3
+42.300948,-71.06698,bma group corp,416 Geneva Ave,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Bowdoin/Geneva,POINT (-71.06698 42.300948),,4,3
+42.310194,-71.062267,ackers vending service co,411 Bowdoin St,2122,454210,Vending Machine Operators,45,Retail Trade,10.0,10 to 24,Bowdoin/Geneva,POINT (-71.062267 42.310194),,4,3
+42.300948,-71.06698,sobreno market,416 Geneva Ave,2122,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Bowdoin/Geneva,POINT (-71.06698 42.300948),,4,3
+42.306906,-71.066872,one family diner inc,260 Bowdoin St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Bowdoin/Geneva,POINT (-71.066872 42.306906),,4,3
+42.319899,-71.061171,western union agent location,187 E Cottage St,2125,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,Uphams Corner,POINT (-71.061171 42.319899),,4,3
+42.314897,-71.066799,wayne at columbia lic,509 Columbia Rd,2125,531311,Residential Property Managers,53,Real Estate Rental and Leasing,2.0,1 to 9,Uphams Corner,POINT (-71.066799 42.314897),,4,3
+42.313594,-71.06747,wayne at columbia lic,471 Columbia Rd,2125,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,3.0,1 to 9,Uphams Corner,POINT (-71.06747 42.313594),,4,3
+42.316703,-71.064822,vip barbershop salon,11 Stoughton St,2125,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.064822 42.316703),,4,3
+42.3172,-71.0659,vicentes barbers hop,769 Dudley St,2125,812111,Barber Shops,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.0659 42.3172),,4,3
+42.316959,-71.065581,valhalla inc,578 Columbia Rd,2125,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Uphams Corner,POINT (-71.065581 42.316959),,4,3
+42.316189,-71.06605,usps,551 Columbia Rd,2125,491110,Postal Service,49,Transportation and Warehosuing,6.0,1 to 9,Uphams Corner,POINT (-71.06605 42.316189),,4,3
+42.314644,-71.060322,us electronics,153 Stoughton St,2125,443142,Electronics Stores,44,Retail Trade,4.0,1 to 9,Uphams Corner,POINT (-71.060322 42.314644),,4,3
+42.317486,-71.065555,ups access point location,778 Dudley St,2125,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,Uphams Corner,POINT (-71.065555 42.317486),,4,3
+42.314644,-71.060322,ups access point location,149 Stoughton St,2125,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,Uphams Corner,POINT (-71.060322 42.314644),,4,3
+42.314832,-71.067645,uphams corner public library,500 Columbia Rd,2125,519120,Libraries and Archives,51,Information,5.0,1 to 9,Uphams Corner,POINT (-71.067645 42.314832),,4,3
+42.314832,-71.067645,"uphams corner health committee, inc",500 Columbia Rd,2125,0,,99,Undefined,5.0,1 to 9,Uphams Corner,POINT (-71.067645 42.314832),,4,3
+42.315986,-71.066086,uphams corner health committee,547 Columbia Rd,2125,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,8.0,1 to 9,Uphams Corner,POINT (-71.066086 42.315986),,4,3
+42.311928,-71.068657,uphams corner health center pharmacy,415 Columbia Rd,2125,446110,Pharmacies and Drug Stores,44,Retail Trade,5.0,1 to 9,Uphams Corner,POINT (-71.068657 42.311928),,4,3
+42.318507,-71.06421,uphams corner health,636 Columbia Rd,2125,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Uphams Corner,POINT (-71.06421 42.318507),,4,3
+42.314832,-71.067645,uphams corner community center,500 Columbia Rd,2125,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,4.0,1 to 9,Uphams Corner,POINT (-71.067645 42.314832),,4,3
+42.31649,-71.066086,uphams chiropractic,560 Columbia Rd,2125,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Uphams Corner,POINT (-71.066086 42.31649),,4,3
+42.311928,-71.068657,upham's home health care,415 Columbia Rd,2125,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,99.0,50 to 99,Uphams Corner,POINT (-71.068657 42.311928),,4,3
+42.315568,-71.06734,upham's crossing,530 Columbia Rd,2125,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Uphams Corner,POINT (-71.06734 42.315568),,4,3
+42.314832,-71.067645,upham's corner municipal,500 Columbia Rd,2125,921120,Legislative Bodies,92,Public Administration,1.0,1 to 9,Uphams Corner,POINT (-71.067645 42.314832),,4,3
+42.315178,-71.066544,upham's corner market,521 Columbia Rd,2125,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.066544 42.315178),,4,3
+42.317482,-71.06488,upham's corner laundromat,600 Columbia Rd,2125,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.06488 42.317482),,4,3
+42.315986,-71.066086,upham's corner human resources,547 Columbia Rd,2125,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Uphams Corner,POINT (-71.066086 42.315986),,4,3
+42.314832,-71.067645,upham's corner health center-business &amp; human resources office,500 Columbia Rd,2125,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Uphams Corner,POINT (-71.067645 42.314832),,4,3
+42.311928,-71.068657,upham's corner health,415 Columbia Rd,2125,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Uphams Corner,POINT (-71.068657 42.311928),,4,3
+42.314832,-71.067645,upham's corner community center inc,500 Columbia Rd,2125,0,,99,Undefined,5.0,1 to 9,Uphams Corner,POINT (-71.067645 42.314832),,4,3
+42.316542,-71.06604,upham house of pizza,566 Columbia Rd,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Uphams Corner,POINT (-71.06604 42.316542),,4,3
+42.31727,-71.066194,universal church,761 Dudley St,2125,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.066194 42.31727),,4,3
+42.314644,-71.060322,tufts convenience,149 Stoughton St,2125,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.060322 42.314644),,4,3
+42.315948,-71.06308,tropical tech inc,5 Everett Ave,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.06308 42.315948),,4,3
+42.313306,-71.065303,tropical grocery store,67 Hancock St,2125,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.065303 42.313306),,4,3
+42.316956,-71.06572,tran jewelry,582 Columbia Rd,2125,448310,Jewelry Stores,44,Retail Trade,3.0,1 to 9,Uphams Corner,POINT (-71.06572 42.316956),,4,3
+42.318776,-71.068127,top dog dumpster rental worchester ma,6 Humphreys Pl,2125,562119,Other Waste Collection,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Uphams Corner,POINT (-71.068127 42.318776),,4,3
+42.317793,-71.067156,tony zee cell phone,729 Dudley St,2125,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Uphams Corner,POINT (-71.067156 42.317793),,4,3
+42.319205,-71.063444,tom's floor sanding,660 Columbia Rd,2125,238330,Flooring Contractors,23,Construction,2.0,1 to 9,Uphams Corner,POINT (-71.063444 42.319205),,4,3
+42.319459,-71.062275,tom s locksmiths grating,683 Columbia Rd,2125,811490,Other Personal and Household Goods Repair and Maintenance,81,Other Services,1.0,1 to 9,Uphams Corner,POINT (-71.062275 42.319459),,4,3
+42.31631,-71.064211,tiny hands enrichment center inc,14 Cushing Ave,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.064211 42.31631),,4,3
+42.317757,-71.064629,thenuvision home improvement,614 Columbia Rd,2125,812990,All Other Personal Services,81,Other Services,1.0,1 to 9,Uphams Corner,POINT (-71.064629 42.317757),,4,3
+42.31631,-71.064211,thec transportation inc,37 Stoughton St,2125,488210,Support Activities for Rail Transportation,48,Transportation and Warehosuing,4.0,1 to 9,Uphams Corner,POINT (-71.064211 42.31631),,4,3
+42.317266,-71.065486,the sip & spoke,786 Dudley St,2125,452319,All Other General Merchandise Stores,45,Retail Trade,0.0,Not Available,Uphams Corner,POINT (-71.065486 42.317266),,4,3
+42.320924,-71.061606,the great wok restaurant,1284 Massachusetts Ave,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Uphams Corner,POINT (-71.061606 42.320924),,4,3
+42.317177,-71.065781,the dollar stop plus,775 Dudley St,2125,452319,All Other General Merchandise Stores,45,Retail Trade,3.0,1 to 9,Uphams Corner,POINT (-71.065781 42.317177),,4,3
+42.315473,-71.061224,tete african hair braiding,114 Stoughton St,2125,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Uphams Corner,POINT (-71.061224 42.315473),,4,3
+42.312969,-71.065195,terra terra restaurant,79 Hancock St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Uphams Corner,POINT (-71.065195 42.312969),,4,3
+42.316959,-71.065581,technical construction services inc,578 Columbia Rd,2125,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,3.0,1 to 9,Uphams Corner,POINT (-71.065581 42.316959),,4,3
+42.317786,-71.067185,t t nails,725 Dudley St,2125,812113,Nail Salons,81,Other Services,1.0,1 to 9,Uphams Corner,POINT (-71.067185 42.317786),,4,3
+42.315883,-71.065601,strand theatre,543 Columbia Rd,2125,512131,Motion Picture Theaters (except Drive-Ins),51,Information,4.0,1 to 9,Uphams Corner,POINT (-71.065601 42.315883),,4,3
+42.316676,-71.064612,stoughton street chiropractic,19 Stoughton St,2125,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Uphams Corner,POINT (-71.064612 42.316676),,4,3
+42.315407,-71.066368,star building service,525 Columbia Rd,2125,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,2.0,1 to 9,Uphams Corner,POINT (-71.066368 42.315407),,4,3
+42.315568,-71.06734,st kevin's school,530 Columbia Rd,2125,611110,Elementary and Secondary Schools,61,Educational Services,15.0,10 to 24,Uphams Corner,POINT (-71.06734 42.315568),,4,3
+42.315172,-71.067342,st kevin's apartments,516 Columbia Rd,2125,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Uphams Corner,POINT (-71.067342 42.315172),,4,3
+42.315086,-71.061399,square medium picture co,123 Stoughton St,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.061399 42.315086),,4,3
+42.312941,-71.068612,spirit & life bible church,444 Columbia Rd,2125,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.068612 42.312941),,4,3
+42.317836,-71.064342,spectrum hair performance,620 Columbia Rd,2125,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.064342 42.317836),,4,3
+42.320239,-71.062504,singh's roti shop,692 Columbia Rd,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Uphams Corner,POINT (-71.062504 42.320239),,4,3
+42.31797,-71.066566,saturno inc,744 Dudley St,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.066566 42.31797),,4,3
+42.31675,-71.0652,santander bank,585 Columbia Rd,2125,522110,Commercial Banking,52,Finance and Insurance,6.0,1 to 9,Uphams Corner,POINT (-71.0652 42.31675),,4,3
+42.31631,-71.064211,saint mary episcopal church,14 Cushing Ave,2125,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.064211 42.31631),,4,3
+42.31631,-71.064211,ruth darling child care center,37 Stoughton St,2125,624410,Child Day Care Services,62,Healthcare and Social Assistance,7.0,1 to 9,Uphams Corner,POINT (-71.064211 42.31631),,4,3
+42.320002,-71.061747,roderick r penney co,695 Columbia Rd,2125,452210,Department Stores,45,Retail Trade,6.0,1 to 9,Uphams Corner,POINT (-71.061747 42.320002),,4,3
+42.319114,-71.062707,rnc painting,667 Columbia Rd,2125,238320,Painting and Wall Covering Contractors,23,Construction,5.0,1 to 9,Uphams Corner,POINT (-71.062707 42.319114),,4,3
+42.315255,-71.066391,rent-a-center,531 Columbia Rd,2125,532289,All Other Consumer Goods Rental,53,Real Estate Rental and Leasing,5.0,1 to 9,Uphams Corner,POINT (-71.066391 42.315255),,4,3
+42.313306,-71.065303,rc partners inc,67 Hancock St,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.065303 42.313306),,4,3
+42.317433,-71.066415,rainbow,749 Dudley St,2125,448120,Women's Clothing Stores,44,Retail Trade,7.0,1 to 9,Uphams Corner,POINT (-71.066415 42.317433),,4,3
+42.318026,-71.066959,professional hair studio,736 Dudley St,2125,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.066959 42.318026),,4,3
+42.317786,-71.067185,primera dama anais beauty salon,725 Dudley St,2125,812112,Beauty Salons,81,Other Services,0.0,Not Available,Uphams Corner,POINT (-71.067185 42.317786),,4,3
+42.317526,-71.065662,prestige tasting co,776 Dudley St,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.065662 42.317526),,4,3
+42.320924,-71.061606,pls financial,1284 Massachusetts Ave,2125,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,7.0,1 to 9,Uphams Corner,POINT (-71.061606 42.320924),,4,3
+42.320924,-71.061606,pls check cashers,1284 Massachusetts Ave,2125,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,10.0,10 to 24,Uphams Corner,POINT (-71.061606 42.320924),,4,3
+42.316703,-71.064822,platinum pleasures,11 Stoughton St,2125,453991,Tobacco Stores,45,Retail Trade,0.0,Not Available,Uphams Corner,POINT (-71.064822 42.316703),,4,3
+42.315737,-71.065951,pink nails,6 Hancock St,2125,812113,Nail Salons,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.065951 42.315737),,4,3
+42.31607,-71.066579,pilgrim shelter,540 Columbia Rd,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.066579 42.31607),,4,3
+42.31607,-71.066579,pilgrim church of dorchester ucc,540 Columbia Rd,2125,813110,Religious Organizations,81,Other Services,4.0,1 to 9,Uphams Corner,POINT (-71.066579 42.31607),,4,3
+42.317793,-71.067156,perello's services corp,729 Dudley St,2125,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Uphams Corner,POINT (-71.067156 42.317793),,4,3
+42.316959,-71.065581,pacific insurance co,578 Columbia Rd,2125,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,2.0,1 to 9,Uphams Corner,POINT (-71.065581 42.316959),,4,3
+42.315255,-71.066391,new york fried chicken & pizza,531 Columbia Rd,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Uphams Corner,POINT (-71.066391 42.315255),,4,3
+42.316533,-71.064396,new testament church of god,25 Stoughton St,2125,813110,Religious Organizations,81,Other Services,1.0,1 to 9,Uphams Corner,POINT (-71.064396 42.316533),,4,3
+42.31797,-71.066566,new ho toy,746 Dudley St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Uphams Corner,POINT (-71.066566 42.31797),,4,3
+42.31797,-71.066566,new garden restaurant,746 Dudley St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Uphams Corner,POINT (-71.066566 42.31797),,4,3
+42.316829,-71.066017,new era protection inc,572 Columbia Rd,2125,561612,Security Guards and Patrol Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",14.0,10 to 24,Uphams Corner,POINT (-71.066017 42.316829),,4,3
+42.315883,-71.065601,new england urban music awards,543 Columbia Rd,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.065601 42.315883),,4,3
+42.31287,-71.068006,navarrette grocery,451 Columbia Rd,2125,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,3.0,1 to 9,Uphams Corner,POINT (-71.068006 42.31287),,4,3
+42.31287,-71.068006,navarrete restaurant,445 Columbia Rd,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Uphams Corner,POINT (-71.068006 42.31287),,4,3
+42.317348,-71.064979,moving from debt to assets,594 Columbia Rd,2125,813319,Other Social Advocacy Organizations,81,Other Services,6.0,1 to 9,Uphams Corner,POINT (-71.064979 42.317348),,4,3
+42.314093,-71.067994,mountain fire miracle ministries,478 Columbia Rd,2125,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.067994 42.314093),,4,3
+42.313816,-71.065031,melanin magnificent,54 Hancock St,2125,454110,Electronic Shopping and Mail-Order Houses,45,Retail Trade,193.0,100+,Uphams Corner,POINT (-71.065031 42.313816),,4,3
+42.315011,-71.061234,mattos company inc,125 Stoughton St,2125,423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",42,Wholesale Trade,0.0,Not Available,Uphams Corner,POINT (-71.061234 42.315011),,4,3
+42.31631,-71.064211,massachusetts communities,14 Cushing Ave,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.064211 42.31631),,4,3
+42.316775,-71.064934,massachusetts alliance,1 Stoughton St,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.064934 42.316775),,4,3
+42.31797,-71.066566,mario's party,744 Dudley St,2125,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,3.0,1 to 9,Uphams Corner,POINT (-71.066566 42.31797),,4,3
+42.316775,-71.064934,maps,1 Stoughton St,2125,813319,Other Social Advocacy Organizations,81,Other Services,4.0,1 to 9,Uphams Corner,POINT (-71.064934 42.316775),,4,3
+42.317348,-71.064979,manifested events llc,594 Columbia Rd,2125,0,,99,Undefined,5.0,1 to 9,Uphams Corner,POINT (-71.064979 42.317348),,4,3
+42.31797,-71.066566,lucky one restaurant inc,746 Dudley St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Uphams Corner,POINT (-71.066566 42.31797),,4,3
+42.320676,-71.061971,living stream,1299 Massachusetts Ave,2125,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.061971 42.320676),,4,3
+42.316622,-71.06462,liberty tax service,21 Stoughton St,2125,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Uphams Corner,POINT (-71.06462 42.316622),,4,3
+42.315692,-71.06634,level ground mixed martial,527 Columbia Rd,2125,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,Uphams Corner,POINT (-71.06634 42.315692),,4,3
+42.317689,-71.067017,lee brothers liquors inc,735 Dudley St,2125,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,3.0,1 to 9,Uphams Corner,POINT (-71.067017 42.317689),,4,3
+42.320103,-71.062672,laura's place,688 Columbia Rd,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Uphams Corner,POINT (-71.062672 42.320103),,4,3
+42.315097,-71.065832,las americas barber shop,18 Hancock St,2125,812111,Barber Shops,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.065832 42.315097),,4,3
+42.320002,-71.061747,kfc,695 Columbia Rd,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,17.0,10 to 24,Uphams Corner,POINT (-71.061747 42.320002),,4,3
+42.312977,-71.065195,jrjj fernandez inc,81 Hancock St,2125,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Uphams Corner,POINT (-71.065195 42.312977),,4,3
+42.312941,-71.068612,jinix salon,444 Columbia Rd,2125,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.068612 42.312941),,4,3
+42.31797,-71.066566,jerusalem furniture,748 Dudley St,2125,442110,Furniture Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.066566 42.31797),,4,3
+42.317786,-71.067185,jackson's barbershop llc,733 Dudley St,2125,812111,Barber Shops,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.067185 42.317786),,4,3
+42.318328,-71.067112,jackson food market,728 Dudley St,2125,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.067112 42.318328),,4,3
+42.315246,-71.065807,inner-city glass,14 Hancock St,2125,444190,Other Building Material Dealers,44,Retail Trade,1.0,1 to 9,Uphams Corner,POINT (-71.065807 42.315246),,4,3
+42.312941,-71.068612,iglesia el poder de la fe,444 Columbia Rd,2125,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.068612 42.312941),,4,3
+42.316542,-71.06604,i v adelphia inc,566 Columbia Rd,2125,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Uphams Corner,POINT (-71.06604 42.316542),,4,3
+42.317482,-71.06488,heath properties,600 Columbia Rd,2125,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Uphams Corner,POINT (-71.06488 42.317482),,4,3
+42.317757,-71.064629,hearth,614 Columbia Rd,2125,531311,Residential Property Managers,53,Real Estate Rental and Leasing,19.0,10 to 24,Uphams Corner,POINT (-71.064629 42.317757),,4,3
+42.312431,-71.064528,hancock street market & multi,95 Hancock St,2125,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.064528 42.312431),,4,3
+42.312431,-71.064528,hancock market,95 Hancock St,2125,541219,Other Accounting Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Uphams Corner,POINT (-71.064528 42.312431),,4,3
+42.312977,-71.065195,hancock liquor mart,81 Hancock St,2125,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,3.0,1 to 9,Uphams Corner,POINT (-71.065195 42.312977),,4,3
+42.312879,-71.065026,hancock laundry,77 Hancock St,2125,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.065026 42.312879),,4,3
+42.312977,-71.065195,hancock laundry,81 Hancock St,2125,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.065195 42.312977),,4,3
+42.316415,-71.066273,h&r block,562 Columbia Rd,2125,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Uphams Corner,POINT (-71.066273 42.316415),,4,3
+42.317482,-71.06488,h brown & associates,600 Columbia Rd,2125,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Uphams Corner,POINT (-71.06488 42.317482),,4,3
+42.317348,-71.064979,greater boston interfaith orgn,594 Columbia Rd,2125,813319,Other Social Advocacy Organizations,81,Other Services,4.0,1 to 9,Uphams Corner,POINT (-71.064979 42.317348),,4,3
+42.318369,-71.067608,good shepherd pentecostal church,720 Dudley St,2125,813110,Religious Organizations,81,Other Services,1.0,1 to 9,Uphams Corner,POINT (-71.067608 42.318369),,4,3
+42.315035,-71.065598,global pc computer service,20 Hancock St,2125,811212,Computer and Office Machine Repair and Maintenance,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.065598 42.315035),,4,3
+42.314393,-71.065306,global barber shop,40 Hancock St,2125,812111,Barber Shops,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.065306 42.314393),,4,3
+42.31786,-71.063656,glass medic co,619 Columbia Rd,2125,444190,Other Building Material Dealers,44,Retail Trade,1.0,1 to 9,Uphams Corner,POINT (-71.063656 42.31786),,4,3
+42.31797,-71.066566,fu gui inc,746 Dudley St,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.066566 42.31797),,4,3
+42.315255,-71.066391,frugal furniture of dorchester,531 Columbia Rd,2125,442110,Furniture Stores,44,Retail Trade,3.0,1 to 9,Uphams Corner,POINT (-71.066391 42.315255),,4,3
+42.317857,-71.066372,friendly community insurance agency,750 Dudley St,2125,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,5.0,1 to 9,Uphams Corner,POINT (-71.066372 42.317857),,4,3
+42.317154,-71.06575,foot locker,779 Dudley St,2125,448210,Shoe Stores,44,Retail Trade,7.0,1 to 9,Uphams Corner,POINT (-71.06575 42.317154),,4,3
+42.314449,-71.067838,floyd a. williams funeral home,490 Columbia Rd,2125,812210,Funeral Homes and Funeral Services,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.067838 42.314449),,4,3
+42.312977,-71.065195,fernandez liquor,81 Hancock St,2125,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Uphams Corner,POINT (-71.065195 42.312977),,4,3
+42.316546,-71.066112,fantasy nails,564 Columbia Rd,2125,812113,Nail Salons,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.066112 42.316546),,4,3
+42.317348,-71.064979,fairmont innovation lab/art morpheus,594 Columbia Rd,2125,561499,All Other Business Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Uphams Corner,POINT (-71.064979 42.317348),,4,3
+42.31607,-71.066579,fair foods inc,540 Columbia Rd,2125,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,10.0,10 to 24,Uphams Corner,POINT (-71.066579 42.31607),,4,3
+42.317276,-71.06513,fabwright origins,592 Columbia Rd,2125,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Uphams Corner,POINT (-71.06513 42.317276),,4,3
+42.31797,-71.066566,dudley's seafood market,744 Dudley St,2125,445220,Fish and Seafood Markets,44,Retail Trade,3.0,1 to 9,Uphams Corner,POINT (-71.066566 42.31797),,4,3
+42.316703,-71.064822,dublin house inc,7 Stoughton St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Uphams Corner,POINT (-71.064822 42.316703),,4,3
+42.315986,-71.066086,dorchester wic program,547 Columbia Rd,2125,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Uphams Corner,POINT (-71.066086 42.315986),,4,3
+42.317348,-71.064979,dorchester bay economic development,594 Columbia Rd,2125,541910,Marketing Research and Public Opinion Polling,54,"Professional, Scientific, and Technical Services",25.0,25 to 49,Uphams Corner,POINT (-71.064979 42.317348),,4,3
+42.315432,-71.061185,dora taqueria,112 Stoughton St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Uphams Corner,POINT (-71.061185 42.315432),,4,3
+42.317177,-71.065811,discount shoes store,773 Dudley St,2125,448210,Shoe Stores,44,Retail Trade,5.0,1 to 9,Uphams Corner,POINT (-71.065811 42.317177),,4,3
+42.314644,-71.060322,delicias restaurant,149 Stoughton St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Uphams Corner,POINT (-71.060322 42.314644),,4,3
+42.314644,-71.060322,delicias del caribe,149 Stoughton St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Uphams Corner,POINT (-71.060322 42.314644),,4,3
+42.317348,-71.064979,dbedc,594 Columbia Rd,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.064979 42.317348),,4,3
+42.317348,-71.064979,d b cottage brook inc,594 Columbia Rd,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.064979 42.317348),,4,3
+42.317348,-71.064979,d b commercial inc,594 Columbia Rd,2125,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Uphams Corner,POINT (-71.064979 42.317348),,4,3
+42.317486,-71.065555,cvs pharmacy,778 Dudley St,2125,446110,Pharmacies and Drug Stores,44,Retail Trade,30.0,25 to 49,Uphams Corner,POINT (-71.065555 42.317486),,4,3
+42.315473,-71.061224,creole international style,114A Stoughton St,2125,812111,Barber Shops,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.061224 42.315473),,4,3
+42.317171,-71.063597,contacto cristiano,50 Stoughton St,2125,443142,Electronics Stores,44,Retail Trade,5.0,1 to 9,Uphams Corner,POINT (-71.063597 42.317171),,4,3
+42.317046,-71.065824,consuelo's beauty salon,767 Dudley St,2125,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Uphams Corner,POINT (-71.065824 42.317046),,4,3
+42.314393,-71.065306,complex consulting llc,40 Hancock St,2125,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Uphams Corner,POINT (-71.065306 42.314393),,4,3
+42.315407,-71.066368,communications center inc,525 Columbia Rd,2125,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Uphams Corner,POINT (-71.066368 42.315407),,4,3
+42.318623,-71.063123,columbia dental,653 Columbia Rd,2125,621210,Offices of Dentists,62,Healthcare and Social Assistance,10.0,10 to 24,Uphams Corner,POINT (-71.063123 42.318623),,4,3
+42.318623,-71.063123,columbia chiropractic,653 Columbia Rd,2125,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,12.0,10 to 24,Uphams Corner,POINT (-71.063123 42.318623),,4,3
+42.317757,-71.064629,city school,614 Columbia Rd,2125,624110,Child and Youth Services,62,Healthcare and Social Assistance,9.0,1 to 9,Uphams Corner,POINT (-71.064629 42.317757),,4,3
+42.314832,-71.067645,city roots-dorchester,500 Columbia Rd,2125,921120,Legislative Bodies,92,Public Administration,10.0,10 to 24,Uphams Corner,POINT (-71.067645 42.314832),,4,3
+42.314644,-71.060322,city electronics,151 Stoughton St,2125,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,7.0,1 to 9,Uphams Corner,POINT (-71.060322 42.314644),,4,3
+42.316936,-71.06575,citizens bank,580 Columbia Rd,2125,522110,Commercial Banking,52,Finance and Insurance,9.0,1 to 9,Uphams Corner,POINT (-71.06575 42.316936),,4,3
+42.315407,-71.066368,christopher kokoras insurance agency,525 Columbia Rd,2125,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Uphams Corner,POINT (-71.066368 42.315407),,4,3
+42.317171,-71.063597,christ the king dorchester,50 Stoughton St,2125,813110,Religious Organizations,81,Other Services,4.0,1 to 9,Uphams Corner,POINT (-71.063597 42.317171),,4,3
+42.318811,-71.062843,christ our hope international ministries,661 Columbia Rd,2125,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Uphams Corner,POINT (-71.062843 42.318811),,4,3
+42.316141,-71.065842,ceasar garage doors,551 Columbia Rd,2125,444190,Other Building Material Dealers,44,Retail Trade,5.0,1 to 9,Uphams Corner,POINT (-71.065842 42.316141),,4,3
+42.320168,-71.062583,cape verdean liquors,690 Columbia Rd,2125,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,1.0,1 to 9,Uphams Corner,POINT (-71.062583 42.320168),,4,3
+42.314655,-71.065416,cape verdean adult day health inc,34 Hancock St,2125,624120,Services for the Elderly and Persons with Disabilities,62,Healthcare and Social Assistance,9.0,1 to 9,Uphams Corner,POINT (-71.065416 42.314655),,4,3
+42.315737,-71.065951,canton house,6 Hancock St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Uphams Corner,POINT (-71.065951 42.315737),,4,3
+42.317526,-71.065662,brothers market,776 Dudley St,2125,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,20.0,10 to 24,Uphams Corner,POINT (-71.065662 42.317526),,4,3
+42.317757,-71.064629,bridgestone properties llc,618 Columbia Rd,2125,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Uphams Corner,POINT (-71.064629 42.317757),,4,3
+42.31649,-71.066086,boston spine clinics,560 Columbia Rd,2125,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Uphams Corner,POINT (-71.066086 42.31649),,4,3
+42.311928,-71.068657,boston medical center,415 Columbia Rd,2125,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,12.0,10 to 24,Uphams Corner,POINT (-71.068657 42.311928),,4,3
+42.316959,-71.065581,boston mechanical service,578 Columbia Rd,2125,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,10.0,10 to 24,Uphams Corner,POINT (-71.065581 42.316959),,4,3
+42.314832,-71.067645,bird street community center,500 Columbia Rd,2125,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",30.0,25 to 49,Uphams Corner,POINT (-71.067645 42.314832),,4,3
+42.316141,-71.065842,bilinguals,551 Columbia Rd,2125,541930,Translation and Interpretation Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Uphams Corner,POINT (-71.065842 42.316141),,4,3
+42.315246,-71.065807,bigoteria gallery,14B Hancock St,2125,453920,Art Dealers,45,Retail Trade,3.0,1 to 9,Uphams Corner,POINT (-71.065807 42.315246),,4,3
+42.318344,-71.067362,bess boutique inc,722 Dudley St,2125,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.067362 42.318344),,4,3
+42.316546,-71.066112,beauty nails 2,564 Columbia Rd,2125,812113,Nail Salons,81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.066112 42.316546),,4,3
+42.317605,-71.064644,avalon law offices pc,612 Columbia Rd,2125,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Uphams Corner,POINT (-71.064644 42.317605),,4,3
+42.317399,-71.064348,atco supply co inc,617 Columbia Rd,2125,423850,Service Establishment Equipment and Supplies Merchant Wholesalers,42,Wholesale Trade,31.0,25 to 49,Uphams Corner,POINT (-71.064348 42.317399),,4,3
+42.317348,-71.064979,artmorpheus inc,594 Columbia Rd,2125,611610,Fine Arts Schools,61,Educational Services,0.0,Not Available,Uphams Corner,POINT (-71.064979 42.317348),,4,3
+42.315883,-71.065601,armstrong interactive inc,543 Columbia Rd,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.065601 42.315883),,4,3
+42.315815,-71.062664,archana corp,77 Stoughton St,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.062664 42.315815),,4,3
+42.317482,-71.06488,araujo coin op laundromat,600 Columbia Rd,2125,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,1.0,1 to 9,Uphams Corner,POINT (-71.06488 42.317482),,4,3
+42.31786,-71.063656,anthony's auto repair,619 Columbia Rd,2125,811121,"Automotive Body, Paint, and Interior Repair and Maintenance",81,Other Services,2.0,1 to 9,Uphams Corner,POINT (-71.063656 42.31786),,4,3
+42.316437,-71.066132,andy's cafe,554 Columbia Rd,2125,812112,Beauty Salons,81,Other Services,8.0,1 to 9,Uphams Corner,POINT (-71.066132 42.316437),,4,3
+42.316076,-71.065807,amado enterprises inc,545 Columbia Rd,2125,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Uphams Corner,POINT (-71.065807 42.316076),,4,3
+42.317857,-71.066372,amado enterprises inc,750 Dudley St,2125,541930,Translation and Interpretation Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Uphams Corner,POINT (-71.066372 42.317857),,4,3
+42.314832,-71.060758,all season fashion bridal,147 Stoughton St,2125,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.060758 42.314832),,4,3
+42.314644,-71.060322,alaman & sohib inc,149 Stoughton St,2125,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.060322 42.314644),,4,3
+42.318328,-71.067112,al amin enterprises inc,728 Dudley St,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.067112 42.318328),,4,3
+42.317799,-71.064415,aaron's,616 Columbia Rd,2125,532289,All Other Consumer Goods Rental,53,Real Estate Rental and Leasing,6.0,1 to 9,Uphams Corner,POINT (-71.064415 42.317799),,4,3
+42.319459,-71.062275,a1 fire escape & iron works,683 Columbia Rd,2125,332323,Ornamental and Architectural Metal Work Manufacturing,33,Manufacturing,1.0,1 to 9,Uphams Corner,POINT (-71.062275 42.319459),,4,3
+42.316437,-71.066132,a family affair restaurant,554 Columbia Rd,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Uphams Corner,POINT (-71.066132 42.316437),,4,3
+42.317669,-71.065941,99 cents store,770 Dudley St,2125,442110,Furniture Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.065941 42.317669),,4,3
+42.315035,-71.065598,911 service,20 Hancock St,2125,561720,Janitorial Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Uphams Corner,POINT (-71.065598 42.315035),,4,3
+42.319899,-71.061171,7-eleven,187 E Cottage St,2125,445120,Convenience Stores,44,Retail Trade,7.0,1 to 9,Uphams Corner,POINT (-71.061171 42.319899),,4,3
+42.313306,-71.065303,67 hancock streetinc,67 Hancock St,2125,0,,99,Undefined,0.0,Not Available,Uphams Corner,POINT (-71.065303 42.313306),,4,3
+42.314393,-71.065306,40 hancock,40 Hancock St,2125,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,Uphams Corner,POINT (-71.065306 42.314393),,4,3
+42.315432,-71.061185,taty's kitchen & bakery,112 Stoughton St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Uphams Corner,POINT (-71.061185 42.315432),,4,3
+42.317857,-71.066372,paraiso restaurant,756 Dudley St,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Uphams Corner,POINT (-71.066372 42.317857),,4,3
+42.314373,-71.067065,calhess restoration,495 Columbia Rd,2125,236118,Residential Remodelers,23,Construction,3.0,1 to 9,Uphams Corner,POINT (-71.067065 42.314373),,4,3
+42.315876,-71.065994,boston pizza inc,541 Columbia Rd,2125,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Uphams Corner,POINT (-71.065994 42.315876),,4,3
+42.312969,-71.065195,ana's capeverde,79 Hancock St,2125,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,Uphams Corner,POINT (-71.065195 42.312969),,4,3
+42.300866,-71.05975,yuen bbq,1456 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.05975 42.300866),,4,3
+42.300866,-71.05975,yuen barbecue restaurant,1456 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.05975 42.300866),,4,3
+42.301056,-71.059729,young peoples project,1452 Dorchester Ave,2122,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.301056,-71.059729,workbar-central square,1452 Dorchester Ave,2122,531312,Nonresidential Property Managers,53,Real Estate Rental and Leasing,0.0,Not Available,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.304463,-71.059947,wic fields corner,1353 Dorchester Ave,2122,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Fields Corner,POINT (-71.059947 42.304463),,4,3
+42.302479,-71.059361,western union agent location,1420 Dorchester Ave,2122,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,Fields Corner,POINT (-71.059361 42.302479),,4,3
+42.302083,-71.05918,west insurance of ma,1428 Dorchester Ave,2122,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,9.0,1 to 9,Fields Corner,POINT (-71.05918 42.302083),,4,3
+42.300869,-71.059769,wellness management center,1458 Dorchester Ave,2122,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,7.0,1 to 9,Fields Corner,POINT (-71.059769 42.300869),,4,3
+42.301505,-71.059463,vo kim law office,1444 Dorchester Ave,2122,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Fields Corner,POINT (-71.059463 42.301505),,4,3
+42.301056,-71.059729,visions inc,1452 Dorchester Ave,2122,541612,Human Resources Consulting Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.303051,-71.059685,vinhs tv,1409 Dorchester Ave,2122,811211,Consumer Electronics Repair and Maintenance,81,Other Services,1.0,1 to 9,Fields Corner,POINT (-71.059685 42.303051),,4,3
+42.306537,-71.058867,vinadirect inc,1291 Dorchester Ave,2122,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,5.0,1 to 9,Fields Corner,POINT (-71.058867 42.306537),,4,3
+42.301056,-71.059729,"vigorous interventions in ongoing natural settings, inc",1452 Dorchester Ave,2122,0,,99,Undefined,10.0,10 to 24,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.303987,-71.059463,vietnamese american thang long,1365 Dorchester Ave,2122,813311,Human Rights Organizations,81,Other Services,4.0,1 to 9,Fields Corner,POINT (-71.059463 42.303987),,4,3
+42.302893,-71.059775,very berry frozen yogurt,1413 Dorchester Ave,2122,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,9.0,1 to 9,Fields Corner,POINT (-71.059775 42.302893),,4,3
+42.303953,-71.059055,van le law pc,1370 Dorchester Ave,2122,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.303987,-71.059463,v n travel & tour,1365 Dorchester Ave,2122,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,Fields Corner,POINT (-71.059463 42.303987),,4,3
+42.301586,-71.059802,usps,218 Adams St,2122,491110,Postal Service,49,Transportation and Warehosuing,35.0,25 to 49,Fields Corner,POINT (-71.059802 42.301586),,4,3
+42.30747,-71.058635,us autocare,1271 Dorchester Ave,2122,811212,Computer and Office Machine Repair and Maintenance,81,Other Services,2.0,1 to 9,Fields Corner,POINT (-71.058635 42.30747),,4,3
+42.302036,-71.059308,ups access point location,1432 Dorchester Ave,2122,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",10.0,10 to 24,Fields Corner,POINT (-71.059308 42.302036),,4,3
+42.301148,-71.060102,turtle screen,1457 Dorchester Ave,2122,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,5.0,1 to 9,Fields Corner,POINT (-71.060102 42.301148),,4,3
+42.306166,-71.058945,troung thinh 2,1305 Dorchester Ave,2122,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Fields Corner,POINT (-71.058945 42.306166),,4,3
+42.30747,-71.058635,triple a auto tech,1271 Dorchester Ave,2122,811111,General Automotive Repair,81,Other Services,10.0,10 to 24,Fields Corner,POINT (-71.058635 42.30747),,4,3
+42.303051,-71.059685,trendy hair studio,1409 Dorchester Ave,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Fields Corner,POINT (-71.059685 42.303051),,4,3
+42.30611,-71.058538,tnt boston llc,1300 Dorchester Ave,2122,515112,Radio Stations,51,Information,8.0,1 to 9,Fields Corner,POINT (-71.058538 42.30611),,4,3
+42.30611,-71.058538,tieng nuoc toi boston,1300 Dorchester Ave,2122,515120,Television Broadcasting,51,Information,3.0,1 to 9,Fields Corner,POINT (-71.058538 42.30611),,4,3
+42.305241,-71.059189,thao ngoc restaurant,1331 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.059189 42.305241),,4,3
+42.302338,-71.059996,thanh danh multi service,184 Adams St,2122,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Fields Corner,POINT (-71.059996 42.302338),,4,3
+42.307125,-71.058835,thai binh jewelry,1281 Dorchester Ave,2122,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Fields Corner,POINT (-71.058835 42.307125),,4,3
+42.302479,-71.059361,tedeschi food shops,1420 Dorchester Ave,2122,445120,Convenience Stores,44,Retail Trade,4.0,1 to 9,Fields Corner,POINT (-71.059361 42.302479),,4,3
+42.306875,-71.058869,tech auto repair inc,1287 Dorchester Ave,2122,811111,General Automotive Repair,81,Other Services,4.0,1 to 9,Fields Corner,POINT (-71.058869 42.306875),,4,3
+42.303723,-71.059587,t d design build inc,1377 Dorchester Ave,2122,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Fields Corner,POINT (-71.059587 42.303723),,4,3
+42.300851,-71.060284,structure beauty,1 Charles St,2122,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Fields Corner,POINT (-71.060284 42.300851),,4,3
+42.301056,-71.059729,special e fx hair studio,1454 Dorchester Ave,2122,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.301056,-71.059729,social good marketing,1452 Dorchester Ave,2122,541613,Marketing Consulting Services,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.30154,-71.059578,smoke shop,216 Adams St,2122,453991,Tobacco Stores,45,Retail Trade,4.0,1 to 9,Fields Corner,POINT (-71.059578 42.30154),,4,3
+42.302083,-71.05918,smile studio pllc,1428 Dorchester Ave,2122,621210,Offices of Dentists,62,Healthcare and Social Assistance,0.0,Not Available,Fields Corner,POINT (-71.05918 42.302083),,4,3
+42.30168,-71.059574,santander bank,1442 Dorchester Ave,2122,522110,Commercial Banking,52,Finance and Insurance,6.0,1 to 9,Fields Corner,POINT (-71.059574 42.30168),,4,3
+42.301419,-71.06009,saigon chicken house,223 Adams St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.06009 42.301419),,4,3
+42.30611,-71.058538,saigon central post inc,1300 Dorchester Ave,2122,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,1.0,1 to 9,Fields Corner,POINT (-71.058538 42.30611),,4,3
+42.301056,-71.059729,safety auto school,1452 Dorchester Ave,2122,611692,Automobile Driving Schools,61,Educational Services,3.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.301056,-71.059729,ryk studio,1452 Dorchester Ave,2122,0,,99,Undefined,0.0,Not Available,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.303953,-71.059055,reign hospitality group inc,1370 Dorchester Ave,2122,721110,Hotels (except Casino Hotels) and Motels,72,Accommodation and Food Services,13.0,10 to 24,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.303953,-71.059055,reign drink lab,1370 Dorchester Ave,2122,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.302083,-71.05918,prime real estate sales,1428 Dorchester Ave,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Fields Corner,POINT (-71.05918 42.302083),,4,3
+42.301699,-71.059942,phuong's hair salon,1499 Dorchester Ave,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Fields Corner,POINT (-71.059942 42.301699),,4,3
+42.302114,-71.059896,phung porzio studio of architecture,204 Adams St,2122,327215,Glass Product Manufacturing Made of Purchased Glass,32,Manufacturing,2.0,1 to 9,Fields Corner,POINT (-71.059896 42.302114),,4,3
+42.301419,-71.06009,pho so 1 boston,223 Adams St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.06009 42.301419),,4,3
+42.304461,-71.058939,pho le restaurant,1356 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,18.0,10 to 24,Fields Corner,POINT (-71.058939 42.304461),,4,3
+42.303953,-71.059055,pho hoa restaurant,1370 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.302314,-71.059861,pho 2000,198 Adams St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Fields Corner,POINT (-71.059861 42.302314),,4,3
+42.303723,-71.059587,peoples tax service llc,1377 Dorchester Ave,2122,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Fields Corner,POINT (-71.059587 42.303723),,4,3
+42.305859,-71.058577,peggy o'neil's,1310 Dorchester Ave,2122,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,3.0,1 to 9,Fields Corner,POINT (-71.058577 42.305859),,4,3
+42.301056,-71.059729,patrick long law firm,1452 Dorchester Ave,2122,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.303471,-71.059655,p j bait & tackle inc,1397 Dorchester Ave,2122,451110,Sporting Goods Stores,45,Retail Trade,5.0,1 to 9,Fields Corner,POINT (-71.059655 42.303471),,4,3
+42.303471,-71.059655,p & j bait shop,1397 Dorchester Ave,2122,451110,Sporting Goods Stores,45,Retail Trade,2.0,1 to 9,Fields Corner,POINT (-71.059655 42.303471),,4,3
+42.30611,-71.058538,ortiz grocery,1300 Dorchester Ave,2122,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Fields Corner,POINT (-71.058538 42.30611),,4,3
+42.302033,-71.059877,nha trang video gift shop,200 Adams St,2122,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,3.0,1 to 9,Fields Corner,POINT (-71.059877 42.302033),,4,3
+42.303471,-71.059655,ngocloi jewelery inc,1391 Dorchester Ave,2122,448310,Jewelry Stores,44,Retail Trade,1.0,1 to 9,Fields Corner,POINT (-71.059655 42.303471),,4,3
+42.304463,-71.059947,new england physical therapy pls,1353 Dorchester Ave,2122,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,4.0,1 to 9,Fields Corner,POINT (-71.059947 42.304463),,4,3
+42.302097,-71.059845,nare african hair braiding,1437 Dorchester Ave,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Fields Corner,POINT (-71.059845 42.302097),,4,3
+42.300982,-71.060209,my xuyen gift shop,1459 Dorchester Ave,2122,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,7.0,1 to 9,Fields Corner,POINT (-71.060209 42.300982),,4,3
+42.300982,-71.060209,mx co,1459 Dorchester Ave,2122,0,,99,Undefined,0.0,Not Available,Fields Corner,POINT (-71.060209 42.300982),,4,3
+42.304463,-71.059947,motion p t group,1353 Dorchester Ave,2122,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,4.0,1 to 9,Fields Corner,POINT (-71.059947 42.304463),,4,3
+42.301896,-71.0603,mofongo house restaurant,203 Adams St,2122,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,3.0,1 to 9,Fields Corner,POINT (-71.0603 42.301896),,4,3
+42.301056,-71.059729,mobile cuts,1452 Dorchester Ave,2122,812111,Barber Shops,81,Other Services,2.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.304486,-71.058876,miracle hardwood floors,1350 Dorchester Ave,2122,236118,Residential Remodelers,23,Construction,3.0,1 to 9,Fields Corner,POINT (-71.058876 42.304486),,4,3
+42.303953,-71.059055,mihelle rogers counseling,1370 Dorchester Ave,2122,624110,Child and Youth Services,62,Healthcare and Social Assistance,6.0,1 to 9,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.302554,-71.059815,metropolitan dental center,1417 Dorchester Ave,2122,621210,Offices of Dentists,62,Healthcare and Social Assistance,2.0,1 to 9,Fields Corner,POINT (-71.059815 42.302554),,4,3
+42.303987,-71.059463,maxim pharmacy,1365 Dorchester Ave,2122,446110,Pharmacies and Drug Stores,44,Retail Trade,6.0,1 to 9,Fields Corner,POINT (-71.059463 42.303987),,4,3
+42.301505,-71.059463,master mice proofing,1446 Dorchester Ave,2122,561710,Exterminating and Pest Control Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Fields Corner,POINT (-71.059463 42.301505),,4,3
+42.301056,-71.059729,massachusetts bail fund inc,2161 Massachusetts Ave,2140,812990,All Other Personal Services,81,Other Services,8.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.302114,-71.059896,mass temp,204 Adams St,2122,561421,Telephone Answering Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Fields Corner,POINT (-71.059896 42.302114),,4,3
+42.30724,-71.058274,martinez tires inc,1274 Dorchester Ave,2122,441320,Tire Dealers,44,Retail Trade,3.0,1 to 9,Fields Corner,POINT (-71.058274 42.30724),,4,3
+42.302033,-71.059877,m v cosmetics,200 Adams St,2122,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,3.0,1 to 9,Fields Corner,POINT (-71.059877 42.302033),,4,3
+42.301945,-71.060226,lynnes liquors,197 Adams St,2122,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Fields Corner,POINT (-71.060226 42.301945),,4,3
+42.301176,-71.060095,lynne liquid,1445 Dorchester Ave,2122,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Fields Corner,POINT (-71.060095 42.301176),,4,3
+42.306639,-71.058496,luca sign,1286 Dorchester Ave,2122,541890,Other Services Related to Advertising,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Fields Corner,POINT (-71.058496 42.306639),,4,3
+42.301056,-71.059729,louis d brown peace institute,1452 Dorchester Ave,2122,813311,Human Rights Organizations,81,Other Services,3.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.302114,-71.059896,loi hiep tax,204 Adams St,2122,541219,Other Accounting Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Fields Corner,POINT (-71.059896 42.302114),,4,3
+42.302893,-71.059775,lexor store,1411 Dorchester Ave,2122,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,2.0,1 to 9,Fields Corner,POINT (-71.059775 42.302893),,4,3
+42.304557,-71.05892,le nominee trust,1352 Dorchester Ave,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Fields Corner,POINT (-71.05892 42.304557),,4,3
+42.301901,-71.05989,kimmy pharmacy,1435 Dorchester Ave,2122,446110,Pharmacies and Drug Stores,44,Retail Trade,2.0,1 to 9,Fields Corner,POINT (-71.05989 42.301901),,4,3
+42.301047,-71.059729,kimi hair studio,1448 Dorchester Ave,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Fields Corner,POINT (-71.059729 42.301047),,4,3
+42.305415,-71.059182,kiets auto repair,1325 Dorchester Ave,2122,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Fields Corner,POINT (-71.059182 42.305415),,4,3
+42.303987,-71.059463,khanh's hair salon,1365 Dorchester Ave,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Fields Corner,POINT (-71.059463 42.303987),,4,3
+42.301056,-71.059729,just in time tax service,1452 Dorchester Ave,2122,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.303429,-71.059143,jetbees computer services dorchester,1392 Dorchester Ave,2122,511210,Software Publishers,51,Information,10.0,10 to 24,Fields Corner,POINT (-71.059143 42.303429),,4,3
+42.301956,-71.060242,imad corp,199 Adams St,2122,511210,Software Publishers,51,Information,10.0,10 to 24,Fields Corner,POINT (-71.060242 42.301956),,4,3
+42.301419,-71.06009,huy hoang corp,223 Adams St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.06009 42.301419),,4,3
+42.302893,-71.059775,huy hoang cargo,1413 Dorchester Ave,2122,488320,Marine Cargo Handling,48,Transportation and Warehosuing,2.0,1 to 9,Fields Corner,POINT (-71.059775 42.302893),,4,3
+42.303953,-71.059055,hoang vu dental care inc,1370 Dorchester Ave,2122,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.302559,-71.059738,hoang my jewelry,1425 Dorchester Ave,2122,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Fields Corner,POINT (-71.059738 42.302559),,4,3
+42.303953,-71.059055,h d tax & travel service,1370 Dorchester Ave,2122,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.302083,-71.05918,guerrier insurance agency,1637 Blue Hill Ave,2126,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,1.0,1 to 9,Fields Corner,POINT (-71.05918 42.302083),,4,3
+42.301056,-71.059729,greater investments real estate,1452 Dorchester Ave,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.301056,-71.059729,genesis equity realty llc,1452 Dorchester Ave,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.301056,-71.059729,fourteen forty eight ave llc,1452 Dorchester Ave,2122,0,,99,Undefined,0.0,Not Available,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.301956,-71.060242,food land,199 Adams St,2122,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Fields Corner,POINT (-71.060242 42.301956),,4,3
+42.303953,-71.059055,first eastern mortgage,1370 Dorchester Ave,2122,522292,Real Estate Credit,52,Finance and Insurance,7.0,1 to 9,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.301505,-71.059463,fields corner main street inc,1444 Dorchester Ave,2122,813410,Civic and Social Organizations,81,Other Services,6.0,1 to 9,Fields Corner,POINT (-71.059463 42.301505),,4,3
+42.303429,-71.059143,fields corner glass co,1386 Dorchester Ave,2122,811122,Automotive Glass Replacement Shops,81,Other Services,6.0,1 to 9,Fields Corner,POINT (-71.059143 42.303429),,4,3
+42.302097,-71.059845,fields corner chiropractic,1437 Dorchester Ave,2122,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Fields Corner,POINT (-71.059845 42.302097),,4,3
+42.30201,-71.060265,fields corner cdc,195 Adams St,2122,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",10.0,10 to 24,Fields Corner,POINT (-71.060265 42.30201),,4,3
+42.300982,-71.060209,fields corner cafe,1459 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Fields Corner,POINT (-71.060209 42.300982),,4,3
+42.302033,-71.059877,fields corner barber,200 Adams St,2122,812111,Barber Shops,81,Other Services,2.0,1 to 9,Fields Corner,POINT (-71.059877 42.302033),,4,3
+42.304463,-71.059947,federated dorchester,1353 Dorchester Ave,2122,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Fields Corner,POINT (-71.059947 42.304463),,4,3
+42.300758,-71.059784,family dentistry,1470 Dorchester Ave,2122,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,Fields Corner,POINT (-71.059784 42.300758),,4,3
+42.301505,-71.059463,family dental care,1444 Dorchester Ave,2122,621210,Offices of Dentists,62,Healthcare and Social Assistance,4.0,1 to 9,Fields Corner,POINT (-71.059463 42.301505),,4,3
+42.301197,-71.060497,er physical therapy,1443A Dorchester Ave,2122,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,4.0,1 to 9,Fields Corner,POINT (-71.060497 42.301197),,4,3
+42.301505,-71.059463,easy wireless,1446 Dorchester Ave,2122,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,1.0,1 to 9,Fields Corner,POINT (-71.059463 42.301505),,4,3
+42.301375,-71.059567,e v kids,218 Adams St,2122,813319,Other Social Advocacy Organizations,81,Other Services,14.0,10 to 24,Fields Corner,POINT (-71.059567 42.301375),,4,3
+42.301505,-71.059463,e & e realty llc,1446 Dorchester Ave,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,Fields Corner,POINT (-71.059463 42.301505),,4,3
+42.301197,-71.060497,durrigan & thai law office,1443A Dorchester Ave,2122,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Fields Corner,POINT (-71.060497 42.301197),,4,3
+42.300982,-71.060209,dreamcatcher investments group inc,1453 Dorchester Ave,2122,523910,Miscellaneous Intermediation,52,Finance and Insurance,12.0,10 to 24,Fields Corner,POINT (-71.060209 42.300982),,4,3
+42.300869,-71.060287,dream vision llc,1461 Dorchester Ave,2122,621320,Offices of Optometrists,62,Healthcare and Social Assistance,8.0,1 to 9,Fields Corner,POINT (-71.060287 42.300869),,4,3
+42.304463,-71.059947,dothouse health,1353 Dorchester Ave,2122,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,500.0,100+,Fields Corner,POINT (-71.059947 42.304463),,4,3
+42.300982,-71.060209,dot cafe,1459 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Fields Corner,POINT (-71.060209 42.300982),,4,3
+42.301197,-71.060497,dorchester wireless inc,1443 Dorchester Ave,2122,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Fields Corner,POINT (-71.060497 42.301197),,4,3
+42.30432,-71.059183,dorchester house pharmacy,1353 Dorchester Ave,2122,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,300.0,100+,Fields Corner,POINT (-71.059183 42.30432),,4,3
+42.301056,-71.059729,dorchester community news,1454 Dorchester Ave,2122,511110,Newspaper Publishers,51,Information,8.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.301056,-71.059729,dorchester beer holdings llc,1452 Dorchester Ave,2122,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,5.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.303953,-71.059055,docherster dental dr,1370 Dorchester Ave,2122,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.302036,-71.059853,divas beauty supply,1439 Dorchester Ave,2122,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,3.0,1 to 9,Fields Corner,POINT (-71.059853 42.302036),,4,3
+42.304463,-71.059947,dhmsc realty inc,1353 Dorchester Ave,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Fields Corner,POINT (-71.059947 42.304463),,4,3
+42.301505,-71.059463,devonshire dental associates,1444 Dorchester Ave,2122,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,Fields Corner,POINT (-71.059463 42.301505),,4,3
+42.300982,-71.060209,d'oro barbershop,1459 Dorchester Ave,2122,812111,Barber Shops,81,Other Services,2.0,1 to 9,Fields Corner,POINT (-71.060209 42.300982),,4,3
+42.301968,-71.059873,d'bennys subs & more,1433 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.059873 42.301968),,4,3
+42.301176,-71.060095,d c quach inc,1445 Dorchester Ave,2122,0,,99,Undefined,0.0,Not Available,Fields Corner,POINT (-71.060095 42.301176),,4,3
+42.301056,-71.059729,culture-language access solutions,1452 Dorchester Ave,2122,0,,99,Undefined,0.0,Not Available,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.300575,-71.059746,cornu management,1460 Dorchester Ave,2122,238990,All Other Specialty Trade Contractors,23,Construction,2.0,1 to 9,Fields Corner,POINT (-71.059746 42.300575),,4,3
+42.302083,-71.05918,comzer insurance agency llc,1428 Dorchester Ave,2122,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,Fields Corner,POINT (-71.05918 42.302083),,4,3
+42.305859,-71.058577,commonwealth vending inc,1310 Dorchester Ave,2122,454210,Vending Machine Operators,45,Retail Trade,5.0,1 to 9,Fields Corner,POINT (-71.058577 42.305859),,4,3
+42.301056,-71.059729,clark associates,1452 Dorchester Ave,2122,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.301586,-71.060021,citizens bank,217 Adams St,2122,522110,Commercial Banking,52,Finance and Insurance,8.0,1 to 9,Fields Corner,POINT (-71.060021 42.301586),,4,3
+42.301056,-71.059729,christ the king dorchester,1452 Dorchester Ave,2122,813110,Religious Organizations,81,Other Services,4.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.302114,-71.059896,chisolm robert j,204 Adams St,2122,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Fields Corner,POINT (-71.059896 42.302114),,4,3
+42.301896,-71.0603,chilli hot pot,203 Adams St,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.0603 42.301896),,4,3
+42.301056,-71.059729,child welfare innovation inc,1452 Dorchester Ave,2122,0,,99,Undefined,0.0,Not Available,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.300866,-71.05975,chau bakery,1456 Dorchester Ave,2122,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Fields Corner,POINT (-71.05975 42.300866),,4,3
+42.301056,-71.059729,"care management temporary staffing agency, inc",1452 Dorchester Ave,2122,541612,Human Resources Consulting Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.30747,-71.058635,capital garage door,1271 Dorchester Ave,2122,444190,Other Building Material Dealers,44,Retail Trade,5.0,1 to 9,Fields Corner,POINT (-71.058635 42.30747),,4,3
+42.302114,-71.059896,cali for nails academy,204 Adams St,2122,611519,Other Technical and Trade Schools,61,Educational Services,3.0,1 to 9,Fields Corner,POINT (-71.059896 42.302114),,4,3
+42.303723,-71.059587,boston wellness healthcare,1377 Dorchester Ave,2122,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Fields Corner,POINT (-71.059587 42.303723),,4,3
+42.300982,-71.060209,boston appraisal service,1453 Dorchester Ave,2122,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Fields Corner,POINT (-71.060209 42.300982),,4,3
+42.305249,-71.059189,boru bistro,1333 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.059189 42.305249),,4,3
+42.305859,-71.058577,blend,1310 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.058577 42.305859),,4,3
+42.300851,-71.060284,beauty by lamujer,1 Charles St,2122,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Fields Corner,POINT (-71.060284 42.300851),,4,3
+42.301806,-71.059144,bank of america,1440 Dorchester Ave,2122,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,Fields Corner,POINT (-71.059144 42.301806),,4,3
+42.301056,-71.059729,bams fest inc,1452 Dorchester Ave,2122,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.303953,-71.059055,ayanna pressley for boston city council,1370 Dorchester Ave,2122,812111,Barber Shops,81,Other Services,2.0,1 to 9,Fields Corner,POINT (-71.059055 42.303953),,4,3
+42.302966,-71.059083,autozone,1404 Dorchester Ave,2122,441310,Automotive Parts and Accessories Stores,44,Retail Trade,14.0,10 to 24,Fields Corner,POINT (-71.059083 42.302966),,4,3
+42.301505,-71.059463,atlantic travel agency,1446 Dorchester Ave,2122,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",7.0,1 to 9,Fields Corner,POINT (-71.059463 42.301505),,4,3
+42.301056,-71.059729,association of independents in radio inc,1452 Dorchester Ave,2122,813910,Business Associations,81,Other Services,200.0,100+,Fields Corner,POINT (-71.059729 42.301056),,4,3
+42.301197,-71.060497,art studio sign & neon,1443A Dorchester Ave,2122,611610,Fine Arts Schools,61,Educational Services,1.0,1 to 9,Fields Corner,POINT (-71.060497 42.301197),,4,3
+42.301375,-71.059567,antonio g correia justice,218 Adams St,2122,922110,Courts,92,Public Administration,100.0,100+,Fields Corner,POINT (-71.059567 42.301375),,4,3
+42.305859,-71.058577,all gone snow removal,1312 Dorchester Ave,2122,238990,All Other Specialty Trade Contractors,23,Construction,2.0,1 to 9,Fields Corner,POINT (-71.058577 42.305859),,4,3
+42.305635,-71.058558,all american water,1320 Dorchester Ave,2122,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Fields Corner,POINT (-71.058558 42.305635),,4,3
+42.302036,-71.059308,advance auto parts,1432 Dorchester Ave,2122,441310,Automotive Parts and Accessories Stores,44,Retail Trade,14.0,10 to 24,Fields Corner,POINT (-71.059308 42.302036),,4,3
+42.303051,-71.059685,aabco associates,1415 Dorchester Ave,2122,561612,Security Guards and Patrol Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Fields Corner,POINT (-71.059685 42.303051),,4,3
+42.302356,-71.059789,a c farm market,1429 Dorchester Ave,2122,445230,Fruit and Vegetable Markets,44,Retail Trade,6.0,1 to 9,Fields Corner,POINT (-71.059789 42.302356),,4,3
+42.302479,-71.059361,7-eleven,1420 Dorchester Ave,2122,445120,Convenience Stores,44,Retail Trade,8.0,1 to 9,Fields Corner,POINT (-71.059361 42.302479),,4,3
+42.301178,-71.059753,50 kitchen,1450 Dorchester Ave,2122,337110,Wood Kitchen Cabinet and Countertop Manufacturing,33,Manufacturing,1.0,1 to 9,Fields Corner,POINT (-71.059753 42.301178),,4,3
+42.301505,-71.059463,1st armor protection service,1444 Dorchester Ave,2122,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Fields Corner,POINT (-71.059463 42.301505),,4,3
+42.301047,-71.059729,1448 avenue llc,1448 Dorchester Ave,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Fields Corner,POINT (-71.059729 42.301047),,4,3
+42.305241,-71.059189,vinh loi restaurant inc,1331 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.059189 42.305241),,4,3
+42.305241,-71.059189,mi restaurant,1331 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.059189 42.305241),,4,3
+42.301047,-71.059729,home stead bakery & cafe,1448 Dorchester Ave,2122,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Fields Corner,POINT (-71.059729 42.301047),,4,3
+42.305241,-71.059189,codo restaurant,1331 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.059189 42.305241),,4,3
+42.305241,-71.059189,77 restaurant,1331 Dorchester Ave,2122,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Fields Corner,POINT (-71.059189 42.305241),,4,3
+42.292525,-71.062211,whitten market,1688 Dorchester Ave,2122,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Greater Ashmont,POINT (-71.062211 42.292525),,4,3
+42.286505,-71.063856,western union agent location,1886 Dorchester Ave,2124,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,Greater Ashmont,POINT (-71.063856 42.286505),,4,3
+42.289796,-71.062957,welles liquor mart,1772 Dorchester Ave,2124,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,2.0,1 to 9,Greater Ashmont,POINT (-71.062957 42.289796),,4,3
+42.289796,-71.062957,weeks & devonish insurance,1766 Dorchester Ave,2124,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,2.0,1 to 9,Greater Ashmont,POINT (-71.062957 42.289796),,4,3
+42.292493,-71.062219,video magic,1690 Dorchester Ave,2122,532282,Video Tape and Disc Rental,53,Real Estate Rental and Leasing,3.0,1 to 9,Greater Ashmont,POINT (-71.062219 42.292493),,4,3
+42.290421,-71.062763,us auto care,1742 Dorchester Ave,2124,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.062763 42.290421),,4,3
+42.291417,-71.062478,tmc realty group,1712 Dorchester Ave,2124,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Greater Ashmont,POINT (-71.062478 42.291417),,4,3
+42.284225,-71.064476,ticknor society,1910 Dorchester Ave,2124,0,,99,Undefined,0.0,Not Available,Greater Ashmont,POINT (-71.064476 42.284225),,4,3
+42.290882,-71.062678,thuy's hair salon,1730 Dorchester Ave,2124,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Greater Ashmont,POINT (-71.062678 42.290882),,4,3
+42.290961,-71.062658,the maneikis companies,1722 Dorchester Ave,2124,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,1.0,1 to 9,Greater Ashmont,POINT (-71.062658 42.290961),,4,3
+42.286505,-71.063856,tedeschi food shops,1886 Dorchester Ave,2124,445120,Convenience Stores,44,Retail Trade,9.0,1 to 9,Greater Ashmont,POINT (-71.063856 42.286505),,4,3
+42.284047,-71.064389,tavolo,1918 Dorchester Ave,2124,722511,Full-Service Restaurants,72,Accommodation and Food Services,26.0,25 to 49,Greater Ashmont,POINT (-71.064389 42.284047),,4,3
+42.290916,-71.062599,t t nail designs,1738 Dorchester Ave,2124,812113,Nail Salons,81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.062599 42.290916),,4,3
+42.285017,-71.064371,st mark's area main st,1914 Dorchester Ave,2124,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Greater Ashmont,POINT (-71.064371 42.285017),,4,3
+42.289552,-71.063066,sea breeze,1782 Dorchester Ave,2124,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Greater Ashmont,POINT (-71.063066 42.289552),,4,3
+42.292493,-71.062219,save fast wireless,1690 Dorchester Ave,2122,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Greater Ashmont,POINT (-71.062219 42.292493),,4,3
+42.291146,-71.062822,saint mark parish,1725 Dorchester Ave,2124,813110,Religious Organizations,81,Other Services,9.0,1 to 9,Greater Ashmont,POINT (-71.062822 42.291146),,4,3
+42.29166,-71.062428,representative ayanna pressley,1700 Dorchester Ave,2122,921120,Legislative Bodies,92,Public Administration,13.0,10 to 24,Greater Ashmont,POINT (-71.062428 42.29166),,4,3
+42.286757,-71.063732,princess hair palace,1876 Dorchester Ave,2124,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Greater Ashmont,POINT (-71.063732 42.286757),,4,3
+42.288554,-71.063252,phuthint market,1826 Dorchester Ave,2124,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,2.0,1 to 9,Greater Ashmont,POINT (-71.063252 42.288554),,4,3
+42.288554,-71.063252,phu thinh market phu,1826 Dorchester Ave,2124,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Greater Ashmont,POINT (-71.063252 42.288554),,4,3
+42.292493,-71.062219,philppe geneus,1690 Dorchester Ave,2122,811212,Computer and Office Machine Repair and Maintenance,81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.062219 42.292493),,4,3
+42.293918,-71.061794,perfect cuts,1658 Dorchester Ave,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Greater Ashmont,POINT (-71.061794 42.293918),,4,3
+42.28927,-71.062933,orthodontics,1792 Dorchester Ave,2124,621210,Offices of Dentists,62,Healthcare and Social Assistance,7.0,1 to 9,Greater Ashmont,POINT (-71.062933 42.28927),,4,3
+42.290256,-71.06257,momministas inc,12 Lonsdale St,2124,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Greater Ashmont,POINT (-71.06257 42.290256),,4,3
+42.286967,-71.063827,mohawk real estate,1872 Dorchester Ave,2124,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Greater Ashmont,POINT (-71.063827 42.286967),,4,3
+42.291378,-71.062553,modern dog boston,1720 Dorchester Ave,2124,424910,Farm Supplies Merchant Wholesalers,42,Wholesale Trade,6.0,1 to 9,Greater Ashmont,POINT (-71.062553 42.291378),,4,3
+42.287332,-71.06363,mike garage door expert,1856 Dorchester Ave,2124,444190,Other Building Material Dealers,44,Retail Trade,5.0,1 to 9,Greater Ashmont,POINT (-71.06363 42.287332),,4,3
+42.29166,-71.062428,midland construction,1700 Dorchester Ave,2122,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,10.0,10 to 24,Greater Ashmont,POINT (-71.062428 42.29166),,4,3
+42.294409,-71.06159,merry maids,1644 Dorchester Ave,2122,238990,All Other Specialty Trade Contractors,23,Construction,15.0,10 to 24,Greater Ashmont,POINT (-71.06159 42.294409),,4,3
+42.290916,-71.062599,mass food mart,1732 Dorchester Ave,2124,445120,Convenience Stores,44,Retail Trade,1.0,1 to 9,Greater Ashmont,POINT (-71.062599 42.290916),,4,3
+42.289796,-71.062957,marias market,1760 Dorchester Ave,2124,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Greater Ashmont,POINT (-71.062957 42.289796),,4,3
+42.290162,-71.062876,locticious house of locs,1750 Dorchester Ave,2124,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.062876 42.290162),,4,3
+42.290882,-71.062678,liz dance & fitness,1730 Dorchester Ave,2124,611610,Fine Arts Schools,61,Educational Services,3.0,1 to 9,Greater Ashmont,POINT (-71.062678 42.290882),,4,3
+42.292903,-71.062095,laundry land,1684 Dorchester Ave,2122,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,5.0,1 to 9,Greater Ashmont,POINT (-71.062095 42.292903),,4,3
+42.29166,-71.062428,hq nguyen llp,1700 Dorchester Ave,2122,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Greater Ashmont,POINT (-71.062428 42.29166),,4,3
+42.290162,-71.062876,house of kays clothing,1758 Dorchester Ave,2124,448140,Family Clothing Stores,44,Retail Trade,2.0,1 to 9,Greater Ashmont,POINT (-71.062876 42.290162),,4,3
+42.287189,-71.063696,harry's laundry,1866 Dorchester Ave,2124,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,1.0,1 to 9,Greater Ashmont,POINT (-71.063696 42.287189),,4,3
+42.286765,-71.063821,global forex advising,1878 Dorchester Ave,2124,0,,99,Undefined,0.0,Not Available,Greater Ashmont,POINT (-71.063821 42.286765),,4,3
+42.290882,-71.062678,gi gi hair concepts,1730 Dorchester Ave,2124,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.062678 42.290882),,4,3
+42.293512,-71.061922,future leaders learning center,,2122,611710,Educational Support Services,61,Educational Services,8.0,1 to 9,Greater Ashmont,POINT (-71.061922 42.293512),,4,3
+42.293918,-71.061794,four seasons maintenance,1654 Dorchester Ave,2122,236220,Commercial and Institutional Building Construction,23,Construction,2.0,1 to 9,Greater Ashmont,POINT (-71.061794 42.293918),,4,3
+42.293512,-71.061922,fllcdorchester mail com future,1664 Dorchester Ave,2122,541890,Other Services Related to Advertising,54,"Professional, Scientific, and Technical Services",19.0,10 to 24,Greater Ashmont,POINT (-71.061922 42.293512),,4,3
+42.286118,-71.06373,flames,,2124,0,,99,Undefined,0.0,Not Available,Greater Ashmont,POINT (-71.06373 42.286118),,4,3
+42.289552,-71.063066,final touch,1780 Dorchester Ave,2124,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Greater Ashmont,POINT (-71.063066 42.289552),,4,3
+42.290916,-71.062599,ezedi committee,1724 Dorchester Ave,2124,624110,Child and Youth Services,62,Healthcare and Social Assistance,7.0,1 to 9,Greater Ashmont,POINT (-71.062599 42.290916),,4,3
+42.288889,-71.063205,exit bayside realty,1810 Dorchester Ave,2124,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Greater Ashmont,POINT (-71.063205 42.288889),,4,3
+42.286757,-71.063732,eden natural,1882 Dorchester Ave,2124,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,Greater Ashmont,POINT (-71.063732 42.286757),,4,3
+42.286298,-71.063876,eastern bank,1906 Dorchester Ave,2124,522110,Commercial Banking,52,Finance and Insurance,8.0,1 to 9,Greater Ashmont,POINT (-71.063876 42.286298),,4,3
+42.293918,-71.061794,dot homes real estate ma,1658 Dorchester Ave,2122,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Greater Ashmont,POINT (-71.061794 42.293918),,4,3
+42.291417,-71.062478,dorchester laundromat,1712 Dorchester Ave,2124,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.062478 42.291417),,4,3
+42.290961,-71.062658,dorchester baseball inc,1722 Dorchester Ave,2124,713990,All Other Amusement and Recreation Industries,71,"Arts, Entertainment, and Recreation",10.0,10 to 24,Greater Ashmont,POINT (-71.062658 42.290961),,4,3
+42.294127,-71.061673,dorchester back & neck center,1652 Dorchester Ave,2122,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Greater Ashmont,POINT (-71.061673 42.294127),,4,3
+42.291378,-71.062553,doggie styles,1720 Dorchester Ave,2124,812910,Pet Care (except Veterinary) Services,81,Other Services,1.0,1 to 9,Greater Ashmont,POINT (-71.062553 42.291378),,4,3
+42.290162,-71.062876,dimitrio's dimitrio's,1750 Dorchester Ave,2124,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Greater Ashmont,POINT (-71.062876 42.290162),,4,3
+42.294127,-71.061673,deluxe postal center,1652 Dorchester Ave,2122,491110,Postal Service,49,Transportation and Warehosuing,2.0,1 to 9,Greater Ashmont,POINT (-71.061673 42.294127),,4,3
+42.285097,-71.064352,delay retreats,1912 Dorchester Ave,2124,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,8.0,1 to 9,Greater Ashmont,POINT (-71.064352 42.285097),,4,3
+42.287332,-71.06363,d & l auto repair,1856 Dorchester Ave,2124,811111,General Automotive Repair,81,Other Services,3.0,1 to 9,Greater Ashmont,POINT (-71.06363 42.287332),,4,3
+42.288889,-71.063205,conway jack realtors,1810 Dorchester Ave,2124,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,12.0,10 to 24,Greater Ashmont,POINT (-71.063205 42.288889),,4,3
+42.292525,-71.062211,convenient corner,1688 Dorchester Ave,2122,445120,Convenience Stores,44,Retail Trade,1.0,1 to 9,Greater Ashmont,POINT (-71.062211 42.292525),,4,3
+42.290421,-71.062763,city wide garage doors,1742 Dorchester Ave,2124,444190,Other Building Material Dealers,44,Retail Trade,5.0,1 to 9,Greater Ashmont,POINT (-71.062763 42.290421),,4,3
+42.290916,-71.062599,charlie's house of pizza,1740 Dorchester Ave,2124,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Greater Ashmont,POINT (-71.062599 42.290916),,4,3
+42.290901,-71.062673,canton house,1728 Dorchester Ave,2124,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Greater Ashmont,POINT (-71.062673 42.290901),,4,3
+42.290421,-71.062763,c v auto,1748 Dorchester Ave,2124,447190,Other Gasoline Stations,44,Retail Trade,4.0,1 to 9,Greater Ashmont,POINT (-71.062763 42.290421),,4,3
+42.286505,-71.063856,c & e convenience corp,1886 Dorchester Ave,2124,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Greater Ashmont,POINT (-71.063856 42.286505),,4,3
+42.292493,-71.062219,boston hairnista salon,1690 Dorchester Ave,2122,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Greater Ashmont,POINT (-71.062219 42.292493),,4,3
+42.293201,-71.061941,boston eyeworks pc,1676 Dorchester Ave,2122,524114,Direct Health and Medical Insurance Carriers,52,Finance and Insurance,3.0,1 to 9,Greater Ashmont,POINT (-71.061941 42.293201),,4,3
+42.29496,-71.061452,bethel hispanic seventh-day adventist church,1 Dix St,2122,813110,Religious Organizations,81,Other Services,1.0,1 to 9,Greater Ashmont,POINT (-71.061452 42.29496),,4,3
+42.293913,-71.061825,before & after hair studio,1656 Dorchester Ave,2122,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.061825 42.293913),,4,3
+42.292442,-71.062234,beauty line,1692 Dorchester Ave,2122,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Greater Ashmont,POINT (-71.062234 42.292442),,4,3
+42.28927,-71.062933,ashmont station dental group,1792 Dorchester Ave,2124,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Greater Ashmont,POINT (-71.062933 42.28927),,4,3
+42.287801,-71.063535,ashmont auto collision,1850 Dorchester Ave,2124,811121,"Automotive Body, Paint, and Interior Repair and Maintenance",81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.063535 42.287801),,4,3
+42.291077,-71.06263,ambiorix the barber,1726 Dorchester Ave,2124,812111,Barber Shops,81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.06263 42.291077),,4,3
+42.286967,-71.063827,allstate insurance,1872 Dorchester Ave,2124,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,Greater Ashmont,POINT (-71.063827 42.286967),,4,3
+42.289552,-71.063066,african elegance,1776 Dorchester Ave,2124,812199,Other Personal Care Services,81,Other Services,2.0,1 to 9,Greater Ashmont,POINT (-71.063066 42.289552),,4,3
+42.286505,-71.063856,7-eleven,1886 Dorchester Ave,2124,445120,Convenience Stores,44,Retail Trade,7.0,1 to 9,Greater Ashmont,POINT (-71.063856 42.286505),,4,3
+42.285622,-71.063885,1810 realty group,195 Ashmont St,2124,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Greater Ashmont,POINT (-71.063885 42.285622),,4,3
+42.289552,-71.063066,el barrio inc,1782 Dorchester Ave,2124,0,,99,Undefined,0.0,Not Available,Greater Ashmont,POINT (-71.063066 42.289552),,4,3
