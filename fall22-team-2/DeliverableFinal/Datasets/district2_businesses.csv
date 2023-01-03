@@ -1,0 +1,785 @@
+latitude,longitude,business_name,street_address,zip,NAICS_2017_6digit_code,NAICS_2017_6digit_desc,NAICS_2017_2digit_code,NAICS_2017_2digit_desc,estimated_employment,employment_buckets,mainstreet,geometry,district,index_right,DISTRICT
+42.351673,-71.061884,zoe hair studio,40 Beach St,2111,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.061884 42.351673),,1,2
+42.3518,-71.0607,zenimate technologies,11 Ave De,2111,511210,Software Publishers,51,Information,10.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,zama nunotte law office,,2111,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.352315,-71.059519,zagster inc,109 Kingston St,2111,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.351122,-71.061571,z & z accounting service llc,65 Harrison Ave,2111,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.35168,-71.059858,yun yun spa,25 Edinboro St,2111,812199,Other Personal Care Services,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.059858 42.35168),,1,2
+42.3518,-71.0607,ymca of greater boston inc,776 Washington St,2111,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,11.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350887,-71.061905,yjw international inc,26 Kneeland St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061905 42.350887),,1,2
+42.350861,-71.060487,yen hair salon,14 Tyler St,2111,812112,Beauty Salons,81,Other Services,4.0,1 to 9,Chinatown,POINT (-71.060487 42.350861),,1,2
+42.351122,-71.061571,yang & sacchetti attorney at law,65 Harrison Ave,2111,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351537,-71.060652,yan's best place restaurant,52 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Chinatown,POINT (-71.060652 42.351537),,1,2
+42.351614,-71.060938,yaleriho inc,40 Harrison Ave,2111,511210,Software Publishers,51,Information,10.0,10 to 24,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.350861,-71.060222,yae fung toy associates,11 Hudson St,2111,451120,"Hobby, Toy, and Game Stores",45,Retail Trade,3.0,1 to 9,Chinatown,POINT (-71.060222 42.350861),,1,2
+42.350407,-71.059958,world kwong tung community association,20 Hudson St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.059958 42.350407),,1,2
+42.351355,-71.059823,wong family associates,70 Beach St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.059823 42.351355),,1,2
+42.350973,-71.060442,winsor dim sum cafe,10 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.060442 42.350973),,1,2
+42.351105,-71.062697,winn residential,702 Washington St,2111,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Chinatown,POINT (-71.062697 42.351105),,1,2
+42.351543,-71.060788,wings live poultry,48 Beach St,2111,445210,Meat Markets,44,Retail Trade,6.0,1 to 9,Chinatown,POINT (-71.060788 42.351543),,1,2
+42.350806,-71.060243,wings kitchen,13A Hudson St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Chinatown,POINT (-71.060243 42.350806),,1,2
+42.351122,-71.061571,wings express inc,65 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351343,-71.061766,wing shink association inc,23 Beach St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.061766 42.351343),,1,2
+42.351056,-71.061911,wing lau employment agency,9 Knapp St,2111,561311,Employment Placement Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",9.0,1 to 9,Chinatown,POINT (-71.061911 42.351056),,1,2
+42.351122,-71.061571,wilson hsin dental associates,65 Harrison Ave,2111,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.3518,-71.0607,westview capital partners lp,125 Saint High,2111,523910,Miscellaneous Intermediation,52,Finance and Insurance,12.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350831,-71.061635,western union agent location,44 Kneeland St,2111,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,Chinatown,POINT (-71.061635 42.350831),,1,2
+42.351278,-71.061537,western union agent location,77 Harrison Ave,2111,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,Chinatown,POINT (-71.061537 42.351278),,1,2
+42.3518,-71.0607,wellington management,,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,watermark donuts,626 Washington St,2111,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,6.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.061571,wang vision inc,65 Harrison Ave,2111,621320,Offices of Optometrists,62,Healthcare and Social Assistance,4.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351214,-71.060374,waku waku,2 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Chinatown,POINT (-71.060374 42.351214),,1,2
+42.351688,-71.06028,wai wai restaurant,26 Oxford St,2111,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Chinatown,POINT (-71.06028 42.351688),,1,2
+42.351122,-71.061571,wai hang ng accounting,65 Harrison Ave,2111,541219,Other Accounting Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351917,-71.059899,wah-lum kung-fu athletic association,17 Edinboro St,2111,611620,Sports and Recreation Instruction,61,Educational Services,4.0,1 to 9,Chinatown,POINT (-71.059899 42.351917),,1,2
+42.351673,-71.061884,vpne parking solutions vpne,40 Beach St,2111,812930,Parking Lots and Garages,81,Other Services,10.0,10 to 24,Chinatown,POINT (-71.061884 42.351673),,1,2
+42.350973,-71.060442,vogo hair,10 Tyler St,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.060442 42.350973),,1,2
+42.352315,-71.059519,vivox inc,109 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.351131,-71.062798,vinh hoa inc,698 Washington St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.062798 42.351131),,1,2
+42.3518,-71.0607,verified reviews,WeWork 8 Floor,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,vee24,11 Lincoln St,2111,511210,Software Publishers,51,Information,50.0,50 to 99,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351673,-71.061884,van's fabrics,14 Beach St,2111,451130,"Sewing, Needlework, and Piece Goods Stores",45,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.061884 42.351673),,1,2
+42.352267,-71.059516,utile inc,115 Kingston St,2111,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",40.0,25 to 49,Chinatown,POINT (-71.059516 42.352267),,1,2
+42.350917,-71.060465,us travelways llc,12 Tyler St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.060465 42.350917),,1,2
+42.351799,-71.061367,unite here,33 Harrison Ave,2111,813930,Labor Unions and Similar Labor Organizations,81,Other Services,30.0,25 to 49,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.350694,-71.060287,unique 8 hair place,17 Hudson St,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.060287 42.350694),,1,2
+42.3518,-71.0607,tufts-new england medical center,Tuf,2111,622110,General Medical and Surgical Hospitals,62,Healthcare and Social Assistance,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,tufts university north grafton campus,203 Harrison Ave,2111,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,21.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,tufts nemc dlam,171 Harrison Avenue Nemc 12,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,tufts clinical-translational,5 Kneeland Street 7th 11th F,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,tufts clinical translational,5 Kneeland St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,tufts children's hospital,755 Washington St,2111,622110,General Medical and Surgical Hospitals,62,Healthcare and Social Assistance,5000.0,100+,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350973,-71.060442,tsaocaa tea ma inc,10A Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Chinatown,POINT (-71.060442 42.350973),,1,2
+42.35109,-71.060114,truong thanh market,65 Beach St,2111,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,5.0,1 to 9,Chinatown,POINT (-71.060114 42.35109),,1,2
+42.352315,-71.059519,trp sports & entertainment marketing,109 Kingston St,2111,541613,Marketing Consulting Services,54,"Professional, Scientific, and Technical Services",18.0,10 to 24,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.351345,-71.059822,travel today,88 Beach St,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Chinatown,POINT (-71.059822 42.351345),,1,2
+42.350622,-71.060973,travel pack inc,23 Tyler St,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Chinatown,POINT (-71.060973 42.350622),,1,2
+42.3518,-71.0607,travel geographic medicine center,,2111,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,travel choice,,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351799,-71.061367,training for warriors boston,33 Harrison Ave,2111,541612,Human Resources Consulting Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.350846,-71.0618,tora ramen,99 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0618 42.350846),,1,2
+42.350692,-71.060552,tora japanese restaurant,20B Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Chinatown,POINT (-71.060552 42.350692),,1,2
+42.350692,-71.060552,tora group inc,20 Tyler St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.060552 42.350692),,1,2
+42.351278,-71.061537,top bread,77 Harrison Ave,2111,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Chinatown,POINT (-71.061537 42.351278),,1,2
+42.351122,-71.061571,times driving school,65 Harrison Ave,2111,611692,Automobile Driving Schools,61,Educational Services,3.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.350516,-71.060576,time zone wireless,64 Kneeland St,2111,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,6.0,1 to 9,Chinatown,POINT (-71.060576 42.350516),,1,2
+42.350861,-71.060487,tiger sugar boston inc,14 Tyler St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.060487 42.350861),,1,2
+42.352315,-71.059519,tiagn i inc,109 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.3518,-71.0607,third sector new england,,2111,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,the kensington,665 Washington St,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351333,-71.061057,"tetherties, llc",68 Harrison Ave,2111,561621,Security Systems Services (except Locksmiths),56,"Adminstrative, Support, Waste Management, and Remediation Services",8.0,1 to 9,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.352109,-71.059559,terrible labs,129 Kingston St,2111,541714,Research and Development in Biotechnology (except Nanobiotechnology),54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Chinatown,POINT (-71.059559 42.352109),,1,2
+42.351056,-71.061911,teo chew association of new england,9 Knapp St,2111,813910,Business Associations,81,Other Services,4.0,1 to 9,Chinatown,POINT (-71.061911 42.351056),,1,2
+42.351442,-71.060159,ten second noodles,60 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Chinatown,POINT (-71.060159 42.351442),,1,2
+42.351027,-71.060422,teado,8 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Chinatown,POINT (-71.060422 42.351027),,1,2
+42.350735,-71.060974,tata seafood,25 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060974 42.350735),,1,2
+42.351614,-71.060938,tastry cafe corp,42 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.351635,-71.060263,taiwan cafe,34 Oxford St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.060263 42.351635),,1,2
+42.350945,-71.060188,taishan family association inc,9 Hudson St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.060188 42.350945),,1,2
+42.351333,-71.061057,taiga invest inc,68 Harrison Ave,2111,523910,Miscellaneous Intermediation,52,Finance and Insurance,12.0,10 to 24,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.3518,-71.0607,t-mobile,66 Lincoln St,2111,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,6.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350917,-71.060465,sunshine travel inc-boston,12 Tyler St,2111,561599,All Other Travel Arrangement and Reservation Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",13.0,10 to 24,Chinatown,POINT (-71.060465 42.350917),,1,2
+42.350973,-71.060442,sunshine travel,12A Tyler St,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Chinatown,POINT (-71.060442 42.350973),,1,2
+42.351701,-71.061454,sun wing llc,27 Harrison Ave,2111,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,3.0,1 to 9,Chinatown,POINT (-71.061454 42.351701),,1,2
+42.351958,-71.060344,sun sun co,16 Oxford St,2111,424420,Packaged Frozen Food Merchant Wholesalers,42,Wholesale Trade,20.0,10 to 24,Chinatown,POINT (-71.060344 42.351958),,1,2
+42.351214,-71.060374,suishaya,2 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.060374 42.351214),,1,2
+42.350407,-71.059958,station bistro,20 Hudson St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.059958 42.350407),,1,2
+42.3518,-71.0607,state street corpora,23 Lincoln St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350854,-71.061738,star gifts,28 Kneeland St,2111,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,3.0,1 to 9,Chinatown,POINT (-71.061738 42.350854),,1,2
+42.3518,-71.0607,stanley elevator co,,2111,238290,Other Building Equipment Contractors,23,Construction,3.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,stanhope garage inc,15 Harrison Ave,2111,812930,Parking Lots and Garages,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,stairhopper movers,20 Harvard St,2149,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,15.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,sport clips,185 Essex St,2111,812111,Barber Shops,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351362,-71.062314,spicy world,7 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062314 42.351362),,1,2
+42.3518,-71.0607,sp+ parking,22 Kingston St,2111,812930,Parking Lots and Garages,81,Other Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.35168,-71.059858,south end baseball,25 Edinboro St,2111,624110,Child and Youth Services,62,Healthcare and Social Assistance,7.0,1 to 9,Chinatown,POINT (-71.059858 42.35168),,1,2
+42.352315,-71.059519,solutions atlantic,109 Kingston St,2111,511210,Software Publishers,51,Information,3.0,1 to 9,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.352315,-71.059519,social fulcrum llc,109 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.351142,-71.060777,shojo,9A Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060777 42.351142),,1,2
+42.350462,-71.060398,shing hong trading inc,70 Kneeland St,2111,445299,All Other Specialty Food Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.060398 42.350462),,1,2
+42.350806,-71.060508,shabu-zen restaurant,16 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,18.0,10 to 24,Chinatown,POINT (-71.060508 42.350806),,1,2
+42.351799,-71.061367,segal roitman,33 Harrison Ave,2111,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",25.0,25 to 49,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.350559,-71.060602,season travel,66 Kneeland St,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.3518,-71.0607,sc design,126 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351295,-71.061539,santander bank,61 Harrison Ave,2111,522110,Commercial Banking,52,Finance and Insurance,4.0,1 to 9,Chinatown,POINT (-71.061539 42.351295),,1,2
+42.350622,-71.059909,san brothers enterprises inc,14 Hudson St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059909 42.350622),,1,2
+42.3518,-71.0607,same day service co inc,,2111,811412,Appliance Repair and Maintenance,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351333,-71.061057,sama-sama inc,68 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.351614,-71.060938,sam hop,44 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.351614,-71.060938,sakura sunakku,42 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.3518,-71.0607,sail for epilepsy ltd,136 Harrison Avenue Arnol,2111,813319,Other Social Advocacy Organizations,81,Other Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351333,-71.061057,safr,68 Harrison Ave,2111,488999,All Other Support Activities for Transportation,48,Transportation and Warehosuing,5.0,1 to 9,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.351853,-71.061004,sa sa skin care & spa inc,34 Harrison Ave,2111,611511,Cosmetology and Barber Schools,61,Educational Services,5.0,1 to 9,Chinatown,POINT (-71.061004 42.351853),,1,2
+42.351208,-71.060758,ruckus,5 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060758 42.351208),,1,2
+42.351707,-71.060778,ruan family national association,10 Oxford Pl,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.060778 42.351707),,1,2
+42.350622,-71.060973,royaltea,23B Tyler St,2111,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,7.0,1 to 9,Chinatown,POINT (-71.060973 42.350622),,1,2
+42.351614,-71.060938,royal entertainment inc,40 Harrison Ave,2111,711510,"Independent Artists, Writers, and Performers",71,"Arts, Entertainment, and Recreation",2.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.3518,-71.0607,robert a kalish md,750 Washington St Nemc,2111,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,10.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,rhyme of korean,188 Tyler St,2111,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,1.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,relaxsation massage therapy & nails,25 Kingston St,2111,812199,Other Personal Care Services,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.352176,-71.059511,regalia bridal,125 Kingston St,2111,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.059511 42.352176),,1,2
+42.3518,-71.0607,rebecca's cafe,655 Atlantic Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,reaction search international,5000 Executive Pkwy,2111,561312,Executive Search Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",7.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350559,-71.060602,rachel beauty salon rachel,72 Kneeland St,2111,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.35207,-71.059924,que shing chinese opera group,11 Edinboro St,2111,813311,Human Rights Organizations,81,Other Services,20.0,10 to 24,Chinatown,POINT (-71.059924 42.35207),,1,2
+42.350462,-71.060398,quality 1 hour photo,70 Kneeland St,2111,812922,One-Hour Photofinishing,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.060398 42.350462),,1,2
+42.350559,-71.060602,prudential financial,72 Kneeland St,2111,523930,Investment Advice,52,Finance and Insurance,9.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.3518,-71.0607,professional management specialist inc,,2111,561611,Investigation Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,pro select insurance co,675 Atlantic Ave,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,pro mutual solution insurance,675 Atlantic Ave,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.352176,-71.059511,privy inc,125 Kingston St,2111,541613,Marketing Consulting Services,54,"Professional, Scientific, and Technical Services",0.0,Not Available,Chinatown,POINT (-71.059511 42.352176),,1,2
+42.3518,-71.0607,prime logistics sol,1189 Atlantic Ave,2111,541611,Administrative Management and General Management Consulting Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350735,-71.060974,pricing salon,25 Tyler St,2111,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.060974 42.350735),,1,2
+42.352315,-71.059519,price intelligently,109 Kingston St,2111,541511,Custom Computer Programming Services,54,"Professional, Scientific, and Technical Services",10.0,10 to 24,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.3518,-71.0607,pratt medical group inc,,2111,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351167,-71.061986,potluck cafe,7 Knapp St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.061986 42.351167),,1,2
+42.350559,-71.060602,poke boys inc,72 Kneeland St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.3518,-71.0607,plantscapes new england,,2111,541410,Interior Design Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351333,-71.061057,places for less,68 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.351456,-71.062546,pin ming bubble tea,5 Beach St,2111,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Chinatown,POINT (-71.062546 42.351456),,1,2
+42.352315,-71.059519,photos courtesy-gameface media,109 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.351408,-71.062588,pho pasteur,682 Washington St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Chinatown,POINT (-71.062588 42.351408),,1,2
+42.3518,-71.0607,penang malaysian cuisine,685-691 Washington St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.352351,-71.059809,pekin duck supply corp,11 Edinboro St,2111,423990,Other Miscellaneous Durable Goods Merchant Wholesalers,42,Wholesale Trade,5.0,1 to 9,Chinatown,POINT (-71.059809 42.352351),,1,2
+42.351152,-71.060399,peach farm restaurant,4 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.060399 42.351152),,1,2
+42.3518,-71.0607,pastore fred g associates llc,,2111,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350778,-71.059843,parcel 24 south llc,88 Hudson St,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,0.0,Not Available,Chinatown,POINT (-71.059843 42.350778),,1,2
+42.3518,-71.0607,paratek pharmaceuticals,5th FLR 75 Kneeland St,2111,325412,Pharmaceutical Preparation Manufacturing,32,Manufacturing,3.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,paradigm properties,15 East St,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,par capital management,655 Atlantic Ave,2111,523930,Investment Advice,52,Finance and Insurance,9.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350934,-71.06159,panda onezo inc,83 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.06159 42.350934),,1,2
+42.3518,-71.0607,pachulski stang ziehl & jones,,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351442,-71.060159,overseas youth club,62 Beach St,2111,624110,Child and Youth Services,62,Healthcare and Social Assistance,7.0,1 to 9,Chinatown,POINT (-71.060159 42.351442),,1,2
+42.350559,-71.060602,oversea express boston corp,72 Kneeland St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.350622,-71.060973,oriental travel llc,58 Kneeland St,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Chinatown,POINT (-71.060973 42.350622),,1,2
+42.351314,-71.061991,oriental massage,17 Beach St,2111,812199,Other Personal Care Services,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.061991 42.351314),,1,2
+42.351333,-71.061057,orbit group,68 Harrison Ave,2111,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.351701,-71.061454,orangebean international inc,31 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061454 42.351701),,1,2
+42.351799,-71.061367,open media boston,33 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.3518,-71.0607,one financial center,675 Atlantic Ave,2111,523930,Investment Advice,52,Finance and Insurance,9.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,one family inc,1 Family Inc 186 South St,2111,813319,Other Social Advocacy Organizations,81,Other Services,10.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.061571,olympic travel,65 Harrison Ave,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.350795,-71.061213,ocean treasure corp,84 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Chinatown,POINT (-71.061213 42.350795),,1,2
+42.3518,-71.0607,nstar,75 Kingston St,2111,237130,Power and Communication Line and Related Structures Construction,23,Construction,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351799,-71.061367,novak francella,33 Harrison Ave,2111,541211,Offices of Certified Public Accountants,54,"Professional, Scientific, and Technical Services",0.0,Not Available,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.350846,-71.0618,new sun international travel investment,30 Kneeland St,2111,551112,Offices of Other Holding Companies,55,Management of Companies and Enterprises,8.0,1 to 9,Chinatown,POINT (-71.0618 42.350846),,1,2
+42.351029,-71.05999,new jumbo seafood restaurant,5 Hudson St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.05999 42.351029),,1,2
+42.351404,-71.060019,new golden gate inc,66 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.060019 42.351404),,1,2
+42.3518,-71.0607,new england parking systems inc,769 Wash,2111,812930,Parking Lots and Garages,81,Other Services,10.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,new england medical center,,2111,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351799,-71.061367,new england joint,33 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.351614,-71.060938,new england elevator,44 Beach St,2111,238290,Other Building Equipment Contractors,23,Construction,3.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.350795,-71.061213,new bao bao inc,84 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061213 42.350795),,1,2
+42.351122,-71.061571,natural driving school,65 Harrison Ave,2111,611692,Automobile Driving Schools,61,Educational Services,3.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.3518,-71.0607,national water education council,85 Financial Ctr,2111,611710,Educational Support Services,61,Educational Services,16.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.061571,nam bac hong herbs inc,75 Harrison Ave,2111,445299,All Other Specialty Food Stores,44,Retail Trade,4.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351413,-71.062579,my thai cafe,3 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Chinatown,POINT (-71.062579 42.351413),,1,2
+42.3518,-71.0607,my fit philosophy inc,665 Washington St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351142,-71.060777,"mw & w, inc",9 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060777 42.351142),,1,2
+42.350806,-71.060243,moy shee association,13 Hudson St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.060243 42.350806),,1,2
+42.350928,-71.062078,moon flower house ct inc,22 Kneeland St,2111,453110,Florists,45,Retail Trade,0.0,Not Available,Chinatown,POINT (-71.062078 42.350928),,1,2
+42.350908,-71.062067,moon flower house,20 Kneeland St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Chinatown,POINT (-71.062067 42.350908),,1,2
+42.352315,-71.059519,modernista limited,109 Kingston St,2111,541810,Advertising Agencies,54,"Professional, Scientific, and Technical Services",100.0,100+,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.350516,-71.05995,mmg corp,18 Hudson St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.05995 42.350516),,1,2
+42.35066,-71.061132,ming kee,54 Kneeland St,2111,445210,Meat Markets,44,Retail Trade,5.0,1 to 9,Chinatown,POINT (-71.061132 42.35066),,1,2
+42.351614,-71.060938,min fang park,40 Harrison Ave,2111,812199,Other Personal Care Services,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.351122,-71.061571,midtown properties inc,65 Harrison Ave,2111,531311,Residential Property Managers,53,Real Estate Rental and Leasing,3.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.3518,-71.0607,mg news,720 Atlantic Ave,2111,451212,News Dealers and Newsstands,45,Retail Trade,7.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,mfs investment management,2nd FL 2 Ave De Lafayette,2111,523910,Miscellaneous Intermediation,52,Finance and Insurance,12.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351673,-71.061884,mei sum bakery coffee shop,40 Beach St,2111,311811,Retail Bakeries,31,Manufacturing,3.0,1 to 9,Chinatown,POINT (-71.061884 42.351673),,1,2
+42.3518,-71.0607,medical professional mutual insurance co,675 Atlantic Ave,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351333,-71.061057,mbe cleantech,68 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.3518,-71.0607,massbike better bicycling,604371 Park Plz,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,massachusetts law book co,,2111,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,massachusetts commission for the deaf,,2111,921120,Legislative Bodies,92,Public Administration,12.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,massachusetts advocates,25 Kingdom St,2111,541820,Public Relations Agencies,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,mass society of eye physicians,,2111,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351333,-71.061057,mass private capital,,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.351799,-71.061367,mass global action,33 Harrison Ave,2111,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.352109,-71.059559,marcus gleysteen architects,129 Kingston St,2111,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Chinatown,POINT (-71.059559 42.352109),,1,2
+42.351122,-71.061571,malden eyecare clinic llc,65 Harrison Ave,2111,621320,Offices of Optometrists,62,Healthcare and Social Assistance,5.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.35168,-71.059858,m & l travel,25 Edinboro St,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,Chinatown,POINT (-71.059858 42.35168),,1,2
+42.35168,-71.059858,lucky store,25 Edinboro St,2111,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,23.0,10 to 24,Chinatown,POINT (-71.059858 42.35168),,1,2
+42.351799,-71.061367,local 26 hospitality workers,33 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.350846,-71.0618,lm heavy civil construction,30 Kneeland St,2111,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Chinatown,POINT (-71.0618 42.350846),,1,2
+42.351701,-71.061454,liyijia tao inc,35 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061454 42.351701),,1,2
+42.351105,-71.062697,liuyishou hotpot boston llc,702 Washington St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.062697 42.351105),,1,2
+42.3518,-71.0607,lincoln property co,225 Lincoln St,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.061571,lin haian law offices,65 Harrison Ave,2111,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351122,-71.061571,lim & associates pc,65 Harrison Ave,2111,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.350667,-71.060641,lily beauty salon,22A Tyler St,2111,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.060641 42.350667),,1,2
+42.352213,-71.062354,liberty tree associates,630 Washington St,2111,561730,Landscaping Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,Chinatown,POINT (-71.062354 42.352213),,1,2
+42.350945,-71.060188,liang kee co,9 Hudson St,2111,561311,Employment Placement Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",9.0,1 to 9,Chinatown,POINT (-71.060188 42.350945),,1,2
+42.350973,-71.060442,lee association of new england,10 Tyler St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.060442 42.350973),,1,2
+42.350997,-71.06254,le's salon & beauty,10 Kneeland St,2111,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.06254 42.350997),,1,2
+42.3518,-71.0607,laz parking ltd,,2111,812930,Parking Lots and Garages,81,Other Services,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.352176,-71.059511,latitude research,125 Kingston St,2111,541910,Marketing Research and Public Opinion Polling,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Chinatown,POINT (-71.059511 42.352176),,1,2
+42.351122,-71.061571,lakemont bridge associates inc,65 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.352278,-71.062062,l e housing ltd,15 Essex St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.062062 42.352278),,1,2
+42.351064,-71.062576,l & e beauty wholesale inc,12 Kneeland St,2111,424210,Drugs and Druggists' Sundries Merchant Wholesalers,42,Wholesale Trade,3.0,1 to 9,Chinatown,POINT (-71.062576 42.351064),,1,2
+42.352176,-71.059511,kuvee inc,125 Kingston St,2111,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Chinatown,POINT (-71.059511 42.352176),,1,2
+42.350559,-71.060602,kung fu tea,66 Kneeland St,2111,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.351139,-71.060783,kowloon hair salon,7 Tyler St,2111,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.060783 42.351139),,1,2
+42.351027,-71.060422,kok wa co,8A Tyler St,2111,451211,Book Stores,45,Retail Trade,3.0,1 to 9,Chinatown,POINT (-71.060422 42.351027),,1,2
+42.351614,-71.060938,koi spa massage inc,40 Harrison Ave,2111,812199,Other Personal Care Services,81,Other Services,0.0,Not Available,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.350622,-71.060973,kneeland store,58 Kneeland St,2111,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.060973 42.350622),,1,2
+42.350559,-71.060602,kneeland 72 realty llc,72 Kneeland St,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.351214,-71.060374,klw hospitality inc,2 Tyler St,2111,721110,Hotels (except Casino Hotels) and Motels,72,Accommodation and Food Services,13.0,10 to 24,Chinatown,POINT (-71.060374 42.351214),,1,2
+42.351795,-71.060314,kirin produce co,22 Oxford St,2111,445230,Fruit and Vegetable Markets,44,Retail Trade,3.0,1 to 9,Chinatown,POINT (-71.060314 42.351795),,1,2
+42.351122,-71.061571,kind traumatology recovery center,65 Harrison Ave,2111,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,1.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351314,-71.061991,kim thanh jewelers,17 Beach St,2111,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.061991 42.351314),,1,2
+42.350854,-71.061738,kim tai jewelry inc,28 Kneeland St,2111,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.061738 42.350854),,1,2
+42.350908,-71.062067,kim do jewelry,20 Kneeland St,2111,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.062067 42.350908),,1,2
+42.350559,-71.060602,kf tea ma,72 Kneeland St,2111,541614,"Process, Physical Distribution, and Logistics Consulting Services",54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.3518,-71.0607,kensington apartments,665 Washington St,2111,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351742,-71.060297,ken's hair & beauty salon,24 Oxford St,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.060297 42.351742),,1,2
+42.352213,-71.062354,kelley & ryan associates,630 Washington St,2111,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Chinatown,POINT (-71.062354 42.352213),,1,2
+42.35236,-71.061552,kaze shabu shabu restaurant,1 Harrison Ave,2111,711510,"Independent Artists, Writers, and Performers",71,"Arts, Entertainment, and Recreation",20.0,10 to 24,Chinatown,POINT (-71.061552 42.35236),,1,2
+42.352315,-71.059519,kallmann mckinnell-wood architects,109 Kingston St,2111,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.351582,-71.060248,kalai hairstyle,30 Oxford St,2111,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.060248 42.351582),,1,2
+42.351064,-71.062576,k & w realty investment llc,694 Washington St,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Chinatown,POINT (-71.062576 42.351064),,1,2
+42.351799,-71.061367,justice at work,33 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.3518,-71.0607,julien restaurant,,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350848,-71.061712,juice republic,32 Kneeland St,2111,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,6.0,1 to 9,Chinatown,POINT (-71.061712 42.350848),,1,2
+42.351105,-71.062697,joy luck hot pot,702 Washington St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062697 42.351105),,1,2
+42.3518,-71.0607,jones & associates inc,,2111,523120,Securities Brokerage,52,Finance and Insurance,7.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351933,-71.061022,joe's hair salon,28 Harrison Ave,2111,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.061022 42.351933),,1,2
+42.35121,-71.062457,jia ho supermarket,692 Washington St,2111,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,3.0,1 to 9,Chinatown,POINT (-71.062457 42.35121),,1,2
+42.351408,-71.062588,jia ho restaurant,680 Washington St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062588 42.351408),,1,2
+42.35121,-71.062457,jia ho jewelry trade inc,692A Washington St,2111,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.062457 42.35121),,1,2
+42.351122,-71.061571,jetta tours,65 Harrison Ave,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.3518,-71.0607,jaho coffee,665 Washington St,2111,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350846,-71.0618,jade orthodontics llc,30 Kneeland St,2111,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Chinatown,POINT (-71.0618 42.350846),,1,2
+42.350692,-71.060552,jade garden,20 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060552 42.350692),,1,2
+42.350868,-71.061836,j hair studio,24 Kneeland St,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.061836 42.350868),,1,2
+42.3518,-71.0607,izumi foundation,655 Atlantic Ave,2111,541720,Research and Development in the Social Sciences and Humanities,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,iron mountain-health info service,,2111,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351064,-71.062576,irashai sushi,8 Kneeland St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062576 42.351064),,1,2
+42.351614,-71.060938,innovation excellence inc,42 Beach St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.3518,-71.0607,independent telephone & communications,,2111,443142,Electronics Stores,44,Retail Trade,4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351333,-71.061057,in progress boston inc,68 Harrison Ave,2111,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.351122,-71.061571,ieg travel group,65 Harrison Ave,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351333,-71.061057,idea painting company,68 Harrison Ave,2111,238320,Painting and Wall Covering Contractors,23,Construction,1.0,1 to 9,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.352109,-71.059559,icon,129 Kingston St,2111,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,12.0,10 to 24,Chinatown,POINT (-71.059559 42.352109),,1,2
+42.351027,-71.060422,husso,8 Tyler St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.060422 42.351027),,1,2
+42.350735,-71.060974,how oak tin association,25 Tyler St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.060974 42.350735),,1,2
+42.352315,-71.059519,hourly nerd,109 Kingston St,2111,511210,Software Publishers,51,Information,10.0,10 to 24,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.351355,-71.059823,hot pot buffet,70 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.059823 42.351355),,1,2
+42.351614,-71.060938,hot eastern inc,42 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.352334,-71.060442,hong realty group,73 Essex St,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,Chinatown,POINT (-71.060442 42.352334),,1,2
+42.351012,-71.061621,hong kong eatery,79 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,13.0,10 to 24,Chinatown,POINT (-71.061621 42.351012),,1,2
+42.351506,-71.06058,ho yuen bakery inc,54 Beach St,2111,311811,Retail Bakeries,31,Manufacturing,7.0,1 to 9,Chinatown,POINT (-71.06058 42.351506),,1,2
+42.3511,-71.06003,hing shing pastry,67 Beach St,2111,311811,Retail Bakeries,31,Manufacturing,5.0,1 to 9,Chinatown,POINT (-71.06003 42.3511),,1,2
+42.351122,-71.061571,herbs deep tissue massage,65 Harrison Ave,2111,812199,Other Personal Care Services,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351345,-71.059822,hei la moon,88 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Chinatown,POINT (-71.059822 42.351345),,1,2
+42.350622,-71.060973,healthy foot spa,56 Kneeland St,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.060973 42.350622),,1,2
+42.350559,-71.060602,healthcon inc,72 Kneeland St,2111,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.3518,-71.0607,hdr inc,6919 W Lincoln Hwy,2111,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350861,-71.060222,happy family food market,11 Hudson St,2111,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.060222 42.350861),,1,2
+42.35207,-71.059924,guang hai association of new england,11 Edinboro St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.059924 42.35207),,1,2
+42.35168,-71.059858,guan yin citta inc,25 Edinboro St,2111,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.059858 42.35168),,1,2
+42.3518,-71.0607,griffith properties,,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351799,-71.061367,greater boston hotel employees,33 Harrison Ave,2111,813211,Grantmaking Foundations,81,Other Services,10.0,10 to 24,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.350846,-71.0618,great wall kitchen supply,38 Kneeland St,2111,337110,Wood Kitchen Cabinet and Countertop Manufacturing,33,Manufacturing,1.0,1 to 9,Chinatown,POINT (-71.0618 42.350846),,1,2
+42.351105,-71.060185,great taste bakery & restaurant,63 Beach St,2111,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Chinatown,POINT (-71.060185 42.351105),,1,2
+42.351626,-71.061433,great neck healthy food ma inc,38 Beach St,2111,446191,Food (Health) Supplement Stores,44,Retail Trade,3.0,1 to 9,Chinatown,POINT (-71.061433 42.351626),,1,2
+42.350945,-71.060188,great barbecu,15 Hudson St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060188 42.350945),,1,2
+42.351537,-71.060652,gourmet dumpling house,52 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060652 42.351537),,1,2
+42.350622,-71.060973,gourmet china restaurant,23 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,1.0,1 to 9,Chinatown,POINT (-71.060973 42.350622),,1,2
+42.3518,-71.0607,goodbite of boston,25 Chauncy St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351614,-71.060938,gong cha,40 Harrison Ave,2111,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.350917,-71.060465,go go sun,12 Tyler St,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Chinatown,POINT (-71.060465 42.350917),,1,2
+42.351799,-71.061367,gin soon tai chi club,33 Harrison Ave,2111,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.3518,-71.0607,gen3 partners inc,,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351278,-71.061537,gee how oak tin associates,77 Harrison Ave,2111,813910,Business Associations,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.061537 42.351278),,1,2
+42.3518,-71.0607,gardens of liberty park,9975 Greentree Pkwy,2111,623312,Assisted Living Facilities for the Elderly,62,Healthcare and Social Assistance,90.0,50 to 99,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.061571,gar chiang & associates,65 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.352315,-71.059519,gameface media inc,109 Kingston St,2111,541921,"Photography Studios, Portrait",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.352176,-71.059511,game face media inc,125 Kingston St,2111,541690,Other Scientific and Technical Consulting Services,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Chinatown,POINT (-71.059511 42.352176),,1,2
+42.350559,-71.060602,g & n engineering,72 Kneeland St,2111,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,8.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.35168,-71.059858,friendship service center,25 Edinboro St,2111,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Chinatown,POINT (-71.059858 42.35168),,1,2
+42.3518,-71.0607,framingham state university,38 Ash St,2111,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,21.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350846,-71.0618,fragrance day spa inc,99 Harrison Ave,2111,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,3.0,1 to 9,Chinatown,POINT (-71.0618 42.350846),,1,2
+42.351122,-71.061571,four seasons leisure inc,65 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351614,-71.060938,fortune market inc,40 Harrison Ave,2111,445299,All Other Specialty Food Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.351122,-71.061571,focal early education center corp,65 Harrison Ave,2111,611710,Educational Support Services,61,Educational Services,16.0,10 to 24,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351122,-71.061571,fly over the city courier service,65 Harrison Ave,2111,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,15.0,10 to 24,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351614,-71.060938,fly over the city courier service,46 Beach St,2111,492110,Couriers and Express Delivery Services,49,Transportation and Warehosuing,4.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.351122,-71.061571,fly over the city,65 Harrison Ave,2111,492110,Couriers and Express Delivery Services,49,Transportation and Warehosuing,15.0,10 to 24,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.352315,-71.059519,fluent,109 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.351484,-71.060432,five spices house,58 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,12.0,10 to 24,Chinatown,POINT (-71.060432 42.351484),,1,2
+42.3518,-71.0607,fisherman technologies inc,Gsvlabs 2 Ave De Lafayette,2111,114111,Finfish Fishing,11,"Agriculture, Forestry, Fishing and Hunting",2.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,first realty management,151 Tremont Street 200 Mo,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.061571,feti travel,65 Harrison Ave,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",7.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.3518,-71.0607,feinberg & alban p c,4 West St,2111,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.061571,far east travel,65 Harrison Ave,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351122,-71.061571,family dental llc,65 Harrison Ave,2111,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.352176,-71.059511,eversound,125 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059511 42.352176),,1,2
+42.3518,-71.0607,everis,319 Street,2111,541519,Other Computer Related Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351933,-71.061022,eva hair salon,28 Harrison Ave,2111,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.061022 42.351933),,1,2
+42.351277,-71.062643,empire garden restaurant,690 Washington St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,50.0,50 to 99,Chinatown,POINT (-71.062643 42.351277),,1,2
+42.3518,-71.0607,elm exchange inc,675 Atlantic Ave,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350671,-71.060995,elegance of asia hair salon,27A Tyler St,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.060995 42.350671),,1,2
+42.351769,-71.060983,eldo cake house,36 Harrison Ave,2111,311811,Retail Bakeries,31,Manufacturing,5.0,1 to 9,Chinatown,POINT (-71.060983 42.351769),,1,2
+42.352097,-71.060392,"ecodemand, llc",10 Oxford St,2111,0,,99,Undefined,4.0,1 to 9,Chinatown,POINT (-71.060392 42.352097),,1,2
+42.351333,-71.061057,east west bank,68 Harrison Ave Lbby 2,2111,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.351064,-71.062576,eagle jet tour inc,12 Kneeland St,2111,561520,Tour Operators,56,"Adminstrative, Support, Waste Management, and Remediation Services",8.0,1 to 9,Chinatown,POINT (-71.062576 42.351064),,1,2
+42.3518,-71.0607,e t r-express tours-travel solutions,26 Lincoln St,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,dunn d w company,,2111,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,6.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.352213,-71.062354,dunkin',630 Washington St,2111,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,11.0,10 to 24,Chinatown,POINT (-71.062354 42.352213),,1,2
+42.350964,-71.062233,dunkin',16 Kneeland St,2111,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062233 42.350964),,1,2
+42.351614,-71.060938,dumpling king,42 Beach ST,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.352109,-71.059559,dumont janks llc,129 Kingston St,2111,541320,Landscape Architectural Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Chinatown,POINT (-71.059559 42.352109),,1,2
+42.3518,-71.0607,draka fitness llc,74 Lincoln St,2111,812191,Diet and Weight Reducing Centers,81,Other Services,4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350734,-71.061236,double chin,86 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Chinatown,POINT (-71.061236 42.350734),,1,2
+42.351186,-71.061278,donham & sweeney-architects,68 Harrison Ave,2111,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",12.0,10 to 24,Chinatown,POINT (-71.061278 42.351186),,1,2
+42.3518,-71.0607,dj spinelli & associates,655 Atlantic Ave,2111,711510,"Independent Artists, Writers, and Performers",71,"Arts, Entertainment, and Recreation",5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351614,-71.060938,diva beauty spa,40 Harrison Ave,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.351122,-71.061571,dianedu.com ltd,65 Harrison Ave,2111,541890,Other Services Related to Advertising,54,"Professional, Scientific, and Technical Services",19.0,10 to 24,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351635,-71.060263,delights corner,34 Oxford St,2111,445120,Convenience Stores,44,Retail Trade,1.0,1 to 9,Chinatown,POINT (-71.060263 42.351635),,1,2
+42.351527,-71.06023,delight corner,32 Oxford St,2111,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.06023 42.351527),,1,2
+42.3518,-71.0607,davidson law practice,,2111,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,d.f. pray general contractors,858 Washington St,2111,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350887,-71.061905,d & k mart,26 Kneeland St,2111,452210,Department Stores,45,Retail Trade,1.0,1 to 9,Chinatown,POINT (-71.061905 42.350887),,1,2
+42.3518,-71.0607,cvs pharmacy,700 Atlantic Ave,2111,446110,Pharmacies and Drug Stores,44,Retail Trade,14.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351362,-71.062314,ct sweet kingdom,15 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062314 42.351362),,1,2
+42.351799,-71.059878,crown royal bakery,23 Edinboro St,2111,311811,Retail Bakeries,31,Manufacturing,11.0,10 to 24,Chinatown,POINT (-71.059878 42.351799),,1,2
+42.351333,-71.061057,cricket wireless authorized retailer,68 Harrison Ave,2111,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,4.0,1 to 9,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.3518,-71.0607,coverys specialty insur co,675 Atlantic Ave,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,28.0,25 to 49,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,"coverys rrg, inc",675 Atlantic Ave,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,coverys custom accounts,675 Atlantic Ave,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,coverys,675 Atlantic Ave,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,20.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.352315,-71.059519,corinthian events a global dmc partner,109 Kingston St,2111,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",11.0,10 to 24,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.352315,-71.059519,corinthian events,109 Kingston St FL 6,2111,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",14.0,10 to 24,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.3518,-71.0607,corepower yoga,18 Kingston St,2111,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,20.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,corderman & co inc,300 Sfreet,2111,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,copley real estate advisors,655 Atlantic Ave,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351333,-71.061057,context architecture,68 Harrison Ave,2111,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.350723,-71.060973,connie's beauty center,25B Tyler St,2111,812112,Beauty Salons,81,Other Services,4.0,1 to 9,Chinatown,POINT (-71.060973 42.350723),,1,2
+42.352109,-71.059559,community opportunities group,129 Kingston St,2111,541320,Landscape Architectural Services,54,"Professional, Scientific, and Technical Services",12.0,10 to 24,Chinatown,POINT (-71.059559 42.352109),,1,2
+42.351333,-71.061057,cohn & dussi llc,68 Harrison Ave,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.351277,-71.062643,codman square public library,690 Washington St,2111,519120,Libraries and Archives,51,Information,8.0,1 to 9,Chinatown,POINT (-71.062643 42.351277),,1,2
+42.351056,-71.061911,coco head hair studio,9 Knapp St,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.061911 42.351056),,1,2
+42.350465,-71.060371,clay pot cafe,74 Kneeland St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060371 42.350465),,1,2
+42.351506,-71.06058,chinese womens association,54 Beach St,2111,813410,Civic and Social Organizations,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.06058 42.351506),,1,2
+42.352334,-71.060442,chinese spaghetti factory,73 Essex St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,1.0,1 to 9,Chinatown,POINT (-71.060442 42.352334),,1,2
+42.351799,-71.061367,chinese progressive association,33 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.350658,-71.060093,chinese merchants association,20 Hudson St,2111,813910,Business Associations,81,Other Services,6.0,1 to 9,Chinatown,POINT (-71.060093 42.350658),,1,2
+42.350846,-71.0618,chinese institute of language,30 Kneeland St,2111,611630,Language Schools,61,Educational Services,10.0,10 to 24,Chinatown,POINT (-71.0618 42.350846),,1,2
+42.351122,-71.061571,chinese economic development cncl,65 Harrison Ave,2111,813319,Other Social Advocacy Organizations,81,Other Services,2.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351278,-71.061537,chinese economic develmnt councl,31 Beach St,2111,813410,Civic and Social Organizations,81,Other Services,4.0,1 to 9,Chinatown,POINT (-71.061537 42.351278),,1,2
+42.350516,-71.05995,chinatown pain relief massage,18 Hudson St,2111,812199,Other Personal Care Services,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.05995 42.350516),,1,2
+42.351701,-71.061454,chinatown hit,27 Harrison Ave,2111,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Chinatown,POINT (-71.061454 42.351701),,1,2
+42.3518,-71.0607,chinatown cultural center inc,38 Ash St,2111,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351062,-71.060622,china pearl restaurant,9 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,60.0,50 to 99,Chinatown,POINT (-71.060622 42.351062),,1,2
+42.351122,-71.060955,chen's corner inc,62 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060955 42.351122),,1,2
+42.351538,-71.06072,chang shing trading international inc,50 Beach St,2111,452319,All Other General Merchandise Stores,45,Retail Trade,4.0,1 to 9,Chinatown,POINT (-71.06072 42.351538),,1,2
+42.351701,-71.061454,cha time,31 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.061454 42.351701),,1,2
+42.3518,-71.0607,century,29 Essex St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351799,-71.061367,center for collaborative education,33 Harrison Ave,2111,611710,Educational Support Services,61,Educational Services,20.0,10 to 24,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.352097,-71.060392,cedc oxford ping llc,10 Oxford St,2111,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,3.0,1 to 9,Chinatown,POINT (-71.060392 42.352097),,1,2
+42.352315,-71.059519,catalant technologies inc,109 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.3518,-71.0607,cartesian inc,Two Financial CENTER60 S,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,career partners international,2 Financial Center 60 South St,2111,624310,Vocational Rehabilitation Services,62,Healthcare and Social Assistance,15.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,capital risk solutions spc,675 Atlantic Ave,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,cajun & grill,720 Atlantic Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,11.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.060955,cafe corner,62 Harrison Ave,2111,311812,Commercial Bakeries,31,Manufacturing,4.0,1 to 9,Chinatown,POINT (-71.060955 42.351122),,1,2
+42.351122,-71.061571,c & z associates,65 Harrison Ave,2111,541211,Offices of Certified Public Accountants,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.3518,-71.0607,buca inc,8N West St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,brainspec inc,665 Washington St,2111,541511,Custom Computer Programming Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351917,-71.059899,boston wah lum kung fu,17 Edinboro St,2111,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,Chinatown,POINT (-71.059899 42.351917),,1,2
+42.352213,-71.062354,boston roofing & construction llc,630 Washington St,2111,238160,Roofing Contractors,23,Construction,5.0,1 to 9,Chinatown,POINT (-71.062354 42.352213),,1,2
+42.3518,-71.0607,boston ring & gem,720 Atlantic Ave,2111,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.061571,boston infectious disease center,65 Harrison Ave,2111,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,0.0,Not Available,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351122,-71.061571,boston food allergy center,65 Harrison Ave,2111,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,7.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351614,-71.060938,boston crispy bun,42 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.351343,-71.061766,boston chinese freemasons,23 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.061766 42.351343),,1,2
+42.3518,-71.0607,boston chinatown neighborhood center,38 Ash St,2111,624110,Child and Youth Services,62,Healthcare and Social Assistance,149.0,100+,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,boston chinatown neighborhood,38 Ash St,2111,624229,Other Community Housing Services,62,Healthcare and Social Assistance,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,boston chinatown neighborhood,34 Oak St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351122,-71.061571,boston chinatown dental center,65 Harrison Ave,2111,621210,Offices of Dentists,62,Healthcare and Social Assistance,7.0,1 to 9,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.3518,-71.0607,boston child study center,,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,boston central air conditioning maintenance,750 Atlantic Ave,2111,236220,Commercial and Institutional Building Construction,23,Construction,7.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351333,-71.061057,boston camerata,68 Harrison Ave,2111,711510,"Independent Artists, Writers, and Performers",71,"Arts, Entertainment, and Recreation",2.0,1 to 9,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.3518,-71.0607,boston after school,,2111,624410,Child Day Care Services,81,62,,725131001,,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,blackrock inc,11 Financial Ctr,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351799,-71.061367,black math,33 Harrison Ave,2111,711510,"Independent Artists, Writers, and Performers",71,"Arts, Entertainment, and Recreation",15.0,10 to 24,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.35168,-71.059858,best printing,27 Edinboro St,2111,323111,Commercial Printing (except Screen and Books),32,Manufacturing,3.0,1 to 9,Chinatown,POINT (-71.059858 42.35168),,1,2
+42.350806,-71.060243,best little restaurant,13 Hudson St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060243 42.350806),,1,2
+42.351799,-71.061367,best corp hospitality training,33 Harrison Ave,2111,541612,Human Resources Consulting Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Chinatown,POINT (-71.061367 42.351799),,1,2
+42.352176,-71.059511,behnisch architekten,125 Kingston St,2111,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Chinatown,POINT (-71.059511 42.352176),,1,2
+42.350735,-71.060974,be salon,25 Tyler St,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.060974 42.350735),,1,2
+42.3518,-71.0607,bcnc,38 Ash St,2111,624410,Child Day Care Services,62,Healthcare and Social Assistance,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,baynorth capital llc,23 Financial Ctr,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,barry murphy & co,,2111,523110,Investment Banking and Securities Dealing,52,Finance and Insurance,6.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350734,-71.061236,bao bao bakery & cafe,86 Harrison Ave,2111,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Chinatown,POINT (-71.061236 42.350734),,1,2
+42.3518,-71.0607,banks division,20 East St,2111,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",92,Public Administration,20.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.352213,-71.062354,bank of america mortgage,630 Washington St,2111,522292,Real Estate Credit,52,Finance and Insurance,10.0,10 to 24,Chinatown,POINT (-71.062354 42.352213),,1,2
+42.352213,-71.062354,bank of america,630 Washington St,2111,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,Chinatown,POINT (-71.062354 42.352213),,1,2
+42.351165,-71.062679,banh mi huong que,696 Washington St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Chinatown,POINT (-71.062679 42.351165),,1,2
+42.352315,-71.059519,b.good llc,109 Kingston St,2111,722310,Food Service Contractors,72,Accommodation and Food Services,28.0,25 to 49,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.351614,-71.060938,avana sushi-boston,42 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.351272,-71.060807,authentic china house inc,55 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060807 42.351272),,1,2
+42.35207,-71.059924,asian health center,11 Edinboro St,2111,622110,General Medical and Surgical Hospitals,84,62,,438157727,,POINT (-71.059924 42.35207),,1,2
+42.351933,-71.061022,asian garden restaurant,28 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.061022 42.351933),,1,2
+42.3518,-71.0607,asian community development corp,38 Oak St,2111,813319,Other Social Advocacy Organizations,81,Other Services,11.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351355,-71.059823,asian american cultural center,70 Beach St,2111,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Chinatown,POINT (-71.059823 42.351355),,1,2
+42.351122,-71.061571,asc english,65 Harrison Ave,2111,611630,Language Schools,61,Educational Services,10.0,10 to 24,Chinatown,POINT (-71.061571 42.351122),,1,2
+42.351056,-71.061911,angel beauty inc,9 Knapp St,2111,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Chinatown,POINT (-71.061911 42.351056),,1,2
+42.3518,-71.0607,amc drug testing inc,,2111,813319,Other Social Advocacy Organizations,81,Other Services,10.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,alps fund svc inc,655 Atlantic Ave,2111,523930,Investment Advice,52,Finance and Insurance,9.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,all security systems,72 Harrison Ave,2111,423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",42,Wholesale Trade,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,all drain service,,2111,562991,Septic Tank and Related Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350559,-71.060602,alesam group inc,72 Kneeland St,2111,483211,Inland Water Freight Transportation,48,Transportation and Warehosuing,9.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.3518,-71.0607,alcoholics & narcotics help line 24 hours,,2111,622210,Psychiatric and Substance Abuse Hospitals,62,Healthcare and Social Assistance,20.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351345,-71.059822,aki hair studio,88 Beach St,2111,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Chinatown,POINT (-71.059822 42.351345),,1,2
+42.352315,-71.059519,airmada inc,109 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.3518,-71.0607,aew capital management l p,,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,acorn center for early education & care,38 Ash Street 1st &,2111,611710,Educational Support Services,61,Educational Services,7.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,acdc fort street,38 Oak St,2111,813319,Other Social Advocacy Organizations,81,Other Services,10.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.352315,-71.059519,accorin,109 Kingston St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.350559,-71.060602,acclain insurance agency,72 Kneeland St,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.351068,-71.059975,acclain insurance,3 Hudson St,2111,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,2.0,1 to 9,Chinatown,POINT (-71.059975 42.351068),,1,2
+42.3518,-71.0607,abby yozell llc,140 Tramell St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351701,-71.061454,a goodmart,27 Harrison Ave,2111,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.061454 42.351701),,1,2
+42.351056,-71.061911,9 knapp street realty trust,9 Knapp St,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,2.0,1 to 9,Chinatown,POINT (-71.061911 42.351056),,1,2
+42.351345,-71.059822,"88 beach, llc",88 Beach St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.059822 42.351345),,1,2
+42.3518,-71.0607,711 atlantic ave lincoln property,15 East St,2111,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350559,-71.060602,43 merrimack st inc,72 Kneeland St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.352315,-71.059519,2000k llc,109 Kingston St,2111,443142,Electronics Stores,44,Retail Trade,8.0,1 to 9,Chinatown,POINT (-71.059519 42.352315),,1,2
+42.350516,-71.05995,18 seafood market,18 Hudson St,2111,445220,Fish and Seafood Markets,44,Retail Trade,3.0,1 to 9,Chinatown,POINT (-71.05995 42.350516),,1,2
+42.351333,-71.061057,163 vietnam sandwich,66 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Chinatown,POINT (-71.061057 42.351333),,1,2
+42.350559,-71.060602,1160 mass ave inc,72 Kneeland St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.351498,-71.060507,101 bakery,56 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060507 42.351498),,1,2
+42.351673,-71.061884,xinh xinh restaurant,14 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Chinatown,POINT (-71.061884 42.351673),,1,2
+42.351064,-71.062576,tung restaurant,8 Kneeland St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062576 42.351064),,1,2
+42.351456,-71.062546,tu do restaurant,5 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062546 42.351456),,1,2
+42.350848,-71.061712,tbaar chinatown,32 Kneeland St,2111,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,0.0,Not Available,Chinatown,POINT (-71.061712 42.350848),,1,2
+42.351614,-71.060938,swatow restaurant,44 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.3518,-71.0607,starbucks,655 Atlantic Ave,2111,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,12.0,10 to 24,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351105,-71.060185,spring moon restaurant,63 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060185 42.351105),,1,2
+42.350861,-71.060487,shabu-zen,14 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060487 42.350861),,1,2
+42.351314,-71.061991,pho mai restaurant,17 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.061991 42.351314),,1,2
+42.351799,-71.059878,peoples restaurant,21 Edinboro St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.059878 42.351799),,1,2
+42.3518,-71.0607,penang restaurant,685-691 Washington St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350973,-71.060442,peking cuisine restaurant,10 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060442 42.350973),,1,2
+42.351109,-71.060786,park foon restaurant,11 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060786 42.351109),,1,2
+42.351614,-71.060938,pacific gardens,46 Beach St,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.3518,-71.0607,omonia greek restaurant,75 Charles E Ryan Rd,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351027,-71.060422,ocean wealth restaurants,8 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060422 42.351027),,1,2
+42.350584,-71.060331,new shanghai restaurant,21 Hudson St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,1.0,1 to 9,Chinatown,POINT (-71.060331 42.350584),,1,2
+42.351529,-71.059833,new dynasty,33 Edinboro St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.059833 42.351529),,1,2
+42.350584,-71.060331,mochinut chinatown inc,21 Hudson St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Chinatown,POINT (-71.060331 42.350584),,1,2
+42.351614,-71.060938,mak$kwan restaurant,44 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.350806,-71.060243,little restaurant,13 Hudson St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060243 42.350806),,1,2
+42.351105,-71.060185,korea house,63 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060185 42.351105),,1,2
+42.351278,-71.061537,kamlun bakery & restaurant,77 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.061537 42.351278),,1,2
+42.350749,-71.06053,jade garden restaurant,18 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Chinatown,POINT (-71.06053 42.350749),,1,2
+42.351362,-71.062314,imperial seafood restaurant,7 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062314 42.351362),,1,2
+42.35121,-71.062457,grand china restaurant,692 Washington St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062457 42.35121),,1,2
+42.351272,-71.060807,grand chau chow restaurant,45 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.060807 42.351272),,1,2
+42.350861,-71.060487,golden palace restaurant,14 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060487 42.350861),,1,2
+42.35057,-71.059929,ginza japanese restaurant,16 Hudson St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,15.0,10 to 24,Chinatown,POINT (-71.059929 42.35057),,1,2
+42.350735,-71.060974,gaga seafood restaurant,25 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060974 42.350735),,1,2
+42.351614,-71.060938,friendship bbq,40 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.3518,-71.0607,fournier,1600 One Financial Ctr,2111,0,,99,Undefined,0.0,Not Available,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351413,-71.062579,fortune house restaurant,3 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.062579 42.351413),,1,2
+42.3518,-71.0607,five spices house,27 Beach St A/K/A 58 Oxford St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.3518,-71.0607,eldo restaurant,57 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.350917,-71.060465,double sparkle inc,12 Tyler St,2111,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Chinatown,POINT (-71.060465 42.350917),,1,2
+42.350734,-71.061236,ding ho restaurant,88 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.061236 42.350734),,1,2
+42.351614,-71.060938,chinatown eatery,44 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060938 42.351614),,1,2
+42.350559,-71.060602,china town gifts,72 Kneeland St,2111,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,2.0,1 to 9,Chinatown,POINT (-71.060602 42.350559),,1,2
+42.351484,-71.060432,china pearl bbq,58 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060432 42.351484),,1,2
+42.351272,-71.060807,chau chow restaurant inc,45 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Chinatown,POINT (-71.060807 42.351272),,1,2
+42.3518,-71.0607,cafe calypso,657 Washington St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351272,-71.060807,bubor cha cha,45 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Chinatown,POINT (-71.060807 42.351272),,1,2
+42.351105,-71.060185,bo-shek coffee house,63 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.060185 42.351105),,1,2
+42.350692,-71.060552,big fish seafood restaurant,20 Tyler St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Chinatown,POINT (-71.060552 42.350692),,1,2
+42.3518,-71.0607,best bar b q restaurant,90 Beach St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351933,-71.061022,ba dat restaurant,28 Harrison Ave,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.061022 42.351933),,1,2
+42.3518,-71.0607,air art dezine,503A Washington St,2111,452210,Department Stores,45,Retail Trade,6.0,1 to 9,Chinatown,POINT (-71.0607 42.3518),,1,2
+42.351799,-71.059878,180 cafe,21 Edinboro St,2111,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Chinatown,POINT (-71.059878 42.351799),,1,2
+42.341858,-71.069429,zeybekoglu & associates,46 Waltham St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",55.0,50 to 99,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,youth build boston designery,1884 Washington St,2118,624110,Child and Youth Services,62,Healthcare and Social Assistance,25.0,25 to 49,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.343266,-71.065922,yen consulting group inc,1166 Washington St,2118,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Washington St Gateway,POINT (-71.065922 42.343266),,1,2
+42.343596,-71.06584,william soohoo law office,1146 Washington St,2118,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Washington St Gateway,POINT (-71.06584 42.343596),,1,2
+42.339947,-71.072487,william j bladd law offices,1511 Washington St,2118,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Washington St Gateway,POINT (-71.072487 42.339947),,1,2
+42.342247,-71.068538,wilkes passage condominiums,1313 Washington St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.341858,-71.069429,whydesignworks,46 Waltham St,2118,541430,Graphic Design Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.342891,-71.066057,whydesignworks,1200 Washington St,2118,541430,Graphic Design Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.343266,-71.065922,what we eat llc,1166 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.065922 42.343266),,1,2
+42.342368,-71.067363,west newton donuts,1250 Washington St,2118,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,10.0,10 to 24,Washington St Gateway,POINT (-71.067363 42.342368),,1,2
+42.3398,-71.0735,wdi appraisal services,,2118,519190,All Other Information Services,51,Information,1.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342247,-71.068538,wax job,1313 Washington St,2118,811111,General Automotive Repair,81,Other Services,1.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.341858,-71.069429,washington gateway main street,46 Waltham St,2118,813910,Business Associations,81,Other Services,1.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341667,-71.069283,washington gateway main st,1357 Washington St,2118,813910,Business Associations,81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.069283 42.341667),,1,2
+42.342247,-71.068538,visionary steps,1313 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.341252,-71.070207,viola lovely,1409 Washington St,2118,448120,Women's Clothing Stores,44,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.070207 42.341252),,1,2
+42.3398,-71.0735,vintage garden,61 Thayer St,2118,453110,Florists,45,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342891,-71.066057,vaughn martel law,1200 Washington St,2118,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.34309,-71.066322,vaughn martel law,1180 Washington St,2118,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Washington St Gateway,POINT (-71.066322 42.34309),,1,2
+42.34309,-71.066322,urbanity dance,1180 Washington St,2118,711120,Dance Companies,71,"Arts, Entertainment, and Recreation",2.0,1 to 9,Washington St Gateway,POINT (-71.066322 42.34309),,1,2
+42.343157,-71.065541,urban property management,35 Fay St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,11.0,10 to 24,Washington St Gateway,POINT (-71.065541 42.343157),,1,2
+42.343157,-71.065541,urban management,35 Fay St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,8.0,1 to 9,Washington St Gateway,POINT (-71.065541 42.343157),,1,2
+42.3398,-71.0735,urban edge,,2118,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,7.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341843,-71.067741,unleashed by petco,1310 Washington St,2118,453910,Pet and Pet Supplies Stores,45,Retail Trade,6.0,1 to 9,Washington St Gateway,POINT (-71.067741 42.341843),,1,2
+42.342448,-71.067265,united states monorail corp,1234 Washington St,2118,331318,"Other Aluminum Rolling, Drawing, and Extruding",33,Manufacturing,100.0,100+,Washington St Gateway,POINT (-71.067265 42.342448),,1,2
+42.341305,-71.070364,union park pizza,1405 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Washington St Gateway,POINT (-71.070364 42.341305),,1,2
+42.34592,-71.064771,unidine corp,1000 Washington St,2118,454390,Other Direct Selling Establishments,45,Retail Trade,60.0,50 to 99,Washington St Gateway,POINT (-71.064771 42.34592),,1,2
+42.344166,-71.065529,ultra spicy house,1102 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Washington St Gateway,POINT (-71.065529 42.344166),,1,2
+42.3398,-71.0735,u-haul co,,2118,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342247,-71.068538,tweed barbers of boston,1313 Washington St,2118,812111,Barber Shops,81,Other Services,7.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.345148,-71.064436,troy boston apartments,55 Traveler St,2118,531311,Residential Property Managers,53,Real Estate Rental and Leasing,3.0,1 to 9,Washington St Gateway,POINT (-71.064436 42.345148),,1,2
+42.3398,-71.0735,trans national group,,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,tr engel group,46 Waltham St,2118,523999,Miscellaneous Financial Investment Activities,52,Finance and Insurance,29.0,25 to 49,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,tobacco divestment project,,2118,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342378,-71.06735,thousand chef trading,1248 Washington St,2118,561311,Employment Placement Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,Washington St Gateway,POINT (-71.06735 42.342378),,1,2
+42.339684,-71.06971,thomas construction trailer,605 Harrison Ave,2118,236220,Commercial and Institutional Building Construction,23,Construction,8.0,1 to 9,Washington St Gateway,POINT (-71.06971 42.339684),,1,2
+42.339863,-71.07184,the salvation army,1500 Washington St,2118,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Washington St Gateway,POINT (-71.07184 42.339863),,1,2
+42.341371,-71.070211,the gallows,1395 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,30.0,25 to 49,Washington St Gateway,POINT (-71.070211 42.341371),,1,2
+42.34514,-71.064436,tatte bakery & cafe,345 Harrison Ave,2118,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Washington St Gateway,POINT (-71.064436 42.34514),,1,2
+42.3398,-71.0735,suffolk electrical company,901 Massachusetts Ave,2118,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,4.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,studio 301,46 Waltham St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,stripe & field,46 Waltham St,2118,323111,Commercial Printing (except Screen and Books),32,Manufacturing,3.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.342247,-71.068538,steven cohen team,1313 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,8.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.341858,-71.069429,stern mccafferty architects,46 Waltham St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.342247,-71.068538,state street barbers,1313 Washington St,2118,812111,Barber Shops,81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.342448,-71.067265,stanspec,1234 Washington St,2118,335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing,33,Manufacturing,100.0,100+,Washington St Gateway,POINT (-71.067265 42.342448),,1,2
+42.341858,-71.069429,spalding tougias architects,46 Waltham St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,south end streets inc,46 Waltham St,2118,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,south end hospitality llc,,2118,541512,Computer Systems Design Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,south end frames,105-107 E Berkeley St,2118,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,south end burying ground,Washington St,2118,812220,Cemeteries and Crematories,81,Other Services,15.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.343524,-71.065865,"soo hoo, richard insurance agency, inc",1148 Washington St,2118,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Washington St Gateway,POINT (-71.065865 42.343524),,1,2
+42.3398,-71.0735,smith brothers electrical co,61 W Dedham St,2118,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,4.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.343157,-71.065541,sliding door co of mass,35 Fay St,2118,444190,Other Building Material Dealers,44,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.065541 42.343157),,1,2
+42.343086,-71.065258,sliding,409 Harrison Ave,2118,444190,Other Building Material Dealers,44,Retail Trade,1.0,1 to 9,Washington St Gateway,POINT (-71.065258 42.343086),,1,2
+42.3398,-71.0735,slalom llc,,2118,541614,"Process, Physical Distribution, and Logistics Consulting Services",54,"Professional, Scientific, and Technical Services",0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,slalom consulting,,2118,561311,Employment Placement Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",9.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.344047,-71.065448,sid's smoke,1120 Washington St,2118,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Washington St Gateway,POINT (-71.065448 42.344047),,1,2
+42.3398,-71.0735,shore leave,11 William E Mullins Way,2118,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34514,-71.064436,shoe leave,345 Harrison Ave,2118,448210,Shoe Stores,44,Retail Trade,5.0,1 to 9,Washington St Gateway,POINT (-71.064436 42.34514),,1,2
+42.3398,-71.0735,shawmut electrical contractors,262 E Berkeley St,2118,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,4.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,ser verde,46 Waltham St,2118,448210,Shoe Stores,44,Retail Trade,5.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.340035,-71.072139,sell master inc,1513 Washington St,2118,541690,Other Scientific and Technical Consulting Services,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Washington St Gateway,POINT (-71.072139 42.340035),,1,2
+42.341858,-71.069429,sea-dar enterprises inc,46 Waltham St,2118,237210,Land Subdivision,23,Construction,83.0,50 to 99,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.342891,-71.066057,sb architects & design build,1200 Washington St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",10.0,10 to 24,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.342006,-71.067509,savoy condo trust,1280 Washington St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,Washington St Gateway,POINT (-71.067509 42.342006),,1,2
+42.339863,-71.07184,salvation army community center,1500 Washington St,2118,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,14.0,10 to 24,Washington St Gateway,POINT (-71.07184 42.339863),,1,2
+42.3398,-71.0735,roxse homes,20 Kendall St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,roto-rooter plumbing & water cleanup,,2118,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,rotch field,30 Randolph St,2118,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",71,"Arts, Entertainment, and Recreation",10.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341499,-71.067719,rollins square lp f/c,2 Rollins St,2118,0,,99,Undefined,5.0,1 to 9,Washington St Gateway,POINT (-71.067719 42.341499),,1,2
+42.341499,-71.067719,rollins square condominium,2 Rollins St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.067719 42.341499),,1,2
+42.3398,-71.0735,restoration resources,31 Thayer St,2118,453310,Used Merchandise Stores,45,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34603,-71.064091,real estate appraisers board,1000 Washington St,2118,924120,Administration of Conservation Programs,92,Public Administration,8.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.341858,-71.069429,"racepoint global, inc",46 Waltham St,2118,541820,Public Relations Agencies,54,"Professional, Scientific, and Technical Services",60.0,50 to 99,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,pure hair design,425 Harrison Ave,2118,812112,Beauty Salons,81,Other Services,9.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,proverb,543 Albany St,2118,541430,Graphic Design Services,54,"Professional, Scientific, and Technical Services",15.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.343266,-71.065922,prodyne corp,1166 Washington St,2118,0,,99,Undefined,9.0,1 to 9,Washington St Gateway,POINT (-71.065922 42.343266),,1,2
+42.3398,-71.0735,privatus care solutions,,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,prism partnership llc,46 Waltham St,2118,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341412,-71.07,pride mortgage,1387 Washington St,2118,522292,Real Estate Credit,52,Finance and Insurance,12.0,10 to 24,Washington St Gateway,POINT (-71.07 42.341412),,1,2
+42.3398,-71.0735,post road provisions,375 Harrison Ave,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,pod digital design,46 Waltham St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,picture park,46 Waltham St,2118,711510,"Independent Artists, Writers, and Performers",71,"Arts, Entertainment, and Recreation",6.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,phyto usa,46 Waltham St,2118,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,peter's park dog run,1277 Washington St,2118,712190,Nature Parks and Other Similar Institutions,71,"Arts, Entertainment, and Recreation",5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341927,-71.067879,pest control boston king,1304 Washington St,2118,561710,Exterminating and Pest Control Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Washington St Gateway,POINT (-71.067879 42.341927),,1,2
+42.3398,-71.0735,perrotine,46 Waltham St Courtyard 5,2118,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,23.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,paul rhode design,46 Waltham St,2118,541410,Interior Design Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,patricia busso,Studio 325 450 Harrison Ave,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,park cleaners,38 Worcester Sq,2118,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,1.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,over under,46 Waltham St,2118,541714,Research and Development in Biotechnology (except Nanobiotechnology),54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,oudens ello architecture,46 Waltham St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,otto pizza,345 FL Harrison Ave,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,optimum mortgage corporation,1107 Washington St,2118,522292,Real Estate Credit,52,Finance and Insurance,7.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,on inc,46 Waltham St,2118,541690,Other Scientific and Technical Consulting Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.343266,-71.065922,oishii boston,1166 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.065922 42.343266),,1,2
+42.3398,-71.0735,o'neill daniel f co,,2118,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342247,-71.068538,northpoint services inc,1313 Washington St,2118,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.3398,-71.0735,no relation,11 William E Mullins Way,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.344166,-71.065529,new ming inc,1102 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Washington St Gateway,POINT (-71.065529 42.344166),,1,2
+42.34603,-71.064091,national network-child,1000 Washington St,2118,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.343866,-71.066329,myers + chang,1145 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Washington St Gateway,POINT (-71.066329 42.343866),,1,2
+42.341858,-71.069429,morgan & milo llc,46 Waltham St,2118,448210,Shoe Stores,44,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.342398,-71.067326,montreal shawarma,1244 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Washington St Gateway,POINT (-71.067326 42.342398),,1,2
+42.3398,-71.0735,montague corp,1 Herald St,2118,451110,Sporting Goods Stores,45,Retail Trade,5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,molquant inc,46 Waltham St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,mj berries design,46 Waltham St,2118,541410,Interior Design Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,misc monique,46 Waltham St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,minni space llc,71 Thayer St,2118,711510,"Independent Artists, Writers, and Performers",71,"Arts, Entertainment, and Recreation",0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.340187,-71.070343,ministerio mujer eres escogida,19 Monsignor Reynolds Way,2118,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Washington St Gateway,POINT (-71.070343 42.340187),,1,2
+42.344166,-71.065529,ming's supermarket,1102 Washington St,2118,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,50.0,50 to 99,Washington St Gateway,POINT (-71.065529 42.344166),,1,2
+42.3398,-71.0735,mimosa fresh flower design,64 Plympton St,2118,453110,Florists,45,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.343157,-71.065541,"mill river professional center, llc",35 Fay St,2118,0,,99,Undefined,12.0,10 to 24,Washington St Gateway,POINT (-71.065541 42.343157),,1,2
+42.34603,-71.064091,midwestern higher education compact,1000 Washington St,2118,611710,Educational Support Services,61,Educational Services,4.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.341576,-71.067131,mazon lighting design llc,519 Harrison Ave,2118,541690,Other Scientific and Technical Consulting Services,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Washington St Gateway,POINT (-71.067131 42.341576),,1,2
+42.3398,-71.0735,matter & light,63 Thayer St,2118,453920,Art Dealers,45,Retail Trade,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34603,-71.064091,massachusetts professional licensing,1000 Washington St,2118,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",92,Public Administration,100.0,100+,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.34603,-71.064091,massachusetts behavioral health partnership,1000 Washington St,2118,622210,Psychiatric and Substance Abuse Hospitals,62,Healthcare and Social Assistance,200.0,100+,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.34592,-71.064771,mass division of banks,1000 Washington St,2118,522110,Commercial Banking,52,Finance and Insurance,140.0,100+,Washington St Gateway,POINT (-71.064771 42.34592),,1,2
+42.34603,-71.064091,mass commonwealth insurance,1000 Washington St,2118,921190,Other General Government Support,92,Public Administration,100.0,100+,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.341858,-71.069429,m flynn jewelry,46 Waltham St,2118,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,lyophilization services new,1 Sundial Ave,2118,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,loyal companion,1030 Washington St,2118,812910,Pet Care (except Veterinary) Services,81,Other Services,9.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,lord jeff's beef place,129 Newmarket Sq,2118,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,lim design studio,46 Waltham St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.342532,-71.067375,leon electric,1234 Washington St,2118,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,5.0,1 to 9,Washington St Gateway,POINT (-71.067375 42.342532),,1,2
+42.342448,-71.067265,leon eg co inc,1234 Washington St,2118,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,4.0,1 to 9,Washington St Gateway,POINT (-71.067265 42.342448),,1,2
+42.343266,-71.065922,lean & local,1166 Washington St,2118,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Washington St Gateway,POINT (-71.065922 42.343266),,1,2
+42.3398,-71.0735,lacrosse studio,The N End,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342891,-71.066057,laconia gallery,1200 Washington St,2118,453920,Art Dealers,45,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.342891,-71.066057,laconia associates,1200 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,2.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.342247,-71.068538,king's cleaners,1313 Washington St,2118,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.342098,-71.068512,kent newton salon,1315 Washington St,2118,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Washington St Gateway,POINT (-71.068512 42.342098),,1,2
+42.342247,-71.068538,ken snyder homes inc,1313 Washington St,2118,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,2.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.342247,-71.068538,keller williams realty,1313 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,10.0,10 to 24,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.339515,-71.070528,just faithin it ministries,42 Harrison Archway,2118,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Washington St Gateway,POINT (-71.070528 42.339515),,1,2
+42.342891,-71.066057,jules place,1200 Washington St,2118,453920,Art Dealers,45,Retail Trade,4.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.3398,-71.0735,john moriarty & associates,1071 Washington St,2118,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,john buckley architecture,46 Waltham St Studio 101,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342247,-71.068538,jebb & driggin realty inc,1313 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,7.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.342891,-71.066057,janet bailey associates,1200 Washington St,2118,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.343695,-71.065706,jam-design,1140 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.065706 42.343695),,1,2
+42.3398,-71.0735,jacobson,75 Wareham St,2118,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers,42,Wholesale Trade,7.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342448,-71.067265,j r carmichael co,1234 Washington St,2118,333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",33,Manufacturing,20.0,10 to 24,Washington St Gateway,POINT (-71.067265 42.342448),,1,2
+42.343866,-71.066329,interseminarian-project place,1145 Washington St,2118,813410,Civic and Social Organizations,81,Other Services,21.0,10 to 24,Washington St Gateway,POINT (-71.066329 42.343866),,1,2
+42.3398,-71.0735,international poster gallery,460C Harrison Ave,2118,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,4.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,imagiration,,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,homeless services,,2118,624221,Temporary Shelters,62,Healthcare and Social Assistance,15.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,health centers mass league,,2118,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34514,-71.064436,harrison llc,345 Harrison Ave,2118,531120,Lessors of Nonresidential Buildings (except Miniwarehouses),53,Real Estate Rental and Leasing,0.0,Not Available,Washington St Gateway,POINT (-71.064436 42.34514),,1,2
+42.341858,-71.069429,hark & osborne interior design llc,46 Waltham St,2118,541410,Interior Design Services,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,hark & osborne,46 Waltham St,2118,541410,Interior Design Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.342247,-71.068538,hands on art,1313 Washington St,2118,453920,Art Dealers,45,Retail Trade,2.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.3398,-71.0735,gti properties,771 Harrison Ave,2118,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,gti properties,536 Harrison Ave,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,grant manor tenants associates,1810 Washington St,2118,813910,Business Associations,81,Other Services,15.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,grant manor computer center,1810 Washington St,2118,443142,Electronics Stores,44,Retail Trade,8.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,geobotics ltd,21 Newcomb St,2118,424120,Stationery and Office Supplies Merchant Wholesalers,42,Wholesale Trade,15.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,garage door boston,Newmarket SQ,2118,238350,Finish Carpentry Contractors,23,Construction,7.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,gallardoworks,46 Waltham St,2118,424120,Stationery and Office Supplies Merchant Wholesalers,42,Wholesale Trade,1.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.342378,-71.06735,fuji food,1248 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.06735 42.342378),,1,2
+42.341176,-71.070838,foodie's urban market,1421 Washington St,2118,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,45.0,25 to 49,Washington St Gateway,POINT (-71.070838 42.341176),,1,2
+42.342319,-71.067383,feno's pizza & roast beef,1254 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Washington St Gateway,POINT (-71.067383 42.342319),,1,2
+42.341858,-71.069429,faucher daniel couture design,46 Waltham St,2118,236118,Residential Remodelers,23,Construction,1.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.34603,-71.064091,"fame food management, inc",1000 Washington St,2118,0,,99,Undefined,12.0,10 to 24,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.341858,-71.069429,face facts,46 Waltham St,2118,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,excellent writers group,1 Herald St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341412,-71.07,european wax center,1387 Washington St,2118,812199,Other Personal Care Services,81,Other Services,10.0,10 to 24,Washington St Gateway,POINT (-71.07 42.341412),,1,2
+42.3398,-71.0735,engine 51,,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.344004,-71.065683,empire loan,1130 Washington St,2118,522298,All Other Nondepository Credit Intermediation,52,Finance and Insurance,12.0,10 to 24,Washington St Gateway,POINT (-71.065683 42.344004),,1,2
+42.342247,-71.068538,elsewhere llc,1313 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.342247,-71.068538,elm appraisal service,1313 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,10.0,10 to 24,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.342247,-71.068538,elite services,1313 Washington St,2118,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.341227,-71.070531,elephant walk south end,1415 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,60.0,50 to 99,Washington St Gateway,POINT (-71.070531 42.341227),,1,2
+42.34603,-71.064091,electrology institute-new,1000 Washington St,2118,812199,Other Personal Care Services,81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.3398,-71.0735,e g leon & co,1234 Washington St,2118,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,100.0,100+,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,dylanium knits,46 Waltham St,2118,448140,Family Clothing Stores,44,Retail Trade,0.0,Not Available,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.343712,-71.065842,dunkin',1138 Washington St,2118,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,6.0,1 to 9,Washington St Gateway,POINT (-71.065842 42.343712),,1,2
+42.341709,-71.068314,dpf direct parts,1 Rollins St,2118,441310,Automotive Parts and Accessories Stores,44,Retail Trade,10.0,10 to 24,Washington St Gateway,POINT (-71.068314 42.341709),,1,2
+42.3398,-71.0735,dover lofts condo trust,135 E Berkeley St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34514,-71.064436,don't throw us away inc,345 Harrison Ave,2118,813319,Other Social Advocacy Organizations,81,Other Services,6.0,1 to 9,Washington St Gateway,POINT (-71.064436 42.34514),,1,2
+42.34592,-71.064771,division of insurance,1000 Washington St,2118,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",92,Public Administration,200.0,100+,Washington St Gateway,POINT (-71.064771 42.34592),,1,2
+42.34603,-71.064091,dispensing opticians board,1000 Washington St,2118,921120,Legislative Bodies,92,Public Administration,2.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.339657,-71.073552,dish network,380 Shawmut Ave,2118,515210,Cable and Other Subscription Programming,51,Information,8.0,1 to 9,Washington St Gateway,POINT (-71.073552 42.339657),,1,2
+42.3398,-71.0735,digital standard,468 Harrison Ave,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,dailybreak cp llc,46 Waltham St,2118,541810,Advertising Agencies,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.344589,-71.064911,cvs pharmacy,341 Harrison Ave,2118,446110,Pharmacies and Drug Stores,44,Retail Trade,14.0,10 to 24,Washington St Gateway,POINT (-71.064911 42.344589),,1,2
+42.344448,-71.064828,curtis realty group inc,32 Traveler St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.064828 42.344448),,1,2
+42.34603,-71.064091,curriculum instruction & tech,1000 Washington St,2118,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",92,Public Administration,20.0,10 to 24,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.345148,-71.064436,cuppacoffee,55 Traveler St,2118,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Washington St Gateway,POINT (-71.064436 42.345148),,1,2
+42.34603,-71.064091,coreworks llc,1000 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.3398,-71.0735,contouring by kate,425 Harrison Ave,2118,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34603,-71.064091,consumer affairs & bus,1000 Washington St,2118,0,,99,Undefined,12.0,10 to 24,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.341858,-71.069429,connelly partners,46 Waltham St,2118,541810,Advertising Agencies,54,"Professional, Scientific, and Technical Services",48.0,25 to 49,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,connelly digital,46 Waltham St,2118,541512,Computer Systems Design Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341412,-71.07,community research initiative,1387 Washington St,2118,541910,Marketing Research and Public Opinion Polling,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Washington St Gateway,POINT (-71.07 42.341412),,1,2
+42.34603,-71.064091,cmit solutions-boston,1000 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.343728,-71.065708,clevergreen cleaners,105 E Berkeley St,2118,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.065708 42.343728),,1,2
+42.3398,-71.0735,ckg shawmut llc,136 Shawmut Ave,2118,531120,Lessors of Nonresidential Buildings (except Miniwarehouses),53,Real Estate Rental and Leasing,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342318,-71.067424,city nails & spa,1260 Washington St,2118,812113,Nail Salons,81,Other Services,3.0,1 to 9,Washington St Gateway,POINT (-71.067424 42.342318),,1,2
+42.341692,-71.069123,citizens bank,1355 Washington St,2118,522110,Commercial Banking,52,Finance and Insurance,6.0,1 to 9,Washington St Gateway,POINT (-71.069123 42.341692),,1,2
+42.34603,-71.064091,chiropractors board-registration,1000 Washington St,2118,921120,Legislative Bodies,92,Public Administration,2.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.34514,-71.064436,chase,345 Harrison Ave,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.064436 42.34514),,1,2
+42.342368,-71.067363,champions kickboxing,1250 Washington St,2118,611620,Sports and Recreation Instruction,61,Educational Services,1.0,1 to 9,Washington St Gateway,POINT (-71.067363 42.342368),,1,2
+42.342891,-71.066057,cellobello inc,1200 Washington St,2118,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.34514,-71.064436,ceatro group,345 Harrison Ave,2118,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Washington St Gateway,POINT (-71.064436 42.34514),,1,2
+42.340777,-71.068161,catholic charities,76 Union Park St,2118,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,6.0,1 to 9,Washington St Gateway,POINT (-71.068161 42.340777),,1,2
+42.340056,-71.071177,cathedral tenants united inc,1472 Washington St,2118,813910,Business Associations,81,Other Services,6.0,1 to 9,Washington St Gateway,POINT (-71.071177 42.340056),,1,2
+42.342772,-71.066721,cathedral station,1222 Washington St,2118,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.066721 42.342772),,1,2
+42.3409,-71.069946,cathedral outreach ministries,1400 Washington St,2118,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Washington St Gateway,POINT (-71.069946 42.3409),,1,2
+42.3409,-71.069946,cathedral of holy cross,1400 Washington St,2118,813110,Religious Organizations,81,Other Services,6.0,1 to 9,Washington St Gateway,POINT (-71.069946 42.3409),,1,2
+42.3398,-71.0735,casa design llc,15 Thayer St,2118,442110,Furniture Stores,44,Retail Trade,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,cardiovascular study center,732 Harrison Avepreston 4,2118,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,20.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342891,-71.066057,canvas fine arts,1200 Washington St,2118,711510,"Independent Artists, Writers, and Performers",71,"Arts, Entertainment, and Recreation",1.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.342891,-71.066057,cahill & company,1200 Washington St,2118,711510,"Independent Artists, Writers, and Performers",71,"Arts, Entertainment, and Recreation",1.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.346182,-71.065099,c mart of herald st,50 Herald St,2118,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,50.0,50 to 99,Washington St Gateway,POINT (-71.065099 42.346182),,1,2
+42.3398,-71.0735,c & l retail llc,460 Harrison Avenue Gallery C2,2118,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,23.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341667,-71.069283,burro bar,1357 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.069283 42.341667),,1,2
+42.34603,-71.064091,building inspection,1000 Washington St,2118,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",92,Public Administration,20.0,10 to 24,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.341858,-71.069429,bruce miller architecture,46 Waltham St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,bromfield art gallery,27 Thayer St,2118,712110,Museums,71,"Arts, Entertainment, and Recreation",12.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342026,-71.067505,brix wine shop,1284 Washington St,2118,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,5.0,1 to 9,Washington St Gateway,POINT (-71.067505 42.342026),,1,2
+42.342026,-71.067505,brix iii inc,1284 Washington St,2118,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Washington St Gateway,POINT (-71.067505 42.342026),,1,2
+42.3398,-71.0735,brigham surgical group,,2118,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,boston youth sanctuary,1745A Washington St,2118,624110,Child and Youth Services,62,Healthcare and Social Assistance,13.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341631,-71.069613,boston urban hospitality,1375 Washington St,2118,711130,Musical Groups and Artists,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Washington St Gateway,POINT (-71.069613 42.341631),,1,2
+42.3398,-71.0735,boston university medical center,72 E Concord St Pulmonary Ctr,2118,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,10.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,boston university medical campus,15 Street St,2118,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,12.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,boston university dental school,635 Albany St,2118,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,45.0,25 to 49,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,boston tlc movers,Central St,2118,531130,Lessors of Miniwarehouses and Self-Storage Units,53,Real Estate Rental and Leasing,3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,boston medical center,Maternity Six One BMC Pl,2118,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,boston lightning rod co,1201 E Dedham,2118,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.339458,-71.071449,boston housing authority,10 E Brookline St,2118,531311,Residential Property Managers,53,Real Estate Rental and Leasing,9.0,1 to 9,Washington St Gateway,POINT (-71.071449 42.339458),,1,2
+42.3398,-71.0735,boston higher education resource center,62 Northampton St,2118,611710,Educational Support Services,61,Educational Services,11.0,10 to 24,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341631,-71.069613,boston chops,1375 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.069613 42.341631),,1,2
+42.34435,-71.066229,boston auto,1115 Washington St,2118,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.066229 42.34435),,1,2
+42.341267,-71.070389,boomerangs,1407 Washington St,2118,453310,Used Merchandise Stores,45,Retail Trade,3.0,1 to 9,Washington St Gateway,POINT (-71.070389 42.341267),,1,2
+42.34603,-71.064091,board of public accountancy,1000 Washington St,2118,921120,Legislative Bodies,92,Public Administration,2.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.3398,-71.0735,blue goose boston locksmith,515 Berkeley St,2118,561622,Locksmiths,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,blowleaf,Northampton St,2118,541810,Advertising Agencies,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34161,-71.068352,berkshire bank,1320 Washington St,2118,522110,Commercial Banking,52,Finance and Insurance,5.0,1 to 9,Washington St Gateway,POINT (-71.068352 42.34161),,1,2
+42.3398,-71.0735,belsito barber shop,696 To 696A Tremont St,2118,812111,Barber Shops,81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34603,-71.064091,becker,1000 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.341858,-71.069429,beauchemin grassi interiors,46 Waltham St,2118,541410,Interior Design Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.34603,-71.064091,beacon health options,1000 Washington St,2118,622210,Psychiatric and Substance Abuse Hospitals,62,Healthcare and Social Assistance,5.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.339947,-71.072487,barre3,1511 Washington St,2118,812191,Diet and Weight Reducing Centers,81,Other Services,4.0,1 to 9,Washington St Gateway,POINT (-71.072487 42.339947),,1,2
+42.3398,-71.0735,barkan management co,,2118,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34603,-71.064091,barbers board-registration division,1000 Washington St,2118,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",92,Public Administration,2.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.3398,-71.0735,bar mezzana,360 Harrison Ave,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,banshee maintenance inc,421 Harrison Ave,2118,236220,Commercial and Institutional Building Construction,23,Construction,7.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34592,-71.064771,banks division,1000 Washington St,2118,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",92,Public Administration,176.0,100+,Washington St Gateway,POINT (-71.064771 42.34592),,1,2
+42.342891,-71.066057,ballast realty group,1200 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,1.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.341516,-71.067762,ball in the house llc,15 Waltham St,2118,711130,Musical Groups and Artists,71,"Arts, Entertainment, and Recreation",5.0,1 to 9,Washington St Gateway,POINT (-71.067762 42.341516),,1,2
+42.344448,-71.064828,bake to be fit,32 Traveler St,2118,311811,Retail Bakeries,31,Manufacturing,4.0,1 to 9,Washington St Gateway,POINT (-71.064828 42.344448),,1,2
+42.3398,-71.0735,b u alzheimers center,,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,az pneumatica llc,1935 Washington St,2072,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.342247,-71.068538,avenue group,1313 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.341858,-71.069429,avanti studios,46 Waltham St,2118,541922,Commercial Photography,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.343157,-71.065541,atlas investment group llc,35 Fay St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.065541 42.343157),,1,2
+42.342891,-71.066057,atlas investment group,1200 Washington St,2118,523910,Miscellaneous Intermediation,52,Finance and Insurance,12.0,10 to 24,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.3398,-71.0735,atlantic drain service co inc,,2118,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,3.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341858,-71.069429,aspect arts inc,46 Waltham St,2118,453920,Art Dealers,45,Retail Trade,1.0,1 to 9,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.341858,-71.069429,asklabs co,46 Waltham St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.069429 42.341858),,1,2
+42.3398,-71.0735,asian american civic association,87 Taylor St,2118,322121,Paper (except Newsprint) Mills,32,Manufacturing,40.0,25 to 49,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,arnold worldwide,401 Matthew St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.341234,-71.070238,arlington court condominium association,1413 Washington St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,Washington St Gateway,POINT (-71.070238 42.341234),,1,2
+42.34603,-71.064091,architectural access board,1000 Washington St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.34603,-71.064091,architects board-registration,1000 Washington St,2118,921120,Legislative Bodies,92,Public Administration,1.0,1 to 9,Washington St Gateway,POINT (-71.064091 42.34603),,1,2
+42.342247,-71.068538,apn consulting inc,1313 Washington St,2118,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Washington St Gateway,POINT (-71.068538 42.342247),,1,2
+42.338912,-71.073978,anoush'ella,35 W Newton St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,11.0,10 to 24,Washington St Gateway,POINT (-71.073978 42.338912),,1,2
+42.342891,-71.066057,american reprographics co,1200 Washington St,2118,561439,Other Business Service Centers (including Copy Shops),56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Washington St Gateway,POINT (-71.066057 42.342891),,1,2
+42.342448,-71.067265,american crane & hoist inc,1234 Washington St,2118,423830,Industrial Machinery and Equipment Merchant Wholesalers,42,Wholesale Trade,100.0,100+,Washington St Gateway,POINT (-71.067265 42.342448),,1,2
+42.3398,-71.0735,alpha immigrant center,62 Northampton St,2118,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,alpha gallery,460C Harrison Ave,2118,453920,Art Dealers,45,Retail Trade,1.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.34229,-71.066876,alex pizza,1252 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Washington St Gateway,POINT (-71.066876 42.34229),,1,2
+42.345148,-71.064436,a4 at troy,55 Traveler St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,4.0,1 to 9,Washington St Gateway,POINT (-71.064436 42.345148),,1,2
+42.3398,-71.0735,a4,262 E Berkeley St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,a1 exterminators,,2118,561710,Exterminating and Pest Control Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.3398,-71.0735,a hope boston needle exchange,,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.0735 42.3398),,1,2
+42.346182,-71.065099,88 supermarket,50 Herald St,2118,424410,General Line Grocery Merchant Wholesalers,42,Wholesale Trade,26.0,25 to 49,Washington St Gateway,POINT (-71.065099 42.346182),,1,2
+42.34514,-71.064436,345 harrison,345 Harrison Ave,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.064436 42.34514),,1,2
+42.34514,-71.064436,no relation,345 Harrison Ave,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.064436 42.34514),,1,2

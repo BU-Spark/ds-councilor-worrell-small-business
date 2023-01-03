@@ -1,0 +1,910 @@
+latitude,longitude,business_name,street_address,zip,NAICS_2017_6digit_code,NAICS_2017_6digit_desc,NAICS_2017_2digit_code,NAICS_2017_2digit_desc,estimated_employment,employment_buckets,mainstreet,geometry,district,index_right,DISTRICT
+42.322974,-71.104634,zarash llc,319 Centre St,2130,452319,All Other General Merchandise Stores,45,Retail Trade,0.0,Not Available,Three Squares,POINT (-71.104634 42.322974),,5,6
+42.322755,-71.103061,young kong restauranrt,300 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Three Squares,POINT (-71.103061 42.322755),,5,6
+42.32136,-71.11089,whole foods market,413 Centre St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,150.0,100+,Three Squares,POINT (-71.11089 42.32136),,5,6
+42.323,-71.1032,western union agent location,301 Centre St,2130,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,Three Squares,POINT (-71.1032 42.323),,5,6
+42.320656,-71.111128,"volunteers of america, inc",441 Centre St,2130,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,10.0,10 to 24,Three Squares,POINT (-71.111128 42.320656),,5,6
+42.320656,-71.111128,"volunteers of america of massachusetts, inc",441 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.111128 42.320656),,5,6
+42.320656,-71.111128,voa somerville vet housing,441 Centre St,2130,813410,Civic and Social Organizations,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.111128 42.320656),,5,6
+42.320656,-71.111128,voa malden manager inc,441 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.111128 42.320656),,5,6
+42.321955,-71.109278,vesse 1,378 Centre St,2130,512110,Motion Picture and Video Production,51,Information,3.0,1 to 9,Three Squares,POINT (-71.109278 42.321955),,5,6
+42.322207,-71.108393,vecina beauty supply,364 Centre St,2130,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,2.0,1 to 9,Three Squares,POINT (-71.108393 42.322207),,5,6
+42.322199,-71.107796,vasallo's mens fashions,362 Centre St,2130,448140,Family Clothing Stores,44,Retail Trade,1.0,1 to 9,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.322782,-71.102675,ups access point location,298 Centre St,2130,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,Three Squares,POINT (-71.102675 42.322782),,5,6
+42.32235,-71.105101,united baptist church,322 Centre St,2130,813110,Religious Organizations,81,Other Services,1.0,1 to 9,Three Squares,POINT (-71.105101 42.32235),,5,6
+42.321766,-71.110291,ultra beauty salon,401 Centre St,2130,812112,Beauty Salons,81,Other Services,4.0,1 to 9,Three Squares,POINT (-71.110291 42.321766),,5,6
+42.323055,-71.102317,tree of life,295 Centre St,2130,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,2.0,1 to 9,Three Squares,POINT (-71.102317 42.323055),,5,6
+42.323252,-71.103616,the threading place,315 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.321667,-71.110389,the haven,2 Perkins St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Three Squares,POINT (-71.110389 42.321667),,5,6
+42.32266,-71.108252,the frogmore,365 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Three Squares,POINT (-71.108252 42.32266),,5,6
+42.322199,-71.107796,tara construction,362 Centre St,2130,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.322354,-71.109438,tails inc,385 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.109438 42.322354),,5,6
+42.321955,-71.109278,tails,380 Centre St,2130,812910,Pet Care (except Veterinary) Services,81,Other Services,11.0,10 to 24,Three Squares,POINT (-71.109278 42.321955),,5,6
+42.323252,-71.103616,t-mobile,315 Centre St,2130,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,9.0,1 to 9,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.323,-71.1032,stop & shop supermarket,301 Centre St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,100.0,100+,Three Squares,POINT (-71.1032 42.323),,5,6
+42.323,-71.1032,stop & shop pharmacy,301 Centre St,2130,446110,Pharmacies and Drug Stores,44,Retail Trade,5.0,1 to 9,Three Squares,POINT (-71.1032 42.323),,5,6
+42.322974,-71.104634,spinal rehab group-dorchester,329 Centre St,2130,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Three Squares,POINT (-71.104634 42.322974),,5,6
+42.322974,-71.104634,spinal rehab group llc,329 Centre St,2130,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,3.0,1 to 9,Three Squares,POINT (-71.104634 42.322974),,5,6
+42.323055,-71.102317,spanish immersion jamaica plain,295 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.102317 42.323055),,5,6
+42.322626,-71.104041,sophia beauty salon,314 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.104041 42.322626),,5,6
+42.324131,-71.100935,smart from the start,960 Parker St,2130,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Three Squares,POINT (-71.100935 42.324131),,5,6
+42.32279,-71.10645,rizzo's pizza,347 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Three Squares,POINT (-71.10645 42.32279),,5,6
+42.319699,-71.111126,river of life church,440 Centre St,2130,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Three Squares,POINT (-71.111126 42.319699),,5,6
+42.322851,-71.105699,reyna services llc,339 Centre St,2130,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Three Squares,POINT (-71.105699 42.322851),,5,6
+42.323252,-71.103616,rainbow,315 Centre St,2130,448120,Women's Clothing Stores,44,Retail Trade,11.0,10 to 24,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.323553,-71.102017,queen marlene inc,90 Bickford St,2130,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Three Squares,POINT (-71.102017 42.323553),,5,6
+42.322631,-71.101096,professional multi services,270 Centre St,2130,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Three Squares,POINT (-71.101096 42.322631),,5,6
+42.323189,-71.100701,prevost group,265 Centre St,2130,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Three Squares,POINT (-71.100701 42.323189),,5,6
+42.323677,-71.100662,positive approaches counseling & multi-services center,964 Parker St,2130,624110,Child and Youth Services,62,Healthcare and Social Assistance,6.0,1 to 9,Three Squares,POINT (-71.100662 42.323677),,5,6
+42.322199,-71.107796,pixel pyramid,362 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.322411,-71.106552,pimentel market,340 Centre St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Three Squares,POINT (-71.106552 42.322411),,5,6
+42.321955,-71.109278,pikalo,378 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.109278 42.321955),,5,6
+42.32136,-71.11089,pico,413 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,140.0,100+,Three Squares,POINT (-71.11089 42.32136),,5,6
+42.323073,-71.1076,peak performance chiro rehab,363 Centre St,2130,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Three Squares,POINT (-71.1076 42.323073),,5,6
+42.320339,-71.111472,paulmino inc,451 Centre St,2130,447190,Other Gasoline Stations,44,Retail Trade,10.0,10 to 24,Three Squares,POINT (-71.111472 42.320339),,5,6
+42.323677,-71.100662,paramount builders counseling,964 Parker St,2130,624110,Child and Youth Services,62,Healthcare and Social Assistance,6.0,1 to 9,Three Squares,POINT (-71.100662 42.323677),,5,6
+42.322658,-71.106728,old havana,349 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Three Squares,POINT (-71.106728 42.322658),,5,6
+42.323677,-71.100662,nine sixty four collaborative,964 Parker St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.100662 42.323677),,5,6
+42.322974,-71.104634,multi-cultural independent,329 Centre St,2130,813311,Human Rights Organizations,81,Other Services,10.0,10 to 24,Three Squares,POINT (-71.104634 42.322974),,5,6
+42.322535,-71.108644,moneshan salon & spa,371 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.108644 42.322535),,5,6
+42.322354,-71.109438,monarca ventures inc,385 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.109438 42.322354),,5,6
+42.322379,-71.109271,miami restaurant,381 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Three Squares,POINT (-71.109271 42.322379),,5,6
+42.321955,-71.109278,massive restaurant group inc,378 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Three Squares,POINT (-71.109278 42.321955),,5,6
+42.322095,-71.108729,massacusettes republican party victory committee,370 Centre St,2130,813940,Political Organizations,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.108729 42.322095),,5,6
+42.323553,-71.102017,marlowe cab inc,90 Bickford St,2130,485310,Taxi Service,48,Transportation and Warehosuing,12.0,10 to 24,Three Squares,POINT (-71.102017 42.323553),,5,6
+42.321643,-71.109678,mark w miller law offices,390 Centre St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Three Squares,POINT (-71.109678 42.321643),,5,6
+42.322255,-71.107526,lucy parsons center,358 Centre St,2130,451211,Book Stores,45,Retail Trade,20.0,10 to 24,Three Squares,POINT (-71.107526 42.322255),,5,6
+42.322319,-71.107079,local logistics,348 Centre St,2130,541611,Administrative Management and General Management Consulting Services,54,"Professional, Scientific, and Technical Services",12.0,10 to 24,Three Squares,POINT (-71.107079 42.322319),,5,6
+42.321769,-71.109528,law offices of paul j sweeney,386 Centre St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Three Squares,POINT (-71.109528 42.321769),,5,6
+42.322755,-71.103061,latino restaurant-ma,302 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Three Squares,POINT (-71.103061 42.322755),,5,6
+42.322742,-71.106887,latin djs entertainment,351 Centre St,2130,711190,Other Performing Arts Companies,71,"Arts, Entertainment, and Recreation",7.0,1 to 9,Three Squares,POINT (-71.106887 42.322742),,5,6
+42.322804,-71.106298,la nacional corp,345 Centre St,2130,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,Three Squares,POINT (-71.106298 42.322804),,5,6
+42.322878,-71.10504,l & c bakery corp,333 Centre St,2130,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Three Squares,POINT (-71.10504 42.322878),,5,6
+42.323073,-71.1076,karvare inc,363 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.1076 42.323073),,5,6
+42.322199,-71.107796,kadampa meditation center boston,360 Centre St,2130,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.322199,-71.107796,julie nails,360 Centre St,2130,812113,Nail Salons,81,Other Services,1.0,1 to 9,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.322974,-71.104634,jps massage therapy center,329 Centre St,2130,812199,Other Personal Care Services,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.104634 42.322974),,5,6
+42.322199,-71.107796,jp furniture & bedding,360 Centre St,2130,442110,Furniture Stores,44,Retail Trade,3.0,1 to 9,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.320853,-71.110899,jp auto services,429 Centre St,2130,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Three Squares,POINT (-71.110899 42.320853),,5,6
+42.322572,-71.108866,jobs with justice,375 Centre St,2130,813930,Labor Unions and Similar Labor Organizations,81,Other Services,4.0,1 to 9,Three Squares,POINT (-71.108866 42.322572),,5,6
+42.322742,-71.106887,jimenez productions,351 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.106887 42.322742),,5,6
+42.322727,-71.102695,jic corp,296B Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.102695 42.322727),,5,6
+42.322759,-71.102674,jerizon barbershop,4 Estrella St,2130,812111,Barber Shops,81,Other Services,2.0,1 to 9,Three Squares,POINT (-71.102674 42.322759),,5,6
+42.322768,-71.102046,jelly coffee shop,284 Centre St,2130,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Three Squares,POINT (-71.102046 42.322768),,5,6
+42.320747,-71.110308,jamaica plain laundry center,410 Centre St,2130,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,Three Squares,POINT (-71.110308 42.320747),,5,6
+42.323898,-71.1007,jamaica plain early care-educ,962 Parker St,2130,624410,Child Day Care Services,62,Healthcare and Social Assistance,15.0,10 to 24,Three Squares,POINT (-71.1007 42.323898),,5,6
+42.322572,-71.108866,"jamaica plain arts & civic center, inc",375 Centre St,2130,712110,Museums,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Three Squares,POINT (-71.108866 42.322572),,5,6
+42.322411,-71.106552,jall appliance repair,340 Centre St,2130,811412,Appliance Repair and Maintenance,81,Other Services,1.0,1 to 9,Three Squares,POINT (-71.106552 42.322411),,5,6
+42.322631,-71.101096,jackson square laundromat,270 Centre St,2130,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,2.0,1 to 9,Three Squares,POINT (-71.101096 42.322631),,5,6
+42.322676,-71.100887,il panino cafe & grill,268 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Three Squares,POINT (-71.100887 42.322676),,5,6
+42.322344,-71.106904,ignite fitness development inc,342 Centre St,2130,812191,Diet and Weight Reducing Centers,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.106904 42.322344),,5,6
+42.322682,-71.102445,iglesia de dios pentecostal corp benjamin,290 Centre St,2130,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Three Squares,POINT (-71.102445 42.322682),,5,6
+42.322572,-71.108866,hyde square task force,375 Centre St,2130,813910,Business Associations,81,Other Services,18.0,10 to 24,Three Squares,POINT (-71.108866 42.322572),,5,6
+42.323536,-71.107483,hyde square task force,30 Sunnyside St,2130,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,10.0,10 to 24,Three Squares,POINT (-71.107483 42.323536),,5,6
+42.322273,-71.109642,hyde sq wine & liquor co,391 Centre St,2130,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,5.0,1 to 9,Three Squares,POINT (-71.109642 42.322273),,5,6
+42.322974,-71.104634,hyde jackson square main st,329 Centre St,2130,813910,Business Associations,81,Other Services,1.0,1 to 9,Three Squares,POINT (-71.104634 42.322974),,5,6
+42.322974,-71.104634,home basix inc,325 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.104634 42.322974),,5,6
+42.322199,-71.107796,hello multiservices ii,362 Centre St,2130,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.322757,-71.108195,gutierez apartment,11 Creighton St,2130,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Three Squares,POINT (-71.108195 42.322757),,5,6
+42.320471,-71.110485,guardian healthcare llc,418 Centre St,2130,0,,99,Undefined,0.0,Not Available,Three Squares,POINT (-71.110485 42.320471),,5,6
+42.3204,-71.11066,green street massage,420 Centre St,2130,812199,Other Personal Care Services,81,Other Services,2.0,1 to 9,Three Squares,POINT (-71.11066 42.3204),,5,6
+42.322878,-71.10504,gondres bakery,333 Centre St,2130,311811,Retail Bakeries,31,Manufacturing,3.0,1 to 9,Three Squares,POINT (-71.10504 42.322878),,5,6
+42.322676,-71.100887,gails cafe & grill,268 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Three Squares,POINT (-71.100887 42.322676),,5,6
+42.323252,-71.103616,frugal furniture,315 Centre St,2130,442110,Furniture Stores,44,Retail Trade,3.0,1 to 9,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.322755,-71.103061,freddy's market,302 Centre St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,3.0,1 to 9,Three Squares,POINT (-71.103061 42.322755),,5,6
+42.322217,-71.1097,food wall chinese restaurant,387 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Three Squares,POINT (-71.1097 42.322217),,5,6
+42.322804,-71.106298,fidias troncoso service,345 Centre St,2130,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Three Squares,POINT (-71.106298 42.322804),,5,6
+42.322199,-71.107796,fernandez travel agency,360A Centre St,2130,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.322657,-71.101572,fernandez family liquor inc,280 Centre St,2130,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Three Squares,POINT (-71.101572 42.322657),,5,6
+42.322885,-71.105355,fernandez beauty & barber shop,335 Centre St,2130,812111,Barber Shops,81,Other Services,4.0,1 to 9,Three Squares,POINT (-71.105355 42.322885),,5,6
+42.322918,-71.104366,fellowship church of god,317 Centre St,2130,813110,Religious Organizations,81,Other Services,1.0,1 to 9,Three Squares,POINT (-71.104366 42.322918),,5,6
+42.323252,-71.103616,federal foods inc,315 Centre St,2130,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.322023,-71.108908,fat rams pumpkin tattoo,374 Centre St,2130,812199,Other Personal Care Services,81,Other Services,6.0,1 to 9,Three Squares,POINT (-71.108908 42.322023),,5,6
+42.320471,-71.110485,family indepdendent,418 Centre St,2130,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,8.0,1 to 9,Three Squares,POINT (-71.110485 42.320471),,5,6
+42.323677,-71.100662,family exchange inc,964 Parker St,2130,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Three Squares,POINT (-71.100662 42.323677),,5,6
+42.323252,-71.103616,expressions,315 Centre St,2130,448140,Family Clothing Stores,44,Retail Trade,5.0,1 to 9,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.322782,-71.102675,evelyn's market,298 Centre St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,6.0,1 to 9,Three Squares,POINT (-71.102675 42.322782),,5,6
+42.322391,-71.109116,ethiopian cafe,377 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Three Squares,POINT (-71.109116 42.322391),,5,6
+42.322535,-71.108644,el patio market,371 Centre St,2130,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Three Squares,POINT (-71.108644 42.322535),,5,6
+42.320747,-71.110308,el oriental de cuba,414 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Three Squares,POINT (-71.110308 42.320747),,5,6
+42.322878,-71.10504,edianis market,331 Centre St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Three Squares,POINT (-71.10504 42.322878),,5,6
+42.323252,-71.103616,dunkin',315 Centre St,2130,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,12.0,10 to 24,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.322974,-71.104634,dr computer,319 Centre St,2130,443142,Electronics Stores,44,Retail Trade,3.0,1 to 9,Three Squares,POINT (-71.104634 42.322974),,5,6
+42.322885,-71.105355,dorka tax & travel,335 Centre St,2130,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,Three Squares,POINT (-71.105355 42.322885),,5,6
+42.322171,-71.10859,dimension sound,368 Centre St,2130,512240,Sound Recording Studios,51,Information,2.0,1 to 9,Three Squares,POINT (-71.10859 42.322171),,5,6
+42.323252,-71.103616,dental,315 Centre St,2130,621210,Offices of Dentists,62,Healthcare and Social Assistance,10.0,10 to 24,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.322171,-71.10859,de leon jewelry shop,368 Centre St,2130,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Three Squares,POINT (-71.10859 42.322171),,5,6
+42.322804,-71.106298,d'yolanny hair salon,345 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.106298 42.322804),,5,6
+42.322171,-71.10859,d' friends barber shop,366 Centre St,2130,812111,Barber Shops,81,Other Services,5.0,1 to 9,Three Squares,POINT (-71.10859 42.322171),,5,6
+42.322673,-71.103544,cricket wireless authorized retailer,306 Centre St,2130,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Three Squares,POINT (-71.103544 42.322673),,5,6
+42.322673,-71.103544,cricket wireless,306 Centre St,2130,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,3.0,1 to 9,Three Squares,POINT (-71.103544 42.322673),,5,6
+42.322878,-71.10504,codman square market,331 Centre St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Three Squares,POINT (-71.10504 42.322878),,5,6
+42.322974,-71.104634,"christopher kokoras insurance ageny, inc",325A Centre St,2130,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Three Squares,POINT (-71.104634 42.322974),,5,6
+42.322742,-71.106887,christian science reading room & bookstore,351 Centre St,2130,451211,Book Stores,45,Retail Trade,4.0,1 to 9,Three Squares,POINT (-71.106887 42.322742),,5,6
+42.322151,-71.108566,centre tailor shop,366B Centre St,2130,448190,Other Clothing Stores,44,Retail Trade,1.0,1 to 9,Three Squares,POINT (-71.108566 42.322151),,5,6
+42.322379,-71.109271,centre street dental center,379 Centre St,2130,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Three Squares,POINT (-71.109271 42.322379),,5,6
+42.322631,-71.101096,centre street apartments,270 Centre St,2130,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Three Squares,POINT (-71.101096 42.322631),,5,6
+42.322572,-71.108866,centre nails,373 Centre St,2130,812113,Nail Salons,81,Other Services,2.0,1 to 9,Three Squares,POINT (-71.108866 42.322572),,5,6
+42.322217,-71.1097,centre liquor,387 Centre St,2130,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Three Squares,POINT (-71.1097 42.322217),,5,6
+42.322199,-71.107796,centre fashion,362 Centre St,2130,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.322379,-71.109271,centre boutique/childrens shop,379 Centre St,2130,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,Three Squares,POINT (-71.109271 42.322379),,5,6
+42.322572,-71.108866,center for labor education,375 Centre St,2130,813930,Labor Unions and Similar Labor Organizations,81,Other Services,4.0,1 to 9,Three Squares,POINT (-71.108866 42.322572),,5,6
+42.322447,-71.108772,captain nemo's,367 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Three Squares,POINT (-71.108772 42.322447),,5,6
+42.322709,-71.103407,cappys pizza,304 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Three Squares,POINT (-71.103407 42.322709),,5,6
+42.322657,-71.101572,camilo market inc,280 Centre St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Three Squares,POINT (-71.101572 42.322657),,5,6
+42.321955,-71.109278,brendan behan pub,378 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Three Squares,POINT (-71.109278 42.321955),,5,6
+42.323387,-71.101242,boston housing authority,277 Centre St,2130,531311,Residential Property Managers,53,Real Estate Rental and Leasing,6.0,1 to 9,Three Squares,POINT (-71.101242 42.323387),,5,6
+42.321643,-71.109678,boston gulin center inc,390 Centre St,2130,611710,Educational Support Services,61,Educational Services,4.0,1 to 9,Three Squares,POINT (-71.109678 42.321643),,5,6
+42.322572,-71.108866,boost mobile premier,373 Centre St,2130,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,4.0,1 to 9,Three Squares,POINT (-71.108866 42.322572),,5,6
+42.322885,-71.105355,bocalise llc,335 Centre St,2130,485310,Taxi Service,48,Transportation and Warehosuing,2.0,1 to 9,Three Squares,POINT (-71.105355 42.322885),,5,6
+42.322226,-71.1097,blue nile inc,389 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Three Squares,POINT (-71.1097 42.322226),,5,6
+42.32266,-71.108252,bilt rite construction,365 Centre St,2130,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Three Squares,POINT (-71.108252 42.32266),,5,6
+42.321532,-71.110274,beauty master plus salon,395 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.110274 42.321532),,5,6
+42.322258,-71.109741,beauty master,397 Centre St,2130,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Three Squares,POINT (-71.109741 42.322258),,5,6
+42.323252,-71.103616,bank of america,315 Centre St,2130,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.322379,-71.109271,atlantic travel ii,379 Centre St,2130,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Three Squares,POINT (-71.109271 42.322379),,5,6
+42.323898,-71.1007,associated early care & education,962 Parker St,2130,611710,Educational Support Services,61,Educational Services,16.0,10 to 24,Three Squares,POINT (-71.1007 42.323898),,5,6
+42.322727,-71.102695,angelo's beauty,296 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.102695 42.322727),,5,6
+42.322727,-71.102695,angelas unisex salon,296 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Three Squares,POINT (-71.102695 42.322727),,5,6
+42.322727,-71.102695,amador pinentel update,296 Centre St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Three Squares,POINT (-71.102695 42.322727),,5,6
+42.322657,-71.101572,all checks cashed,282 Centre St,2130,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,7.0,1 to 9,Three Squares,POINT (-71.101572 42.322657),,5,6
+42.322255,-71.107526,alex's chimis,358 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Three Squares,POINT (-71.107526 42.322255),,5,6
+42.322885,-71.105355,accion comunitaria de,335 Centre St,2130,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Three Squares,POINT (-71.105355 42.322885),,5,6
+42.323252,-71.103616,abcd jamaica plain head start,315 Centre St,2130,624410,Child Day Care Services,62,Healthcare and Social Assistance,59.0,50 to 99,Three Squares,POINT (-71.103616 42.323252),,5,6
+42.320339,-71.111472,7-eleven,451 Centre St,2130,445120,Convenience Stores,44,Retail Trade,7.0,1 to 9,Three Squares,POINT (-71.111472 42.320339),,5,6
+42.320471,-71.110485,418 cs condo trust,418 Centre St,2130,522110,Commercial Banking,52,Finance and Insurance,50.0,50 to 99,Three Squares,POINT (-71.110485 42.320471),,5,6
+42.321955,-71.109278,21 plus smoke shop,380 Centre St,2130,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Three Squares,POINT (-71.109278 42.321955),,5,6
+42.322768,-71.102046,yely's coffee shop mobile,284 Centre St,2130,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Three Squares,POINT (-71.102046 42.322768),,5,6
+42.322199,-71.107796,la patrona mexican grill,360 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Three Squares,POINT (-71.107796 42.322199),,5,6
+42.319286,-71.111598,zesto's pizza & grille,460 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Centre/South,POINT (-71.111598 42.319286),,5,6
+42.311709,-71.113922,yumont true value hardware,702 Centre St,2130,444130,Hardware Stores,44,Retail Trade,6.0,1 to 9,Centre/South,POINT (-71.113922 42.311709),,5,6
+42.314406,-71.114298,when pigs fly,613 Centre St,2130,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Centre/South,POINT (-71.114298 42.314406),,5,6
+42.312028,-71.113949,western union agent location,684 Centre St,2130,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,Centre/South,POINT (-71.113949 42.312028),,5,6
+42.314656,-71.113856,west cork auto,600 Centre St,2130,811111,General Automotive Repair,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.113856 42.314656),,5,6
+42.311405,-71.114261,we are hair,708 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.114261 42.311405),,5,6
+42.312844,-71.11443,vincent r petryk 2011 trust,659 Centre St,2130,523991,"Trust, Fiduciary, and Custody Activities",52,Finance and Insurance,50.0,50 to 99,Centre/South,POINT (-71.11443 42.312844),,5,6
+42.310324,-71.115151,vee vee,763 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Centre/South,POINT (-71.115151 42.310324),,5,6
+42.312917,-71.114132,usps,655 Centre St,2130,491110,Postal Service,49,Transportation and Warehosuing,100.0,100+,Centre/South,POINT (-71.114132 42.312917),,5,6
+42.312383,-71.113869,urban improv,670 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.311438,-71.114253,ups access point location,704 Centre St,2130,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,Centre/South,POINT (-71.114253 42.311438),,5,6
+42.312363,-71.1145,unlimited sotheby's international realty,673 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,20.0,10 to 24,Centre/South,POINT (-71.1145 42.312363),,5,6
+42.302865,-71.114351,united messenger services,216 South St,2130,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,3.0,1 to 9,Centre/South,POINT (-71.114351 42.302865),,5,6
+42.310746,-71.114907,unitarian universalist funding,745 Centre St,2130,813219,Other Grantmaking and Giving Services,81,Other Services,8.0,1 to 9,Centre/South,POINT (-71.114907 42.310746),,5,6
+42.304138,-71.11451,twenty one plus smoke shop,168 South St,2130,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.11451 42.304138),,5,6
+42.319071,-71.111628,tres gatos,470 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.111628 42.319071),,5,6
+42.302914,-71.114362,tower st games,206 South St,2130,451120,"Hobby, Toy, and Game Stores",45,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.114362 42.302914),,5,6
+42.310216,-71.114715,the price group,2 Greenough Ave,2130,611710,Educational Support Services,61,Educational Services,7.0,1 to 9,Centre/South,POINT (-71.114715 42.310216),,5,6
+42.304138,-71.11451,the meet up on south st,168 South St,2130,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",4.0,1 to 9,Centre/South,POINT (-71.11451 42.304138),,5,6
+42.309505,-71.114893,the loring greenough house,12 South St,2130,712110,Museums,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Centre/South,POINT (-71.114893 42.309505),,5,6
+42.314819,-71.114304,the joint,605 Centre St,2130,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,5.0,1 to 9,Centre/South,POINT (-71.114304 42.314819),,5,6
+42.308311,-71.115356,the ivy insurance agency,38 South St,2130,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,1.0,1 to 9,Centre/South,POINT (-71.115356 42.308311),,5,6
+42.312027,-71.114462,the boston home team,685 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Centre/South,POINT (-71.114462 42.312027),,5,6
+42.314819,-71.114304,ten tables jamaica plain,597 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Centre/South,POINT (-71.114304 42.314819),,5,6
+42.311828,-71.114549,t & c jewelry,693 Centre St,2130,448310,Jewelry Stores,44,Retail Trade,1.0,1 to 9,Centre/South,POINT (-71.114549 42.311828),,5,6
+42.311828,-71.114549,sweet rice jp,697 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114549 42.311828),,5,6
+42.312363,-71.1145,surrealtors,673 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Centre/South,POINT (-71.1145 42.312363),,5,6
+42.304764,-71.116064,sunset gardens,33 Saint Rose St,2130,722320,Caterers,72,Accommodation and Food Services,19.0,10 to 24,Centre/South,POINT (-71.116064 42.304764),,5,6
+42.318516,-71.112093,streetcar,488 Centre St,2130,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.112093 42.318516),,5,6
+42.310354,-71.115349,station 8 salon,761 Centre St,2130,812112,Beauty Salons,81,Other Services,18.0,10 to 24,Centre/South,POINT (-71.115349 42.310354),,5,6
+42.314319,-71.114328,stamatos property management,619 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Centre/South,POINT (-71.114328 42.314319),,5,6
+42.313281,-71.11371,southern jamaica plain health center,640 Centre St,2130,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,9.0,1 to 9,Centre/South,POINT (-71.11371 42.313281),,5,6
+42.305227,-71.114418,south street convenience,138 South St,2130,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.114418 42.305227),,5,6
+42.304725,-71.115353,south st housing development youth,17 Saint Rose St,2130,624110,Child and Youth Services,62,Healthcare and Social Assistance,2.0,1 to 9,Centre/South,POINT (-71.115353 42.304725),,5,6
+42.313281,-71.11371,south jamaica plain health center,640 Centre St,2130,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Centre/South,POINT (-71.11371 42.313281),,5,6
+42.309977,-71.115476,soup shack inc,779 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.115476 42.309977),,5,6
+42.31316,-71.114546,soul fusion cafe & catering,655 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114546 42.31316),,5,6
+42.312575,-71.113911,smoke shop variety,666 Centre St,2130,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.113911 42.312575),,5,6
+42.302954,-71.114894,shift,207 South St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.114894 42.302954),,5,6
+42.311405,-71.114261,sherwin-williams,,2130,444120,Paint and Wallpaper Stores,44,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.114261 42.311405),,5,6
+42.313751,-71.114662,shattuck child care center,633 Centre St,2130,624410,Child Day Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Centre/South,POINT (-71.114662 42.313751),,5,6
+42.312383,-71.113869,shahmeister,670 Centre St,2130,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,1.0,1 to 9,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.314319,-71.114328,schott properties,619 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Centre/South,POINT (-71.114328 42.314319),,5,6
+42.311292,-71.114289,scanlon physical therapy & sports medicine,722 Centre St,2130,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,2.0,1 to 9,Centre/South,POINT (-71.114289 42.311292),,5,6
+42.310354,-71.115349,salma gundi inc,765 Centre St,2130,448150,Clothing Accessories Stores,44,Retail Trade,6.0,1 to 9,Centre/South,POINT (-71.115349 42.310354),,5,6
+42.312703,-71.114315,salih barbershop,665 Centre St,2130,812111,Barber Shops,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.114315 42.312703),,5,6
+42.306335,-71.115625,saint thomas aquinas parish rectory,97 South St,2130,813110,Religious Organizations,81,Other Services,10.0,10 to 24,Centre/South,POINT (-71.115625 42.306335),,5,6
+42.306385,-71.115152,saint thomas,97 South St,2130,813110,Religious Organizations,81,Other Services,5.0,1 to 9,Centre/South,POINT (-71.115152 42.306385),,5,6
+42.317735,-71.113256,roxbury highland bank,515 Centre St,2130,522110,Commercial Banking,52,Finance and Insurance,50.0,50 to 99,Centre/South,POINT (-71.113256 42.317735),,5,6
+42.312027,-71.114462,rotti mcgroddy design collaborative,685 Centre St,2130,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",0.0,Not Available,Centre/South,POINT (-71.114462 42.312027),,5,6
+42.318516,-71.112093,rose j pllc,484 Centre St,2130,453310,Used Merchandise Stores,45,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.112093 42.318516),,5,6
+42.306784,-71.115025,rogerson communities,90 South St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.115025 42.306784),,5,6
+42.311061,-71.114786,rockland trust company,725 Centre St,2130,522110,Commercial Banking,52,Finance and Insurance,6.0,1 to 9,Centre/South,POINT (-71.114786 42.311061),,5,6
+42.316895,-71.113283,robinwood cafe,536 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Centre/South,POINT (-71.113283 42.316895),,5,6
+42.31316,-71.114546,rivers property solutions,655 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Centre/South,POINT (-71.114546 42.31316),,5,6
+42.312383,-71.113869,rehearsal for life,670 Centre St,2130,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.306913,-71.115055,refuge acupuncture & wellness,82 South St,2130,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,0.0,Not Available,Centre/South,POINT (-71.115055 42.306913),,5,6
+42.310546,-71.114241,real deal,736 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Centre/South,POINT (-71.114241 42.310546),,5,6
+42.312028,-71.113949,purple cactus,674 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,1.0,1 to 9,Centre/South,POINT (-71.113949 42.312028),,5,6
+42.31446,-71.113907,ps nails & spa salon,606 Centre St,2130,812113,Nail Salons,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.113907 42.31446),,5,6
+42.305227,-71.114418,professional barbershop,140A South St,2130,812111,Barber Shops,81,Other Services,2.0,1 to 9,Centre/South,POINT (-71.114418 42.305227),,5,6
+42.307153,-71.115683,prestige rental solutions,75 South St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.115683 42.307153),,5,6
+42.314319,-71.114328,pondside realty,619 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Centre/South,POINT (-71.114328 42.314319),,5,6
+42.316582,-71.115086,pondside pet care,17 Lakeville Rd,2130,812910,Pet Care (except Veterinary) Services,81,Other Services,11.0,10 to 24,Centre/South,POINT (-71.115086 42.316582),,5,6
+42.312027,-71.114462,pond hill realty,685 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,3.0,1 to 9,Centre/South,POINT (-71.114462 42.312027),,5,6
+42.308264,-71.115325,polka dog bakery,42 South St,2130,453910,Pet and Pet Supplies Stores,45,Retail Trade,5.0,1 to 9,Centre/South,POINT (-71.115325 42.308264),,5,6
+42.312027,-71.114462,playstages inc,685 Centre St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,10.0,10 to 24,Centre/South,POINT (-71.114462 42.312027),,5,6
+42.307819,-71.115807,pine village preschool,57 South St,2130,624410,Child Day Care Services,62,Healthcare and Social Assistance,13.0,10 to 24,Centre/South,POINT (-71.115807 42.307819),,5,6
+42.308264,-71.115325,peru travel,50 South St,2130,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,Centre/South,POINT (-71.115325 42.308264),,5,6
+42.306127,-71.114668,peace of mind,108 South St,2130,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,5.0,1 to 9,Centre/South,POINT (-71.114668 42.306127),,5,6
+42.313557,-71.113906,payamps corp,634 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.113906 42.313557),,5,6
+42.313281,-71.11371,partners healthcare,640 Centre St,2130,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Centre/South,POINT (-71.11371 42.313281),,5,6
+42.312383,-71.113869,parenthood,670 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.309977,-71.115476,paramount partners llc,779 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.115476 42.309977),,5,6
+42.318207,-71.112353,p s nail & spa,486 Centre St,2130,812113,Nail Salons,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.112353 42.318207),,5,6
+42.306335,-71.115625,our lady of lourdes,97 South St,2130,813110,Religious Organizations,81,Other Services,5.0,1 to 9,Centre/South,POINT (-71.115625 42.306335),,5,6
+42.312112,-71.114056,on centre,676 Centre St,2130,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,3.0,1 to 9,Centre/South,POINT (-71.114056 42.312112),,5,6
+42.305227,-71.114448,olympic cargo enterprises,140-B South St,2130,488510,Freight Transportation Arrangement,48,Transportation and Warehosuing,5.0,1 to 9,Centre/South,POINT (-71.114448 42.305227),,5,6
+42.305227,-71.114418,north suffolk mental health,140B South St,2130,622210,Psychiatric and Substance Abuse Hospitals,62,Healthcare and Social Assistance,20.0,10 to 24,Centre/South,POINT (-71.114418 42.305227),,5,6
+42.313751,-71.114662,north shore flavors,633 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.114662 42.313751),,5,6
+42.311442,-71.114672,noodle barn,707 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114672 42.311442),,5,6
+42.314853,-71.114292,new leaf flores,601 Centre St,2130,453110,Florists,45,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.114292 42.314853),,5,6
+42.316586,-71.115166,never enough handbags,25 Lakeville Rd,2130,448150,Clothing Accessories Stores,44,Retail Trade,4.0,1 to 9,Centre/South,POINT (-71.115166 42.316586),,5,6
+42.31263,-71.11395,nckls,668 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.11395 42.31263),,5,6
+42.316525,-71.114296,nantucket sole,28 Beaufort Rd,2130,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.114296 42.316525),,5,6
+42.304708,-71.114497,nails 2000,148 South St,2130,812113,Nail Salons,81,Other Services,2.0,1 to 9,Centre/South,POINT (-71.114497 42.304708),,5,6
+42.318029,-71.112286,myrna johnston audio inc,8 Spring Park Ave,2130,517919,All Other Telecommunications,51,Information,3.0,1 to 9,Centre/South,POINT (-71.112286 42.318029),,5,6
+42.313557,-71.113906,mvp barbershop,634 Centre St,2130,812111,Barber Shops,81,Other Services,2.0,1 to 9,Centre/South,POINT (-71.113906 42.313557),,5,6
+42.315032,-71.113822,move free massage,590 Centre St,2130,812199,Other Personal Care Services,81,Other Services,1.0,1 to 9,Centre/South,POINT (-71.113822 42.315032),,5,6
+42.319182,-71.112342,morrison's auto-rite inc,475 Centre St,2130,811111,General Automotive Repair,81,Other Services,9.0,1 to 9,Centre/South,POINT (-71.112342 42.319182),,5,6
+42.308327,-71.115356,monumental market,36 South St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.115356 42.308327),,5,6
+42.308264,-71.115325,miss laura's,46 South St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.115325 42.308264),,5,6
+42.314319,-71.114328,metro environmental & construction inc,619 Centre St,2130,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",15.0,10 to 24,Centre/South,POINT (-71.114328 42.314319),,5,6
+42.307396,-71.115286,mccormack & scanlan,68 South St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,9.0,1 to 9,Centre/South,POINT (-71.115286 42.307396),,5,6
+42.312383,-71.113869,mass energy consumers alliance,670 Centre St,2130,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,4.0,1 to 9,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.316571,-71.11479,mary fifield associates,6 Beaufort Rd,2130,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Centre/South,POINT (-71.11479 42.316571),,5,6
+42.305227,-71.114418,maria's hair fashion,138 South St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.114418 42.305227),,5,6
+42.311578,-71.114631,manraj inc,701 Centre St,2130,511210,Software Publishers,51,Information,10.0,10 to 24,Centre/South,POINT (-71.114631 42.311578),,5,6
+42.316895,-71.113283,maf investments corp,536 Centre St,2130,523910,Miscellaneous Intermediation,52,Finance and Insurance,12.0,10 to 24,Centre/South,POINT (-71.113283 42.316895),,5,6
+42.312561,-71.114414,little dipper,669 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114414 42.312561),,5,6
+42.306913,-71.115055,linda olmstead law office,84 South St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Centre/South,POINT (-71.115055 42.306913),,5,6
+42.306036,-71.114644,law offices of jenny h guirado pc,112 South St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Centre/South,POINT (-71.114644 42.306036),,5,6
+42.311479,-71.11462,law office robert josephs,705 Centre St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Centre/South,POINT (-71.11462 42.311479),,5,6
+42.318898,-71.111871,latino americana de servicios,478 Centre St,2130,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Centre/South,POINT (-71.111871 42.318898),,5,6
+42.312383,-71.113869,l a parent magazine,670 Centre St,2130,511120,Periodical Publishers,51,Information,20.0,10 to 24,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.312561,-71.114414,kitchenwitch,671 Centre St,2130,442299,All Other Home Furnishings Stores,44,Retail Trade,3.0,1 to 9,Centre/South,POINT (-71.114414 42.312561),,5,6
+42.303966,-71.114456,julio's barber shop barber shop,170 South St,2130,812111,Barber Shops,81,Other Services,5.0,1 to 9,Centre/South,POINT (-71.114456 42.303966),,5,6
+42.307682,-71.115795,juicy greens,61 South St,2130,445230,Fruit and Vegetable Markets,44,Retail Trade,10.0,10 to 24,Centre/South,POINT (-71.115795 42.307682),,5,6
+42.316895,-71.113283,jpizle kitchen,536 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.113283 42.316895),,5,6
+42.319427,-71.112205,jp knit & stitch llc,461 Centre St,2130,448190,Other Clothing Stores,44,Retail Trade,4.0,1 to 9,Centre/South,POINT (-71.112205 42.319427),,5,6
+42.305227,-71.114418,jolie african braiding & beauty supply,140 South St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.114418 42.305227),,5,6
+42.304031,-71.114525,jd's,172 South St,2130,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.114525 42.304031),,5,6
+42.307439,-71.115761,jamaica plumbing & heating,69 South St,2130,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,3.0,1 to 9,Centre/South,POINT (-71.115761 42.307439),,5,6
+42.309505,-71.114893,jamaica plain tuesday club inc,12 South St,2130,813410,Civic and Social Organizations,81,Other Services,5.0,1 to 9,Centre/South,POINT (-71.114893 42.309505),,5,6
+42.318653,-71.111888,jamaica plain rentals & sales inc,480 Centre St,2130,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,4.0,1 to 9,Centre/South,POINT (-71.111888 42.318653),,5,6
+42.308854,-71.115043,jamaica plain community centers,20 South St,2130,921120,Legislative Bodies,92,Public Administration,13.0,10 to 24,Centre/South,POINT (-71.115043 42.308854),,5,6
+42.317662,-71.112651,jamaica plain chiropractic office,512 Centre St,2130,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,2.0,1 to 9,Centre/South,POINT (-71.112651 42.317662),,5,6
+42.30862,-71.115036,jamaica plain branch of the boston public library,30 South St,2130,519120,Libraries and Archives,51,Information,7.0,1 to 9,Centre/South,POINT (-71.115036 42.30862),,5,6
+42.31446,-71.113907,jamaica plain associates,606 Centre St,2130,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,10.0,10 to 24,Centre/South,POINT (-71.113907 42.31446),,5,6
+42.311087,-71.114342,jamaica hill realty,726 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Centre/South,POINT (-71.114342 42.311087),,5,6
+42.304102,-71.114452,jamaica garage door repair,162 South St,2130,444190,Other Building Material Dealers,44,Retail Trade,16.0,10 to 24,Centre/South,POINT (-71.114452 42.304102),,5,6
+42.312844,-71.11443,j.p. licks - jamaica plain,659 Centre St,2130,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,41.0,25 to 49,Centre/South,POINT (-71.11443 42.312844),,5,6
+42.312383,-71.113869,j p's taekwondo studios,670 Centre St,2130,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.310816,-71.114281,j p seafood cafe,730 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Centre/South,POINT (-71.114281 42.310816),,5,6
+42.304031,-71.114525,j p primo pizza,172 South St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114525 42.304031),,5,6
+42.312844,-71.11443,j p licks at assembly row,659 Centre St,2130,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.11443 42.312844),,5,6
+42.309998,-71.115552,j p house of pizza,775 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,1.0,1 to 9,Centre/South,POINT (-71.115552 42.309998),,5,6
+42.305227,-71.114418,j p deep thoughts,138 South St,2130,443142,Electronics Stores,44,Retail Trade,3.0,1 to 9,Centre/South,POINT (-71.114418 42.305227),,5,6
+42.314816,-71.114294,j p comics & games,603 Centre St,2130,451211,Book Stores,45,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.114294 42.314816),,5,6
+42.312383,-71.113869,j p center yoga,670 Centre St,2130,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,1.0,1 to 9,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.304031,-71.114525,j d's house of pizza,172 South St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Centre/South,POINT (-71.114525 42.304031),,5,6
+42.31446,-71.113907,j c fruit shop & more,606 Centre St,2130,445230,Fruit and Vegetable Markets,44,Retail Trade,6.0,1 to 9,Centre/South,POINT (-71.113907 42.31446),,5,6
+42.304031,-71.114525,italia pizza,172 South St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114525 42.304031),,5,6
+42.318516,-71.112093,international hair salon,482 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.112093 42.318516),,5,6
+42.318516,-71.112093,ideal cafe & pizza,484 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Centre/South,POINT (-71.112093 42.318516),,5,6
+42.303867,-71.114466,human webdesigners,190 South St,2130,0,,99,Undefined,11.0,10 to 24,Centre/South,POINT (-71.114466 42.303867),,5,6
+42.303102,-71.114922,hospitality staffing solutions,205 South St,2130,541612,Human Resources Consulting Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Centre/South,POINT (-71.114922 42.303102),,5,6
+42.31263,-71.11395,hatched,668 Centre St,2130,442110,Furniture Stores,44,Retail Trade,3.0,1 to 9,Centre/South,POINT (-71.11395 42.31263),,5,6
+42.312758,-71.113834,hardware city inc,656 Centre St,2130,444130,Hardware Stores,44,Retail Trade,2.0,1 to 9,Centre/South,POINT (-71.113834 42.312758),,5,6
+42.305592,-71.114398,happy supermarket spirits,128 South St,2130,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,12.0,10 to 24,Centre/South,POINT (-71.114398 42.305592),,5,6
+42.314841,-71.11382,guzman dental office,594 Centre St,2130,621210,Offices of Dentists,62,Healthcare and Social Assistance,4.0,1 to 9,Centre/South,POINT (-71.11382 42.314841),,5,6
+42.308296,-71.115355,gumshoe,40 South St,2130,453310,Used Merchandise Stores,45,Retail Trade,1.0,1 to 9,Centre/South,POINT (-71.115355 42.308296),,5,6
+42.31208,-71.114066,goodwill,678 Centre St,2130,453310,Used Merchandise Stores,45,Retail Trade,6.0,1 to 9,Centre/South,POINT (-71.114066 42.31208),,5,6
+42.312561,-71.114414,george's shoe store,669 Centre St,2130,448210,Shoe Stores,44,Retail Trade,7.0,1 to 9,Centre/South,POINT (-71.114414 42.312561),,5,6
+42.314283,-71.113907,gentle dental,612 Centre St,2130,621210,Offices of Dentists,62,Healthcare and Social Assistance,15.0,10 to 24,Centre/South,POINT (-71.113907 42.314283),,5,6
+42.311389,-71.114265,galway house,710 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114265 42.311389),,5,6
+42.307396,-71.115286,fresh copy,64 South St,2130,323111,Commercial Printing (except Screen and Books),32,Manufacturing,1.0,1 to 9,Centre/South,POINT (-71.115286 42.307396),,5,6
+42.306913,-71.115055,freiberg iii j walter,84 South St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Centre/South,POINT (-71.115055 42.306913),,5,6
+42.312383,-71.113869,freelance players inc,670 Centre St,2130,711110,Theater Companies and Dinner Theaters,71,"Arts, Entertainment, and Recreation",1.0,1 to 9,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.310746,-71.114907,fowler ask mr real estate,743 Centre St,2130,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,Centre/South,POINT (-71.114907 42.310746),,5,6
+42.311479,-71.11462,forte architecture/design,705 Centre St,2130,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Centre/South,POINT (-71.11462 42.311479),,5,6
+42.305227,-71.114418,forest hills chiropractic,140 South St,2130,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Centre/South,POINT (-71.114418 42.305227),,5,6
+42.317014,-71.1141,forbes building,545 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,3.0,1 to 9,Centre/South,POINT (-71.1141 42.317014),,5,6
+42.314319,-71.114328,fomu,617 Centre St,2130,425120,Wholesale Trade Agents and Brokers,42,Wholesale Trade,7.0,1 to 9,Centre/South,POINT (-71.114328 42.314319),,5,6
+42.308264,-71.115325,focus real estate,34 South St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Centre/South,POINT (-71.115325 42.308264),,5,6
+42.313751,-71.114662,first baptist church,633 Centre St,2130,813110,Religious Organizations,81,Other Services,6.0,1 to 9,Centre/South,POINT (-71.114662 42.313751),,5,6
+42.307937,-71.115829,fiore's bakery,55 South St,2130,311811,Retail Bakeries,31,Manufacturing,10.0,10 to 24,Centre/South,POINT (-71.115829 42.307937),,5,6
+42.307396,-71.115286,ferris wheels bike shop,66 South St,2130,451110,Sporting Goods Stores,45,Retail Trade,10.0,10 to 24,Centre/South,POINT (-71.115286 42.307396),,5,6
+42.307275,-71.115782,fenn peter & associates,71 South St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Centre/South,POINT (-71.115782 42.307275),,5,6
+42.306784,-71.115025,farnsworth house inc,90 South St,2130,813319,Other Social Advocacy Organizations,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.115025 42.306784),,5,6
+42.307396,-71.115286,faith's naturals,66 South St,2130,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,0.0,Not Available,Centre/South,POINT (-71.115286 42.307396),,5,6
+42.314853,-71.114392,"eye q optical, inc",7 Pond St,2130,446130,Optical Goods Stores,44,Retail Trade,5.0,1 to 9,Centre/South,POINT (-71.114392 42.314853),,5,6
+42.314319,-71.114328,eye q optical,615 Centre St,2130,446130,Optical Goods Stores,44,Retail Trade,5.0,1 to 9,Centre/South,POINT (-71.114328 42.314319),,5,6
+42.302865,-71.114351,express supplies & contracts,216C South St,2130,492110,Couriers and Express Delivery Services,49,Transportation and Warehosuing,4.0,1 to 9,Centre/South,POINT (-71.114351 42.302865),,5,6
+42.31026,-71.115522,espresso yourself,767 Centre St,2130,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Centre/South,POINT (-71.115522 42.31026),,5,6
+42.306036,-71.114644,esperanza vacations travel & tours,114 South St,2130,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Centre/South,POINT (-71.114644 42.306036),,5,6
+42.312758,-71.113834,erika beauty salon,656 Centre St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Centre/South,POINT (-71.113834 42.312758),,5,6
+42.312575,-71.113911,emc restaurant inc,662 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.113911 42.312575),,5,6
+42.312035,-71.114557,eastern bank,687 Centre St,2130,522110,Commercial Banking,52,Finance and Insurance,7.0,1 to 9,Centre/South,POINT (-71.114557 42.312035),,5,6
+42.313751,-71.114662,donnell's bakery,633 Centre St,2130,722320,Caterers,72,Accommodation and Food Services,19.0,10 to 24,Centre/South,POINT (-71.114662 42.313751),,5,6
+42.304992,-71.114448,dogs j p inc,142B South St,2130,812910,Pet Care (except Veterinary) Services,81,Other Services,11.0,10 to 24,Centre/South,POINT (-71.114448 42.304992),,5,6
+42.304992,-71.114448,deluxe cleaners,142 South St,2130,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,Centre/South,POINT (-71.114448 42.304992),,5,6
+42.311438,-71.114253,cvs pharmacy,704 Centre St,2130,446110,Pharmacies and Drug Stores,44,Retail Trade,12.0,10 to 24,Centre/South,POINT (-71.114253 42.311438),,5,6
+42.319427,-71.112205,cvs pharmacy,467 Centre St,2130,446110,Pharmacies and Drug Stores,44,Retail Trade,3.0,1 to 9,Centre/South,POINT (-71.112205 42.319427),,5,6
+42.308854,-71.115043,curtis hall community center,20 South St,2130,624110,Child and Youth Services,62,Healthcare and Social Assistance,14.0,10 to 24,Centre/South,POINT (-71.115043 42.308854),,5,6
+42.31822,-71.112558,curley k-8 school,493 Centre St,2130,611110,Elementary and Secondary Schools,61,Educational Services,50.0,50 to 99,Centre/South,POINT (-71.112558 42.31822),,5,6
+42.311279,-71.114759,costello's tavern,723 Centre St,2130,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114759 42.311279),,5,6
+42.304992,-71.114448,comedysportz boston,146 South St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.114448 42.304992),,5,6
+42.313751,-71.114662,coco verde vegan,633 Centre St,2130,722320,Caterers,72,Accommodation and Food Services,19.0,10 to 24,Centre/South,POINT (-71.114662 42.313751),,5,6
+42.312758,-71.113834,cocina abreu ii inc,658 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.113834 42.312758),,5,6
+42.311546,-71.114632,cobwebs,703 Centre St,2130,453310,Used Merchandise Stores,45,Retail Trade,1.0,1 to 9,Centre/South,POINT (-71.114632 42.311546),,5,6
+42.304102,-71.114452,cloud 9,162 South St,2130,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,5.0,1 to 9,Centre/South,POINT (-71.114452 42.304102),,5,6
+42.316626,-71.113278,clean getaway,546 Centre St,2130,524114,Direct Health and Medical Insurance Carriers,52,Finance and Insurance,2.0,1 to 9,Centre/South,POINT (-71.113278 42.316626),,5,6
+42.312558,-71.113957,city feed & supply,672 Centre St,2130,424910,Farm Supplies Merchant Wholesalers,42,Wholesale Trade,10.0,10 to 24,Centre/South,POINT (-71.113957 42.312558),,5,6
+42.312758,-71.113834,chilacates,658 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.113834 42.312758),,5,6
+42.312383,-71.113869,centre/south main streets,670 Centre St,2130,813910,Business Associations,81,Other Services,2.0,1 to 9,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.308533,-71.115798,centre/south main streets,39 South St,2130,813910,Business Associations,81,Other Services,2.0,1 to 9,Centre/South,POINT (-71.115798 42.308533),,5,6
+42.312561,-71.114414,centre street cafe,669 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Centre/South,POINT (-71.114414 42.312561),,5,6
+42.315281,-71.114386,centre gibbs inc,581 Centre St,2130,447190,Other Gasoline Stations,44,Retail Trade,1.0,1 to 9,Centre/South,POINT (-71.114386 42.315281),,5,6
+42.313751,-71.114662,centre for faith art & justice,633 Centre St,2130,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Centre/South,POINT (-71.114662 42.313751),,5,6
+42.31446,-71.113907,centre cleaners,608 Centre St,2130,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,1.0,1 to 9,Centre/South,POINT (-71.113907 42.31446),,5,6
+42.313751,-71.114662,casabe kitchen,633 Centre St,2130,722330,Mobile Food Services,72,Accommodation and Food Services,2.0,1 to 9,Centre/South,POINT (-71.114662 42.313751),,5,6
+42.311442,-71.114672,casa verde,711 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114672 42.311442),,5,6
+42.311546,-71.114632,carrot flower,703 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114632 42.311546),,5,6
+42.314841,-71.11382,caring family dental pc,594 Centre St,2130,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Centre/South,POINT (-71.11382 42.314841),,5,6
+42.317439,-71.112786,canela marketing,520 Centre St,2130,541613,Marketing Consulting Services,54,"Professional, Scientific, and Technical Services",11.0,10 to 24,Centre/South,POINT (-71.112786 42.317439),,5,6
+42.310788,-71.114986,caffe nero americans inc,733 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114986 42.310788),,5,6
+42.31303,-71.113823,cafe beirut,654 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Centre/South,POINT (-71.113823 42.31303),,5,6
+42.312758,-71.113834,"cacao, llc",660 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.113834 42.312758),,5,6
+42.304138,-71.11451,buy stylz investment capital,168 South St,2130,523910,Miscellaneous Intermediation,52,Finance and Insurance,12.0,10 to 24,Centre/South,POINT (-71.11451 42.304138),,5,6
+42.312363,-71.1145,boylston place condominiums,673 Centre St,2130,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,Centre/South,POINT (-71.1145 42.312363),,5,6
+42.314819,-71.114304,boyle group inc,5 Pond St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.114304 42.314819),,5,6
+42.304992,-71.114448,botanica sammiguel,146A South St,2130,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Centre/South,POINT (-71.114448 42.304992),,5,6
+42.312383,-71.113869,boston parents paper,670 Centre St,2130,511120,Periodical Publishers,51,Information,20.0,10 to 24,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.312383,-71.113869,boston oil consumers alliance,670 Centre St,2130,211120,Crude Petroleum Extraction???,21,Mining,11.0,10 to 24,Centre/South,POINT (-71.113869 42.312383),,5,6
+42.305706,-71.115143,boston housing authority,2 Metcalf Ct,2130,531311,Residential Property Managers,53,Real Estate Rental and Leasing,15.0,10 to 24,Centre/South,POINT (-71.115143 42.305706),,5,6
+42.30571,-71.115135,boston housing authority,125 South St,2130,531311,Residential Property Managers,53,Real Estate Rental and Leasing,3.0,1 to 9,Centre/South,POINT (-71.115135 42.30571),,5,6
+42.305407,-71.115609,boston housing authority,15 Saint Rose St,2130,531311,Residential Property Managers,53,Real Estate Rental and Leasing,6.0,1 to 9,Centre/South,POINT (-71.115609 42.305407),,5,6
+42.31376,-71.113834,boston gulin center inc,630 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.113834 42.31376),,5,6
+42.311479,-71.11462,boston book company,705 Centre St,2130,453310,Used Merchandise Stores,45,Retail Trade,3.0,1 to 9,Centre/South,POINT (-71.11462 42.311479),,5,6
+42.311307,-71.113908,boomerangs,716 Centre St,2130,453310,Used Merchandise Stores,45,Retail Trade,20.0,10 to 24,Centre/South,POINT (-71.113908 42.311307),,5,6
+42.305693,-71.115281,bonjour senior personal care,17 Metcalf Ct,2130,621610,Home Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Centre/South,POINT (-71.115281 42.305693),,5,6
+42.312667,-71.114319,boingtoys,667 Centre St,2130,451120,"Hobby, Toy, and Game Stores",45,Retail Trade,3.0,1 to 9,Centre/South,POINT (-71.114319 42.312667),,5,6
+42.312561,-71.114414,blissful monkey yoga studio,663 Centre St,2130,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,1.0,1 to 9,Centre/South,POINT (-71.114414 42.312561),,5,6
+42.310631,-71.114714,blanchard liquor,741 Centre St,2130,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,17.0,10 to 24,Centre/South,POINT (-71.114714 42.310631),,5,6
+42.317439,-71.112786,birth & beyond of jamaica plain,520 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.112786 42.317439),,5,6
+42.312217,-71.114534,bank of america mortgage,677 Centre St,2130,522292,Real Estate Credit,52,Finance and Insurance,12.0,10 to 24,Centre/South,POINT (-71.114534 42.312217),,5,6
+42.312217,-71.114534,bank of america,677 Centre St,2130,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,Centre/South,POINT (-71.114534 42.312217),,5,6
+42.304992,-71.114448,b's chop shop,142 South St,2130,812111,Barber Shops,81,Other Services,2.0,1 to 9,Centre/South,POINT (-71.114448 42.304992),,5,6
+42.311479,-71.11462,avrin & regolsky,705 Centre St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Centre/South,POINT (-71.11462 42.311479),,5,6
+42.308236,-71.115352,aviary,48 South St,2130,453920,Art Dealers,45,Retail Trade,3.0,1 to 9,Centre/South,POINT (-71.115352 42.308236),,5,6
+42.311061,-71.114786,atlantic dental partners,729 Centre St,2130,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,Centre/South,POINT (-71.114786 42.311061),,5,6
+42.302954,-71.114894,arborway auto service,207 South St,2130,811198,All Other Automotive Repair and Maintenance,81,Other Services,5.0,1 to 9,Centre/South,POINT (-71.114894 42.302954),,5,6
+42.311442,-71.114672,arborview realty inc,709 Centre St,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Centre/South,POINT (-71.114672 42.311442),,5,6
+42.311442,-71.114672,arborview development corp,709 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.114672 42.311442),,5,6
+42.311061,-71.114786,anurag gupta,729 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.114786 42.311061),,5,6
+42.313523,-71.113795,andrew zuroff pc,632 Centre St,2130,541211,Offices of Certified Public Accountants,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Centre/South,POINT (-71.113795 42.313523),,5,6
+42.309993,-71.115462,american dry cleaner,777 Centre St,2130,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,1.0,1 to 9,Centre/South,POINT (-71.115462 42.309993),,5,6
+42.31928,-71.111624,acapulco restaurant,464 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Centre/South,POINT (-71.111624 42.31928),,5,6
+42.306036,-71.114644,academy of realist art boston,112 South St,2130,611610,Fine Arts Schools,61,Educational Services,4.0,1 to 9,Centre/South,POINT (-71.114644 42.306036),,5,6
+42.310085,-71.115192,aaa appliances,769 Centre St,2130,443141,Household Appliance Stores,44,Retail Trade,4.0,1 to 9,Centre/South,POINT (-71.115192 42.310085),,5,6
+42.302722,-71.114841,aa zack plumbing llc,217 South St,2130,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,1.0,1 to 9,Centre/South,POINT (-71.114841 42.302722),,5,6
+42.304992,-71.114448,"a far cry, inc",146 South St,2130,0,,99,Undefined,5.0,1 to 9,Centre/South,POINT (-71.114448 42.304992),,5,6
+42.304992,-71.114448,a far cry orchestra,146 South St,2130,624410,Child Day Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Centre/South,POINT (-71.114448 42.304992),,5,6
+42.307153,-71.115683,75 south st condo association,75 South St,2130,813910,Business Associations,81,Other Services,6.0,1 to 9,Centre/South,POINT (-71.115683 42.307153),,5,6
+42.312028,-71.113949,7-eleven,684 Centre St,2130,445120,Convenience Stores,44,Retail Trade,7.0,1 to 9,Centre/South,POINT (-71.113949 42.312028),,5,6
+42.314853,-71.114392,7 pond coffee bar,7 Pond St,2130,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Centre/South,POINT (-71.114392 42.314853),,5,6
+42.305053,-71.114467,the jeanie johnston pub,144 South St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Centre/South,POINT (-71.114467 42.305053),,5,6
+42.312575,-71.113911,same ole place inc,662 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.113911 42.312575),,5,6
+42.309998,-71.115552,first church in jamaica plain,775 Centre St,2130,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Centre/South,POINT (-71.115552 42.309998),,5,6
+42.311279,-71.114759,costellos bistro,723 Centre St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Centre/South,POINT (-71.114759 42.311279),,5,6
+42.312758,-71.113834,100 delicias,660 Centre St,2130,0,,99,Undefined,0.0,Not Available,Centre/South,POINT (-71.113834 42.312758),,5,6
+42.312414,-71.10194,wild pops,3213 Washington St,2130,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Egleston Square,POINT (-71.10194 42.312414),,5,6
+42.317596,-71.098061,western union agent location,1890 Columbus Ave,2119,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,Egleston Square,POINT (-71.098061 42.317596),,5,6
+42.317596,-71.098061,walgreens,1890 Columbus Ave,2119,446110,Pharmacies and Drug Stores,44,Retail Trade,21.0,10 to 24,Egleston Square,POINT (-71.098061 42.317596),,5,6
+42.316789,-71.097815,waldwin group,3033 Washington St,2119,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,10.0,10 to 24,Egleston Square,POINT (-71.097815 42.316789),,5,6
+42.314677,-71.098937,vip style inc,3114 Washington St,2119,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.098937 42.314677),,5,6
+42.314677,-71.098937,vip lounge hair spa,3114 Washington St,2119,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Egleston Square,POINT (-71.098937 42.314677),,5,6
+42.31435,-71.100087,ups access point location,3139A Washington St,2130,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.313349,-71.10048,tonito auto service,3162 Washington St,2130,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.10048 42.313349),,5,6
+42.31521,-71.098543,tito & manny,3090 Washington St,2119,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Egleston Square,POINT (-71.098543 42.31521),,5,6
+42.312414,-71.10194,the vu,3203 Washington St,2130,532282,Video Tape and Disc Rental,53,Real Estate Rental and Leasing,4.0,1 to 9,Egleston Square,POINT (-71.10194 42.312414),,5,6
+42.315329,-71.098996,the throne barbershop,3099 Washington St,2119,812111,Barber Shops,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.098996 42.315329),,5,6
+42.316078,-71.097565,the base,11 Walnut Park,2119,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.097565 42.316078),,5,6
+42.314677,-71.098937,team punta dulce corp,3114 Washington St,2119,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.098937 42.314677),,5,6
+42.314834,-71.09893,t r fashions,3106 Washington St,2119,448120,Women's Clothing Stores,44,Retail Trade,3.0,1 to 9,Egleston Square,POINT (-71.09893 42.314834),,5,6
+42.315541,-71.099077,star fish market,3089 Washington St,2119,445220,Fish and Seafood Markets,44,Retail Trade,2.0,1 to 9,Egleston Square,POINT (-71.099077 42.315541),,5,6
+42.31435,-71.100087,soranlli salon,3133 Washington St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.313349,-71.10048,smart start,3162 Washington St,2130,811111,General Automotive Repair,81,Other Services,8.0,1 to 9,Egleston Square,POINT (-71.10048 42.313349),,5,6
+42.315112,-71.09864,shoreline shine,3092 Washington St,2119,531190,Lessors of Other Real Estate Property,53,Real Estate Rental and Leasing,2.0,1 to 9,Egleston Square,POINT (-71.09864 42.315112),,5,6
+42.316081,-71.098518,sheeha yare transportation,1955 Columbus Ave,2119,488210,Support Activities for Rail Transportation,48,Transportation and Warehosuing,20.0,10 to 24,Egleston Square,POINT (-71.098518 42.316081),,5,6
+42.317696,-71.098591,santana's tires & auto repair,1891 Columbus Ave,2119,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.098591 42.317696),,5,6
+42.314173,-71.100267,santana multiservice,3141 Washington St,2130,448320,Luggage and Leather Goods Stores,44,Retail Trade,2.0,1 to 9,Egleston Square,POINT (-71.100267 42.314173),,5,6
+42.313788,-71.099917,sandy wireless,3154 Washington St,2130,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,1.0,1 to 9,Egleston Square,POINT (-71.099917 42.313788),,5,6
+42.314872,-71.09945,sanchez computer tech,3121 Washington St,2119,443142,Electronics Stores,44,Retail Trade,8.0,1 to 9,Egleston Square,POINT (-71.09945 42.314872),,5,6
+42.312538,-71.101082,rons auto repair,3200 Washington St,2130,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.101082 42.312538),,5,6
+42.313349,-71.10048,reynolds construction services inc,3162 Washington St,2130,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Egleston Square,POINT (-71.10048 42.313349),,5,6
+42.316034,-71.097544,rent-a-center,3050 Washington St,2119,532289,All Other Consumer Goods Rental,53,Real Estate Rental and Leasing,6.0,1 to 9,Egleston Square,POINT (-71.097544 42.316034),,5,6
+42.314677,-71.098937,rainbow nails,3112 Washington St,2119,812113,Nail Salons,81,Other Services,3.0,1 to 9,Egleston Square,POINT (-71.098937 42.314677),,5,6
+42.314834,-71.09893,r m communication inc,3106 Washington St,2119,517919,All Other Telecommunications,51,Information,2.0,1 to 9,Egleston Square,POINT (-71.09893 42.314834),,5,6
+42.313623,-71.100192,pikalox,3160 Washington St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Egleston Square,POINT (-71.100192 42.313623),,5,6
+42.312414,-71.10194,pica inc,3207 Washington St,2130,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.10194 42.312414),,5,6
+42.314087,-71.100354,papi s market,3145 Washington St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,0.0,Not Available,Egleston Square,POINT (-71.100354 42.314087),,5,6
+42.316034,-71.097544,origination inc,3050 Washington St,2119,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.097544 42.316034),,5,6
+42.315247,-71.098114,monira & monira corp,1973 Columbus Ave,2119,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.098114 42.315247),,5,6
+42.314974,-71.098789,lucky boston chinese restaurant,3096 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Egleston Square,POINT (-71.098789 42.314974),,5,6
+42.313614,-71.100189,love yuh body,3152 Washington St,2130,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,Egleston Square,POINT (-71.100189 42.313614),,5,6
+42.315155,-71.099213,los compadres meat market,3105 Washington St,2119,445210,Meat Markets,44,Retail Trade,4.0,1 to 9,Egleston Square,POINT (-71.099213 42.315155),,5,6
+42.314701,-71.099159,lluvia dollar store plus,3122 Washington St,2119,452210,Department Stores,45,Retail Trade,1.0,1 to 9,Egleston Square,POINT (-71.099159 42.314701),,5,6
+42.315186,-71.098,lawson barber shop,1979 Columbus Ave,2119,812111,Barber Shops,81,Other Services,5.0,1 to 9,Egleston Square,POINT (-71.098 42.315186),,5,6
+42.316034,-71.097544,laundromax,3050 Washington St,2119,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,6.0,1 to 9,Egleston Square,POINT (-71.097544 42.316034),,5,6
+42.314887,-71.099507,latino beauty salon,3125 Washington St,2119,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Egleston Square,POINT (-71.099507 42.314887),,5,6
+42.314677,-71.098937,las pascualas style corp,3114 Washington St,2119,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.098937 42.314677),,5,6
+42.315329,-71.098996,la peraviana,3099 Washington St,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,3.0,1 to 9,Egleston Square,POINT (-71.098996 42.315329),,5,6
+42.315112,-71.09864,la parada dominican kitchen,3094 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Egleston Square,POINT (-71.09864 42.315112),,5,6
+42.31521,-71.098543,kevin's jewelry co,3090 Washington St,2119,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Egleston Square,POINT (-71.098543 42.31521),,5,6
+42.313349,-71.10048,jp auto plaza inc,3162 Washington St,2130,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.10048 42.313349),,5,6
+42.313623,-71.100192,joyavi inc,3160 Washington St,2130,511210,Software Publishers,51,Information,10.0,10 to 24,Egleston Square,POINT (-71.100192 42.313623),,5,6
+42.312695,-71.101517,jackson glass inc,3195 Washington St,2130,444190,Other Building Material Dealers,44,Retail Trade,4.0,1 to 9,Egleston Square,POINT (-71.101517 42.312695),,5,6
+42.31435,-71.100087,h & f appliance,3137D Washington St,2130,811412,Appliance Repair and Maintenance,81,Other Services,1.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.316705,-71.097646,greater boston bigfoot,3035 Washington St,2119,813910,Business Associations,81,Other Services,6.0,1 to 9,Egleston Square,POINT (-71.097646 42.316705),,5,6
+42.317109,-71.098086,grace & hope mission,1900 Columbus Ave,2119,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.098086 42.317109),,5,6
+42.31435,-71.100087,gerardos transit inc,3137 Washington St,2130,485119,Other Urban Transit Systems,48,Transportation and Warehosuing,7.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.314701,-71.099159,frandy's inc,3122 Washington St,2119,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.099159 42.314701),,5,6
+42.312171,-71.102091,fashion style salon,3211 Washington St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Egleston Square,POINT (-71.102091 42.312171),,5,6
+42.315329,-71.098996,f pena barber sites corp,3099 Washington St,2119,812111,Barber Shops,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.098996 42.315329),,5,6
+42.313314,-71.101129,extra space storage,3175 Washington St,2130,531130,Lessors of Miniwarehouses and Self-Storage Units,53,Real Estate Rental and Leasing,4.0,1 to 9,Egleston Square,POINT (-71.101129 42.313314),,5,6
+42.315262,-71.098601,exclusive wireless corp,3084 Washington St,2119,443142,Electronics Stores,44,Retail Trade,4.0,1 to 9,Egleston Square,POINT (-71.098601 42.315262),,5,6
+42.317091,-71.098485,eliana market,1909 Columbus Ave,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Egleston Square,POINT (-71.098485 42.317091),,5,6
+42.313535,-71.100752,el mejor estilo,3167 Washington St,2130,812111,Barber Shops,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.100752 42.313535),,5,6
+42.314877,-71.098953,egleston wireless,3108 Washington St,2119,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Egleston Square,POINT (-71.098953 42.314877),,5,6
+42.316465,-71.097994,egleston square citgo,3055 Washington St,2119,447190,Other Gasoline Stations,44,Retail Trade,3.0,1 to 9,Egleston Square,POINT (-71.097994 42.316465),,5,6
+42.315336,-71.0983,egleston physical therapy,1967 Columbus Ave,2119,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,5.0,1 to 9,Egleston Square,POINT (-71.0983 42.315336),,5,6
+42.315155,-71.099213,egleston nail salon,3101 Washington St,2119,812113,Nail Salons,81,Other Services,5.0,1 to 9,Egleston Square,POINT (-71.099213 42.315155),,5,6
+42.314087,-71.100354,egleston market,3145 Washington St,2130,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Egleston Square,POINT (-71.100354 42.314087),,5,6
+42.315247,-71.098114,egleston market,1973 Columbus Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Egleston Square,POINT (-71.098114 42.315247),,5,6
+42.315277,-71.098466,egleston liquors,3086 Washington St,2119,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,3.0,1 to 9,Egleston Square,POINT (-71.098466 42.315277),,5,6
+42.315407,-71.098438,egleston house of pizza,3080 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Egleston Square,POINT (-71.098438 42.315407),,5,6
+42.315226,-71.098104,egleston beauty salon,1975 Columbus Ave,2119,812112,Beauty Salons,81,Other Services,6.0,1 to 9,Egleston Square,POINT (-71.098104 42.315226),,5,6
+42.312748,-71.100952,economy plumbing & heating supply company,3190 Washington St,2130,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,16.0,10 to 24,Egleston Square,POINT (-71.100952 42.312748),,5,6
+42.317696,-71.098591,e & j auto tech,1891 Columbus Ave,2119,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.098591 42.317696),,5,6
+42.31435,-71.100087,dls tax solutions,3133 Washington St,2130,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.31358,-71.100707,design by ray,3161 Washington St,2130,448190,Other Clothing Stores,44,Retail Trade,1.0,1 to 9,Egleston Square,POINT (-71.100707 42.31358),,5,6
+42.316789,-71.097815,dental dreams llc,3033 Washington St,2119,621210,Offices of Dentists,62,Healthcare and Social Assistance,10.0,10 to 24,Egleston Square,POINT (-71.097815 42.316789),,5,6
+42.314893,-71.099429,daniel home supply & dollar store,3119 Washington St,2119,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,1.0,1 to 9,Egleston Square,POINT (-71.099429 42.314893),,5,6
+42.31435,-71.100087,d'laly's nails e spa,3137 Washington St,2130,812113,Nail Salons,81,Other Services,6.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.313976,-71.099846,d fantasy,3142 Washington St,2130,445230,Fruit and Vegetable Markets,44,Retail Trade,6.0,1 to 9,Egleston Square,POINT (-71.099846 42.313976),,5,6
+42.314173,-71.100267,d & d restaurant,3141 Washington St,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Egleston Square,POINT (-71.100267 42.314173),,5,6
+42.314872,-71.09945,computer repair center tech,3121 Washington St,2119,811212,Computer and Office Machine Repair and Maintenance,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.09945 42.314872),,5,6
+42.315226,-71.098104,columbus supply & accessories,1975 Columbus Ave,2119,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Egleston Square,POINT (-71.098104 42.315226),,5,6
+42.316384,-71.098587,columbus auto sales,1945 Columbus Ave,2119,441120,Used Car Dealers,44,Retail Trade,2.0,1 to 9,Egleston Square,POINT (-71.098587 42.316384),,5,6
+42.315058,-71.099004,chauncy liquor mart inc,3100 Washington St,2119,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,5.0,1 to 9,Egleston Square,POINT (-71.099004 42.315058),,5,6
+42.31521,-71.098543,chauncy brothers smoke shop inc,3090 Washington St,2119,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Egleston Square,POINT (-71.098543 42.31521),,5,6
+42.312267,-71.101994,chata digital,3205 Washington St,2130,541810,Advertising Agencies,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Egleston Square,POINT (-71.101994 42.312267),,5,6
+42.314834,-71.09893,cesar cargo express,3106 Washington St,2119,488510,Freight Transportation Arrangement,48,Transportation and Warehosuing,2.0,1 to 9,Egleston Square,POINT (-71.09893 42.314834),,5,6
+42.312267,-71.101994,cayacada inc,3205 Washington St,2130,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.101994 42.312267),,5,6
+42.31435,-71.100087,casa de reinas,3133 Washington St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.31435,-71.100087,caribbean consultant inc,3133 Washington St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.312414,-71.10194,buena vista communication,3207 Washington St,2130,517919,All Other Telecommunications,51,Information,4.0,1 to 9,Egleston Square,POINT (-71.10194 42.312414),,5,6
+42.3137,-71.1,bravo pharmacy,3158 Washington St,2130,424210,Drugs and Druggists' Sundries Merchant Wholesalers,42,Wholesale Trade,7.0,1 to 9,Egleston Square,POINT (-71.1 42.3137),,5,6
+42.315112,-71.09864,boston home furniture,3092 Washington St,2119,442110,Furniture Stores,44,Retail Trade,3.0,1 to 9,Egleston Square,POINT (-71.09864 42.315112),,5,6
+42.314765,-71.099097,boston express multi service,3116 Washington St,2119,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,1.0,1 to 9,Egleston Square,POINT (-71.099097 42.314765),,5,6
+42.316977,-71.097523,boston community programming,3025 Washington St,2119,515112,Radio Stations,51,Information,20.0,10 to 24,Egleston Square,POINT (-71.097523 42.316977),,5,6
+42.316977,-71.097523,boston community access,3025 Washington St,2119,541720,Research and Development in the Social Sciences and Humanities,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Egleston Square,POINT (-71.097523 42.316977),,5,6
+42.316078,-71.097565,boston astros,11 Walnut Park,2119,813319,Other Social Advocacy Organizations,81,Other Services,14.0,10 to 24,Egleston Square,POINT (-71.097565 42.316078),,5,6
+42.316977,-71.097523,bnn tv boston neighborhood,3025 Washington St,2119,515112,Radio Stations,51,Information,20.0,10 to 24,Egleston Square,POINT (-71.097523 42.316977),,5,6
+42.316977,-71.097523,bnn property corp,3025 Washington St,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Egleston Square,POINT (-71.097523 42.316977),,5,6
+42.312414,-71.10194,biuli fashions,3207 Washington St,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Egleston Square,POINT (-71.10194 42.312414),,5,6
+42.31435,-71.100087,best city corp,3137 Washington St,2130,423690,Other Electronic Parts and Equipment Merchant Wholesalers,42,Wholesale Trade,5.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.313614,-71.100189,beauty salon by venard,3152 Washington St,2130,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Egleston Square,POINT (-71.100189 42.313614),,5,6
+42.31435,-71.100087,alberto's hair styling,3137 Washington St,2130,812111,Barber Shops,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.31435,-71.100087,alberto barber shop,3133 Washington St,2130,812111,Barber Shops,81,Other Services,2.0,1 to 9,Egleston Square,POINT (-71.100087 42.31435),,5,6
+42.314775,-71.097668,ab home healthcare,1989 Columbus Ave,2119,621610,Home Health Care Services,62,Healthcare and Social Assistance,9.0,1 to 9,Egleston Square,POINT (-71.097668 42.314775),,5,6
+42.314173,-71.100267,aagg inc,3141 Washington St,2130,0,,99,Undefined,0.0,Not Available,Egleston Square,POINT (-71.100267 42.314173),,5,6
+42.314087,-71.100354,a rodezno cooking corp,3145 Washington St,2130,812990,All Other Personal Services,81,Other Services,3.0,1 to 9,Egleston Square,POINT (-71.100354 42.314087),,5,6
+42.316705,-71.097646,826 boston,3035 Washington St,2119,813311,Human Rights Organizations,81,Other Services,5.0,1 to 9,Egleston Square,POINT (-71.097646 42.316705),,5,6
+42.312538,-71.101082,3200 washington,3200 Washington St,2130,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Egleston Square,POINT (-71.101082 42.312538),,5,6
+42.315112,-71.09864,bocao restaurant &grill,3094 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Egleston Square,POINT (-71.09864 42.315112),,5,6
+42.285889,-71.154869,yoga for you,1864 Centre St,2132,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,1.0,1 to 9,West Roxbury,POINT (-71.154869 42.285889),,5,6
+42.275288,-71.167461,yetty decor,180 Spring St,2132,442299,All Other Home Furnishings Stores,44,Retail Trade,3.0,1 to 9,West Roxbury,POINT (-71.167461 42.275288),,5,6
+42.287468,-71.149813,winn's centre street cleaners,1739 Centre St,2132,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.149813 42.287468),,5,6
+42.287468,-71.149813,winn's center dry cleaners,1737A Centre St,2132,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.149813 42.287468),,5,6
+42.287048,-71.15374,winmark technology,1827 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.15374 42.287048),,5,6
+42.280303,-71.158469,winmark technology,2045 Centre St,2132,811212,Computer and Office Machine Repair and Maintenance,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.158469 42.280303),,5,6
+42.278435,-71.160675,western union agent location,7 Spring St,2132,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,West Roxbury,POINT (-71.160675 42.278435),,5,6
+42.281854,-71.158056,western union agent location,1999 Centre St,2132,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,West Roxbury,POINT (-71.158056 42.281854),,5,6
+42.286985,-71.148977,western union agent location,1710 Centre St,2132,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,West Roxbury,POINT (-71.148977 42.286985),,5,6
+42.286266,-71.15385,westbury restaurant,1836 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,West Roxbury,POINT (-71.15385 42.286266),,5,6
+42.286362,-71.15403,westbrook family dental care,1840 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,4.0,1 to 9,West Roxbury,POINT (-71.15403 42.286362),,5,6
+42.2787,-71.1581,west roxbury ymca,15 Bellevue St,2132,624110,Child and Youth Services,62,Healthcare and Social Assistance,9.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.274602,-71.171602,west roxbury va hospital medical center,1400 VFW Pkwy,2132,622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,62,Healthcare and Social Assistance,1000.0,100+,West Roxbury,POINT (-71.171602 42.274602),,5,6
+42.283816,-71.156577,west roxbury shell service inc,1942 Centre St,2132,447190,Other Gasoline Stations,44,Retail Trade,5.0,1 to 9,West Roxbury,POINT (-71.156577 42.283816),,5,6
+42.285938,-71.154533,west roxbury school of dance,49 Corey St,2132,611610,Fine Arts Schools,61,Educational Services,1.0,1 to 9,West Roxbury,POINT (-71.154533 42.285938),,5,6
+42.283106,-71.157224,west roxbury public library,1961 Centre St,2132,519120,Libraries and Archives,51,Information,8.0,1 to 9,West Roxbury,POINT (-71.157224 42.283106),,5,6
+42.28579,-71.154885,west roxbury pharmacy,1868 Centre St,2132,446110,Pharmacies and Drug Stores,44,Retail Trade,16.0,10 to 24,West Roxbury,POINT (-71.154885 42.28579),,5,6
+42.287589,-71.150906,west roxbury pediatric dentistry,1765 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,West Roxbury,POINT (-71.150906 42.287589),,5,6
+42.286284,-71.15383,west roxbury main streets,1842 Centre St,2132,813319,Other Social Advocacy Organizations,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.15383 42.286284),,5,6
+42.287529,-71.150274,west roxbury framing center,1741 Centre St,2132,442299,All Other Home Furnishings Stores,44,Retail Trade,2.0,1 to 9,West Roxbury,POINT (-71.150274 42.287529),,5,6
+42.287362,-71.153398,west roxbury dental arts,1811 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,12.0,10 to 24,West Roxbury,POINT (-71.153398 42.287362),,5,6
+42.287059,-71.149127,west roxbury community center,1716 Centre St,2132,921120,Legislative Bodies,92,Public Administration,7.0,1 to 9,West Roxbury,POINT (-71.149127 42.287059),,5,6
+42.2787,-71.1581,west roxbury appliance repair men,1748 Centre St,2132,811412,Appliance Repair and Maintenance,81,Other Services,15.0,10 to 24,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.283138,-71.156873,west roxbury animal hospital,1964 Centre St,2132,541940,Veterinary Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,West Roxbury,POINT (-71.156873 42.283138),,5,6
+42.2871,-71.149553,west on centre,1732 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,40.0,25 to 49,West Roxbury,POINT (-71.149553 42.2871),,5,6
+42.283528,-71.156759,west napoli pizza,1946 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,West Roxbury,POINT (-71.156759 42.283528),,5,6
+42.285378,-71.155777,west garden,1890 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,West Roxbury,POINT (-71.155777 42.285378),,5,6
+42.276451,-71.165104,wendy's tea house,116 Spring St,2132,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,West Roxbury,POINT (-71.165104 42.276451),,5,6
+42.275416,-71.167291,wehbe family dental care,172 Spring St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,West Roxbury,POINT (-71.167291 42.275416),,5,6
+42.285834,-71.155336,ward communications,1874 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,2.0,1 to 9,West Roxbury,POINT (-71.155336 42.285834),,5,6
+42.281854,-71.158056,walgreens,1999 Centre St,2132,446110,Pharmacies and Drug Stores,44,Retail Trade,6.0,1 to 9,West Roxbury,POINT (-71.158056 42.281854),,5,6
+42.278851,-71.159711,vogt realty group,2085 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,8.0,1 to 9,West Roxbury,POINT (-71.159711 42.278851),,5,6
+42.2787,-71.1581,viva naturals,4217 Metz Ln,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.274602,-71.171602,veterans affairs medical center roxbury,1400 VFW Pkwy,2132,622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,62,Healthcare and Social Assistance,1.0,1 to 9,West Roxbury,POINT (-71.171602 42.274602),,5,6
+42.2787,-71.1581,vermont country maple mixes,,2132,445292,Confectionery and Nut Stores,44,Retail Trade,5.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.28587,-71.154922,varahi inc,1866 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.154922 42.28587),,5,6
+42.278251,-71.160943,valvoline instant oil change,15 Spring St,2132,811191,Automotive Oil Change and Lubrication Shops,81,Other Services,8.0,1 to 9,West Roxbury,POINT (-71.160943 42.278251),,5,6
+42.274602,-71.171602,va boston healthcare system,1400 VFW Pkwy,2132,541611,Administrative Management and General Management Consulting Services,54,"Professional, Scientific, and Technical Services",12.0,10 to 24,West Roxbury,POINT (-71.171602 42.274602),,5,6
+42.286668,-71.153848,usps,1834 Centre St,2132,491110,Postal Service,49,Transportation and Warehosuing,75.0,50 to 99,West Roxbury,POINT (-71.153848 42.286668),,5,6
+42.274602,-71.171602,us veterans affairs administration,1400 VFW Pkwy,2132,921120,Legislative Bodies,92,Public Administration,1500.0,100+,West Roxbury,POINT (-71.171602 42.274602),,5,6
+42.279384,-71.159431,upwards n onwards llc,2075 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.159431 42.279384),,5,6
+42.283528,-71.156759,ups access point location,1948 Centre St,2132,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",0.0,Not Available,West Roxbury,POINT (-71.156759 42.283528),,5,6
+42.2756,-71.166859,unique hair salon,162 Spring St,2132,812112,Beauty Salons,81,Other Services,5.0,1 to 9,West Roxbury,POINT (-71.166859 42.2756),,5,6
+42.277046,-71.163803,u-haul neighborhood dealer,88 Spring St,2132,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",53,Real Estate Rental and Leasing,4.0,1 to 9,West Roxbury,POINT (-71.163803 42.277046),,5,6
+42.287039,-71.150446,u-haul neighborhood dealer,1744 Centre St,2132,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",53,Real Estate Rental and Leasing,2.0,1 to 9,West Roxbury,POINT (-71.150446 42.287039),,5,6
+42.284295,-71.156487,top it off inc,20 McKenna Ter,2132,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,West Roxbury,POINT (-71.156487 42.284295),,5,6
+42.2756,-71.166859,top it off accessories,162 Spring St,2132,531120,Lessors of Nonresidential Buildings (except Miniwarehouses),53,Real Estate Rental and Leasing,5.0,1 to 9,West Roxbury,POINT (-71.166859 42.2756),,5,6
+42.2787,-71.1581,tonymax tv repairs,,2132,443142,Electronics Stores,44,Retail Trade,5.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.283517,-71.156604,tirana enterprises inc,5 Bellevue St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,West Roxbury,POINT (-71.156604 42.283517),,5,6
+42.280345,-71.158446,thirteen 05 inc,2043 Centre St,2132,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,West Roxbury,POINT (-71.158446 42.280345),,5,6
+42.286223,-71.155121,theodore parker unitarian church,1859 Centre St,2132,813110,Religious Organizations,81,Other Services,4.0,1 to 9,West Roxbury,POINT (-71.155121 42.286223),,5,6
+42.2803,-71.158619,theodore jewelers,2049 Centre St,2132,448310,Jewelry Stores,44,Retail Trade,1.0,1 to 9,West Roxbury,POINT (-71.158619 42.2803),,5,6
+42.284459,-71.15619,the wily network,1920 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.15619 42.284459),,5,6
+42.2787,-71.1581,the maids,,2132,238990,All Other Specialty Trade Contractors,23,Construction,13.0,10 to 24,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.286023,-71.154476,the learning tree preschool inc,1858 Centre St,2132,624410,Child Day Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,West Roxbury,POINT (-71.154476 42.286023),,5,6
+42.281892,-71.157316,the law office of sharone b jona,1996 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.157316 42.281892),,5,6
+42.276843,-71.164977,the insurance store,106 Spring St,2132,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,West Roxbury,POINT (-71.164977 42.276843),,5,6
+42.287446,-71.149294,the continental shoppe,1729 Centre St,2132,812910,Pet Care (except Veterinary) Services,81,Other Services,12.0,10 to 24,West Roxbury,POINT (-71.149294 42.287446),,5,6
+42.277953,-71.165881,the christian brothers institute of massachusetts,235 Baker St,2132,813910,Business Associations,81,Other Services,40.0,25 to 49,West Roxbury,POINT (-71.165881 42.277953),,5,6
+42.2803,-71.158619,the centerpiece flower shop,2051 Centre St,2132,453110,Florists,45,Retail Trade,3.0,1 to 9,West Roxbury,POINT (-71.158619 42.2803),,5,6
+42.2756,-71.166859,the blinds side,170 Spring St,2132,444210,Outdoor Power Equipment Stores,44,Retail Trade,5.0,1 to 9,West Roxbury,POINT (-71.166859 42.2756),,5,6
+42.287452,-71.150369,thai spice,1745 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,West Roxbury,POINT (-71.150369 42.287452),,5,6
+42.275865,-71.166506,teller williams real estate,156 Spring St,2132,531390,Other Activities Related to Real Estate,53,Real Estate Rental and Leasing,1.0,1 to 9,West Roxbury,POINT (-71.166506 42.275865),,5,6
+42.287452,-71.150369,tea diner,1745 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.150369 42.287452),,5,6
+42.286875,-71.15404,td bank,1833 Centre St,2132,522110,Commercial Banking,52,Finance and Insurance,7.0,1 to 9,West Roxbury,POINT (-71.15404 42.286875),,5,6
+42.287221,-71.151613,tax problem resolution co,1774 Centre St,2132,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.151613 42.287221),,5,6
+42.283395,-71.156861,suzuki institute-boston cellular,1952 Centre St,2132,611610,Fine Arts Schools,61,Educational Services,10.0,10 to 24,West Roxbury,POINT (-71.156861 42.283395),,5,6
+42.277523,-71.163918,supercuts,77 Spring St,2132,812112,Beauty Salons,81,Other Services,6.0,1 to 9,West Roxbury,POINT (-71.163918 42.277523),,5,6
+42.287469,-71.149562,super flash t-shirts,1731 Centre St,2132,448140,Family Clothing Stores,44,Retail Trade,2.0,1 to 9,West Roxbury,POINT (-71.149562 42.287469),,5,6
+42.275826,-71.167912,sunray cleaners & tailors,175 Spring St,2132,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,9.0,1 to 9,West Roxbury,POINT (-71.167912 42.275826),,5,6
+42.28224,-71.157311,sullivan & mcdermott,1990 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,West Roxbury,POINT (-71.157311 42.28224),,5,6
+42.285725,-71.155535,sugar bakery,1884 Centre St,2132,311811,Retail Bakeries,31,Manufacturing,50.0,50 to 99,West Roxbury,POINT (-71.155535 42.285725),,5,6
+42.28587,-71.154922,subway,1866 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.154922 42.28587),,5,6
+42.286023,-71.154476,studio 45,45 Corey St,2132,812112,Beauty Salons,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.154476 42.286023),,5,6
+42.274191,-71.16858,stone masonry & stone carving,218 Spring St,2132,238140,Masonry Contractors,23,Construction,2.0,1 to 9,West Roxbury,POINT (-71.16858 42.274191),,5,6
+42.280793,-71.157911,steward medical group,2020 Centre St,2132,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,11.0,10 to 24,West Roxbury,POINT (-71.157911 42.280793),,5,6
+42.275416,-71.167291,stefanelli co,172 Spring St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,West Roxbury,POINT (-71.167291 42.275416),,5,6
+42.2787,-71.1581,statewide r m,,2132,238140,Masonry Contractors,23,Construction,2.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.287464,-71.150522,stardust inc,1753 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.150522 42.287464),,5,6
+42.277683,-71.163616,starbucks,75 Spring St,2132,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,15.0,10 to 24,West Roxbury,POINT (-71.163616 42.277683),,5,6
+42.277683,-71.163616,star market osco pharmacy,75 Spring St,2132,446110,Pharmacies and Drug Stores,44,Retail Trade,2.0,1 to 9,West Roxbury,POINT (-71.163616 42.277683),,5,6
+42.277683,-71.163616,star market,75 Spring St,2132,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,5.0,1 to 9,West Roxbury,POINT (-71.163616 42.277683),,5,6
+42.285959,-71.155873,squealing pig,1885 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.155873 42.285959),,5,6
+42.276769,-71.166131,spring street plumbing & heating,145 Spring St,2132,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,3.0,1 to 9,West Roxbury,POINT (-71.166131 42.276769),,5,6
+42.276474,-71.165369,"spring st properties, llc",120 Spring St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,West Roxbury,POINT (-71.165369 42.276474),,5,6
+42.278435,-71.160675,spring st laundry & dry cleaning,7 Spring St,2132,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.160675 42.278435),,5,6
+42.287738,-71.151642,speedway,1779 Centre St,2132,445120,Convenience Stores,44,Retail Trade,6.0,1 to 9,West Roxbury,POINT (-71.151642 42.287738),,5,6
+42.275416,-71.167291,sougaris & associates,172 Spring St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.167291 42.275416),,5,6
+42.2787,-71.1581,sophia snow house inc,Sophia Snow PLACE1205-1215 Ctr,2132,623311,Continuing Care Retirement Communities,62,Healthcare and Social Assistance,30.0,25 to 49,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.28579,-71.154885,sophia nails & spa,1868 Centre St,2132,812113,Nail Salons,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.154885 42.28579),,5,6
+42.285332,-71.156016,somtum modern thai cuisine,1894 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,West Roxbury,POINT (-71.156016 42.285332),,5,6
+42.270884,-71.171948,sofia italian steakhouse,1430 VFW Pkwy,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,40.0,25 to 49,West Roxbury,POINT (-71.171948 42.270884),,5,6
+42.274602,-71.171602,small world child care center,1400 VFW Pkwy,2132,624410,Child Day Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,West Roxbury,POINT (-71.171602 42.274602),,5,6
+42.285491,-71.156553,shair & fishbon,1895 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.2787,-71.1581,servpro,,2132,236118,Residential Remodelers,23,Construction,3.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.282889,-71.158607,seiu,20 Mount Vernon St,2132,813930,Labor Unions and Similar Labor Organizations,81,Other Services,6.0,1 to 9,West Roxbury,POINT (-71.158607 42.282889),,5,6
+42.286274,-71.154247,santander bank,1850 Centre St,2132,522110,Commercial Banking,52,Finance and Insurance,8.0,1 to 9,West Roxbury,POINT (-71.154247 42.286274),,5,6
+42.280358,-71.158042,salon v,2038 Centre St,2132,812113,Nail Salons,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.158042 42.280358),,5,6
+42.278931,-71.158859,saint theresa-avila catholic church,2078 Centre St,2132,813110,Religious Organizations,81,Other Services,50.0,50 to 99,West Roxbury,POINT (-71.158859 42.278931),,5,6
+42.278931,-71.158859,saint theresa's-avila,2078 Centre St,2132,813110,Religious Organizations,81,Other Services,50.0,50 to 99,West Roxbury,POINT (-71.158859 42.278931),,5,6
+42.286032,-71.15561,saigon nail,1877 Centre St,2132,812113,Nail Salons,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.15561 42.286032),,5,6
+42.286152,-71.155575,rox diner,1881 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.155575 42.286152),,5,6
+42.280793,-71.157911,roslindale pediatric associates pc,2020 Centre St,2132,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,88.0,50 to 99,West Roxbury,POINT (-71.157911 42.280793),,5,6
+42.2787,-71.1581,rooter-man,,2132,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,4.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.284511,-71.155863,rogers pest control indoor,115 Park St,2132,561710,Exterminating and Pest Control Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,West Roxbury,POINT (-71.155863 42.284511),,5,6
+42.284459,-71.15619,rockland trust company,1920 Centre St,2132,522110,Commercial Banking,52,Finance and Insurance,6.0,1 to 9,West Roxbury,POINT (-71.15619 42.284459),,5,6
+42.287059,-71.149127,roche family community center,1716 Centre St,2132,624110,Child and Youth Services,62,Healthcare and Social Assistance,10.0,10 to 24,West Roxbury,POINT (-71.149127 42.287059),,5,6
+42.287733,-71.153042,robert j lawler & crosby,1803 Centre St,2132,812210,Funeral Homes and Funeral Services,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.153042 42.287733),,5,6
+42.2873,-71.1494,rj food group llc,1727 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.1494 42.2873),,5,6
+42.286782,-71.148424,retired boston police officers association,1708 Centre St,2132,922120,Police Protection,92,Public Administration,1.0,1 to 9,West Roxbury,POINT (-71.148424 42.286782),,5,6
+42.277046,-71.163803,rental depot,88 Spring St,2132,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,7.0,1 to 9,West Roxbury,POINT (-71.163803 42.277046),,5,6
+42.281892,-71.157316,reliant dental group,1996 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,West Roxbury,POINT (-71.157316 42.281892),,5,6
+42.284511,-71.155863,reliable trading post,115 Park St,2132,453310,Used Merchandise Stores,45,Retail Trade,2.0,1 to 9,West Roxbury,POINT (-71.155863 42.284511),,5,6
+42.285834,-71.155336,regional air mechanical corp,1874 Centre St,2132,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,10.0,10 to 24,West Roxbury,POINT (-71.155336 42.285834),,5,6
+42.287255,-71.151366,realty collaborative inc,1766 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,West Roxbury,POINT (-71.151366 42.287255),,5,6
+42.285656,-71.155551,real deal,1882 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,West Roxbury,POINT (-71.155551 42.285656),,5,6
+42.279765,-71.158372,pu pu restaurant,2060 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,West Roxbury,POINT (-71.158372 42.279765),,5,6
+42.287529,-71.150274,private livery service,1747 Centre St,2132,485320,Limousine Service,48,Transportation and Warehosuing,5.0,1 to 9,West Roxbury,POINT (-71.150274 42.287529),,5,6
+42.287446,-71.149294,porter cafe,1723 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,West Roxbury,POINT (-71.149294 42.287446),,5,6
+42.28747,-71.150599,polish n refine,1757 Centre St,2132,812112,Beauty Salons,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.150599 42.28747),,5,6
+42.286023,-71.154476,phu-ket thai restaurant,1852 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,West Roxbury,POINT (-71.154476 42.286023),,5,6
+42.278851,-71.159711,phil s barber shop,2091 Centre St,2132,812111,Barber Shops,81,Other Services,6.0,1 to 9,West Roxbury,POINT (-71.159711 42.278851),,5,6
+42.281892,-71.157316,pham medical,1996 Centre St,2132,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,6.0,1 to 9,West Roxbury,POINT (-71.157316 42.281892),,5,6
+42.272037,-71.171701,phalan & lowery,310 Spring St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,West Roxbury,POINT (-71.171701 42.272037),,5,6
+42.2787,-71.1581,peter bakis,,2132,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.2787,-71.1581,peopleserve inc,643,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.285243,-71.155998,pazzo books,1898A Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.155998 42.285243),,5,6
+42.282889,-71.158607,patrick lyndon pilot school,20 Mount Vernon St,2132,611110,Elementary and Secondary Schools,61,Educational Services,52.0,50 to 99,West Roxbury,POINT (-71.158607 42.282889),,5,6
+42.280632,-71.158139,parrelli optical,2034 Centre St,2132,446130,Optical Goods Stores,44,Retail Trade,2.0,1 to 9,West Roxbury,POINT (-71.158139 42.280632),,5,6
+42.27773,-71.160891,parkway veterinary hospital,18 Spring St,2132,541940,Veterinary Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,West Roxbury,POINT (-71.160891 42.27773),,5,6
+42.2787,-71.1581,parkway towing,,2132,488410,Motor Vehicle Towing,48,Transportation and Warehosuing,0.0,Not Available,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.279718,-71.158511,parkway real estate,2064 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,9.0,1 to 9,West Roxbury,POINT (-71.158511 42.279718),,5,6
+42.287468,-71.149813,parkway printing co,1737 Centre St,2132,323111,Commercial Printing (except Screen and Books),32,Manufacturing,1.0,1 to 9,West Roxbury,POINT (-71.149813 42.287468),,5,6
+42.287128,-71.150981,parkway driving school,1752 Centre St,2132,611692,Automobile Driving Schools,61,Educational Services,3.0,1 to 9,West Roxbury,POINT (-71.150981 42.287128),,5,6
+42.282913,-71.156952,parkway community ymca,1972 Centre St,2132,624110,Child and Youth Services,62,Healthcare and Social Assistance,200.0,100+,West Roxbury,POINT (-71.156952 42.282913),,5,6
+42.279384,-71.159431,parkway chiropractic,2075 Centre St,2132,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,1.0,1 to 9,West Roxbury,POINT (-71.159431 42.279384),,5,6
+42.287128,-71.150981,parkway auto,1752 Centre St,2132,611692,Automobile Driving Schools,61,Educational Services,3.0,1 to 9,West Roxbury,POINT (-71.150981 42.287128),,5,6
+42.286449,-71.155408,parker theatre church,70 Corey St,2132,813110,Religious Organizations,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.155408 42.286449),,5,6
+42.2818,-71.157838,p e murray funeral service inc,2000 Centre St,2132,812210,Funeral Homes and Funeral Services,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.157838 42.2818),,5,6
+42.285938,-71.154533,out to dance,49 Corey St,2132,611610,Fine Arts Schools,61,Educational Services,2.0,1 to 9,West Roxbury,POINT (-71.154533 42.285938),,5,6
+42.277683,-71.163616,orange leaf frozen yogurt,75 Spring St,2132,445299,All Other Specialty Food Stores,44,Retail Trade,10.0,10 to 24,West Roxbury,POINT (-71.163616 42.277683),,5,6
+42.2803,-71.15789,"optiear medical, inc",2034 Centre St,2132,811211,Consumer Electronics Repair and Maintenance,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.15789 42.2803),,5,6
+42.285491,-71.156553,open door realty,1895 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.277523,-71.163918,obsession nail spa,77 Spring St,2132,812113,Nail Salons,81,Other Services,5.0,1 to 9,West Roxbury,POINT (-71.163918 42.277523),,5,6
+42.281892,-71.157316,northeast mortgage associates,1996 Centre St,2132,522292,Real Estate Credit,52,Finance and Insurance,2.0,1 to 9,West Roxbury,POINT (-71.157316 42.281892),,5,6
+42.283395,-71.156861,noah's arts,1952 Centre St,2132,611610,Fine Arts Schools,61,Educational Services,2.0,1 to 9,West Roxbury,POINT (-71.156861 42.283395),,5,6
+42.287515,-71.150559,nightingale health care inc,1759 Centre St,2132,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,23.0,10 to 24,West Roxbury,POINT (-71.150559 42.287515),,5,6
+42.274602,-71.171602,new england medical research,1400 VFW Pkwy,2132,541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",54,"Professional, Scientific, and Technical Services",4.0,1 to 9,West Roxbury,POINT (-71.171602 42.274602),,5,6
+42.2787,-71.1581,ne tree co,,2132,561730,Landscaping Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.279249,-71.15951,native american lifelines,2077 Centre St,2132,813319,Other Social Advocacy Organizations,81,Other Services,10.0,10 to 24,West Roxbury,POINT (-71.15951 42.279249),,5,6
+42.287204,-71.151817,nail maxx co,1780 Centre St,2132,812113,Nail Salons,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.151817 42.287204),,5,6
+42.2787,-71.1581,nadyke,48 Snake Hill Dr,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.2787,-71.1581,naacp,,2132,813311,Human Rights Organizations,81,Other Services,10.0,10 to 24,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.285491,-71.156553,mulhern mcardle associates,1895 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.285243,-71.155998,mr sweeper,1900 Centre St,2132,443141,Household Appliance Stores,44,Retail Trade,3.0,1 to 9,West Roxbury,POINT (-71.155998 42.285243),,5,6
+42.286284,-71.15383,mortgage network inc,1842 Centre St,2132,522292,Real Estate Credit,52,Finance and Insurance,7.0,1 to 9,West Roxbury,POINT (-71.15383 42.286284),,5,6
+42.284557,-71.156448,milton chiropractic & rehab,1914 Centre St,2132,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,West Roxbury,POINT (-71.156448 42.284557),,5,6
+42.287362,-71.153398,"michael s swartz dds & william j o'neill dmd, pc",1811 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,0.0,Not Available,West Roxbury,POINT (-71.153398 42.287362),,5,6
+42.285491,-71.156553,meredeth hartwell consulting,1895 Centre St,2132,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.277649,-71.164451,memorial catholic,14 Springvale Ave,2132,813110,Religious Organizations,81,Other Services,5.0,1 to 9,West Roxbury,POINT (-71.164451 42.277649),,5,6
+42.276769,-71.166131,mccracken express,145 Spring St,2132,441320,Tire Dealers,44,Retail Trade,4.0,1 to 9,West Roxbury,POINT (-71.166131 42.276769),,5,6
+42.277298,-71.165184,mccracken automotive,107 Spring St,2132,441320,Tire Dealers,44,Retail Trade,10.0,10 to 24,West Roxbury,POINT (-71.165184 42.277298),,5,6
+42.287349,-71.151878,massachusetts mentor,25 Willow St,2132,813311,Human Rights Organizations,81,Other Services,10.0,10 to 24,West Roxbury,POINT (-71.151878 42.287349),,5,6
+42.287738,-71.151642,mass victory,1783 Centre St,2132,813940,Political Organizations,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.151642 42.287738),,5,6
+42.272037,-71.171701,marsantas group inc,310 Spring St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.171701 42.272037),,5,6
+42.284872,-71.15633,marinos market inc,1906 Centre St,2132,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,West Roxbury,POINT (-71.15633 42.284872),,5,6
+42.285491,-71.156553,management search inc,1895 Centre St,2132,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.286751,-71.153334,macy's liquors,1826 Centre St,2132,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,14.0,10 to 24,West Roxbury,POINT (-71.153334 42.286751),,5,6
+42.286751,-71.153334,macey eliot's liquors,1826 Centre St,2132,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,West Roxbury,POINT (-71.153334 42.286751),,5,6
+42.286812,-71.150202,lord's & lady's hair salons,450 Belgrade Ave,2132,812112,Beauty Salons,81,Other Services,25.0,25 to 49,West Roxbury,POINT (-71.150202 42.286812),,5,6
+42.2873,-71.1494,local 338 bagels & coffee,1727 Centre St,2132,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,West Roxbury,POINT (-71.1494 42.2873),,5,6
+42.287204,-71.151817,linh bui corp,1780 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.151817 42.287204),,5,6
+42.273808,-71.168694,lighthouse early education center,222 Spring St,2132,624410,Child Day Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,West Roxbury,POINT (-71.168694 42.273808),,5,6
+42.286023,-71.154476,learning tree,1858 Centre St,2132,611710,Educational Support Services,61,Educational Services,16.0,10 to 24,West Roxbury,POINT (-71.154476 42.286023),,5,6
+42.286284,-71.15383,law offices of lefteris k travayiakis,1842 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.15383 42.286284),,5,6
+42.28224,-71.157311,law offices of kathryn f hinman,1990 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.157311 42.28224),,5,6
+42.286284,-71.15383,law office-kevin r heffernan,1842 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.15383 42.286284),,5,6
+42.28224,-71.157311,law office of timothy burton,1990 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,West Roxbury,POINT (-71.157311 42.28224),,5,6
+42.27773,-71.160891,law office of irina rubinshtein pc,18 Spring St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,West Roxbury,POINT (-71.160891 42.27773),,5,6
+42.285491,-71.156553,law office of christopher cawley,1895 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.2787,-71.1581,law office of carl brugnoli,2 McKenna Ter,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.287461,-71.151951,lapels dry cleaning,29 Willow St,2132,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.151951 42.287461),,5,6
+42.286284,-71.15383,lang coakley llc,1842 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,0.0,Not Available,West Roxbury,POINT (-71.15383 42.286284),,5,6
+42.2787,-71.1581,landscape by design,,2132,561730,Landscaping Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",6.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.279249,-71.15951,laer realty,2077 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,West Roxbury,POINT (-71.15951 42.279249),,5,6
+42.277523,-71.163918,koko fit club,77 Spring St,2132,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",4.0,1 to 9,West Roxbury,POINT (-71.163918 42.277523),,5,6
+42.283528,-71.156759,koji crystal inc,1948 Centre St,2132,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.156759 42.283528),,5,6
+42.276753,-71.164817,knights of columbus,100 Spring St,2132,813410,Civic and Social Organizations,81,Other Services,6.0,1 to 9,West Roxbury,POINT (-71.164817 42.276753),,5,6
+42.287128,-71.150981,king shade & window,1764 Centre St,2132,444190,Other Building Material Dealers,44,Retail Trade,4.0,1 to 9,West Roxbury,POINT (-71.150981 42.287128),,5,6
+42.283395,-71.156861,kids 'r' kids,1952 Centre St,2132,624410,Child Day Care Services,62,Healthcare and Social Assistance,2.0,1 to 9,West Roxbury,POINT (-71.156861 42.283395),,5,6
+42.278087,-71.160522,kfoury keefe funeral home,8 Spring St,2132,812210,Funeral Homes and Funeral Services,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.160522 42.278087),,5,6
+42.2787,-71.1581,kent hospital warwick,45 Willers St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.285491,-71.156553,kensho life,1895 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.278087,-71.160522,keefe funeral home,8 Spring St,2132,812210,Funeral Homes and Funeral Services,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.160522 42.278087),,5,6
+42.2787,-71.1581,kaplan inc,72 Varick Rd,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.284295,-71.156487,julianne's dance workshop,20 McKenna Ter,2132,611610,Fine Arts Schools,61,Educational Services,3.0,1 to 9,West Roxbury,POINT (-71.156487 42.284295),,5,6
+42.275846,-71.166816,johnny's takeaway,168 Spring St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.166816 42.275846),,5,6
+42.275846,-71.166816,johnny burke catering & consulting,168 Spring St,2132,722320,Caterers,72,Accommodation and Food Services,19.0,10 to 24,West Roxbury,POINT (-71.166816 42.275846),,5,6
+42.285834,-71.155336,john h miller jr law office,1874 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,West Roxbury,POINT (-71.155336 42.285834),,5,6
+42.285889,-71.154869,jj properties,1864 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,West Roxbury,POINT (-71.154869 42.285889),,5,6
+42.2787,-71.1581,jewish guild for the blind,1980 Centre St,2132,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,25.0,25 to 49,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.2803,-71.158619,jc dolan insurance agency,2041 Centre St,2132,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,22.0,10 to 24,West Roxbury,POINT (-71.158619 42.2803),,5,6
+42.280802,-71.157911,jaxon ignitions repaired,2030 Centre St,2132,444190,Other Building Material Dealers,44,Retail Trade,13.0,10 to 24,West Roxbury,POINT (-71.157911 42.280802),,5,6
+42.284794,-71.156936,james w hennigan insurance agency inc,1915 Centre St,2132,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,7.0,1 to 9,West Roxbury,POINT (-71.156936 42.284794),,5,6
+42.286284,-71.15383,james a reidy law office,1842 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,West Roxbury,POINT (-71.15383 42.286284),,5,6
+42.287228,-71.153548,jack conway & co,1815 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,30.0,25 to 49,West Roxbury,POINT (-71.153548 42.287228),,5,6
+42.285375,-71.155967,j l dental associates,1892 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,West Roxbury,POINT (-71.155967 42.285375),,5,6
+42.284566,-71.155768,irish social club,119 Park St,2132,813319,Other Social Advocacy Organizations,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.155768 42.284566),,5,6
+42.287128,-71.150981,interstate driving school,1752 Centre St,2132,611692,Automobile Driving Schools,61,Educational Services,2.0,1 to 9,West Roxbury,POINT (-71.150981 42.287128),,5,6
+42.285243,-71.155998,integrital edge management inc,1898A Centre St,2132,541614,"Process, Physical Distribution, and Logistics Consulting Services",54,"Professional, Scientific, and Technical Services",6.0,1 to 9,West Roxbury,POINT (-71.155998 42.285243),,5,6
+42.280322,-71.157715,inspiration salon & day spa,386 Lagrange St,2132,812113,Nail Salons,81,Other Services,10.0,10 to 24,West Roxbury,POINT (-71.157715 42.280322),,5,6
+42.285491,-71.156553,innovative management consulting,1895 Centre St,2132,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.287469,-71.149562,imperial promotion embroydery-east roxbury,1733 Centre St,2132,541490,Other Specialized Design Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,West Roxbury,POINT (-71.149562 42.287469),,5,6
+42.285853,-71.155285,images limited,1872 Centre St,2132,812112,Beauty Salons,81,Other Services,11.0,10 to 24,West Roxbury,POINT (-71.155285 42.285853),,5,6
+42.2787,-71.1581,hydro therapy bath & spa,,2132,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,8.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.284459,-71.15619,hyde park savings bank,1920 Centre St,2132,522110,Commercial Banking,52,Finance and Insurance,8.0,1 to 9,West Roxbury,POINT (-71.15619 42.284459),,5,6
+42.2787,-71.1581,hughes oil,160 Spring St,2132,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,60.0,50 to 99,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.279249,-71.15951,homesinboston,2077 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.15951 42.279249),,5,6
+42.278537,-71.160085,hollywood nails & facials,2105 Centre St,2132,812113,Nail Salons,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.160085 42.278537),,5,6
+42.287468,-71.149813,himalayan bistro,1735 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,West Roxbury,POINT (-71.149813 42.287468),,5,6
+42.2787,-71.1581,hillside lawn care,,2132,561730,Landscaping Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.277446,-71.164354,hercules press,91 Spring St,2132,339950,Sign Manufacturing,33,Manufacturing,5.0,1 to 9,West Roxbury,POINT (-71.164354 42.277446),,5,6
+42.2787,-71.1581,harvard vanguard medicalassociates,W Roxbury,2132,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.280552,-71.158155,harris paint & wallpaper,2036 Centre St,2132,444120,Paint and Wallpaper Stores,44,Retail Trade,2.0,1 to 9,West Roxbury,POINT (-71.158155 42.280552),,5,6
+42.274602,-71.171602,hanscom federal credit union,1400 VFW Pkwy,2132,522130,Credit Unions,52,Finance and Insurance,7.0,1 to 9,West Roxbury,POINT (-71.171602 42.274602),,5,6
+42.275846,-71.166816,hair-1,168 Spring St,2132,812112,Beauty Salons,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.166816 42.275846),,5,6
+42.277683,-71.163616,h&r block,75 Spring St,2132,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",20.0,10 to 24,West Roxbury,POINT (-71.163616 42.277683),,5,6
+42.286108,-71.155428,"h & a hardware, inc",1871 Centre St,2132,444130,Hardware Stores,44,Retail Trade,3.0,1 to 9,West Roxbury,POINT (-71.155428 42.286108),,5,6
+42.2787,-71.1581,greene seal consulting inc,663 VFW Pkwy,2132,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.281433,-71.157697,greater boston realty,2012 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,West Roxbury,POINT (-71.157697 42.281433),,5,6
+42.285889,-71.154869,greater boston long term care,1864 Centre St,2132,446110,Pharmacies and Drug Stores,44,Retail Trade,7.0,1 to 9,West Roxbury,POINT (-71.154869 42.285889),,5,6
+42.2787,-71.1581,greater boston aid to the blnd,1980 Centre St,2132,813319,Other Social Advocacy Organizations,81,Other Services,6.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.280095,-71.158795,gormley funeral homes,2055 Centre St,2132,813910,Business Associations,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.158795 42.280095),,5,6
+42.2787,-71.1581,giordano steven plumbing & heating inc,,2132,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,3.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.284984,-71.15693,gilmore realty inc,1911 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,West Roxbury,POINT (-71.15693 42.284984),,5,6
+42.284295,-71.156487,gilbert/schaab investment management,20 McKenna Ter,2132,523930,Investment Advice,52,Finance and Insurance,9.0,1 to 9,West Roxbury,POINT (-71.156487 42.284295),,5,6
+42.277523,-71.163918,get in shape for women,77 Spring St,2132,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",4.0,1 to 9,West Roxbury,POINT (-71.163918 42.277523),,5,6
+42.286023,-71.154476,gentle dental,1852 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,15.0,10 to 24,West Roxbury,POINT (-71.154476 42.286023),,5,6
+42.280345,-71.158446,general shoe & luggage repair,2043 Centre St,2132,811430,Footwear and Leather Goods Repair,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.158446 42.280345),,5,6
+42.287589,-71.150906,gasshemi,1765 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,13.0,10 to 24,West Roxbury,POINT (-71.150906 42.287589),,5,6
+42.276843,-71.164977,gallagher real estate,106 Spring St,2132,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,2.0,1 to 9,West Roxbury,POINT (-71.164977 42.276843),,5,6
+42.2787,-71.1581,full circle technologies inc,25 Spring Valley Rd,2132,611710,Educational Support Services,61,Educational Services,4.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.282889,-71.158607,friends of lyndon inc,20 Mount Vernon St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.158607 42.282889),,5,6
+42.285491,-71.156553,franklin management systems,1895 Centre St,2132,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.287461,-71.150484,fix masters,1751 Centre St,2132,443141,Household Appliance Stores,44,Retail Trade,1.0,1 to 9,West Roxbury,POINT (-71.150484 42.287461),,5,6
+42.287255,-71.151366,fish design,1766 Centre St,2132,236210,Industrial Building Construction,23,Construction,3.0,1 to 9,West Roxbury,POINT (-71.151366 42.287255),,5,6
+42.285834,-71.155336,finance of america mortgage llc,1874 Centre St,2132,522292,Real Estate Credit,52,Finance and Insurance,0.0,Not Available,West Roxbury,POINT (-71.155336 42.285834),,5,6
+42.28722,-71.151093,feitheog massage therapy,1764A Centre St,2132,812199,Other Personal Care Services,81,Other Services,4.0,1 to 9,West Roxbury,POINT (-71.151093 42.28722),,5,6
+42.285026,-71.156013,family dollar store,1902 Centre St,2132,452319,All Other General Merchandise Stores,45,Retail Trade,7.0,1 to 9,West Roxbury,POINT (-71.156013 42.285026),,5,6
+42.275907,-71.166725,fabutque boutique,164 Spring St,2132,448120,Women's Clothing Stores,44,Retail Trade,1.0,1 to 9,West Roxbury,POINT (-71.166725 42.275907),,5,6
+42.280793,-71.157911,eye care specialists,2020 Centre St,2132,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,West Roxbury,POINT (-71.157911 42.280793),,5,6
+42.2787,-71.1581,escape beauty salon,38 Spring,2132,812112,Beauty Salons,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.2873,-71.1494,epiphany hair studio roxbury,1725 Centre St,2132,812112,Beauty Salons,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.1494 42.2873),,5,6
+42.281892,-71.157316,english high school alumni association,1996 Centre St,2132,813910,Business Associations,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.157316 42.281892),,5,6
+42.274602,-71.171602,"emergency dept, west roxbury va hospital medical center",1400 VFW Pkwy,2132,622110,General Medical and Surgical Hospitals,62,Healthcare and Social Assistance,13.0,10 to 24,West Roxbury,POINT (-71.171602 42.274602),,5,6
+42.275843,-71.16751,ella's gas inc,167 Spring St,2132,447190,Other Gasoline Stations,44,Retail Trade,3.0,1 to 9,West Roxbury,POINT (-71.16751 42.275843),,5,6
+42.2787,-71.1581,elks lodge,248 Spring St,2132,813410,Civic and Social Organizations,81,Other Services,4.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.287202,-71.150676,elie's barbershop,1758 Centre St,2132,812111,Barber Shops,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.150676 42.287202),,5,6
+42.274602,-71.171602,electrophysiology lab,1400 VFW Pkwy,2132,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,10.0,10 to 24,West Roxbury,POINT (-71.171602 42.274602),,5,6
+42.280247,-71.158539,electrolysis & laser associates west roxbury mary didonato,2047 Centre St,2132,812199,Other Personal Care Services,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.158539 42.280247),,5,6
+42.285815,-71.155387,el recreo coffee & roasterie,1876 Centre St,2132,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.155387 42.285815),,5,6
+42.277523,-71.163918,edible arrangements,77 Spring St,2132,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,10.0,10 to 24,West Roxbury,POINT (-71.163918 42.277523),,5,6
+42.2871,-71.149553,eat drink laugh,1732 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.149553 42.2871),,5,6
+42.276468,-71.166768,dunkin',155 Spring St,2132,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,30.0,25 to 49,West Roxbury,POINT (-71.166768 42.276468),,5,6
+42.2787,-71.1581,dunkin',1435-1445 VFW Pkwy,2132,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,6.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.2787,-71.1581,driscoll strawberry associates inc,345 Westridge Dr,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.276753,-71.164817,donna's cakes,100 Spring St,2132,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,4.0,1 to 9,West Roxbury,POINT (-71.164817 42.276753),,5,6
+42.28224,-71.157311,donna a daniels law offices pc,1988 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,West Roxbury,POINT (-71.157311 42.28224),,5,6
+42.287529,-71.150274,dnsa inc,1743 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.150274 42.287529),,5,6
+42.284295,-71.156487,dinatale services inc,20 McKenna Ter,2132,561611,Investigation Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",6.0,1 to 9,West Roxbury,POINT (-71.156487 42.284295),,5,6
+42.2787,-71.1581,diabetes society of greater,1980 Centre St,2132,813910,Business Associations,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.280303,-71.158469,di giacomo & gruss,2045 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.158469 42.280303),,5,6
+42.2787,-71.1581,devlin-forde realty,,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.2787,-71.1581,devaney jas fuel co,21 Springvale Ave,2132,424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),42,Wholesale Trade,5.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.277138,-71.16375,derek rubinoff architect,82 Spring St,2132,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,West Roxbury,POINT (-71.16375 42.277138),,5,6
+42.273071,-71.170237,denvik co,270 Spring St,2132,238350,Finish Carpentry Contractors,23,Construction,1.0,1 to 9,West Roxbury,POINT (-71.170237 42.273071),,5,6
+42.286362,-71.15403,dentaloffice,1840 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.15403 42.286362),,5,6
+42.280302,-71.158068,deno's pizza & subs,2040 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,West Roxbury,POINT (-71.158068 42.280302),,5,6
+42.287467,-71.150561,delectable desires pastries,1755 Centre St,2132,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,West Roxbury,POINT (-71.150561 42.287467),,5,6
+42.274371,-71.168481,david hilliard photography,214 Spring St,2132,541921,"Photography Studios, Portrait",54,"Professional, Scientific, and Technical Services",0.0,Not Available,West Roxbury,POINT (-71.168481 42.274371),,5,6
+42.286217,-71.154355,dagmar hair studio,1854 Centre St,2132,812112,Beauty Salons,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.154355 42.286217),,5,6
+42.284475,-71.157099,cvs pharmacy,1921 Centre St,2132,446110,Pharmacies and Drug Stores,44,Retail Trade,20.0,10 to 24,West Roxbury,POINT (-71.157099 42.284475),,5,6
+42.276753,-71.164817,crystal travel & tours,100 Spring St,2132,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",10.0,10 to 24,West Roxbury,POINT (-71.164817 42.276753),,5,6
+42.2787,-71.1581,crypto expert option,Wedgewood RD,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.287529,-71.150274,cryotherapy west roxbury,1747 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.150274 42.287529),,5,6
+42.2787,-71.1581,crrg,,2132,562920,Materials Recovery Facilities,56,"Adminstrative, Support, Waste Management, and Remediation Services",9.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.287349,-71.151878,criterion-boston early intervention,25 Willow St,2132,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,15.0,10 to 24,West Roxbury,POINT (-71.151878 42.287349),,5,6
+42.280802,-71.157911,corrib pub & restaurant,2030 Centre St,2132,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,28.0,25 to 49,West Roxbury,POINT (-71.157911 42.280802),,5,6
+42.279718,-71.158511,coralife coaching,2064 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.158511 42.279718),,5,6
+42.2787,-71.1581,congregation sharei sedeck,Centre St,2132,812220,Cemeteries and Crematories,81,Other Services,15.0,10 to 24,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.286284,-71.15383,comellas,1844 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.15383 42.286284),,5,6
+42.274191,-71.16858,columbus land trust,218 Spring St,2132,523930,Investment Advice,52,Finance and Insurance,10.0,10 to 24,West Roxbury,POINT (-71.16858 42.274191),,5,6
+42.28224,-71.157311,cloutier law firm,1990 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.157311 42.28224),,5,6
+42.285491,-71.156553,claire alice mcmanus acupuncture,1895 Centre St,2132,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,1.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.277523,-71.163918,city of boston credit union,77 Spring St,2132,522130,Credit Unions,52,Finance and Insurance,12.0,10 to 24,West Roxbury,POINT (-71.163918 42.277523),,5,6
+42.2787,-71.1581,city of boston,201RIVER Moore St,2132,921120,Legislative Bodies,92,Public Administration,5.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.282832,-71.157519,"city lock company, inc",1977 Centre St,2132,423420,Office Equipment Merchant Wholesalers,42,Wholesale Trade,9.0,1 to 9,West Roxbury,POINT (-71.157519 42.282832),,5,6
+42.287754,-71.152702,city appliance service,1789 Centre St,2132,811412,Appliance Repair and Maintenance,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.152702 42.287754),,5,6
+42.281854,-71.158056,citizens bank,1999 Centre St,2132,522110,Commercial Banking,52,Finance and Insurance,9.0,1 to 9,West Roxbury,POINT (-71.158056 42.281854),,5,6
+42.287515,-71.150559,christos pizza west roxbury,1761 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,West Roxbury,POINT (-71.150559 42.287515),,5,6
+42.285491,-71.156553,charles obeid insurance agency inc,1895 Centre St,2132,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.287039,-71.150446,centre street gas & repair,1744 Centre St,2132,447190,Other Gasoline Stations,44,Retail Trade,3.0,1 to 9,West Roxbury,POINT (-71.150446 42.287039),,5,6
+42.279672,-71.158552,centre fitness,2066 Centre St,2132,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",0.0,Not Available,West Roxbury,POINT (-71.158552 42.279672),,5,6
+42.287589,-71.150906,centre chiropractic,1765 Centre St,2132,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,1.0,1 to 9,West Roxbury,POINT (-71.150906 42.287589),,5,6
+42.285889,-71.154869,cedars property management llc,1864 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,West Roxbury,POINT (-71.154869 42.285889),,5,6
+42.285889,-71.154869,cedars plowing,1864 Centre St,2132,238990,All Other Specialty Trade Contractors,23,Construction,2.0,1 to 9,West Roxbury,POINT (-71.154869 42.285889),,5,6
+42.277226,-71.165376,catholic memorial,111 Spring St,2132,813110,Religious Organizations,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.165376 42.277226),,5,6
+42.287255,-71.151366,carole white associates,1766 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,30.0,25 to 49,West Roxbury,POINT (-71.151366 42.287255),,5,6
+42.2787,-71.1581,carole sousa jewelry,64 Cypress St,2132,448310,Jewelry Stores,44,Retail Trade,3.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.281892,-71.157316,carol e nesson law office,1996 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,West Roxbury,POINT (-71.157316 42.281892),,5,6
+42.2787,-71.1581,capone brothers & inc,111 Park St,2132,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.287174,-71.152981,brookline bank,1808 Centre St,2132,522110,Commercial Banking,52,Finance and Insurance,6.0,1 to 9,West Roxbury,POINT (-71.152981 42.287174),,5,6
+42.2787,-71.1581,broadlawn commons condominium,56 Broadlawn Park,2132,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,1.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.286626,-71.15359,brigham & women's at west roxbury,1832 Centre St,2132,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,24.0,10 to 24,West Roxbury,POINT (-71.15359 42.286626),,5,6
+42.285889,-71.154869,boxsmith,1864 Centre St,2132,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,West Roxbury,POINT (-71.154869 42.285889),,5,6
+42.281433,-71.157697,bostonia properties,2012 Centre St,2132,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,30.0,25 to 49,West Roxbury,POINT (-71.157697 42.281433),,5,6
+42.287703,-71.152085,boston watch clock & jewelry repair,1785 Centre St,2132,811490,Other Personal and Household Goods Repair and Maintenance,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.152085 42.287703),,5,6
+42.27773,-71.160891,boston veterinary acupuncture,18 Spring St,2132,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,2.0,1 to 9,West Roxbury,POINT (-71.160891 42.27773),,5,6
+42.2787,-71.1581,boston tree co,,2132,561730,Landscaping Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.285243,-71.155998,boston tax plus,1898 Centre St,2132,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,West Roxbury,POINT (-71.155998 42.285243),,5,6
+42.285889,-71.154869,boston psychiatric care,1864 Centre St,2132,622210,Psychiatric and Substance Abuse Hospitals,62,Healthcare and Social Assistance,7.0,1 to 9,West Roxbury,POINT (-71.154869 42.285889),,5,6
+42.284566,-71.155768,boston police gaelic column,119 Park St,2132,922120,Police Protection,92,Public Administration,10.0,10 to 24,West Roxbury,POINT (-71.155768 42.284566),,5,6
+42.286782,-71.148424,boston police department-district e-5,1708 Centre St,2132,922120,Police Protection,92,Public Administration,60.0,50 to 99,West Roxbury,POINT (-71.148424 42.286782),,5,6
+42.273688,-71.16933,boston lodge of elks #10,1 Morrell St,2132,813410,Civic and Social Organizations,81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.16933 42.273688),,5,6
+42.278007,-71.161632,boston housing authority,23 Spring St,2132,531311,Residential Property Managers,53,Real Estate Rental and Leasing,2.0,1 to 9,West Roxbury,POINT (-71.161632 42.278007),,5,6
+42.287214,-71.150751,boston hearing services,1762 Centre St,2132,446199,All Other Health and Personal Care Stores,44,Retail Trade,5.0,1 to 9,West Roxbury,POINT (-71.150751 42.287214),,5,6
+42.279069,-71.159538,boston clinical laboratories,2081 Centre St,2132,541714,Research and Development in Biotechnology (except Nanobiotechnology),54,"Professional, Scientific, and Technical Services",4.0,1 to 9,West Roxbury,POINT (-71.159538 42.279069),,5,6
+42.287059,-71.149127,boston city,1716 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.149127 42.287059),,5,6
+42.277683,-71.163616,bonapita,75 Spring St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,West Roxbury,POINT (-71.163616 42.277683),,5,6
+42.287468,-71.149813,body mind systems,1739 Centre St,2132,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,West Roxbury,POINT (-71.149813 42.287468),,5,6
+42.287468,-71.149813,bms martial arts inc,1739 Centre St,2132,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,West Roxbury,POINT (-71.149813 42.287468),,5,6
+42.285243,-71.155998,blue moon smoke shop,1898 Centre St,2132,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,West Roxbury,POINT (-71.155998 42.285243),,5,6
+42.285111,-71.15642,blue hill radio co,1898 Centre St,2132,515112,Radio Stations,51,Information,2.0,1 to 9,West Roxbury,POINT (-71.15642 42.285111),,5,6
+42.277263,-71.163499,blmi inc,84 Spring St,2132,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,West Roxbury,POINT (-71.163499 42.277263),,5,6
+42.285491,-71.156553,black oak staffing solutions,1895 Centre St,2132,561311,Employment Placement Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",9.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.28653,-71.150117,belgrade place,446 Belgrade Ave,2132,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,1.0,1 to 9,West Roxbury,POINT (-71.150117 42.28653),,5,6
+42.28653,-71.150117,belgrade group,446 Belgrade Ave,2132,541614,"Process, Physical Distribution, and Logistics Consulting Services",54,"Professional, Scientific, and Technical Services",6.0,1 to 9,West Roxbury,POINT (-71.150117 42.28653),,5,6
+42.279069,-71.159538,baystate reference laboratories-west roxbury,2081 Centre St,2132,621511,Medical Laboratories,62,Healthcare and Social Assistance,6.0,1 to 9,West Roxbury,POINT (-71.159538 42.279069),,5,6
+42.276474,-71.165369,bay sweets co,120 Spring St,2132,311811,Retail Bakeries,31,Manufacturing,3.0,1 to 9,West Roxbury,POINT (-71.165369 42.276474),,5,6
+42.284557,-71.156448,bay state physical therapy-west roxbury,1914 Centre St,2132,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,6.0,1 to 9,West Roxbury,POINT (-71.156448 42.284557),,5,6
+42.2787,-71.1581,bay state chimney sweeps,,2132,238140,Masonry Contractors,23,Construction,2.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.286446,-71.154732,bank of america,1857 Centre St,2132,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,West Roxbury,POINT (-71.154732 42.286446),,5,6
+42.2787,-71.1581,baker street cemetery,766 Baker St,2132,812220,Cemeteries and Crematories,81,Other Services,15.0,10 to 24,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.283816,-71.156577,b & m auto service,1942 Centre St,2132,811111,General Automotive Repair,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.156577 42.283816),,5,6
+42.2787,-71.1581,b & d air conditioning & gas heating,,2132,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,7.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.2787,-71.1581,axcel construction services,,2132,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.286152,-71.155575,auntie b's place,1881 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,West Roxbury,POINT (-71.155575 42.286152),,5,6
+42.2787,-71.1581,audiovision stereo & tv,,2132,443142,Electronics Stores,44,Retail Trade,5.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.286108,-71.155428,atlas true value,1871 Centre St,2132,444130,Hardware Stores,44,Retail Trade,4.0,1 to 9,West Roxbury,POINT (-71.155428 42.286108),,5,6
+42.2787,-71.1581,atlas floor service,,2132,238330,Flooring Contractors,23,Construction,2.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.277683,-71.163616,ati physical therapy,75-77 Spring St,2132,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,4.0,1 to 9,West Roxbury,POINT (-71.163616 42.277683),,5,6
+42.285378,-71.155777,astra hair salon,1896 Centre St,2132,812112,Beauty Salons,81,Other Services,4.0,1 to 9,West Roxbury,POINT (-71.155777 42.285378),,5,6
+42.280078,-71.15812,ashmont tailors & cleaners,2046 Centre St,2132,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,West Roxbury,POINT (-71.15812 42.280078),,5,6
+42.287053,-71.153706,ari family dental,1819 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,West Roxbury,POINT (-71.153706 42.287053),,5,6
+42.273808,-71.168694,arabic evangelical baptist church,222 Spring St,2132,813110,Religious Organizations,81,Other Services,15.0,10 to 24,West Roxbury,POINT (-71.168694 42.273808),,5,6
+42.276753,-71.164817,apple salon,100 Spring St,2132,812112,Beauty Salons,81,Other Services,1.0,1 to 9,West Roxbury,POINT (-71.164817 42.276753),,5,6
+42.286273,-71.153739,anselme technologies,1834 Centre St,2132,811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,81,Other Services,0.0,Not Available,West Roxbury,POINT (-71.153739 42.286273),,5,6
+42.280078,-71.15812,anna's hand cut donuts inc,2056 Centre St,2132,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,1.0,1 to 9,West Roxbury,POINT (-71.15812 42.280078),,5,6
+42.286751,-71.153334,anna h corp,1826 Centre St,2132,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,West Roxbury,POINT (-71.153334 42.286751),,5,6
+42.278537,-71.160085,angel nails & spa,2105 Centre St,2132,812113,Nail Salons,81,Other Services,3.0,1 to 9,West Roxbury,POINT (-71.160085 42.278537),,5,6
+42.286273,-71.153739,alternative innovative technologies,1834 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.153739 42.286273),,5,6
+42.2803,-71.158619,allstate insurance,2041 Centre St,2132,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,West Roxbury,POINT (-71.158619 42.2803),,5,6
+42.2787,-71.1581,alco auto parts,,2132,441310,Automotive Parts and Accessories Stores,44,Retail Trade,10.0,10 to 24,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.279718,-71.158511,aisha's,2064 Centre St,2132,424410,General Line Grocery Merchant Wholesalers,42,Wholesale Trade,4.0,1 to 9,West Roxbury,POINT (-71.158511 42.279718),,5,6
+42.285694,-71.155136,aids action committee,1870 Centre St,2132,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,11.0,10 to 24,West Roxbury,POINT (-71.155136 42.285694),,5,6
+42.276226,-71.165948,advance team consulting inc,136 Spring St,2132,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,West Roxbury,POINT (-71.165948 42.276226),,5,6
+42.285491,-71.156553,adrienne j vaughan law office,1895 Centre St,2132,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,West Roxbury,POINT (-71.156553 42.285491),,5,6
+42.287197,-71.15081,adi's bike world,1754 Centre St,2132,451110,Sporting Goods Stores,45,Retail Trade,2.0,1 to 9,West Roxbury,POINT (-71.15081 42.287197),,5,6
+42.286273,-71.153739,adam camera,1834 Centre St,2132,512110,Motion Picture and Video Production,51,Information,6.0,1 to 9,West Roxbury,POINT (-71.153739 42.286273),,5,6
+42.284295,-71.156487,abbey rd home care service inc,20 McKenna Ter,2132,621610,Home Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,West Roxbury,POINT (-71.156487 42.284295),,5,6
+42.285243,-71.155998,aavinden mr sweeper sales & repair,1900 Centre St,2132,423850,Service Establishment Equipment and Supplies Merchant Wholesalers,42,Wholesale Trade,3.0,1 to 9,West Roxbury,POINT (-71.155998 42.285243),,5,6
+42.2787,-71.1581,aardvark solutions,,2132,561710,Exterminating and Pest Control Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,West Roxbury,POINT (-71.1581 42.2787),,5,6
+42.280302,-71.158068,a s & j m corp,2040 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.158068 42.280302),,5,6
+42.285889,-71.154869,a beautiful smile dentistry,1864 Centre St,2132,621210,Offices of Dentists,62,Healthcare and Social Assistance,7.0,1 to 9,West Roxbury,POINT (-71.154869 42.285889),,5,6
+42.278435,-71.160675,7-eleven,7 Spring St,2132,445120,Convenience Stores,44,Retail Trade,7.0,1 to 9,West Roxbury,POINT (-71.160675 42.278435),,5,6
+42.286985,-71.148977,7-eleven,1710 Centre St,2132,445120,Convenience Stores,44,Retail Trade,10.0,10 to 24,West Roxbury,POINT (-71.148977 42.286985),,5,6
+42.271847,-71.171728,320 cafe,320 Spring St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.171728 42.271847),,5,6
+42.2873,-71.1494,1727 ventures inc,1727 Centre St,2132,0,,99,Undefined,0.0,Not Available,West Roxbury,POINT (-71.1494 42.2873),,5,6
+42.276451,-71.165104,116 spring st condo trust,116 Spring St,2132,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,West Roxbury,POINT (-71.165104 42.276451),,5,6
+42.287529,-71.150274,los amigos mexican grill,1743 Centre St,2132,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,West Roxbury,POINT (-71.150274 42.287529),,5,6
+42.331329,-71.112112,wok & talk,23 S Huntington Ave,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.112112 42.331329),,5,6
+42.33117,-71.111933,walter huntington llc,35 S Huntington Ave,2130,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Mission Hill,POINT (-71.111933 42.33117),,5,6
+42.331329,-71.112112,telis group,23 S Huntington Ave,2130,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.112112 42.331329),,5,6
+42.331917,-71.111832,subway,904 Huntington Ave,2115,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.111832 42.331917),,5,6
+42.329892,-71.111682,sds hospitality llc,81 S Huntington Ave,2130,721110,Hotels (except Casino Hotels) and Motels,72,Accommodation and Food Services,13.0,10 to 24,Mission Hill,POINT (-71.111682 42.329892),,5,6
+42.331073,-71.111403,samia companies,36 S Huntington Ave,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,Mission Hill,POINT (-71.111403 42.331073),,5,6
+42.330077,-71.111595,prestige rental solutions,75 S Huntington Ave,2130,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,Mission Hill,POINT (-71.111595 42.330077),,5,6
+42.331855,-71.112013,phoraya thai spa,900 Huntington Ave,2115,713940,Fitness and Recreational Sports Centers,71,"Arts, Entertainment, and Recreation",7.0,1 to 9,Mission Hill,POINT (-71.112013 42.331855),,5,6
+42.331855,-71.112013,new england chiropractic,900 Huntington Ave,2115,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Mission Hill,POINT (-71.112013 42.331855),,5,6
+42.331603,-71.112383,mikes auto repair,914 Huntington Ave,2115,811111,General Automotive Repair,81,Other Services,3.0,1 to 9,Mission Hill,POINT (-71.112383 42.331603),,5,6
+42.329987,-71.111008,michael moskow,70 S Huntington Ave,2130,531311,Residential Property Managers,53,Real Estate Rental and Leasing,0.0,Not Available,Mission Hill,POINT (-71.111008 42.329987),,5,6
+42.330458,-71.112094,justice & health inc,50 Jamaicaway,2130,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Mission Hill,POINT (-71.112094 42.330458),,5,6
+42.331738,-71.111672,josephs pizzaria,8 S Huntington Ave,2130,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Mission Hill,POINT (-71.111672 42.331738),,5,6
+42.331934,-71.111634,huntington scuare coin-op laundry,896 Huntington Ave,2115,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,3.0,1 to 9,Mission Hill,POINT (-71.111634 42.331934),,5,6
+42.332764,-71.110323,hillway realty,854 Huntington Ave,2115,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Mission Hill,POINT (-71.110323 42.332764),,5,6
+42.329892,-71.111682,"envision hotel boston-longwood, ascend hotel collection",81 S Huntington Ave,2130,721110,Hotels (except Casino Hotels) and Motels,72,Accommodation and Food Services,15.0,10 to 24,Mission Hill,POINT (-71.111682 42.329892),,5,6
+42.331159,-71.112042,dunkin',37 S Huntington Ave,2130,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,12.0,10 to 24,Mission Hill,POINT (-71.112042 42.331159),,5,6
+42.330458,-71.112094,dina vain piano inc,60 Jamaicaway,2130,451140,Musical Instrument and Supplies Stores,45,Retail Trade,3.0,1 to 9,Mission Hill,POINT (-71.112094 42.330458),,5,6
+42.331603,-71.112383,citgo,914 Huntington Ave,2115,447190,Other Gasoline Stations,44,Retail Trade,4.0,1 to 9,Mission Hill,POINT (-71.112383 42.331603),,5,6
+42.331603,-71.112383,center for curriculum redesign,10 Jamaicaway,2130,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Mission Hill,POINT (-71.112383 42.331603),,5,6
+42.331855,-71.112013,acutech llc,900 Huntington Ave,2115,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,2.0,1 to 9,Mission Hill,POINT (-71.112013 42.331855),,5,6
+42.330937,-71.111951,abc lock & key service,43 S Huntington Ave,2130,561622,Locksmiths,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Mission Hill,POINT (-71.111951 42.330937),,5,6
+42.331603,-71.112383,a-1 automatic transmission service,914 Huntington Ave,2115,811113,Automotive Transmission Repair,81,Other Services,1.0,1 to 9,Mission Hill,POINT (-71.112383 42.331603),,5,6
+42.331603,-71.112383,10 jamaica way,10 Jamaicaway,2130,0,,99,Undefined,0.0,Not Available,Mission Hill,POINT (-71.112383 42.331603),,5,6

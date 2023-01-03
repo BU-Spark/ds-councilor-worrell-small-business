@@ -1,0 +1,462 @@
+latitude,longitude,business_name,street_address,zip,NAICS_2017_6digit_code,NAICS_2017_6digit_desc,NAICS_2017_2digit_code,NAICS_2017_2digit_desc,estimated_employment,employment_buckets,mainstreet,geometry,district,index_right,DISTRICT
+42.336844,-71.077054,western union agent location,1747 Washington St,2118,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,Washington St Gateway,POINT (-71.077054 42.336844),,2,7
+42.338253,-71.074959,western union agent location,1603 Washington St,2118,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,Washington St Gateway,POINT (-71.074959 42.338253),,2,7
+42.336844,-71.077054,weichert realtors-hudson,1745 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.077054 42.336844),,2,7
+42.338253,-71.074959,walgreens,1603 Washington St,2118,446110,Pharmacies and Drug Stores,44,Retail Trade,21.0,10 to 24,Washington St Gateway,POINT (-71.074959 42.338253),,2,7
+42.336844,-71.077054,ups access point location,1745 Washington St,2118,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,Washington St Gateway,POINT (-71.077054 42.336844),,2,7
+42.335425,-71.078631,top notch barbers,1855 Washington St,2118,812111,Barber Shops,81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.078631 42.335425),,2,7
+42.335425,-71.078631,top notch,1855 Washington St,2118,812111,Barber Shops,81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.078631 42.335425),,2,7
+42.336366,-71.077774,the wig shop,1783 Washington St,2118,448150,Clothing Accessories Stores,44,Retail Trade,2.0,1 to 9,Washington St Gateway,POINT (-71.077774 42.336366),,2,7
+42.334645,-71.078788,suffolk jewelers & pawnbrokers,1888 Washington St,2118,448310,Jewelry Stores,44,Retail Trade,13.0,10 to 24,Washington St Gateway,POINT (-71.078788 42.334645),,2,7
+42.337778,-71.075495,squashbusters,1661 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.075495 42.337778),,2,7
+42.338291,-71.074921,south end community health center,1601 Washington St,2118,623110,Nursing Care Facilities (Skilled Nursing Facilities),62,Healthcare and Social Assistance,24.0,10 to 24,Washington St Gateway,POINT (-71.074921 42.338291),,2,7
+42.338291,-71.074921,south end community dentistry,1601 Washington St,2118,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Washington St Gateway,POINT (-71.074921 42.338291),,2,7
+42.336844,-71.077054,sleeping dog properties inc,1745 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,7.0,1 to 9,Washington St Gateway,POINT (-71.077054 42.336844),,2,7
+42.335932,-71.077884,shamso hair studio & spa,1807 Washington St,2118,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Washington St Gateway,POINT (-71.077884 42.335932),,2,7
+42.337078,-71.076614,seiyo sushi & wine shop,1721 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Washington St Gateway,POINT (-71.076614 42.337078),,2,7
+42.336172,-71.078259,roxbury corners parmelee corp,134 Northampton St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.078259 42.336172),,2,7
+42.333469,-71.081055,residence inn boston downtown/south end,2001 Washington St,2119,721110,Hotels (except Casino Hotels) and Motels,72,Accommodation and Food Services,30.0,25 to 49,Washington St Gateway,POINT (-71.081055 42.333469),,2,7
+42.338509,-71.075264,pain spine & rehab consulting,12 Cumston St,2118,624310,Vocational Rehabilitation Services,62,Healthcare and Social Assistance,14.0,10 to 24,Washington St Gateway,POINT (-71.075264 42.338509),,2,7
+42.336844,-71.077054,olympia flower store,1745 Washington St,2118,453110,Florists,45,Retail Trade,5.0,1 to 9,Washington St Gateway,POINT (-71.077054 42.336844),,2,7
+42.33425,-71.079258,nadaaa inc,1920 Washington St,2118,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",30.0,25 to 49,Washington St Gateway,POINT (-71.079258 42.33425),,2,7
+42.336844,-71.077054,music associates,1745 Washington St,2118,512230,Music Publishers,51,Information,5.0,1 to 9,Washington St Gateway,POINT (-71.077054 42.336844),,2,7
+42.335425,-71.078631,mount horeb organization,1855 Washington St,2118,813410,Civic and Social Organizations,81,Other Services,4.0,1 to 9,Washington St Gateway,POINT (-71.078631 42.335425),,2,7
+42.335425,-71.078631,mandela residents co-op associates,1855 Washington St,2118,813910,Business Associations,81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.078631 42.335425),,2,7
+42.335425,-71.078631,mandela preservation llc,1855 Washington St,2118,0,,99,Undefined,5.0,1 to 9,Washington St Gateway,POINT (-71.078631 42.335425),,2,7
+42.335798,-71.078168,kushtia inc,1813 Washington St,2118,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Washington St Gateway,POINT (-71.078168 42.335798),,2,7
+42.334154,-71.079312,kennedy desing build,1946 Washington St,2118,236220,Commercial and Institutional Building Construction,23,Construction,8.0,1 to 9,Washington St Gateway,POINT (-71.079312 42.334154),,2,7
+42.337932,-71.075596,jaho coffee & tea,1651 Washington St,2118,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,8.0,1 to 9,Washington St Gateway,POINT (-71.075596 42.337932),,2,7
+42.335932,-71.077884,international translation co,1807 Washington St,2118,541930,Translation and Interpretation Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Washington St Gateway,POINT (-71.077884 42.335932),,2,7
+42.338075,-71.075393,interfaith housing,68 W Concord St,2118,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Washington St Gateway,POINT (-71.075393 42.338075),,2,7
+42.336844,-71.077054,hudson morgan group llc,1745 Washington St,2118,522292,Real Estate Credit,52,Finance and Insurance,7.0,1 to 9,Washington St Gateway,POINT (-71.077054 42.336844),,2,7
+42.33845,-71.074969,hood design,1597 Washington St,2118,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Washington St Gateway,POINT (-71.074969 42.33845),,2,7
+42.334862,-71.079037,hattie b cooper commumnity center,1891 Washington St,2118,624410,Child Day Care Services,62,Healthcare and Social Assistance,25.0,25 to 49,Washington St Gateway,POINT (-71.079037 42.334862),,2,7
+42.335515,-71.078015,hair stop beauty supply,1826 Washington St,2118,812112,Beauty Salons,81,Other Services,4.0,1 to 9,Washington St Gateway,POINT (-71.078015 42.335515),,2,7
+42.336411,-71.077606,hair jackpot inc,1771 Washington St,2118,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.077606 42.336411),,2,7
+42.334999,-71.077552,grant manor lp,20 E Lenox St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.077552 42.334999),,2,7
+42.335608,-71.0779,grant manor apartments,1812 Washington St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,Washington St Gateway,POINT (-71.0779 42.335608),,2,7
+42.334361,-71.07913,grant ame church,1906 Washington St,2118,813110,Religious Organizations,81,Other Services,1.0,1 to 9,Washington St Gateway,POINT (-71.07913 42.334361),,2,7
+42.333798,-71.079876,foust clapp management inc,1960 Washington St,2118,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Washington St Gateway,POINT (-71.079876 42.333798),,2,7
+42.33836,-71.074821,flour bakery,1595 Washington St,2118,311811,Retail Bakeries,31,Manufacturing,30.0,25 to 49,Washington St Gateway,POINT (-71.074821 42.33836),,2,7
+42.333251,-71.079716,first student inc,2000 Washington St,2119,485510,Charter Bus Industry,48,Transportation and Warehosuing,10.0,10 to 24,Washington St Gateway,POINT (-71.079716 42.333251),,2,7
+42.338075,-71.075393,expressive life,68 W Concord St,2118,711190,Other Performing Arts Companies,71,"Arts, Entertainment, and Recreation",7.0,1 to 9,Washington St Gateway,POINT (-71.075393 42.338075),,2,7
+42.337078,-71.076614,equator restaurant,1721 Washington St,2118,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Washington St Gateway,POINT (-71.076614 42.337078),,2,7
+42.338023,-71.075053,don quijote,1641 Washington St,2118,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Washington St Gateway,POINT (-71.075053 42.338023),,2,7
+42.334862,-71.079037,cooper community center,1891 Washington St,2118,624410,Child Day Care Services,62,Healthcare and Social Assistance,30.0,25 to 49,Washington St Gateway,POINT (-71.079037 42.334862),,2,7
+42.334528,-71.078982,collaborative boston real estate,1904 Washington St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.078982 42.334528),,2,7
+42.335563,-71.078461,christ embassy boston inc,1837 Washington St,2118,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Washington St Gateway,POINT (-71.078461 42.335563),,2,7
+42.334747,-71.078654,caritas communities,1 E Lenox St,2118,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.078654 42.334747),,2,7
+42.333798,-71.079876,cardinal medeiros center for the homeless,1960 Washington St,2118,624221,Temporary Shelters,62,Healthcare and Social Assistance,2.0,1 to 9,Washington St Gateway,POINT (-71.079876 42.333798),,2,7
+42.334154,-71.079312,camp harbor view,1946 Washington St,2118,721214,Recreational and Vacation Camps (except Campgrounds),72,Accommodation and Food Services,10.0,10 to 24,Washington St Gateway,POINT (-71.079312 42.334154),,2,7
+42.337424,-71.076245,boston housing authority,1701 Washington St,2118,531311,Residential Property Managers,53,Real Estate Rental and Leasing,10.0,10 to 24,Washington St Gateway,POINT (-71.076245 42.337424),,2,7
+42.336172,-71.078259,boston elite sports inc,1815 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.078259 42.336172),,2,7
+42.335593,-71.078423,beyjund spheres record,1833 Washington St,2118,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Washington St Gateway,POINT (-71.078423 42.335593),,2,7
+42.335425,-71.078631,beacon community llc,1855 Washington St,2118,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Washington St Gateway,POINT (-71.078631 42.335425),,2,7
+42.337778,-71.075495,anita kurl,1661 Washington St,2118,812112,Beauty Salons,81,Other Services,4.0,1 to 9,Washington St Gateway,POINT (-71.075495 42.337778),,2,7
+42.337692,-71.075746,andy's cleaners,1679 Washington St,2118,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,Washington St Gateway,POINT (-71.075746 42.337692),,2,7
+42.334154,-71.079312,aiden rhaa photography,1946 Washington St,2118,541921,"Photography Studios, Portrait",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Washington St Gateway,POINT (-71.079312 42.334154),,2,7
+42.336844,-71.077054,7-eleven,1747 Washington St,2118,445120,Convenience Stores,44,Retail Trade,5.0,1 to 9,Washington St Gateway,POINT (-71.077054 42.336844),,2,7
+42.33845,-71.074969,lotus center,1597 Washington St,2118,0,,99,Undefined,0.0,Not Available,Washington St Gateway,POINT (-71.074969 42.33845),,2,7
+42.329365,-71.084435,yummy yummy,2360 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Dudley Square,POINT (-71.084435 42.329365),,2,7
+42.326777,-71.08378,yspn,115 Warren St,2119,561612,Security Guards and Patrol Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",14.0,10 to 24,Dudley Square,POINT (-71.08378 42.326777),,2,7
+42.330471,-71.082886,youth options unlimited,7 Palmer St,2119,921120,Legislative Bodies,92,Public Administration,20.0,10 to 24,Dudley Square,POINT (-71.082886 42.330471),,2,7
+42.329353,-71.086552,youth advocacy project,10 Malcolm X Blvd,2119,921120,Legislative Bodies,92,Public Administration,14.0,10 to 24,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.326777,-71.08378,yawkey club of roxbury,115 Warren St,2119,813410,Civic and Social Organizations,81,Other Services,25.0,25 to 49,Dudley Square,POINT (-71.08378 42.326777),,2,7
+42.33116,-71.083193,writeboston,2201 Washington St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.327605,-71.082721,wild radio contest & request,90 Warren St,2119,515112,Radio Stations,51,Information,8.0,1 to 9,Dudley Square,POINT (-71.082721 42.327605),,2,7
+42.330769,-71.084071,western union agent location,2275 Washington St,2119,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,3.0,1 to 9,Dudley Square,POINT (-71.084071 42.330769),,2,7
+42.32882,-71.083719,western union agent location,146 Dudley St,2119,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,4.0,1 to 9,Dudley Square,POINT (-71.083719 42.32882),,2,7
+42.331939,-71.081979,welding engineering-design,2129 Washington St,2119,541330,Engineering Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Dudley Square,POINT (-71.081979 42.331939),,2,7
+42.329776,-71.085525,warsan general trading ltd,45 Roxbury St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.085525 42.329776),,2,7
+42.330769,-71.084071,walgreens,2275 Washington St,2119,446110,Pharmacies and Drug Stores,44,Retail Trade,30.0,25 to 49,Dudley Square,POINT (-71.084071 42.330769),,2,7
+42.329776,-71.085525,wald home healthcare,45 Roxbury St,2119,621610,Home Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.085525 42.329776),,2,7
+42.330866,-71.081458,w h sales consulting & marketing,1115 Harrison Ave,2119,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Dudley Square,POINT (-71.081458 42.330866),,2,7
+42.329353,-71.086552,vesper gibbs barnes,10 Malcolm X Blvd,2119,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.32833,-71.080652,vega brothers inc,219 Dudley St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.080652 42.32833),,2,7
+42.329499,-71.085549,usps,55 Roxbury St,2119,491110,Postal Service,49,Transportation and Warehosuing,200.0,100+,Dudley Square,POINT (-71.085549 42.329499),,2,7
+42.327472,-71.082938,urban league of eastern massachusetts inc,88 Warren St,2119,0,,99,Undefined,4.0,1 to 9,Dudley Square,POINT (-71.082938 42.327472),,2,7
+42.327472,-71.082938,urban league of eastern mass,88 Warren St,2119,813319,Other Social Advocacy Organizations,81,Other Services,24.0,10 to 24,Dudley Square,POINT (-71.082938 42.327472),,2,7
+42.327472,-71.082938,urban league,88 Warren St,2119,624310,Vocational Rehabilitation Services,62,Healthcare and Social Assistance,14.0,10 to 24,Dudley Square,POINT (-71.082938 42.327472),,2,7
+42.329768,-71.085136,upscale unisex hair salon,11 Roxbury St,2119,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.085136 42.329768),,2,7
+42.328327,-71.083061,united somali youth,70 Warren St,2119,813319,Other Social Advocacy Organizations,81,Other Services,4.0,1 to 9,Dudley Square,POINT (-71.083061 42.328327),,2,7
+42.326777,-71.08378,underwood striders track club,115 Warren St,2119,813410,Civic and Social Organizations,81,Other Services,5.0,1 to 9,Dudley Square,POINT (-71.08378 42.326777),,2,7
+42.327472,-71.082938,ulem-employer partners archer,88 Warren St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.082938 42.327472),,2,7
+42.328417,-71.083056,ugi's subs,68 Warren St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Dudley Square,POINT (-71.083056 42.328417),,2,7
+42.333244,-71.082352,tropical foods,450 Melnea Cass Blvd,2119,424420,Packaged Frozen Food Merchant Wholesalers,42,Wholesale Trade,70.0,50 to 99,Dudley Square,POINT (-71.082352 42.333244),,2,7
+42.331609,-71.0812,timothy smith network inc,20 Eustis St,2119,0,,99,Undefined,28.0,25 to 49,Dudley Square,POINT (-71.0812 42.331609),,2,7
+42.333043,-71.08295,third's barber shop,716 Shawmut Ave,2119,812111,Barber Shops,81,Other Services,1.0,1 to 9,Dudley Square,POINT (-71.08295 42.333043),,2,7
+42.326956,-71.082849,tech connection inc,100A Warren St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.082849 42.326956),,2,7
+42.328274,-71.08166,studio tv,195 Dudley St,2119,512240,Sound Recording Studios,51,Information,1.0,1 to 9,Dudley Square,POINT (-71.08166 42.328274),,2,7
+42.328388,-71.080643,strictly heads barber shop,221 Dudley St,2119,812111,Barber Shops,81,Other Services,2.0,1 to 9,Dudley Square,POINT (-71.080643 42.328388),,2,7
+42.328369,-71.079815,stop & taste pizza,239 Dudley St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Dudley Square,POINT (-71.079815 42.328369),,2,7
+42.327303,-71.082404,steps to solutions inc,9 Kearsarge Ave,2119,812910,Pet Care (except Veterinary) Services,81,Other Services,5.0,1 to 9,Dudley Square,POINT (-71.082404 42.327303),,2,7
+42.330435,-71.082944,step rox,9 Palmer St,2119,624310,Vocational Rehabilitation Services,62,Healthcare and Social Assistance,4.0,1 to 9,Dudley Square,POINT (-71.082944 42.330435),,2,7
+42.330435,-71.082944,step inc,9 Palmer St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,4.0,1 to 9,Dudley Square,POINT (-71.082944 42.330435),,2,7
+42.329771,-71.08301,star nail,28 Warren St,2119,812113,Nail Salons,81,Other Services,1.0,1 to 9,Dudley Square,POINT (-71.08301 42.329771),,2,7
+42.325992,-71.083074,spiritual by nature inc,136 Warren St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.083074 42.325992),,2,7
+42.328796,-71.086818,sparkle clean,6 Kenilworth St,2119,561720,Janitorial Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Dudley Square,POINT (-71.086818 42.328796),,2,7
+42.329353,-71.086552,somali development center inc,10 Malcolm X Blvd,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.330047,-71.084026,soleil restaurant restaurant,2306 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.084026 42.330047),,2,7
+42.329442,-71.08604,social security administration,10 Malcolm X Blvd,2119,923130,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",92,Public Administration,3.0,1 to 9,Dudley Square,POINT (-71.08604 42.329442),,2,7
+42.326956,-71.082849,smarter in the city inc,100 Warren St,2119,813319,Other Social Advocacy Organizations,81,Other Services,10.0,10 to 24,Dudley Square,POINT (-71.082849 42.326956),,2,7
+42.330517,-71.0823,smart wireless service,1127 Harrison Ave,2119,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.331492,-71.082545,simons liquor store,2169 Washington St,2119,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,3.0,1 to 9,Dudley Square,POINT (-71.082545 42.331492),,2,7
+42.328767,-71.08312,simon seafood deli,154 Dudley St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.08312 42.328767),,2,7
+42.329157,-71.085094,silver slipper restaurant,2387 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Dudley Square,POINT (-71.085094 42.329157),,2,7
+42.33012,-71.084045,shanti boston llc,2300 Washington St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.084045 42.33012),,2,7
+42.327636,-71.08286,servicios professional,72 Warren St,2119,541930,Translation and Interpretation Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Dudley Square,POINT (-71.08286 42.327636),,2,7
+42.329999,-71.085096,select home health care,2343 Washington St,2119,621610,Home Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.085096 42.329999),,2,7
+42.33078,-71.084471,salvation army boston-roxbury,23 Vernon St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,6.0,1 to 9,Dudley Square,POINT (-71.084471 42.33078),,2,7
+42.330517,-71.0823,safiya shop,1127 Harrison Ave,2119,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.329534,-71.083004,s s fashion inc,32 Warren St,2119,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,Dudley Square,POINT (-71.083004 42.329534),,2,7
+42.330517,-71.0823,rukiatu african hair braiding,1127 Harrison Ave,2119,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.331823,-71.083198,ruggles assisted living,25 Ruggles St,2119,623312,Assisted Living Facilities for the Elderly,62,Healthcare and Social Assistance,15.0,10 to 24,Dudley Square,POINT (-71.083198 42.331823),,2,7
+42.329365,-71.084435,royal fried chicken,2360 Washington St,2119,722513,Limited-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Dudley Square,POINT (-71.084435 42.329365),,2,7
+42.329999,-71.085096,roxsom home health care llc,2343 Washington St,2119,621610,Home Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.085096 42.329999),,2,7
+42.326956,-71.082849,roxbury youth works,100 Warren St,2119,624110,Child and Youth Services,62,Healthcare and Social Assistance,7.0,1 to 9,Dudley Square,POINT (-71.082849 42.326956),,2,7
+42.330471,-71.082886,roxbury defenders unit,7 Palmer St,2119,921120,Legislative Bodies,92,Public Administration,20.0,10 to 24,Dudley Square,POINT (-71.082886 42.330471),,2,7
+42.3289,-71.083627,roxbury chinese food inc,49 Warren St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.083627 42.3289),,2,7
+42.3314,-71.082766,rochelle a burgos law office,2181 Washington St,2119,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Dudley Square,POINT (-71.082766 42.3314),,2,7
+42.32833,-71.080652,rivera enterprise inc,219 Dudley St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.080652 42.32833),,2,7
+42.327254,-71.082726,resurrection lutheran church,94 Warren St,2119,813110,Religious Organizations,81,Other Services,5.0,1 to 9,Dudley Square,POINT (-71.082726 42.327254),,2,7
+42.329468,-71.083038,rent-a-center,38 Warren St,2119,532289,All Other Consumer Goods Rental,53,Real Estate Rental and Leasing,5.0,1 to 9,Dudley Square,POINT (-71.083038 42.329468),,2,7
+42.327605,-71.082721,quantum physical therapy,90 Warren St,2119,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,4.0,1 to 9,Dudley Square,POINT (-71.082721 42.327605),,2,7
+42.328388,-71.080643,public family inc,221 Dudley St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.080643 42.328388),,2,7
+42.3314,-71.082766,project hip-hop,2181 Washington St,2119,624110,Child and Youth Services,62,Healthcare and Social Assistance,4.0,1 to 9,Dudley Square,POINT (-71.082766 42.3314),,2,7
+42.32621,-71.082891,press pass tv,130 Warren St,2119,443142,Electronics Stores,44,Retail Trade,5.0,1 to 9,Dudley Square,POINT (-71.082891 42.32621),,2,7
+42.32882,-71.083719,pls financial services,146 Dudley St,2119,523930,Investment Advice,52,Finance and Insurance,2.0,1 to 9,Dudley Square,POINT (-71.083719 42.32882),,2,7
+42.32882,-71.083719,pls check cashers,146 Dudley St,2119,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,10.0,10 to 24,Dudley Square,POINT (-71.083719 42.32882),,2,7
+42.328851,-71.083635,pls check cashers,55 Warren St,2119,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,10.0,10 to 24,Dudley Square,POINT (-71.083635 42.328851),,2,7
+42.327061,-71.082851,platinum cuts barbers shop,98 Warren St,2119,812111,Barber Shops,81,Other Services,1.0,1 to 9,Dudley Square,POINT (-71.082851 42.327061),,2,7
+42.331939,-71.081979,planting hope inc,2131 Washington St,2119,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Dudley Square,POINT (-71.081979 42.331939),,2,7
+42.326956,-71.082849,placetailor inc,100 Warren St,2119,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Dudley Square,POINT (-71.082849 42.326956),,2,7
+42.328882,-71.079688,pine street,131 Zeigler St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Dudley Square,POINT (-71.079688 42.328882),,2,7
+42.328369,-71.079815,pena foods inc,239 Dudley St,2119,311999,All Other Miscellaneous Food Manufacturing,31,Manufacturing,2.0,1 to 9,Dudley Square,POINT (-71.079815 42.328369),,2,7
+42.329006,-71.082886,peking house,160 Dudley St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.082886 42.329006),,2,7
+42.330517,-71.0823,pc mobile tec,1127 Harrison Ave,2119,811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,81,Other Services,2.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.328865,-71.083212,palladio hall corporation,56 Warren St,2119,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.328635,-71.081059,p & r restaurant,208 Dudley St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.081059 42.328635),,2,7
+42.328319,-71.081398,osiris group,184 Dudley St,2119,813311,Human Rights Organizations,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.328319,-71.081398,onyx spectrum technology inc,184 Dudley St,2119,541511,Custom Computer Programming Services,54,"Professional, Scientific, and Technical Services",17.0,10 to 24,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.329999,-71.085096,oneunited bank,2343 Washington St,2119,522110,Commercial Banking,52,Finance and Insurance,50.0,50 to 99,Dudley Square,POINT (-71.085096 42.329999),,2,7
+42.329333,-71.084966,ofd development corp,2371 Washington St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.084966 42.329333),,2,7
+42.32903,-71.087008,o'aces barber shop,71 Dudley St,2119,812112,Beauty Salons,81,Other Services,5.0,1 to 9,Dudley Square,POINT (-71.087008 42.32903),,2,7
+42.33116,-71.083193,nursery family child care,2201 Washington St,2119,611710,Educational Support Services,61,Educational Services,6.0,1 to 9,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.328865,-71.083212,nuestra culinary ventures,56 Warren St,2119,561499,All Other Business Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",24.0,10 to 24,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.328865,-71.083212,nuestra comunidad development corp,56 Warren St,2119,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.328888,-71.083771,nuestra comunidad development,144 Dudley St,2119,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Dudley Square,POINT (-71.083771 42.328888),,2,7
+42.328865,-71.083212,nuestra comunidad development,150 Dudley St,2119,237210,Land Subdivision,23,Construction,50.0,50 to 99,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.331342,-71.082033,nubian gallery,2164 Washington St,2119,813319,Other Social Advocacy Organizations,81,Other Services,4.0,1 to 9,Dudley Square,POINT (-71.082033 42.331342),,2,7
+42.328884,-71.083214,nubian brothers inc,152 Dudley St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.083214 42.328884),,2,7
+42.329353,-71.086552,nsp residential llc,10 Malcolm X Blvd,2119,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",40.0,25 to 49,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.325992,-71.083074,norbert's insurance & financial services agency inc,136 Warren St,2119,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,2.0,1 to 9,Dudley Square,POINT (-71.083074 42.325992),,2,7
+42.32941,-71.084916,nikki's fashions,2363 Washington St,2119,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,Dudley Square,POINT (-71.084916 42.32941),,2,7
+42.328319,-71.081398,next street financial,184 Dudley St,2119,523930,Investment Advice,52,Finance and Insurance,0.0,Not Available,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.328337,-71.082493,new zion holiness church,165 Dudley St,2119,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.082493 42.328337),,2,7
+42.330471,-71.082886,new palmer street lp,7 Palmer St,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Dudley Square,POINT (-71.082886 42.330471),,2,7
+42.330903,-71.083381,new hope baptist church,2235 Washington St,2119,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.083381 42.330903),,2,7
+42.328274,-71.08166,new england architectural finishing,195 Dudley St,2119,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,1.0,1 to 9,Dudley Square,POINT (-71.08166 42.328274),,2,7
+42.328865,-71.083212,naidu suresh k dr,156 Dudley St,2119,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.329488,-71.08486,n m market,2359 Washington St,2119,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.08486 42.329488),,2,7
+42.329577,-71.083131,muriel natural hair studio,36 Warren St,2119,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Dudley Square,POINT (-71.083131 42.329577),,2,7
+42.330517,-71.0823,muna ahmed,1127 Harrison Ave,2119,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,23.0,10 to 24,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.330471,-71.082886,multicultural aids coalition inc,7 Palmer St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,30.0,25 to 49,Dudley Square,POINT (-71.082886 42.330471),,2,7
+42.33116,-71.083193,"mothers for justice & equality, inc",2201 Washington St,2119,0,,99,Undefined,5.0,1 to 9,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.328319,-71.081398,mothers for justice & equality inc,184 Dudley St,2119,0,,99,Undefined,12.0,10 to 24,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.33116,-71.083193,mothers for justice & eqlty,2201 Washington St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.332311,-71.083552,mosque for the praising-allah,724 Shawmut Ave,2119,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.083552 42.332311),,2,7
+42.32833,-71.080652,moabonguito grocery store,219 Dudley St,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.080652 42.32833),,2,7
+42.330517,-71.0823,merkato llc,1127 Harrison Ave,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,7.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.3314,-71.082766,mbta,2181 Washington St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.082766 42.3314),,2,7
+42.326956,-71.082849,massbay realty,100 Warren St,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,2.0,1 to 9,Dudley Square,POINT (-71.082849 42.326956),,2,7
+42.330471,-71.082886,massachusetts committee,7 Palmer St,2119,0,,99,Undefined,31.0,25 to 49,Dudley Square,POINT (-71.082886 42.330471),,2,7
+42.329771,-71.08301,mario curz,28 Warren St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.08301 42.329771),,2,7
+42.328319,-71.081398,madison park development corp,184 Dudley St,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,14.0,10 to 24,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.33116,-71.083193,madison park development corp,2201 Washington St,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.328579,-71.086525,madison park,2451 Washington St,2119,712190,Nature Parks and Other Similar Institutions,71,"Arts, Entertainment, and Recreation",7.0,1 to 9,Dudley Square,POINT (-71.086525 42.328579),,2,7
+42.328319,-71.081398,madison botolph gp inc,184 Dudley St,2119,511210,Software Publishers,51,Information,10.0,10 to 24,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.330517,-71.0823,madina,1127 Harrison Ave,2119,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,23.0,10 to 24,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.332099,-71.082259,mac shaman inc,10 Williams St,2119,811212,Computer and Office Machine Repair and Maintenance,81,Other Services,2.0,1 to 9,Dudley Square,POINT (-71.082259 42.332099),,2,7
+42.329776,-71.085525,mabruuk fashion,37 Roxbury St,2119,448140,Family Clothing Stores,44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.085525 42.329776),,2,7
+42.332998,-71.083003,m & r,718 Shawmut Ave,2119,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.083003 42.332998),,2,7
+42.330969,-71.083264,lind'z'eys,2225 Washington St,2119,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.083264 42.330969),,2,7
+42.329251,-71.085065,law offices of mark e salomone,2379 Washington St,2119,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",51.0,50 to 99,Dudley Square,POINT (-71.085065 42.329251),,2,7
+42.330903,-71.083381,"law offices of donald e green, p.c.",330 Martin Luther King Blvd,2119,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",20.0,10 to 24,Dudley Square,POINT (-71.083381 42.330903),,2,7
+42.331976,-71.081689,kornfield drug,2121 Washington St,2119,446110,Pharmacies and Drug Stores,44,Retail Trade,5.0,1 to 9,Dudley Square,POINT (-71.081689 42.331976),,2,7
+42.3314,-71.082766,kool smiles,2181 Washington St,2119,621210,Offices of Dentists,62,Healthcare and Social Assistance,18.0,10 to 24,Dudley Square,POINT (-71.082766 42.3314),,2,7
+42.331226,-71.082779,kiki beauty supply,2183 Washington St,2119,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.082779 42.331226),,2,7
+42.325992,-71.083074,kendall johnson & hines,136 Warren St,2119,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Dudley Square,POINT (-71.083074 42.325992),,2,7
+42.329069,-71.083676,kc wireless,142 Dudley St,2119,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Dudley Square,POINT (-71.083676 42.329069),,2,7
+42.328865,-71.083212,"kasanof homes, llc",56 Warren St,2119,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,2.0,1 to 9,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.329768,-71.085136,kaba african market,29 Roxbury St,2119,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.085136 42.329768),,2,7
+42.325992,-71.083074,julio's & equipment,136 Warren St,2119,811411,Home and Garden Equipment Repair and Maintenance,81,Other Services,2.0,1 to 9,Dudley Square,POINT (-71.083074 42.325992),,2,7
+42.328327,-71.083061,john weagle law office,70 Warren St,2119,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Dudley Square,POINT (-71.083061 42.328327),,2,7
+42.32884,-71.083894,joe's famous steak and cheese,140 Dudley St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Dudley Square,POINT (-71.083894 42.32884),,2,7
+42.328384,-71.082245,jalloh's african market,173 Dudley St,2119,452319,All Other General Merchandise Stores,45,Retail Trade,1.0,1 to 9,Dudley Square,POINT (-71.082245 42.328384),,2,7
+42.329488,-71.08486,iyes hair care,6 Roxbury St,2119,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.08486 42.329488),,2,7
+42.330517,-71.0823,it tech systems inc,1127 Harrison Ave,2119,511210,Software Publishers,51,Information,10.0,10 to 24,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.328327,-71.083061,international translation company,70 Warren St,2119,541930,Translation and Interpretation Services,54,"Professional, Scientific, and Technical Services",5.0,1 to 9,Dudley Square,POINT (-71.083061 42.328327),,2,7
+42.328834,-71.083638,inner city business ventures,57 Warren St,2119,451211,Book Stores,45,Retail Trade,24.0,10 to 24,Dudley Square,POINT (-71.083638 42.328834),,2,7
+42.328865,-71.083212,inner city advisors,56 Warren St,2119,541618,Other Management Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.328319,-71.081398,initiative for competitve intercity,184 Dudley St,2119,541910,Marketing Research and Public Opinion Polling,54,"Professional, Scientific, and Technical Services",11.0,10 to 24,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.328319,-71.081398,icic,184 Dudley St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,0.0,Not Available,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.329776,-71.085525,ibra ltd,37 Roxbury St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.085525 42.329776),,2,7
+42.332001,-71.081963,"i & h, incorporated",2121 Washington St,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Dudley Square,POINT (-71.081963 42.332001),,2,7
+42.32765,-71.08633,hurley wire & cable,2500 Washington St,2119,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,5.0,1 to 9,Dudley Square,POINT (-71.08633 42.32765),,2,7
+42.329999,-71.085096,humana home care inc,2343 Washington St,2119,621610,Home Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.085096 42.329999),,2,7
+42.331651,-71.081737,highland tap room,2128 Washington St,2119,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,4.0,1 to 9,Dudley Square,POINT (-71.081737 42.331651),,2,7
+42.328319,-71.081398,hibernian hall,184 Dudley St,2119,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",71,"Arts, Entertainment, and Recreation",10.0,10 to 24,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.330367,-71.084478,hawes financial assurance,2311 Washington St,2119,523930,Investment Advice,52,Finance and Insurance,9.0,1 to 9,Dudley Square,POINT (-71.084478 42.330367),,2,7
+42.330517,-71.0823,harrison door & window co,1127 Harrison Ave,2119,238140,Masonry Contractors,23,Construction,2.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.326048,-71.083057,harris management co,134 Warren St,2119,541614,"Process, Physical Distribution, and Logistics Consulting Services",54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Dudley Square,POINT (-71.083057 42.326048),,2,7
+42.332025,-71.082516,haley house bakery cafe,12 Dade St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Dudley Square,POINT (-71.082516 42.332025),,2,7
+42.329735,-71.085487,halal meat express,43 Roxbury St,2119,445210,Meat Markets,44,Retail Trade,4.0,1 to 9,Dudley Square,POINT (-71.085487 42.329735),,2,7
+42.328432,-71.082376,hair station,177 Dudley St,2119,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.082376 42.328432),,2,7
+42.325992,-71.083074,hadian associates,136 Warren St,2119,523930,Investment Advice,52,Finance and Insurance,4.0,1 to 9,Dudley Square,POINT (-71.083074 42.325992),,2,7
+42.327605,-71.082721,gordon conwell theological seminary,90 Warren St,2119,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,134.0,100+,Dudley Square,POINT (-71.082721 42.327605),,2,7
+42.3289,-71.083627,good food inc,49 Warren St,2119,311999,All Other Miscellaneous Food Manufacturing,31,Manufacturing,2.0,1 to 9,Dudley Square,POINT (-71.083627 42.3289),,2,7
+42.32875,-71.081726,gom enterprises inc,194 Dudley St,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Dudley Square,POINT (-71.081726 42.32875),,2,7
+42.328331,-71.079486,gina grocery store,251 Dudley St,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,1.0,1 to 9,Dudley Square,POINT (-71.079486 42.328331),,2,7
+42.329333,-71.084966,giant of roxbury inc,2371 Washington St,2119,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,6.0,1 to 9,Dudley Square,POINT (-71.084966 42.329333),,2,7
+42.327995,-71.087224,gately's restoration co,2499 Washington St,2119,441120,Used Car Dealers,44,Retail Trade,3.0,1 to 9,Dudley Square,POINT (-71.087224 42.327995),,2,7
+42.32875,-71.081726,gamm corp,194 Dudley St,2119,511210,Software Publishers,51,Information,10.0,10 to 24,Dudley Square,POINT (-71.081726 42.32875),,2,7
+42.329776,-71.085525,galoof & associates,45 Roxbury St,2119,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",1.0,1 to 9,Dudley Square,POINT (-71.085525 42.329776),,2,7
+42.330047,-71.084026,gallery eyecare,2304 Washington St,2119,621320,Offices of Optometrists,62,Healthcare and Social Assistance,5.0,1 to 9,Dudley Square,POINT (-71.084026 42.330047),,2,7
+42.328834,-71.083638,frugal bookstore,57 Warren St,2119,451211,Book Stores,45,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.083638 42.328834),,2,7
+42.328319,-71.081398,friends of the children,184 Dudley St,2119,624110,Child and Youth Services,62,Healthcare and Social Assistance,17.0,10 to 24,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.328274,-71.08166,fire code design,195 Dudley St,2119,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",8.0,1 to 9,Dudley Square,POINT (-71.08166 42.328274),,2,7
+42.329985,-71.083548,final touch boutique,17 Warren St,2119,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.083548 42.329985),,2,7
+42.326956,-71.082849,fathers uplift,100 Warren St,2119,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",0.0,Not Available,Dudley Square,POINT (-71.082849 42.326956),,2,7
+42.328865,-71.083212,family dental care,156 Dudley St,2119,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.328756,-71.082105,everything hair care center,182 Dudley St,2119,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.082105 42.328756),,2,7
+42.330517,-71.0823,everrox corp,1127 Harrison Ave,2119,812990,All Other Personal Services,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.329735,-71.085487,ethiopian market,43 Roxbury St,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.085487 42.329735),,2,7
+42.330517,-71.0823,essential frequency,1127 Harrison Ave,2119,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,23.0,10 to 24,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.329945,-71.082971,epicenter community inc,22 Warren St,2119,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Dudley Square,POINT (-71.082971 42.329945),,2,7
+42.33012,-71.084045,english high school,2300 Washington St,2119,611110,Elementary and Secondary Schools,61,Educational Services,16.0,10 to 24,Dudley Square,POINT (-71.084045 42.33012),,2,7
+42.326777,-71.08378,edward & earlean blakely creative arts center inc,115 Warren St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.08378 42.326777),,2,7
+42.331939,-71.081979,echu odara inc,2129 Washington St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.081979 42.331939),,2,7
+42.328136,-71.087013,dunkin',2493 Washington St,2119,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,12.0,10 to 24,Dudley Square,POINT (-71.087013 42.328136),,2,7
+42.329365,-71.084435,dunkin',2360 Washington St,2119,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,18.0,10 to 24,Dudley Square,POINT (-71.084435 42.329365),,2,7
+42.329999,-71.085096,dudley square main street,2343 Washington St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,1.0,1 to 9,Dudley Square,POINT (-71.085096 42.329999),,2,7
+42.328865,-71.083212,dudley square grille,150 Dudley St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.328884,-71.083214,dudley restaurant,152 Dudley St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.083214 42.328884),,2,7
+42.328274,-71.08166,dream moving company,195 Dudley St,2119,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,6.0,1 to 9,Dudley Square,POINT (-71.08166 42.328274),,2,7
+42.330471,-71.082886,dimock center,7 Palmer St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.082886 42.330471),,2,7
+42.332755,-71.083238,dayib cafe,722 Shawmut Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,1.0,1 to 9,Dudley Square,POINT (-71.083238 42.332755),,2,7
+42.328229,-71.081997,damas food products,185 Dudley St,2119,452319,All Other General Merchandise Stores,45,Retail Trade,0.0,Not Available,Dudley Square,POINT (-71.081997 42.328229),,2,7
+42.33116,-71.083193,daily table roxbury,2201 Washington St,2119,813319,Other Social Advocacy Organizations,81,Other Services,40.0,25 to 49,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.328384,-71.082245,crystal's market,173 Dudley St,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.082245 42.328384),,2,7
+42.3314,-71.082766,cortland dental,2181 Washington St,2119,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Dudley Square,POINT (-71.082766 42.3314),,2,7
+42.325992,-71.083074,concerned black men-massachusets,136 Warren St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.083074 42.325992),,2,7
+42.330471,-71.082886,community transition school,7 Palmer St,2119,611110,Elementary and Secondary Schools,61,Educational Services,22.0,10 to 24,Dudley Square,POINT (-71.082886 42.330471),,2,7
+42.329999,-71.085096,community home health,2343 Washington St,2119,621610,Home Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.085096 42.329999),,2,7
+42.328384,-71.082245,committee to elect sonia chang,173 Dudley St,2119,813940,Political Organizations,81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.082245 42.328384),,2,7
+42.329353,-71.086552,committee for public counsel services,10 Malcolm X Blvd,2119,921120,Legislative Bodies,92,Public Administration,31.0,25 to 49,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.330471,-71.082886,committee for public counsel service,7 Palmer St,2119,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Dudley Square,POINT (-71.082886 42.330471),,2,7
+42.329353,-71.086552,comm-mass committee,10 Malcolm X Blvd,2119,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",30.0,25 to 49,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.332099,-71.082259,color theory boston,10 Williams St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.082259 42.332099),,2,7
+42.33012,-71.084045,city-boston-sch department administrative office,2300 Washington St,2119,921120,Legislative Bodies,92,Public Administration,10.0,10 to 24,Dudley Square,POINT (-71.084045 42.33012),,2,7
+42.331387,-71.082703,city on a hill charter public school dudley square,2179 Washington St,2119,611110,Elementary and Secondary Schools,61,Educational Services,33.0,25 to 49,Dudley Square,POINT (-71.082703 42.331387),,2,7
+42.326956,-71.082849,citizens for safety,100 Warren St,2119,541612,Human Resources Consulting Services,54,"Professional, Scientific, and Technical Services",12.0,10 to 24,Dudley Square,POINT (-71.082849 42.326956),,2,7
+42.329862,-71.084465,citizens bank,2343 Washington St,2119,522110,Commercial Banking,52,Finance and Insurance,8.0,1 to 9,Dudley Square,POINT (-71.084465 42.329862),,2,7
+42.3289,-71.083627,china bo,49 Warren St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Dudley Square,POINT (-71.083627 42.3289),,2,7
+42.330473,-71.084859,"central boston elder services, inc",2315 Washington St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,150.0,100+,Dudley Square,POINT (-71.084859 42.330473),,2,7
+42.327605,-71.082721,center for urban ministerial education,90 Warren St,2119,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,21.0,10 to 24,Dudley Square,POINT (-71.082721 42.327605),,2,7
+42.330367,-71.084478,cbes management llc,2311 Washington St,2119,623311,Continuing Care Retirement Communities,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.084478 42.330367),,2,7
+42.329333,-71.084966,castillo beer wine & liquors,2371 Washington St,2119,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Dudley Square,POINT (-71.084966 42.329333),,2,7
+42.329353,-71.086552,caribbean american carnival,10 Malcolm X Blvd,2119,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.331939,-71.081979,cannassist consulting,2131 Washington St,2119,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,3.0,1 to 9,Dudley Square,POINT (-71.081979 42.331939),,2,7
+42.329768,-71.085136,callianos insurance agency,21 Roxbury St,2119,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Dudley Square,POINT (-71.085136 42.329768),,2,7
+42.328327,-71.083061,bwitz construction,70 Warren St,2119,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Dudley Square,POINT (-71.083061 42.328327),,2,7
+42.33116,-71.083193,building pathways inc,2201 Washington St,2119,0,,99,Undefined,5.0,1 to 9,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.328297,-71.086853,brush & floss llc,2489 Washington St,2119,238320,Painting and Wall Covering Contractors,23,Construction,5.0,1 to 9,Dudley Square,POINT (-71.086853 42.328297),,2,7
+42.329703,-71.085317,brummitt & kelly co,33 Roxbury St,2119,561622,Locksmiths,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,Dudley Square,POINT (-71.085317 42.329703),,2,7
+42.32875,-71.081726,brown market & grocery,194 Dudley St,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.081726 42.32875),,2,7
+42.32763,-71.08286,brother ahmed barber shop,74 Warren St,2119,812111,Barber Shops,81,Other Services,2.0,1 to 9,Dudley Square,POINT (-71.08286 42.32763),,2,7
+42.328229,-71.081997,brigs llc,185 Dudley St,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,20.0,10 to 24,Dudley Square,POINT (-71.081997 42.328229),,2,7
+42.326777,-71.08378,boys & girls club of america,115 Warren St,2119,624110,Child and Youth Services,62,Healthcare and Social Assistance,20.0,10 to 24,Dudley Square,POINT (-71.08378 42.326777),,2,7
+42.326956,-71.082849,boston youth wrestling,100 Warren St,2119,813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",81,Other Services,3.0,1 to 9,Dudley Square,POINT (-71.082849 42.326956),,2,7
+42.32621,-71.082891,boston urban youth foundation,130 Warren St,2119,813319,Other Social Advocacy Organizations,81,Other Services,6.0,1 to 9,Dudley Square,POINT (-71.082891 42.32621),,2,7
+42.330471,-71.082886,boston ten point coalition,7 Palmer St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,17.0,10 to 24,Dudley Square,POINT (-71.082886 42.330471),,2,7
+42.33012,-71.084045,boston public schools transportation,2300 Washington St,2119,485410,School and Employee Bus Transportation,48,Transportation and Warehosuing,200.0,100+,Dudley Square,POINT (-71.084045 42.33012),,2,7
+42.33012,-71.084045,boston public schools accounts payable,2300 Washington St,2119,611110,Elementary and Secondary Schools,61,Educational Services,3.0,1 to 9,Dudley Square,POINT (-71.084045 42.33012),,2,7
+42.33012,-71.084045,boston public schools,2300 Washington St,2119,611110,Elementary and Secondary Schools,61,Educational Services,133.0,100+,Dudley Square,POINT (-71.084045 42.33012),,2,7
+42.33012,-71.084045,boston public school district,2300 Washington St,2119,611110,Elementary and Secondary Schools,61,Educational Services,273.0,100+,Dudley Square,POINT (-71.084045 42.33012),,2,7
+42.328102,-71.083641,boston public library,65 Warren St,2119,519120,Libraries and Archives,51,Information,7.0,1 to 9,Dudley Square,POINT (-71.083641 42.328102),,2,7
+42.328239,-71.085632,boston police department district b-2,2400 Washington St,2119,922120,Police Protection,92,Public Administration,88.0,50 to 99,Dudley Square,POINT (-71.085632 42.328239),,2,7
+42.33116,-71.083193,boston photography,2219 Washington St,2119,541921,"Photography Studios, Portrait",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.327667,-71.083946,boston municipal courts,85 Warren St,2119,922110,Courts,92,Public Administration,109.0,100+,Dudley Square,POINT (-71.083946 42.327667),,2,7
+42.328871,-71.083476,boston municipal court-roxbury division,85 Warren St,2119,922110,Courts,92,Public Administration,3.0,1 to 9,Dudley Square,POINT (-71.083476 42.328871),,2,7
+42.329945,-71.082971,boston institute for nonprofit,22 Warren St,2119,813910,Business Associations,81,Other Services,6.0,1 to 9,Dudley Square,POINT (-71.082971 42.329945),,2,7
+42.331939,-71.081979,boston home shoppe,2129 Washington St,2119,452210,Department Stores,45,Retail Trade,6.0,1 to 9,Dudley Square,POINT (-71.081979 42.331939),,2,7
+42.327615,-71.082369,boston gateways properties,4 Kearsarge Ave,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,2.0,1 to 9,Dudley Square,POINT (-71.082369 42.327615),,2,7
+42.331939,-71.081979,boston gardener,2131 Washington St,2119,444210,Outdoor Power Equipment Stores,44,Retail Trade,5.0,1 to 9,Dudley Square,POINT (-71.081979 42.331939),,2,7
+42.33116,-71.083193,boston empowerment center,2201 Washington St,2119,921120,Legislative Bodies,92,Public Administration,20.0,10 to 24,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.33116,-71.083193,boston education skills,2201 Washington St,2119,611692,Automobile Driving Schools,61,Educational Services,3.0,1 to 9,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.328865,-71.083212,boston community loan fund inc,56 Warren St,2119,522291,Consumer Lending,52,Finance and Insurance,4.0,1 to 9,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.329353,-71.086552,boston community loan fund inc,10 Malcolm X Blvd,2119,522291,Consumer Lending,52,Finance and Insurance,4.0,1 to 9,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.329353,-71.086552,boston community capital boston community capi,10 Malcolm X Blvd,2119,813319,Other Social Advocacy Organizations,81,Other Services,52.0,50 to 99,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.328851,-71.083635,boston checkcashers inc,55 Warren St,2119,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,4.0,1 to 9,Dudley Square,POINT (-71.083635 42.328851),,2,7
+42.328388,-71.080643,boston blendz barbershop,221 Dudley St,2119,812111,Barber Shops,81,Other Services,2.0,1 to 9,Dudley Square,POINT (-71.080643 42.328388),,2,7
+42.3314,-71.082766,body by brandy 360 health,2181 Washington St,2119,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.082766 42.3314),,2,7
+42.329353,-71.086552,bluehub capital inc,10 Malcolm X Blvd,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.330517,-71.0823,bintinmani restaurant,1127 Harrison Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.330517,-71.0823,best cosmetics inc,1127 Harrison Ave,2119,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,3.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.33116,-71.083193,best corp,2201 Washington St,2119,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,4.0,1 to 9,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.329353,-71.086552,bclf ventures inc,10 Malcolm X Blvd,2119,813319,Other Social Advocacy Organizations,81,Other Services,52.0,50 to 99,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.329353,-71.086552,bcc solar energy advantage inc,10 Malcolm X Blvd,2119,522291,Consumer Lending,52,Finance and Insurance,55.0,50 to 99,Dudley Square,POINT (-71.086552 42.329353),,2,7
+42.328327,-71.083061,bayan institute inc,70 Warren St,2119,813910,Business Associations,81,Other Services,6.0,1 to 9,Dudley Square,POINT (-71.083061 42.328327),,2,7
+42.32905,-71.084669,bank of america mortgage,114 Dudley St,2119,522292,Real Estate Credit,52,Finance and Insurance,12.0,10 to 24,Dudley Square,POINT (-71.084669 42.32905),,2,7
+42.32905,-71.084669,bank of america,114 Dudley St,2119,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,Dudley Square,POINT (-71.084669 42.32905),,2,7
+42.330517,-71.0823,bandoma,1127 Harrison Ave,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.328417,-71.083056,atlantis physical therapy group,62 Warren St,2119,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,5.0,1 to 9,Dudley Square,POINT (-71.083056 42.328417),,2,7
+42.33116,-71.083193,associated early care & education inc,2201 Washington St,2119,624410,Child Day Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.330331,-71.082782,ashley stewart,2 Warren St,2119,448120,Women's Clothing Stores,44,Retail Trade,8.0,1 to 9,Dudley Square,POINT (-71.082782 42.330331),,2,7
+42.330517,-71.0823,aruurow tailoring,1127 Harrison Ave,2119,448190,Other Clothing Stores,44,Retail Trade,1.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.32765,-71.08633,arthur j hurley co inc,2500 Washington St,2119,423510,Metal Service Centers and Other Metal Merchant Wholesalers,42,Wholesale Trade,35.0,25 to 49,Dudley Square,POINT (-71.08633 42.32765),,2,7
+42.328327,-71.083061,ameridan capital management,70 Warren St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.083061 42.328327),,2,7
+42.331562,-71.081741,american city coalition,2136 Washington St,2119,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Dudley Square,POINT (-71.081741 42.331562),,2,7
+42.325992,-71.083074,amandla education network inc,136 Warren St,2119,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Dudley Square,POINT (-71.083074 42.325992),,2,7
+42.33116,-71.083193,alternatives for community,2201 Washington St,2119,813910,Business Associations,81,Other Services,12.0,10 to 24,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.330517,-71.0823,alt terrain llc,1127 Harrison Ave,2119,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.33116,-71.083193,alpha & omega,2219 Washington St,2119,448190,Other Clothing Stores,44,Retail Trade,4.0,1 to 9,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.329768,-71.085136,allstate insurance,21 Roxbury St,2119,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,Dudley Square,POINT (-71.085136 42.329768),,2,7
+42.331562,-71.081741,afrikai,2136 Washington St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.081741 42.331562),,2,7
+42.328229,-71.081997,africans in boston,185 Dudley St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.081997 42.328229),,2,7
+42.33116,-71.083193,act roxbury,2201 Washington St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.328319,-71.081398,act roxbury,184 Dudley St,2119,0,,99,Undefined,6.0,1 to 9,Dudley Square,POINT (-71.081398 42.328319),,2,7
+42.33116,-71.083193,ace,2201 Washington St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.330517,-71.0823,abyssinia market,1127 Harrison Ave,2119,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.330833,-71.083592,99 cents city corp,2249 Washington St,2119,452210,Department Stores,45,Retail Trade,2.0,1 to 9,Dudley Square,POINT (-71.083592 42.330833),,2,7
+42.33116,-71.083193,3 two mango,2201 Washington St,2119,454110,Electronic Shopping and Mail-Order Houses,45,Retail Trade,193.0,100+,Dudley Square,POINT (-71.083193 42.33116),,2,7
+42.328865,-71.083212,"11 mount pleasant, inc",56 Warren St,2119,0,,99,Undefined,0.0,Not Available,Dudley Square,POINT (-71.083212 42.328865),,2,7
+42.330047,-71.084026,tex mex mexican restaurant,2306 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Dudley Square,POINT (-71.084026 42.330047),,2,7
+42.330517,-71.0823,mama khadija's express cafe,1127 Harrison Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.330517,-71.0823,express coffee,1127 Harrison Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.330047,-71.084026,el pariso restaurant,2306 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.084026 42.330047),,2,7
+42.328408,-71.080585,el mondonguito bar & rest,221A Dudley St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.080585 42.328408),,2,7
+42.330517,-71.0823,eddy's restaurant,1127 Harrison Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.0823 42.330517),,2,7
+42.33012,-71.084045,dudley dough,2300 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Dudley Square,POINT (-71.084045 42.33012),,2,7
+42.329365,-71.084435,arizona barbeque,2360 Washington St,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Dudley Square,POINT (-71.084435 42.329365),,2,7
+42.316292,-71.078411,zion apostolic temple,241 Blue Hill Ave,2119,813110,Religious Organizations,81,Other Services,2.0,1 to 9,Grove Hall,POINT (-71.078411 42.316292),,2,7
+42.309646,-71.083129,yazs house of pizza,661 Warren St,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Grove Hall,POINT (-71.083129 42.309646),,2,7
+42.311852,-71.081048,waves custom cleaning,373 Blue Hill Ave,2121,561720,Janitorial Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Grove Hall,POINT (-71.081048 42.311852),,2,7
+42.313183,-71.084053,waumbeck distributors,2 Waumbeck St,2121,444130,Hardware Stores,44,Retail Trade,3.0,1 to 9,Grove Hall,POINT (-71.084053 42.313183),,2,7
+42.31111,-71.081567,w cac,409 Blue Hill Ave,2121,624110,Child and Youth Services,62,Healthcare and Social Assistance,7.0,1 to 9,Grove Hall,POINT (-71.081567 42.31111),,2,7
+42.308066,-71.083889,veterans benefits clearinghouse development corp,495 Blue Hill Ave,2121,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,8.0,1 to 9,Grove Hall,POINT (-71.083889 42.308066),,2,7
+42.311697,-71.081173,valy & bros furniture shop,383 Blue Hill Ave,2121,442110,Furniture Stores,44,Retail Trade,3.0,1 to 9,Grove Hall,POINT (-71.081173 42.311697),,2,7
+42.310051,-71.08298,usps,647 Warren St,2121,491110,Postal Service,49,Transportation and Warehosuing,6.0,1 to 9,Grove Hall,POINT (-71.08298 42.310051),,2,7
+42.316097,-71.078361,uptown dance center,247 Blue Hill Ave,2119,611610,Fine Arts Schools,61,Educational Services,3.0,1 to 9,Grove Hall,POINT (-71.078361 42.316097),,2,7
+42.315089,-71.07816,ups access point location,274 Blue Hill Ave,2119,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,Grove Hall,POINT (-71.07816 42.315089),,2,7
+42.313376,-71.083394,united housing management llc,530 Warren St,2121,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,44.0,25 to 49,Grove Hall,POINT (-71.083394 42.313376),,2,7
+42.313376,-71.083394,uhm properties,530 Warren St,2121,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,0.0,Not Available,Grove Hall,POINT (-71.083394 42.313376),,2,7
+42.313183,-71.084053,thomas construction services,2 Waumbeck St,2121,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,10.0,10 to 24,Grove Hall,POINT (-71.084053 42.313183),,2,7
+42.308289,-71.083599,stanwood dry cleaning inc,491 Blue Hill Ave,2121,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,Grove Hall,POINT (-71.083599 42.308289),,2,7
+42.308066,-71.083889,sonoma maple schuyler llc,495 Blue Hill Ave,2121,0,,99,Undefined,12.0,10 to 24,Grove Hall,POINT (-71.083889 42.308066),,2,7
+42.312356,-71.082654,solutions group inc,570 Warren St,2121,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Grove Hall,POINT (-71.082654 42.312356),,2,7
+42.316134,-71.078422,seven 86 market inc,249 Blue Hill Ave,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Grove Hall,POINT (-71.078422 42.316134),,2,7
+42.314195,-71.078763,sanad inc,310 Blue Hill Ave,2121,511210,Software Publishers,51,Information,10.0,10 to 24,Grove Hall,POINT (-71.078763 42.314195),,2,7
+42.3108,-71.083737,roxbury trust,5 Crawford St,2121,541720,Research and Development in the Social Sciences and Humanities,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Grove Hall,POINT (-71.083737 42.3108),,2,7
+42.313448,-71.07986,roxbury multi-svc center inc,321 Blue Hill Ave,2121,624110,Child and Youth Services,62,Healthcare and Social Assistance,57.0,50 to 99,Grove Hall,POINT (-71.07986 42.313448),,2,7
+42.313589,-71.079473,roxbury multi-svc center inc,317 Blue Hill Ave,2121,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Grove Hall,POINT (-71.079473 42.313589),,2,7
+42.313376,-71.083394,roxbury hills management corp,530 Warren St,2121,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Grove Hall,POINT (-71.083394 42.313376),,2,7
+42.309772,-71.083015,red island restaurant,657 Warren St,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Grove Hall,POINT (-71.083015 42.309772),,2,7
+42.316286,-71.077939,rare find,244 Blue Hill Ave,2119,237990,Other Heavy and Civil Engineering Construction,23,Construction,30.0,25 to 49,Grove Hall,POINT (-71.077939 42.316286),,2,7
+42.317885,-71.077637,quick links multiservices,200 Blue Hill Ave,2119,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Grove Hall,POINT (-71.077637 42.317885),,2,7
+42.316134,-71.078422,professional chiropractic,245 Blue Hill Ave,2119,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,2.0,1 to 9,Grove Hall,POINT (-71.078422 42.316134),,2,7
+42.318991,-71.077536,planet gracie-ma,164 Blue Hill Ave,2119,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Grove Hall,POINT (-71.077536 42.318991),,2,7
+42.308374,-71.083649,partners of love inc,493 Blue Hill Ave,2121,813319,Other Social Advocacy Organizations,81,Other Services,4.0,1 to 9,Grove Hall,POINT (-71.083649 42.308374),,2,7
+42.316987,-71.077818,osman select ghani,218 Blue Hill Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Grove Hall,POINT (-71.077818 42.316987),,2,7
+42.317085,-71.078827,nuestra properties,233 Blue Hill Ave,2119,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Grove Hall,POINT (-71.078827 42.317085),,2,7
+42.311104,-71.083432,new covenant missionary church,615 Warren St,2121,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Grove Hall,POINT (-71.083432 42.311104),,2,7
+42.308768,-71.083613,neighborhood development corp of grove hall,7 Cheney St,2121,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,8.0,1 to 9,Grove Hall,POINT (-71.083613 42.308768),,2,7
+42.311906,-71.081005,naidely's market inc,367 Blue Hill Ave,2121,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Grove Hall,POINT (-71.081005 42.311906),,2,7
+42.308366,-71.083648,nadette wireless,489 Blue Hill Ave,2121,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Grove Hall,POINT (-71.083648 42.308366),,2,7
+42.307572,-71.084269,mother caroline academy & educ,515 Blue Hill Ave,2121,611110,Elementary and Secondary Schools,61,Educational Services,15.0,10 to 24,Grove Hall,POINT (-71.084269 42.307572),,2,7
+42.308289,-71.083599,mipilon,491 Blue Hill Ave,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Grove Hall,POINT (-71.083599 42.308289),,2,7
+42.319088,-71.077534,merengue restaurant & catering,160 Blue Hill Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Grove Hall,POINT (-71.077534 42.319088),,2,7
+42.311697,-71.081173,meca inc,383 Blue Hill Ave,2121,0,,99,Undefined,0.0,Not Available,Grove Hall,POINT (-71.081173 42.311697),,2,7
+42.309738,-71.083,mattapan's finest barber,653 Warren St,2121,812111,Barber Shops,81,Other Services,2.0,1 to 9,Grove Hall,POINT (-71.083 42.309738),,2,7
+42.308706,-71.083516,matam home decor,483 Blue Hill Ave,2121,541410,Interior Design Services,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Grove Hall,POINT (-71.083516 42.308706),,2,7
+42.309909,-71.082591,massachusetts department-children & families,451 Blue Hill Ave,2121,624110,Child and Youth Services,62,Healthcare and Social Assistance,24.0,10 to 24,Grove Hall,POINT (-71.082591 42.309909),,2,7
+42.316097,-71.078361,maryleny insurance agency llc,247 Blue Hill Ave,2119,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Grove Hall,POINT (-71.078361 42.316097),,2,7
+42.306591,-71.084863,maple commons,21 Nazing St,2121,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Grove Hall,POINT (-71.084863 42.306591),,2,7
+42.308706,-71.083516,maireso,479 Blue Hill Ave,2121,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Grove Hall,POINT (-71.083516 42.308706),,2,7
+42.316419,-71.077822,lulu's hair salon,240 Blue Hill Ave,2119,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Grove Hall,POINT (-71.077822 42.316419),,2,7
+42.309909,-71.082591,long bay management,451 Blue Hill Ave,2121,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Grove Hall,POINT (-71.082591 42.309909),,2,7
+42.309738,-71.083,liberty tax service,653 Warren St,2121,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",20.0,10 to 24,Grove Hall,POINT (-71.083 42.309738),,2,7
+42.308933,-71.083364,laundry king,471 Blue Hill Ave,2121,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,2.0,1 to 9,Grove Hall,POINT (-71.083364 42.308933),,2,7
+42.311748,-71.081128,la cuchara restaurant inc,381 Blue Hill Ave,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Grove Hall,POINT (-71.081128 42.311748),,2,7
+42.315177,-71.078145,l dee's bait shop,270 Blue Hill Ave,2119,451110,Sporting Goods Stores,45,Retail Trade,1.0,1 to 9,Grove Hall,POINT (-71.078145 42.315177),,2,7
+42.310177,-71.082809,kings-queens unisex hair salon,634 Warren St,2121,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Grove Hall,POINT (-71.082809 42.310177),,2,7
+42.311852,-71.081048,jomar,373 Blue Hill Ave,2121,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,23.0,10 to 24,Grove Hall,POINT (-71.081048 42.311852),,2,7
+42.317669,-71.078094,inglesia metodista libre faro,203 Blue Hill Ave,2119,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Grove Hall,POINT (-71.078094 42.317669),,2,7
+42.308366,-71.083648,hollywood liquors,489 Blue Hill Ave,2121,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Grove Hall,POINT (-71.083648 42.308366),,2,7
+42.315168,-71.078854,haynes early education center,263 Blue Hill Ave,2119,624410,Child Day Care Services,62,Healthcare and Social Assistance,55.0,50 to 99,Grove Hall,POINT (-71.078854 42.315168),,2,7
+42.310019,-71.083323,hair stop,655 Warren St,2121,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",44,Retail Trade,3.0,1 to 9,Grove Hall,POINT (-71.083323 42.310019),,2,7
+42.308706,-71.083516,grove hall foods corp,479 Blue Hill Ave,2121,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Grove Hall,POINT (-71.083516 42.308706),,2,7
+42.308289,-71.083599,grove hall cleaners,491 Blue Hill Ave,2121,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,2.0,1 to 9,Grove Hall,POINT (-71.083599 42.308289),,2,7
+42.308374,-71.083649,got sole,493 Blue Hill Ave,2121,448210,Shoe Stores,44,Retail Trade,5.0,1 to 9,Grove Hall,POINT (-71.083649 42.308374),,2,7
+42.313399,-71.083084,general air conditioning & heating,7 Gaston St,2121,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,7.0,1 to 9,Grove Hall,POINT (-71.083084 42.313399),,2,7
+42.314072,-71.079513,future chefs,305 Blue Hill Ave,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Grove Hall,POINT (-71.079513 42.314072),,2,7
+42.3108,-71.083737,freedom house,5 Crawford St,2121,813319,Other Social Advocacy Organizations,81,Other Services,49.0,25 to 49,Grove Hall,POINT (-71.083737 42.3108),,2,7
+42.313183,-71.084053,frank,2 Waumbeck St,2121,0,,99,Undefined,0.0,Not Available,Grove Hall,POINT (-71.084053 42.313183),,2,7
+42.309646,-71.083129,food for the soul inc,651 Warren St,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Grove Hall,POINT (-71.083129 42.309646),,2,7
+42.309042,-71.083293,flames restaurant,469 Blue Hill Ave,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Grove Hall,POINT (-71.083293 42.309042),,2,7
+42.317043,-71.078165,first teacher,221 Blue Hill Ave,2119,611710,Educational Support Services,61,Educational Services,7.0,1 to 9,Grove Hall,POINT (-71.078165 42.317043),,2,7
+42.311351,-71.081606,first haitian,397 Blue Hill Ave,2121,813110,Religious Organizations,81,Other Services,7.0,1 to 9,Grove Hall,POINT (-71.081606 42.311351),,2,7
+42.311047,-71.081627,finest cuts barber shop,405 Blue Hill Ave,2121,812111,Barber Shops,81,Other Services,3.0,1 to 9,Grove Hall,POINT (-71.081627 42.311047),,2,7
+42.316286,-71.077939,fine living realty,244 Blue Hill Ave,2119,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Grove Hall,POINT (-71.077939 42.316286),,2,7
+42.318746,-71.077099,f & f auto glass service,178 Blue Hill Ave,2119,444190,Other Building Material Dealers,44,Retail Trade,2.0,1 to 9,Grove Hall,POINT (-71.077099 42.318746),,2,7
+42.318929,-71.077531,el fogon restaurant,170 Blue Hill Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Grove Hall,POINT (-71.077531 42.318929),,2,7
+42.308706,-71.083516,edward's barbershop,479 Blue Hill Ave,2121,812111,Barber Shops,81,Other Services,3.0,1 to 9,Grove Hall,POINT (-71.083516 42.308706),,2,7
+42.316097,-71.078361,edward diaz-abreu inc,247 Blue Hill Ave,2119,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Grove Hall,POINT (-71.078361 42.316097),,2,7
+42.310145,-71.082744,dukor insurance,632 Warren St,2121,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Grove Hall,POINT (-71.082744 42.310145),,2,7
+42.310145,-71.082744,ducor express travel,632 Warren St,2121,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Grove Hall,POINT (-71.082744 42.310145),,2,7
+42.308374,-71.083649,dlb insurance llc,493 Blue Hill Ave,2121,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,1.0,1 to 9,Grove Hall,POINT (-71.083649 42.308374),,2,7
+42.313448,-71.07986,cuba estilo barbershop,321 Blue Hill Ave,2121,812111,Barber Shops,81,Other Services,2.0,1 to 9,Grove Hall,POINT (-71.07986 42.313448),,2,7
+42.317276,-71.077725,clean service bd,210 Blue Hill Ave,2119,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Grove Hall,POINT (-71.077725 42.317276),,2,7
+42.311697,-71.081173,cielo beauty salon,383 Blue Hill Ave,2121,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Grove Hall,POINT (-71.081173 42.311697),,2,7
+42.311852,-71.081048,christian express wireless,373 Blue Hill Ave,2121,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Grove Hall,POINT (-71.081048 42.311852),,2,7
+42.31504,-71.078211,christ apostolic church mount joy,276 Blue Hill Ave,2119,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Grove Hall,POINT (-71.078211 42.31504),,2,7
+42.312907,-71.083624,charles street ame church,551 Warren St,2121,813110,Religious Organizations,81,Other Services,8.0,1 to 9,Grove Hall,POINT (-71.083624 42.312907),,2,7
+42.312907,-71.083624,charles street african methodist,551 Warren St,2121,813110,Religious Organizations,81,Other Services,0.0,Not Available,Grove Hall,POINT (-71.083624 42.312907),,2,7
+42.316987,-71.077818,central convenience,218 Blue Hill Ave,2119,445120,Convenience Stores,44,Retail Trade,3.0,1 to 9,Grove Hall,POINT (-71.077818 42.316987),,2,7
+42.311748,-71.081128,castillo kitchen inc,381 Blue Hill Ave,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Grove Hall,POINT (-71.081128 42.311748),,2,7
+42.309909,-71.082591,casa myrna vazquez inc,451 Blue Hill Ave,2121,813311,Human Rights Organizations,81,Other Services,8.0,1 to 9,Grove Hall,POINT (-71.082591 42.309909),,2,7
+42.315866,-71.077556,cardinal medeiros manor,11 Woodcliff St,2125,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,2.0,1 to 9,Grove Hall,POINT (-71.077556 42.315866),,2,7
+42.311799,-71.081088,caramelo bakery & cafe,375 Blue Hill Ave,2121,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Grove Hall,POINT (-71.081088 42.311799),,2,7
+42.312626,-71.080513,breezes laudromat,345 Blue Hill Ave,2121,812310,Coin-Operated Laundries and Drycleaners,81,Other Services,2.0,1 to 9,Grove Hall,POINT (-71.080513 42.312626),,2,7
+42.308706,-71.083516,boost mobile premier,487 Blue Hill Ave,2121,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,1.0,1 to 9,Grove Hall,POINT (-71.083516 42.308706),,2,7
+42.319004,-71.077911,blue hill superette,167 Blue Hill Ave,2119,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers,42,Wholesale Trade,4.0,1 to 9,Grove Hall,POINT (-71.077911 42.319004),,2,7
+42.318929,-71.077531,blue hill coffee shop,170 Blue Hill Ave,2119,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Grove Hall,POINT (-71.077531 42.318929),,2,7
+42.309646,-71.083129,blue hill barbers inc,663 Warren St,2121,812111,Barber Shops,81,Other Services,2.0,1 to 9,Grove Hall,POINT (-71.083129 42.309646),,2,7
+42.309863,-71.083202,blossoming minds inc,647 Warren St,2121,0,,99,Undefined,0.0,Not Available,Grove Hall,POINT (-71.083202 42.309863),,2,7
+42.317954,-71.077627,bliss international cafe,194 Blue Hill Ave,2119,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Grove Hall,POINT (-71.077627 42.317954),,2,7
+42.318746,-71.077099,big tire shop,178 Blue Hill Ave,2119,441320,Tire Dealers,44,Retail Trade,4.0,1 to 9,Grove Hall,POINT (-71.077099 42.318746),,2,7
+42.311104,-71.083432,beulah pilgrim holiness church,615 Warren St,2121,813110,Religious Organizations,81,Other Services,1.0,1 to 9,Grove Hall,POINT (-71.083432 42.311104),,2,7
+42.316134,-71.078422,afra belal inc,249 Blue Hill Ave,2119,0,,99,Undefined,0.0,Not Available,Grove Hall,POINT (-71.078422 42.316134),,2,7
+42.310145,-71.082744,affordable cleaning snow removal,636 Warren St,2121,238990,All Other Specialty Trade Contractors,23,Construction,2.0,1 to 9,Grove Hall,POINT (-71.082744 42.310145),,2,7
+42.312593,-71.083423,abcd roxbury,553 Warren St,2121,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Grove Hall,POINT (-71.083423 42.312593),,2,7
+42.312764,-71.08369,abcd,575 Warren St,2121,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Grove Hall,POINT (-71.08369 42.312764),,2,7
+42.311391,-71.082725,a good thing,578 Warren St,2121,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,1.0,1 to 9,Grove Hall,POINT (-71.082725 42.311391),,2,7
+42.316134,-71.078422,86 market inc,249 Blue Hill Ave,2119,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Grove Hall,POINT (-71.078422 42.316134),,2,7
+42.311748,-71.081128,sanya caribbean restaurant,379 Blue Hill Ave,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Grove Hall,POINT (-71.081128 42.311748),,2,7
+42.308706,-71.083516,roho convenience market all,479 Blue Hill Ave,2121,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Grove Hall,POINT (-71.083516 42.308706),,2,7
+42.309646,-71.083129,eagle pizza,661 Warren St,2121,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Grove Hall,POINT (-71.083129 42.309646),,2,7
+42.319191,-71.077541,blue hill avenue plumbing,156 Blue Hill Ave,2119,238220,"Plumbing, Heating, and Air-Conditioning Contractors",23,Construction,3.0,1 to 9,Grove Hall,POINT (-71.077541 42.319191),,2,7
+42.319351,-71.070091,the salvation army-boston kroc center,650 Dudley St,2125,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,7.0,1 to 9,Uphams Corner,POINT (-71.070091 42.319351),,2,7
+42.331933,-71.096624,unlimited pcs,1441 Tremont St,2120,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Mission Hill,POINT (-71.096624 42.331933),,2,7
+42.331961,-71.096703,nachlo,1443 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Mission Hill,POINT (-71.096703 42.331961),,2,7
+42.331901,-71.096396,moguled,1433 Tremont St,2120,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Mission Hill,POINT (-71.096396 42.331901),,2,7
+42.331898,-71.096481,in the cut boston barbershop,1435 Tremont St,2120,812111,Barber Shops,81,Other Services,1.0,1 to 9,Mission Hill,POINT (-71.096481 42.331898),,2,7
+42.331901,-71.096396,hamdi alal market,1433 Tremont St,2120,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Mission Hill,POINT (-71.096396 42.331901),,2,7
+42.332334,-71.096416,fuentes market,680 Parker St,2120,452319,All Other General Merchandise Stores,45,Retail Trade,7.0,1 to 9,Mission Hill,POINT (-71.096416 42.332334),,2,7
+42.331874,-71.09633,eastern bank,1427 Tremont St,2120,522110,Commercial Banking,52,Finance and Insurance,50.0,50 to 99,Mission Hill,POINT (-71.09633 42.331874),,2,7
+42.331961,-71.096703,dunkin',1443 Tremont St,2120,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,12.0,10 to 24,Mission Hill,POINT (-71.096703 42.331961),,2,7
+42.331989,-71.096786,chiropractic health center,1445 Tremont St,2120,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Mission Hill,POINT (-71.096786 42.331989),,2,7
+42.331933,-71.096624,chiropractic health center,1441 Tremont St,2120,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Mission Hill,POINT (-71.096624 42.331933),,2,7
+42.331779,-71.09594,boston cyclists union,1419 Tremont St,2120,813410,Civic and Social Organizations,81,Other Services,4.0,1 to 9,Mission Hill,POINT (-71.09594 42.331779),,2,7
+42.331933,-71.096624,beta burger,1437 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Mission Hill,POINT (-71.096624 42.331933),,2,7
+42.331874,-71.09633,ak's take-out & delivery,1427 Tremont St,2120,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Mission Hill,POINT (-71.09633 42.331874),,2,7

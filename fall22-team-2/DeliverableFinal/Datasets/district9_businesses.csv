@@ -1,0 +1,696 @@
+latitude,longitude,business_name,street_address,zip,NAICS_2017_6digit_code,NAICS_2017_6digit_desc,NAICS_2017_2digit_code,NAICS_2017_2digit_desc,estimated_employment,employment_buckets,mainstreet,geometry,district,index_right,DISTRICT
+42.349398,-71.154065,zisis convenience store,375 Washington St,2135,452319,All Other General Merchandise Stores,45,Retail Trade,1.0,1 to 9,Brighton,POINT (-71.154065 42.349398),,7,9
+42.350387,-71.165135,ziggy's,583 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.165135 42.350387),,7,9
+42.349219,-71.151769,zen zone acupuncture & spa,319 Washington St,2135,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,2.0,1 to 9,Brighton,POINT (-71.151769 42.349219),,7,9
+42.349465,-71.153117,yes nails & spa inc,416 Market St,2135,812113,Nail Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.153117 42.349465),,7,9
+42.349453,-71.151543,xfinity,12 Wirt St,2135,515210,Cable and Other Subscription Programming,51,Information,13.0,10 to 24,Brighton,POINT (-71.151543 42.349453),,7,9
+42.350165,-71.164769,woof local,567 Washington St,2135,812910,Pet Care (except Veterinary) Services,81,Other Services,11.0,10 to 24,Brighton,POINT (-71.164769 42.350165),,7,9
+42.349214,-71.162873,wok n talk,525 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.162873 42.349214),,7,9
+42.349978,-71.164422,wings express of brighton,563 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Brighton,POINT (-71.164422 42.349978),,7,9
+42.349902,-71.150153,"william j moran md, pc",17 Henshaw St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,0.0,Not Available,Brighton,POINT (-71.150153 42.349902),,7,9
+42.3489,-71.148244,"we care boston md, pllc",736 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Brighton,POINT (-71.148244 42.3489),,7,9
+42.349198,-71.151567,walsh wine & spirits,313 Washington St,2135,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,2.0,1 to 9,Brighton,POINT (-71.151567 42.349198),,7,9
+42.34892,-71.154565,walsh wine & spirit,388 Washington St,2135,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,0.0,Not Available,Brighton,POINT (-71.154565 42.34892),,7,9
+42.348919,-71.153648,wah foong electronics,364 Washington St,2135,811211,Consumer Electronics Repair and Maintenance,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.153648 42.348919),,7,9
+42.348919,-71.153648,vivi bubble tea,364 Washington St,2135,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Brighton,POINT (-71.153648 42.348919),,7,9
+42.348246,-71.153462,"veronica b smith multi-service senior center, inc",20 Chestnut Hill Ave,2135,0,,99,Undefined,4.0,1 to 9,Brighton,POINT (-71.153462 42.348246),,7,9
+42.349263,-71.153153,verizon wireless,363 Washington St,2135,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,9.0,1 to 9,Brighton,POINT (-71.153153 42.349263),,7,9
+42.349306,-71.154395,venetian beauty shoppe,385 Washington St,2135,812112,Beauty Salons,81,Other Services,4.0,1 to 9,Brighton,POINT (-71.154395 42.349306),,7,9
+42.349228,-71.158508,v p development,461 Washington St,2135,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Brighton,POINT (-71.158508 42.349228),,7,9
+42.349091,-71.156278,usps,424 Washington St,2135,491110,Postal Service,49,Transportation and Warehosuing,65.0,50 to 99,Brighton,POINT (-71.156278 42.349091),,7,9
+42.348894,-71.151707,"unbound visual arts, inc",320 Washington St,2135,712110,Museums,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Brighton,POINT (-71.151707 42.348894),,7,9
+42.349978,-71.164422,twelve hours,559 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.164422 42.349978),,7,9
+42.34891,-71.15291,transatlantic,344 Washington St,2135,237210,Land Subdivision,23,Construction,4.0,1 to 9,Brighton,POINT (-71.15291 42.34891),,7,9
+42.349219,-71.151769,threemain llc,319 Washington St,2135,423210,Furniture Merchant Wholesalers,42,Wholesale Trade,0.0,Not Available,Brighton,POINT (-71.151769 42.349219),,7,9
+42.34921,-71.152414,thos upholstery,341 Washington St,2135,811420,Reupholstery and Furniture Repair,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.152414 42.34921),,7,9
+42.348813,-71.152177,the puritan,328 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.152177 42.348813),,7,9
+42.349817,-71.149896,the premier tutors,15 Henshaw St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.149896 42.349817),,7,9
+42.350071,-71.165367,the 34 barbershop,580 Washington St,2135,812111,Barber Shops,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.165367 42.350071),,7,9
+42.351239,-71.168429,thai north,433 Faneuil St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Brighton,POINT (-71.168429 42.351239),,7,9
+42.35027,-71.164853,teresa market inc,571 Washington St,2135,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Brighton,POINT (-71.164853 42.35027),,7,9
+42.349394,-71.156032,tech rescue,425 Washington St,2135,811213,Communication Equipment Repair and Maintenance,81,Other Services,1.0,1 to 9,Brighton,POINT (-71.156032 42.349394),,7,9
+42.350071,-71.165367,taireiki wellness center,580 Washington St,2135,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,8.0,1 to 9,Brighton,POINT (-71.165367 42.350071),,7,9
+42.348715,-71.158987,t-mobile,462 Washington St,2135,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,6.0,1 to 9,Brighton,POINT (-71.158987 42.348715),,7,9
+42.349185,-71.15886,susan ruffo associates,465 Washington St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Brighton,POINT (-71.15886 42.349185),,7,9
+42.348879,-71.152505,superior dining group llc,2 Academy Hill Rd,2135,722310,Food Service Contractors,72,Accommodation and Food Services,2.0,1 to 9,Brighton,POINT (-71.152505 42.348879),,7,9
+42.350318,-71.167409,sunoco oak square,602 Washington St,2135,447190,Other Gasoline Stations,44,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.167409 42.350318),,7,9
+42.352063,-71.172106,sullivan jos,692 Washington St,2135,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Brighton,POINT (-71.172106 42.352063),,7,9
+42.3494,-71.155286,subway,419 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.155286 42.3494),,7,9
+42.348894,-71.151707,studio of engaging math,320 Washington St,2135,611710,Educational Support Services,61,Educational Services,9.0,1 to 9,Brighton,POINT (-71.151707 42.348894),,7,9
+42.3489,-71.148244,"steward st elizabeth's medical center of boston, inc",736 Cambridge St,2135,0,,99,Undefined,4.0,1 to 9,Brighton,POINT (-71.148244 42.3489),,7,9
+42.3489,-71.148244,steward st elizabeth medical ctr-id department,736 Cambridge St,2135,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,501.0,100+,Brighton,POINT (-71.148244 42.3489),,7,9
+42.348883,-71.147424,steward physicians network,11 Nevins St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,15.0,10 to 24,Brighton,POINT (-71.147424 42.348883),,7,9
+42.3489,-71.148244,steward orthopedics,736 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,8.0,1 to 9,Brighton,POINT (-71.148244 42.3489),,7,9
+42.349453,-71.151543,steward medical,12 Wirt St,2135,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Brighton,POINT (-71.151543 42.349453),,7,9
+42.348542,-71.159559,starbucks,470 Washington St,2135,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,10.0,10 to 24,Brighton,POINT (-71.159559 42.348542),,7,9
+42.34917,-71.151749,star dance school newton,323 Washington St,2135,611610,Fine Arts Schools,61,Educational Services,3.0,1 to 9,Brighton,POINT (-71.151749 42.34917),,7,9
+42.34917,-71.151749,star dance school,323 Washington St,2461,611610,Fine Arts Schools,61,Educational Services,6.0,1 to 9,Brighton,POINT (-71.151749 42.34917),,7,9
+42.3489,-71.148244,st elizabeth's medical center,736 Cambridge St,2135,622110,General Medical and Surgical Hospitals,62,Healthcare and Social Assistance,30.0,25 to 49,Brighton,POINT (-71.148244 42.3489),,7,9
+42.3489,-71.148244,st elizabeth's cardiovascular group,736 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,10.0,10 to 24,Brighton,POINT (-71.148244 42.3489),,7,9
+42.349263,-71.153162,speechless music,353 Washington St,2135,711190,Other Performing Arts Companies,71,"Arts, Entertainment, and Recreation",1.0,1 to 9,Brighton,POINT (-71.153162 42.349263),,7,9
+42.349263,-71.153162,speechless,353 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.153162 42.349263),,7,9
+42.349263,-71.153153,software tool & die,363 Washington St,2135,518210,"Data Processing, Hosting, and Related Services",51,Information,24.0,10 to 24,Brighton,POINT (-71.153153 42.349263),,7,9
+42.352072,-71.172331,software tool & die,696 Washington St,2135,444130,Hardware Stores,44,Retail Trade,0.0,Not Available,Brighton,POINT (-71.172331 42.352072),,7,9
+42.349465,-71.153117,soc noodles inc,412 Market St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.153117 42.349465),,7,9
+42.347872,-71.154392,shaloh house,29 Chestnut Hill Ave,2135,611110,Elementary and Secondary Schools,61,Educational Services,24.0,10 to 24,Brighton,POINT (-71.154392 42.347872),,7,9
+42.3489,-71.148244,seward medical group,736 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,5.0,1 to 9,Brighton,POINT (-71.148244 42.3489),,7,9
+42.3489,-71.148244,secap st elizabeth's comprehensive addiction program,736 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,25.0,25 to 49,Brighton,POINT (-71.148244 42.3489),,7,9
+42.349263,-71.153162,scott kulman,353 Washington St,2135,0,,99,Undefined,5.0,1 to 9,Brighton,POINT (-71.153162 42.349263),,7,9
+42.348881,-71.153272,scoop n scootery,360 Washington St,2135,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,0.0,Not Available,Brighton,POINT (-71.153272 42.348881),,7,9
+42.348722,-71.153317,sassy by ebony nicole,8 Chestnut Hill Ave,2135,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.153317 42.348722),,7,9
+42.349819,-71.153348,santander bank,415 Market St,2135,522110,Commercial Banking,52,Finance and Insurance,6.0,1 to 9,Brighton,POINT (-71.153348 42.349819),,7,9
+42.348881,-71.153272,sam's tailor shop & dry cleaners,6 Chestnut Hill Ave,2135,448190,Other Clothing Stores,44,Retail Trade,1.0,1 to 9,Brighton,POINT (-71.153272 42.348881),,7,9
+42.351625,-71.171493,saint johns seminary,676 Washington St,2135,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,21.0,10 to 24,Brighton,POINT (-71.171493 42.351625),,7,9
+42.348883,-71.147424,saint elizabeth's medical office,11 Nevins St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,8.0,1 to 9,Brighton,POINT (-71.147424 42.348883),,7,9
+42.350165,-71.164769,ricky-b corp,567 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.164769 42.350165),,7,9
+42.349902,-71.150153,red lotus massage & bodywork,17 Henshaw St,2135,812199,Other Personal Care Services,81,Other Services,1.0,1 to 9,Brighton,POINT (-71.150153 42.349902),,7,9
+42.34931,-71.153246,re/max select realty,420 Market St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,13.0,10 to 24,Brighton,POINT (-71.153246 42.34931),,7,9
+42.34865,-71.160286,prime realty group,480 Washington St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Brighton,POINT (-71.160286 42.34865),,7,9
+42.349464,-71.149648,preventive medicine association,9 Henshaw St,2135,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,8.0,1 to 9,Brighton,POINT (-71.149648 42.349464),,7,9
+42.350592,-71.169433,presentation school foundation community center,640 Washington St,2135,624110,Child and Youth Services,62,Healthcare and Social Assistance,10.0,10 to 24,Brighton,POINT (-71.169433 42.350592),,7,9
+42.348879,-71.152505,porter belly's pub,338 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,9.0,1 to 9,Brighton,POINT (-71.152505 42.348879),,7,9
+42.3489,-71.148244,por cristo,736 Cambridge St,2135,813319,Other Social Advocacy Organizations,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.148244 42.3489),,7,9
+42.348894,-71.151707,plein-air art academy,320 Washington St,2135,611610,Fine Arts Schools,61,Educational Services,2.0,1 to 9,Brighton,POINT (-71.151707 42.348894),,7,9
+42.350312,-71.165089,phils hair design,581 Washington St,2135,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.165089 42.350312),,7,9
+42.349219,-71.151769,perreaut & childers,319 Washington St,2135,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Brighton,POINT (-71.151769 42.349219),,7,9
+42.348879,-71.152505,perfectionist painters,2 Academy Hill Rd,2135,238320,Painting and Wall Covering Contractors,23,Construction,2.0,1 to 9,Brighton,POINT (-71.152505 42.348879),,7,9
+42.350552,-71.165484,pella insurance,585 Washington St,2135,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,Brighton,POINT (-71.165484 42.350552),,7,9
+42.349504,-71.163732,pbi construction inc,545 Washington St,2135,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,1.0,1 to 9,Brighton,POINT (-71.163732 42.349504),,7,9
+42.350167,-71.166331,paris nail & spa,590 Washington St,2135,812113,Nail Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.166331 42.350167),,7,9
+42.349398,-71.154065,paris model nail,373 Washington St,2135,812113,Nail Salons,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.154065 42.349398),,7,9
+42.349214,-71.162873,papa john's pizza,533 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,14.0,10 to 24,Brighton,POINT (-71.162873 42.349214),,7,9
+42.3494,-71.155286,palace spa,419 Washington St,2135,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.155286 42.3494),,7,9
+42.348894,-71.151707,our future learning center,320 Washington St,2135,611710,Educational Support Services,61,Educational Services,16.0,10 to 24,Brighton,POINT (-71.151707 42.348894),,7,9
+42.349464,-71.149648,optimum vision care,9 Henshaw St,2135,621320,Offices of Optometrists,62,Healthcare and Social Assistance,5.0,1 to 9,Brighton,POINT (-71.149648 42.349464),,7,9
+42.348881,-71.153272,open doors,360 Washington St,2135,444190,Other Building Material Dealers,44,Retail Trade,5.0,1 to 9,Brighton,POINT (-71.153272 42.348881),,7,9
+42.349277,-71.152924,omg optical,357 Washington St,2135,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Brighton,POINT (-71.152924 42.349277),,7,9
+42.350387,-71.165135,olivia's pizza,583 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Brighton,POINT (-71.165135 42.350387),,7,9
+42.349198,-71.151567,northerrn ave hospitality inc,311 Washington St,2135,721110,Hotels (except Casino Hotels) and Motels,72,Accommodation and Food Services,13.0,10 to 24,Brighton,POINT (-71.151567 42.349198),,7,9
+42.350592,-71.169433,northeast cpr,640 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.169433 42.350592),,7,9
+42.34892,-71.154565,newa liquors inc,388 Washington St,2135,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.154565 42.34892),,7,9
+42.3489,-71.148244,new england sinai hospital,736 Cambridge St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.148244 42.3489),,7,9
+42.348883,-71.147424,new england eye center,11 Nevins St,2135,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,16.0,10 to 24,Brighton,POINT (-71.147424 42.348883),,7,9
+42.348777,-71.155207,nearly new thrift shop,404 Washington St,2135,453310,Used Merchandise Stores,45,Retail Trade,0.0,Not Available,Brighton,POINT (-71.155207 42.348777),,7,9
+42.34954,-71.163674,miyuki sushi japanese restaurant,547 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.163674 42.34954),,7,9
+42.348892,-71.154381,minas jewelry & fashion,382 Washington St,2135,448310,Jewelry Stores,44,Retail Trade,2.0,1 to 9,Brighton,POINT (-71.154381 42.348892),,7,9
+42.348881,-71.153272,michael's hair cutting for men,4 Chestnut Hill Ave,2135,812111,Barber Shops,81,Other Services,1.0,1 to 9,Brighton,POINT (-71.153272 42.348881),,7,9
+42.349453,-71.151543,metro package delivery inc,12 Wirt St,2135,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,5.0,1 to 9,Brighton,POINT (-71.151543 42.349453),,7,9
+42.349258,-71.153083,mdm noodles,351 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.153083 42.349258),,7,9
+42.348722,-71.153317,mcdevitt realty,8 Chestnut Hill Ave,2135,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,1.0,1 to 9,Brighton,POINT (-71.153317 42.348722),,7,9
+42.349453,-71.151543,mcdermott realty associates,12 Wirt St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,Brighton,POINT (-71.151543 42.349453),,7,9
+42.348762,-71.154291,max taylor & company inc,380 Washington St,2135,424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),42,Wholesale Trade,11.0,10 to 24,Brighton,POINT (-71.154291 42.348762),,7,9
+42.349465,-71.153117,matt's barber shop,408 Market St,2135,812111,Barber Shops,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.153117 42.349465),,7,9
+42.350341,-71.166835,mass united bjj,600 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.166835 42.350341),,7,9
+42.349667,-71.149361,mason management,8 Elko St,2135,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Brighton,POINT (-71.149361 42.349667),,7,9
+42.351633,-71.166966,martinelli service inc,393 Faneuil St,2135,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Brighton,POINT (-71.166966 42.351633),,7,9
+42.348863,-71.157391,maria vasilakis llc,438 Washington St,2135,621210,Offices of Dentists,62,Healthcare and Social Assistance,7.0,1 to 9,Brighton,POINT (-71.157391 42.348863),,7,9
+42.349297,-71.15522,magic cuts,409 Washington St,2135,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.15522 42.349297),,7,9
+42.349985,-71.165078,macs deli,572 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.165078 42.349985),,7,9
+42.349453,-71.151543,macdonald brothers moving,12 Wirt St,2135,531130,Lessors of Miniwarehouses and Self-Storage Units,53,Real Estate Rental and Leasing,3.0,1 to 9,Brighton,POINT (-71.151543 42.349453),,7,9
+42.348691,-71.150477,m v conglomerate corp,288 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.150477 42.348691),,7,9
+42.350229,-71.164903,lovely nails salon,579 Washington St,2135,812113,Nail Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.164903 42.350229),,7,9
+42.3489,-71.148244,lori's gifts,736 Cambridge St,2135,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.148244 42.3489),,7,9
+42.349275,-71.154223,lo & hana fashion corp,369 Washington St,2135,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.154223 42.349275),,7,9
+42.349263,-71.153162,lo & hana fashion,353 Washington St,2135,448140,Family Clothing Stores,44,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.153162 42.349263),,7,9
+42.35044,-71.167964,livion organic,618 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.167964 42.35044),,7,9
+42.350592,-71.169433,little sprouts early education & child care,640 Washington St,2135,624410,Child Day Care Services,62,Healthcare and Social Assistance,27.0,25 to 49,Brighton,POINT (-71.169433 42.350592),,7,9
+42.349306,-71.154846,little pizza king,389 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Brighton,POINT (-71.154846 42.349306),,7,9
+42.348804,-71.152153,little pecan bistro,296 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.152153 42.348804),,7,9
+42.349902,-71.150153,lisa bedoya therapeutic,17 Henshaw St,2135,812199,Other Personal Care Services,81,Other Services,1.0,1 to 9,Brighton,POINT (-71.150153 42.349902),,7,9
+42.349902,-71.150153,"lisa bedoya lmt, massage + reiki services",17 Henshaw St,2135,812199,Other Personal Care Services,81,Other Services,1.0,1 to 9,Brighton,POINT (-71.150153 42.349902),,7,9
+42.349263,-71.153162,lincoln management group ltd,353 Washington St,2135,561110,Office Administrative Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Brighton,POINT (-71.153162 42.349263),,7,9
+42.348879,-71.152505,lin van corp,2 Academy Hill Rd,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.152505 42.348879),,7,9
+42.349236,-71.152252,liberty tax service,331 Washington St,2135,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",6.0,1 to 9,Brighton,POINT (-71.152252 42.349236),,7,9
+42.349504,-71.163732,lessard's barber shop,545 Washington St,2135,812111,Barber Shops,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.163732 42.349504),,7,9
+42.349394,-71.156032,legend development group inc,425 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.156032 42.349394),,7,9
+42.350338,-71.166641,last drop,596 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Brighton,POINT (-71.166641 42.350338),,7,9
+42.348849,-71.150918,la flaca y el gordo inc,304 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.150918 42.348849),,7,9
+42.350567,-71.165708,l r hair salon,591 Washington St,2135,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.165708 42.350567),,7,9
+42.348762,-71.154291,ksm staffing inc,380 Washington St,2135,541612,Human Resources Consulting Services,54,"Professional, Scientific, and Technical Services",7.0,1 to 9,Brighton,POINT (-71.154291 42.348762),,7,9
+42.349695,-71.163887,keegan contracting,551 Washington St,2135,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,4.0,1 to 9,Brighton,POINT (-71.163887 42.349695),,7,9
+42.349155,-71.16083,juice & jazz,501 Washington St,2135,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,4.0,1 to 9,Brighton,POINT (-71.16083 42.349155),,7,9
+42.349453,-71.151543,joseph m smith community health center inc,12 Wirt St,2135,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Brighton,POINT (-71.151543 42.349453),,7,9
+42.349306,-71.154395,johnny's d's fruit & produce,381 Washington St,2135,445230,Fruit and Vegetable Markets,44,Retail Trade,2.0,1 to 9,Brighton,POINT (-71.154395 42.349306),,7,9
+42.349119,-71.154126,john j ryan insurance agency,376 Washington St,2135,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,5.0,1 to 9,Brighton,POINT (-71.154126 42.349119),,7,9
+42.349275,-71.154226,jim's deli & restaurant,371 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Brighton,POINT (-71.154226 42.349275),,7,9
+42.349465,-71.153117,jasmine bistro,412 Market St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Brighton,POINT (-71.153117 42.349465),,7,9
+42.3489,-71.148244,james a strom md pc,736 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,0.0,Not Available,Brighton,POINT (-71.148244 42.3489),,7,9
+42.350592,-71.169433,itn brighton,640 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.169433 42.350592),,7,9
+42.3489,-71.148244,internal medicine,736 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,9.0,1 to 9,Brighton,POINT (-71.148244 42.3489),,7,9
+42.349214,-71.162873,hoshi ya,529 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.162873 42.349214),,7,9
+42.348762,-71.154291,home inspection all star bstn,380 Washington St,2135,531390,Other Activities Related to Real Estate,53,Real Estate Rental and Leasing,1.0,1 to 9,Brighton,POINT (-71.154291 42.348762),,7,9
+42.348894,-71.151707,holistic clinics inc,320 Washington St,2135,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,8.0,1 to 9,Brighton,POINT (-71.151707 42.348894),,7,9
+42.349306,-71.154395,happy garden chinese rstrnts,377 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Brighton,POINT (-71.154395 42.349306),,7,9
+42.348722,-71.153317,hair garden salon,8 Chestnut Hill Ave,2135,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.153317 42.348722),,7,9
+42.350387,-71.165135,gyro shuffle,583 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.165135 42.350387),,7,9
+42.348762,-71.154291,grupo capoeira brasil,380 Washington St,2135,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,Brighton,POINT (-71.154291 42.348762),,7,9
+42.349201,-71.161777,groundworks landscaping,513 Washington St,2135,561730,Landscaping Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",1.0,1 to 9,Brighton,POINT (-71.161777 42.349201),,7,9
+42.351239,-71.168429,greenhouse kitchen,435 Faneuil St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Brighton,POINT (-71.168429 42.351239),,7,9
+42.350387,-71.165135,greek village gyros & grill,583 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.165135 42.350387),,7,9
+42.349676,-71.148961,greater boston medical associates,747 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,7.0,1 to 9,Brighton,POINT (-71.148961 42.349676),,7,9
+42.349192,-71.151382,gottlieb edward a law offices,309 Washington St,2135,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Brighton,POINT (-71.151382 42.349192),,7,9
+42.348857,-71.156222,good neighbor concierge,424 Washington St,2135,812990,All Other Personal Services,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.156222 42.348857),,7,9
+42.349978,-71.164422,go forward inc,559 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.164422 42.349978),,7,9
+42.350538,-71.165625,glasser coffee,589 Washington St,2135,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,5.0,1 to 9,Brighton,POINT (-71.165625 42.350538),,7,9
+42.348894,-71.151707,gentle dental,320 Washington St,2135,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Brighton,POINT (-71.151707 42.348894),,7,9
+42.348762,-71.154291,furniture city,380 Washington St,2135,442110,Furniture Stores,44,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.154291 42.348762),,7,9
+42.349464,-71.149648,fulham salon inc igor,1 Henshaw St,2135,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.149648 42.349464),,7,9
+42.349277,-71.152924,fuel supplements,357 Washington St,2135,446191,Food (Health) Supplement Stores,44,Retail Trade,5.0,1 to 9,Brighton,POINT (-71.152924 42.349277),,7,9
+42.350165,-71.164769,fixshop,567 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.164769 42.350165),,7,9
+42.349185,-71.15886,fitzpatrick real estate,465 Washington St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Brighton,POINT (-71.15886 42.349185),,7,9
+42.350382,-71.168538,fiorella's express-brighton,2 Tremont St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Brighton,POINT (-71.168538 42.350382),,7,9
+42.349236,-71.152252,faneuil news,331 Washington St,2135,511110,Newspaper Publishers,51,Information,8.0,1 to 9,Brighton,POINT (-71.152252 42.349236),,7,9
+42.351146,-71.167785,faneuil branch library,419 Faneuil St,2135,519120,Libraries and Archives,51,Information,6.0,1 to 9,Brighton,POINT (-71.167785 42.351146),,7,9
+42.350592,-71.169433,family nurturing,640 Washington St,2135,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,5.0,1 to 9,Brighton,POINT (-71.169433 42.350592),,7,9
+42.348754,-71.155482,facing cancer together,410 Washington St,2135,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,8.0,1 to 9,Brighton,POINT (-71.155482 42.348754),,7,9
+42.348996,-71.154567,f.i. patnode insurance agency,396 Washington St,2135,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,5.0,1 to 9,Brighton,POINT (-71.154567 42.348996),,7,9
+42.348762,-71.154291,europe today furniture,380 Washington St,2135,442110,Furniture Stores,44,Retail Trade,4.0,1 to 9,Brighton,POINT (-71.154291 42.348762),,7,9
+42.34891,-71.15291,esperia grill,344 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Brighton,POINT (-71.15291 42.34891),,7,9
+42.349861,-71.165161,escape salon,576 Washington St,2135,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.165161 42.349861),,7,9
+42.349214,-71.162873,errington corp,533 Washington St,2135,511210,Software Publishers,51,Information,10.0,10 to 24,Brighton,POINT (-71.162873 42.349214),,7,9
+42.34892,-71.154565,eriten corp,388 Washington St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Brighton,POINT (-71.154565 42.34892),,7,9
+42.348691,-71.150477,enterprise rent-a-car,288 Washington St,2135,532111,Passenger Car Rental,53,Real Estate Rental and Leasing,5.0,1 to 9,Brighton,POINT (-71.150477 42.348691),,7,9
+42.349263,-71.153162,ensueno body & skin care clinic,353 Washington St,2135,448310,Jewelry Stores,44,Retail Trade,1.0,1 to 9,Brighton,POINT (-71.153162 42.349263),,7,9
+42.35044,-71.167964,energize,618 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Brighton,POINT (-71.167964 42.35044),,7,9
+42.3489,-71.148244,elliot lewis center for multiple,736 Cambridge St,2135,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Brighton,POINT (-71.148244 42.3489),,7,9
+42.352703,-71.172103,electronic audio experiments,699 Washington St,2135,443142,Electronics Stores,44,Retail Trade,4.0,1 to 9,Brighton,POINT (-71.172103 42.352703),,7,9
+42.3493,-71.152824,egdahl group inc,345 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.152824 42.3493),,7,9
+42.349263,-71.153162,eastern vapor,353 Washington St,2135,453991,Tobacco Stores,45,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.153162 42.349263),,7,9
+42.349394,-71.156032,east coast partners general contractors,425 Washington St,2135,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Brighton,POINT (-71.156032 42.349394),,7,9
+42.350188,-71.166816,dunkin',598 Washington St,2135,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,15.0,10 to 24,Brighton,POINT (-71.166816 42.350188),,7,9
+42.34891,-71.15291,dunkin',350 Washington St,2135,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,10.0,10 to 24,Brighton,POINT (-71.15291 42.34891),,7,9
+42.348762,-71.154291,dukhon tax & accounting llc,380 Washington St,2135,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Brighton,POINT (-71.154291 42.348762),,7,9
+42.348818,-71.153135,dorr's liquor mart inc,354 Washington St,2135,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,50.0,50 to 99,Brighton,POINT (-71.153135 42.348818),,7,9
+42.348778,-71.159019,domino's,464 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,17.0,10 to 24,Brighton,POINT (-71.159019 42.348778),,7,9
+42.348789,-71.152308,devlin's restaurant,332 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Brighton,POINT (-71.152308 42.348789),,7,9
+42.34865,-71.160286,david s bograd law offices,480 Washington St,2135,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Brighton,POINT (-71.160286 42.34865),,7,9
+42.349464,-71.149648,dash cafe,5 Henshaw St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.149648 42.349464),,7,9
+42.349306,-71.154846,daniel's bakery,395 Washington St,2135,311811,Retail Bakeries,31,Manufacturing,8.0,1 to 9,Brighton,POINT (-71.154846 42.349306),,7,9
+42.34865,-71.160286,dana's nail salon,480 Washington St,2135,812113,Nail Salons,81,Other Services,4.0,1 to 9,Brighton,POINT (-71.160286 42.34865),,7,9
+42.349586,-71.156539,cvs pharmacy,427 Washington St,2135,446110,Pharmacies and Drug Stores,44,Retail Trade,30.0,25 to 49,Brighton,POINT (-71.156539 42.349586),,7,9
+42.348883,-71.147424,cushman & wakefield,11 Nevins St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Brighton,POINT (-71.147424 42.348883),,7,9
+42.350165,-71.164769,cruz brothers corp,567 Washington St,2135,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Brighton,POINT (-71.164769 42.350165),,7,9
+42.349884,-71.152764,corrib pub & restaurant,396 Market St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,18.0,10 to 24,Brighton,POINT (-71.152764 42.349884),,7,9
+42.349219,-71.151769,conway cityside-brighton,317 Washington St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Brighton,POINT (-71.151769 42.349219),,7,9
+42.349278,-71.162394,community united methodist church,519 Washington St,2135,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.162394 42.349278),,7,9
+42.34865,-71.160286,commonwealth chiropractic,480 Washington St,2135,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,2.0,1 to 9,Brighton,POINT (-71.160286 42.34865),,7,9
+42.349676,-71.148961,commonwealth care alliance,747 Cambridge St,2135,621999,All Other Miscellaneous Ambulatory Health Care Services,62,Healthcare and Social Assistance,18.0,10 to 24,Brighton,POINT (-71.148961 42.349676),,7,9
+42.349263,-71.153162,clover realty group,353 Washington St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Brighton,POINT (-71.153162 42.349263),,7,9
+42.349192,-71.151382,cloutier law firm llc,309 Washington St,2135,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Brighton,POINT (-71.151382 42.349192),,7,9
+42.349308,-71.15432,classic barber shop,379 Washington St,2135,812111,Barber Shops,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.15432 42.349308),,7,9
+42.350382,-71.168538,city tails pet grooming,20 Tremont St,2135,812910,Pet Care (except Veterinary) Services,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.168538 42.350382),,7,9
+42.349104,-71.155641,citizens bank,414 Washington St,2135,522110,Commercial Banking,52,Finance and Insurance,18.0,10 to 24,Brighton,POINT (-71.155641 42.349104),,7,9
+42.348762,-71.154291,cigars & more,380 Washington St,2135,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Brighton,POINT (-71.154291 42.348762),,7,9
+42.351462,-71.167329,church of pentecost,395 Faneuil St,2135,813110,Religious Organizations,81,Other Services,5.0,1 to 9,Brighton,POINT (-71.167329 42.351462),,7,9
+42.349965,-71.164453,charming spa,565 Washington St,2135,812113,Nail Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.164453 42.349965),,7,9
+42.349316,-71.154411,ceramica global trade inc,383 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.154411 42.349316),,7,9
+42.348892,-71.154381,centre realty group,384 Washington St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Brighton,POINT (-71.154381 42.348892),,7,9
+42.349394,-71.156032,centre pieces design,425 Washington St,2135,453110,Florists,45,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.156032 42.349394),,7,9
+42.349263,-71.153153,center salon,363 Washington St,2135,812112,Beauty Salons,81,Other Services,7.0,1 to 9,Brighton,POINT (-71.153153 42.349263),,7,9
+42.34891,-71.15291,"center house of pizza, inc",344 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Brighton,POINT (-71.15291 42.34891),,7,9
+42.3489,-71.148244,caritas pathology associates,736 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,20.0,10 to 24,Brighton,POINT (-71.148244 42.3489),,7,9
+42.3489,-71.148244,caritas christi diagnostic support services,736 Cambridge St,2135,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,0.0,Not Available,Brighton,POINT (-71.148244 42.3489),,7,9
+42.348794,-71.15101,caff nero,298 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.15101 42.348794),,7,9
+42.348762,-71.154291,cafenation,380 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Brighton,POINT (-71.154291 42.348762),,7,9
+42.348919,-71.153648,cafe mirror,362 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Brighton,POINT (-71.153648 42.348919),,7,9
+42.349263,-71.153153,building washington,363 Washington St,2135,236220,Commercial and Institutional Building Construction,23,Construction,8.0,1 to 9,Brighton,POINT (-71.153153 42.349263),,7,9
+42.350592,-71.169433,brookside healthcare center,640 Washington St,2135,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,15.0,10 to 24,Brighton,POINT (-71.169433 42.350592),,7,9
+42.348246,-71.153462,brighton-allston historical,20 Chestnut Hill Ave,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.153462 42.348246),,7,9
+42.34865,-71.160286,brighton wic program,480 Washington St,2135,621399,Offices of All Other Miscellaneous Health Practitioners,62,Healthcare and Social Assistance,9.0,1 to 9,Brighton,POINT (-71.160286 42.34865),,7,9
+42.34996,-71.148414,brighton orthopedic associates,733 Cambridge St,2135,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Brighton,POINT (-71.148414 42.34996),,7,9
+42.350382,-71.168538,brighton nails,8 Tremont St,2135,812113,Nail Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.168538 42.350382),,7,9
+42.350567,-71.165708,brighton metro inc,591 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.165708 42.350567),,7,9
+42.348988,-71.153229,brighton main streets,358 Washington St,2135,813319,Other Social Advocacy Organizations,81,Other Services,1.0,1 to 9,Brighton,POINT (-71.153229 42.348988),,7,9
+42.348434,-71.152129,brighton lodge of elks 2199,326 Washington St,2135,813410,Civic and Social Organizations,81,Other Services,4.0,1 to 9,Brighton,POINT (-71.152129 42.348434),,7,9
+42.349316,-71.154411,brighton lock shop,383 Washington St,2135,561622,Locksmiths,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,Brighton,POINT (-71.154411 42.349316),,7,9
+42.348814,-71.156703,brighton laundry & drycleaners,430 Washington St,2135,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,3.0,1 to 9,Brighton,POINT (-71.156703 42.348814),,7,9
+42.349115,-71.153182,brighton insurance agency,359 Washington St,2135,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,5.0,1 to 9,Brighton,POINT (-71.153182 42.349115),,7,9
+42.349978,-71.164422,brighton gourmet & cellar,569 Washington St,2135,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Brighton,POINT (-71.164422 42.349978),,7,9
+42.349398,-71.154065,brighton dental associates pc,367 Washington St,2135,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,Brighton,POINT (-71.154065 42.349398),,7,9
+42.349398,-71.154065,brighton center variety store inc,375 Washington St,2135,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Brighton,POINT (-71.154065 42.349398),,7,9
+42.348813,-71.152177,brighton bodega,328 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.152177 42.348813),,7,9
+42.348267,-71.15409,brighton auto service,25 Chestnut Hill Ave,2135,811111,General Automotive Repair,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.15409 42.348267),,7,9
+42.348919,-71.153648,brighton amigos inc,366 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.153648 42.348919),,7,9
+42.348777,-71.155207,brighton allston congregational church,404 Washington St,2135,813110,Religious Organizations,81,Other Services,5.0,1 to 9,Brighton,POINT (-71.155207 42.348777),,7,9
+42.349318,-71.152419,bright town cleaners,339 Washington St,2135,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,1.0,1 to 9,Brighton,POINT (-71.152419 42.349318),,7,9
+42.348718,-71.151772,briar group inc,308 Washington St,2135,722310,Food Service Contractors,72,Accommodation and Food Services,45.0,25 to 49,Brighton,POINT (-71.151772 42.348718),,7,9
+42.349198,-71.151567,brg holding co inc,311 Washington St,2135,551112,Offices of Other Holding Companies,55,Management of Companies and Enterprises,8.0,1 to 9,Brighton,POINT (-71.151567 42.349198),,7,9
+42.349394,-71.156032,braz dealer inc,425 Washington St,2135,441120,Used Car Dealers,44,Retail Trade,3.0,1 to 9,Brighton,POINT (-71.156032 42.349394),,7,9
+42.348434,-71.152129,bpoe lodge 2199,326 Washington St,2135,813319,Other Social Advocacy Organizations,81,Other Services,1.0,1 to 9,Brighton,POINT (-71.152129 42.348434),,7,9
+42.349394,-71.156032,boustris & sons inc,425 Washington St,2135,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,20.0,10 to 24,Brighton,POINT (-71.156032 42.349394),,7,9
+42.348892,-71.154381,boston threading,386 Washington St,2135,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.154381 42.348892),,7,9
+42.349306,-71.154395,boston starlight inc,377 Washington St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.154395 42.349306),,7,9
+42.349266,-71.152718,boston smoke shop,347 Washington St,2135,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Brighton,POINT (-71.152718 42.349266),,7,9
+42.349389,-71.150576,boston police department,301 Washington St,2135,922120,Police Protection,92,Public Administration,120.0,100+,Brighton,POINT (-71.150576 42.349389),,7,9
+42.348894,-71.151707,boston international,320 Washington St,2135,813319,Other Social Advocacy Organizations,81,Other Services,8.0,1 to 9,Brighton,POINT (-71.151707 42.348894),,7,9
+42.349198,-71.151567,boston event solutions,311 Washington St,2135,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Brighton,POINT (-71.151567 42.349198),,7,9
+42.349198,-71.151567,boone & henkoff,311 Washington St,2135,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Brighton,POINT (-71.151567 42.349198),,7,9
+42.349312,-71.153246,blue yama,418 Market St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.153246 42.349312),,7,9
+42.349861,-71.165161,blue circle yoga,576 Washington St,2135,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,1.0,1 to 9,Brighton,POINT (-71.165161 42.349861),,7,9
+42.34954,-71.163674,blow-out hair design,547 Washington St,2135,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.163674 42.34954),,7,9
+42.349394,-71.156032,berkshire bank,423 Washington St,2135,522110,Commercial Banking,52,Finance and Insurance,6.0,1 to 9,Brighton,POINT (-71.156032 42.349394),,7,9
+42.349398,-71.154065,beautie addicts,373 Washington St,2135,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.154065 42.349398),,7,9
+42.348748,-71.153785,bank of america mortgage,5 Chestnut Hill Ave,2135,522292,Real Estate Credit,52,Finance and Insurance,12.0,10 to 24,Brighton,POINT (-71.153785 42.348748),,7,9
+42.348748,-71.153785,bank of america,5 Chestnut Hill Ave,2135,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,Brighton,POINT (-71.153785 42.348748),,7,9
+42.349353,-71.156795,bangkok bistro,433 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Brighton,POINT (-71.156795 42.349353),,7,9
+42.348894,-71.151707,back & balance rehab center,320 Washington St,2135,624310,Vocational Rehabilitation Services,62,Healthcare and Social Assistance,14.0,10 to 24,Brighton,POINT (-71.151707 42.348894),,7,9
+42.3489,-71.148244,"avila zambrano, jorge, david, md",736 Cambridge St,2135,0,,99,Undefined,0.0,Not Available,Brighton,POINT (-71.148244 42.3489),,7,9
+42.348771,-71.162106,aurora inc,502 Washington St,2135,236115,New Single-Family Housing Construction (except For-Sale Builders),23,Construction,5.0,1 to 9,Brighton,POINT (-71.162106 42.348771),,7,9
+42.348542,-71.159559,ati physical therapy,470 Washington St,2135,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",62,Healthcare and Social Assistance,4.0,1 to 9,Brighton,POINT (-71.159559 42.348542),,7,9
+42.3494,-71.155286,athan's bakery,407 Washington St,2135,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Brighton,POINT (-71.155286 42.3494),,7,9
+42.348892,-71.154381,annie's hair salon,382 Washington St,2135,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.154381 42.348892),,7,9
+42.350229,-71.164903,angel nail & spa,579 Washington St,2135,812112,Beauty Salons,81,Other Services,2.0,1 to 9,Brighton,POINT (-71.164903 42.350229),,7,9
+42.351184,-71.168899,amity dental center,637 Washington St,2135,621210,Offices of Dentists,62,Healthcare and Social Assistance,3.0,1 to 9,Brighton,POINT (-71.168899 42.351184),,7,9
+42.34925,-71.155561,american society-hm inspectors,415 Washington St,2135,531390,Other Activities Related to Real Estate,53,Real Estate Rental and Leasing,3.0,1 to 9,Brighton,POINT (-71.155561 42.34925),,7,9
+42.348894,-71.151707,allston brighton comm dev corp,320 Washington St,2135,511210,Software Publishers,51,Information,10.0,10 to 24,Brighton,POINT (-71.151707 42.348894),,7,9
+42.348941,-71.153968,all star wireless of boston 108 inc,372 Washington St,2135,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Brighton,POINT (-71.153968 42.348941),,7,9
+42.349275,-71.154226,all phase mechanical,371 Washington St,2135,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,10.0,10 to 24,Brighton,POINT (-71.154226 42.349275),,7,9
+42.349219,-71.151769,all brands vacuum,319 Washington St,2135,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,5.0,1 to 9,Brighton,POINT (-71.151769 42.349219),,7,9
+42.350552,-71.165484,alex the tailor,587A Washington St,2135,448190,Other Clothing Stores,44,Retail Trade,1.0,1 to 9,Brighton,POINT (-71.165484 42.350552),,7,9
+42.348883,-71.147424,alarm line,11 Nevins St,2135,423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",42,Wholesale Trade,5.0,1 to 9,Brighton,POINT (-71.147424 42.348883),,7,9
+42.349861,-71.165161,acorn yoga,576 Washington St,2135,611699,All Other Miscellaneous Schools and Instruction,61,Educational Services,3.0,1 to 9,Brighton,POINT (-71.165161 42.349861),,7,9
+42.34926,-71.155317,acdc wireless 101 llc,403 Washington St,2135,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Brighton,POINT (-71.155317 42.34926),,7,9
+42.350592,-71.169433,abundant grace church of boston,640 Washington St,2135,813110,Religious Organizations,81,Other Services,4.0,1 to 9,Brighton,POINT (-71.169433 42.350592),,7,9
+42.350592,-71.169433,abundant grace church,640 Washington St,2135,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Brighton,POINT (-71.169433 42.350592),,7,9
+42.350592,-71.169433,abcd brighton,640 Washington St,2135,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,4.0,1 to 9,Brighton,POINT (-71.169433 42.350592),,7,9
+42.348894,-71.151707,a & b realty trust,320 Washington St,2135,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Brighton,POINT (-71.151707 42.348894),,7,9
+42.350029,-71.165673,7-eleven,584 Washington St,2135,445120,Convenience Stores,44,Retail Trade,7.0,1 to 9,Brighton,POINT (-71.165673 42.350029),,7,9
+42.349263,-71.153162,6 one 7 productions,353 Washington St,2135,238990,All Other Specialty Trade Contractors,23,Construction,3.0,1 to 9,Brighton,POINT (-71.153162 42.349263),,7,9
+42.348794,-71.15101,winship spar,290 Washington St,2135,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Brighton,POINT (-71.15101 42.348794),,7,9
+42.351239,-71.168429,pizza etc,427 Faneuil St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Brighton,POINT (-71.168429 42.351239),,7,9
+42.349214,-71.162873,hoy hing restaurant,525 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Brighton,POINT (-71.162873 42.349214),,7,9
+42.348246,-71.153462,brighton-allston heritage museum,20 Chestnut Hill Ave,2135,712110,Museums,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Brighton,POINT (-71.153462 42.348246),,7,9
+42.348813,-71.152177,brighton collectibles,328A Washington St,2135,453220,"Gift, Novelty, and Souvenir Stores",45,Retail Trade,0.0,Not Available,Brighton,POINT (-71.152177 42.348813),,7,9
+42.350341,-71.166835,brighton best pizza,600 Washington St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Brighton,POINT (-71.166835 42.350341),,7,9
+42.3528,-71.1328,youth center at charles view,75 Stadium Way,2134,624110,Child and Youth Services,62,Healthcare and Social Assistance,9.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353745,-71.137596,yoma burmese restaurant,5 N Beacon St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Allston Village,POINT (-71.137596 42.353745),,7,9
+42.353745,-71.137596,yoma boston inc,5 N Beacon St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.137596 42.353745),,7,9
+42.353637,-71.134906,yifan import corp,215 Brighton Ave,2134,423990,Other Miscellaneous Durable Goods Merchant Wholesalers,42,Wholesale Trade,6.0,1 to 9,Allston Village,POINT (-71.134906 42.353637),,7,9
+42.35264,-71.130665,yi soon bakery,112 Brighton Ave,2134,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Allston Village,POINT (-71.130665 42.35264),,7,9
+42.351808,-71.131541,ya lai xi corporation,152 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Allston Village,POINT (-71.131541 42.351808),,7,9
+42.350688,-71.13101,wons corp,1227 Commonwealth Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.13101 42.350688),,7,9
+42.351077,-71.131068,wonder bar,186 Harvard Ave,2134,813410,Civic and Social Organizations,81,Other Services,20.0,10 to 24,Allston Village,POINT (-71.131068 42.351077),,7,9
+42.353826,-71.137595,wolfers lighting inc,103 N Beacon St,2134,442299,All Other Home Furnishings Stores,44,Retail Trade,50.0,50 to 99,Allston Village,POINT (-71.137595 42.353826),,7,9
+42.353821,-71.137184,whole heart provisions,487 Cambridge St,2135,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Allston Village,POINT (-71.137184 42.353821),,7,9
+42.352574,-71.130736,white horse tavern,116 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,40.0,25 to 49,Allston Village,POINT (-71.130736 42.352574),,7,9
+42.3528,-71.1328,wgbh,90 Windom St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.3528,-71.1328,wgbh,126 Western Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.350688,-71.13101,western union agent location,1227 Commonwealth Ave,2134,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,Allston Village,POINT (-71.13101 42.350688),,7,9
+42.354154,-71.1368,western union agent location,465 Cambridge St,2134,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",52,Finance and Insurance,2.0,1 to 9,Allston Village,POINT (-71.1368 42.354154),,7,9
+42.354154,-71.1368,walgreens,465 Cambridge St,2134,446110,Pharmacies and Drug Stores,44,Retail Trade,21.0,10 to 24,Allston Village,POINT (-71.1368 42.354154),,7,9
+42.352849,-71.132915,wabora prime,164 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132915 42.352849),,7,9
+42.352849,-71.132915,wabora allston,164 Brighton Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.132915 42.352849),,7,9
+42.353637,-71.134906,viva beyoutiful corp,215 Brighton Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.134906 42.353637),,7,9
+42.353247,-71.131861,venture real estate inc,141 Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,3.0,1 to 9,Allston Village,POINT (-71.131861 42.353247),,7,9
+42.353247,-71.131861,venture real estate group llc,141C Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.131861 42.353247),,7,9
+42.353183,-71.135487,valvoline instant oil change,222 Brighton Ave,2134,811191,Automotive Oil Change and Lubrication Shops,81,Other Services,7.0,1 to 9,Allston Village,POINT (-71.135487 42.353183),,7,9
+42.349398,-71.129656,urban outfitters,226 Harvard Ave,2134,448140,Family Clothing Stores,44,Retail Trade,31.0,25 to 49,Allston Village,POINT (-71.129656 42.349398),,7,9
+42.355352,-71.133639,ups access point location,393 Cambridge St,2134,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Allston Village,POINT (-71.133639 42.355352),,7,9
+42.353868,-71.133691,ups access point location,181 Brighton Ave,2134,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",13.0,10 to 24,Allston Village,POINT (-71.133691 42.353868),,7,9
+42.353081,-71.130624,ups access point location,101 Brighton Ave,2134,541860,Direct Mail Advertising,54,"Professional, Scientific, and Technical Services",0.0,Not Available,Allston Village,POINT (-71.130624 42.353081),,7,9
+42.349398,-71.129656,unleashed by petco,226 Harvard Ave,2134,453910,Pet and Pet Supplies Stores,45,Retail Trade,8.0,1 to 9,Allston Village,POINT (-71.129656 42.349398),,7,9
+42.351952,-71.131348,unique furnishings boston,144 Harvard Ave,2134,453310,Used Merchandise Stores,45,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.131348 42.351952),,7,9
+42.352891,-71.132721,underdog hot chicken,160 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Allston Village,POINT (-71.132721 42.352891),,7,9
+42.353081,-71.130624,uaw local 2324,107 Brighton Ave,2134,813930,Labor Unions and Similar Labor Organizations,81,Other Services,2.0,1 to 9,Allston Village,POINT (-71.130624 42.353081),,7,9
+42.354839,-71.132904,u-save car & truck rental,25 Harvard Ave,2134,532111,Passenger Car Rental,53,Real Estate Rental and Leasing,6.0,1 to 9,Allston Village,POINT (-71.132904 42.354839),,7,9
+42.35018,-71.130346,twin realty,1216 Commonwealth Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,Allston Village,POINT (-71.130346 42.35018),,7,9
+42.349566,-71.130863,twin realty,211 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130863 42.349566),,7,9
+42.353541,-71.137987,twin do-nuts,501 Cambridge St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Allston Village,POINT (-71.137987 42.353541),,7,9
+42.35161,-71.131851,tresse d'or beauty palace,159 Harvard Ave,2134,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Allston Village,POINT (-71.131851 42.35161),,7,9
+42.3528,-71.1328,trac75,75 Braintree St,2134,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353285,-71.132863,totto ramen-allston,169 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Allston Village,POINT (-71.132863 42.353285),,7,9
+42.352268,-71.13208,tong xing ii inc,137 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.13208 42.352268),,7,9
+42.3528,-71.1328,titan rigging,32 Rugg Rd,2134,238990,All Other Specialty Trade Contractors,23,Construction,14.0,10 to 24,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.3528,-71.1328,titan moving & storage inc,32 Rugg Rd,2134,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,14.0,10 to 24,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.350909,-71.13153,tiger sugar allston inc,185 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.13153 42.350909),,7,9
+42.35249,-71.13041,the scoop n scootery,75 Linden St,2134,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,9.0,1 to 9,Allston Village,POINT (-71.13041 42.35249),,7,9
+42.353527,-71.132378,the mount vernon company,83 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,4.0,1 to 9,Allston Village,POINT (-71.132378 42.353527),,7,9
+42.351773,-71.131527,the block,154 Harvard Ave,2134,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Allston Village,POINT (-71.131527 42.351773),,7,9
+42.353745,-71.137596,thawdar kyaw,5 N Beacon St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.137596 42.353745),,7,9
+42.352993,-71.133796,thai place,184 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.133796 42.352993),,7,9
+42.353954,-71.132013,teresa international hair salon,68 Harvard Ave,2134,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Allston Village,POINT (-71.132013 42.353954),,7,9
+42.355061,-71.134285,ten seconds rice noodles inc,431 Cambridge St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.134285 42.355061),,7,9
+42.353217,-71.132261,tedeschi food shops,157 Brighton Ave,2134,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.132261 42.353217),,7,9
+42.353493,-71.13843,tedeschi food shop,509 Cambridge St,2134,445120,Convenience Stores,44,Retail Trade,8.0,1 to 9,Allston Village,POINT (-71.13843 42.353493),,7,9
+42.353783,-71.137459,teamoji,3 N Beacon St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.137459 42.353783),,7,9
+42.353783,-71.137459,tea life inc,3 N Beacon St,2134,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Allston Village,POINT (-71.137459 42.353783),,7,9
+42.353312,-71.132667,tavern in the square,161 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,80.0,50 to 99,Allston Village,POINT (-71.132667 42.353312),,7,9
+42.35077,-71.131022,tasty pot,194 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131022 42.35077),,7,9
+42.354628,-71.13302,tasos realty,161 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,1.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.353245,-71.136537,taqueria el carrizal,254 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Allston Village,POINT (-71.136537 42.353245),,7,9
+42.35206,-71.132111,sweet kingdom,145 Harvard Ave,2134,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,9.0,1 to 9,Allston Village,POINT (-71.132111 42.35206),,7,9
+42.353704,-71.135448,suspension specialists inc,229 Brighton Ave,2134,332613,Spring Manufacturing,33,Manufacturing,10.0,10 to 24,Allston Village,POINT (-71.135448 42.353704),,7,9
+42.352725,-71.131682,"sunset partners, inc",130 Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,3.0,1 to 9,Allston Village,POINT (-71.131682 42.352725),,7,9
+42.352725,-71.131682,sunset bar & grille,138 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,34.0,25 to 49,Allston Village,POINT (-71.131682 42.352725),,7,9
+42.352622,-71.13232,sunrise market,152 Brighton Ave,2134,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.13232 42.352622),,7,9
+42.350069,-71.130379,sublime salon & spa,202 Harvard Ave,2134,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.130379 42.350069),,7,9
+42.354637,-71.132335,streetfood revolution,48 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.132335 42.354637),,7,9
+42.355294,-71.13303,stingray tattoo & body art,384 Cambridge St,2134,812199,Other Personal Care Services,81,Other Services,19.0,10 to 24,Allston Village,POINT (-71.13303 42.355294),,7,9
+42.3528,-71.1328,stingray body art & more,1 Harvard Ave,2134,812990,All Other Personal Services,81,Other Services,1.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.355294,-71.13303,stingray body art,384 Cambridge St,2134,812199,Other Personal Care Services,81,Other Services,10.0,10 to 24,Allston Village,POINT (-71.13303 42.355294),,7,9
+42.352472,-71.131664,steve's kitchen,120 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Allston Village,POINT (-71.131664 42.352472),,7,9
+42.3528,-71.1328,state electric,12 Western Ave,2134,238210,Electrical Contractors and Other Wiring Installation Contractors,23,Construction,4.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353832,-71.137126,start super market,483 Cambridge St,2134,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Allston Village,POINT (-71.137126 42.353832),,7,9
+42.3528,-71.1328,sports museum of new england,175 Soldiers Field Rd,2134,712110,Museums,71,"Arts, Entertainment, and Recreation",4.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.352537,-71.130441,spikes junkyard dogs,108 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,17.0,10 to 24,Allston Village,POINT (-71.130441 42.352537),,7,9
+42.35245,-71.129798,speedway,100 Brighton Ave,2134,445120,Convenience Stores,44,Retail Trade,10.0,10 to 24,Allston Village,POINT (-71.129798 42.35245),,7,9
+42.353207,-71.136219,sparhawk condominium,244 Brighton Ave,2134,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,Allston Village,POINT (-71.136219 42.353207),,7,9
+42.3528,-71.1328,softball field at boston university,89 Ashford St,2134,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",71,"Arts, Entertainment, and Recreation",17.0,10 to 24,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.35018,-71.130346,smoke shop,1216 Commonwealth Ave,2134,453991,Tobacco Stores,45,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.130346 42.35018),,7,9
+42.3528,-71.1328,skillist co,Batten Hall 125 Western Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.354415,-71.132799,silk shine hair care-luna smooth,47 Harvard Ave,2134,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.132799 42.354415),,7,9
+42.353009,-71.134303,silhouette lounge,200 Brighton Ave,2134,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.134303 42.353009),,7,9
+42.350909,-71.13153,shin inc,185 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.13153 42.350909),,7,9
+42.352725,-71.131682,shibuyala,130 Brighton Ave,2134,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.131682 42.352725),,7,9
+42.354484,-71.133936,sherwin-williams,416 Cambridge St,2134,444120,Paint and Wallpaper Stores,44,Retail Trade,5.0,1 to 9,Allston Village,POINT (-71.133936 42.354484),,7,9
+42.355146,-71.134243,sheesha lounge,417 Cambridge St,2134,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,10.0,10 to 24,Allston Village,POINT (-71.134243 42.355146),,7,9
+42.350069,-71.130379,shanghai gate,204 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.130379 42.350069),,7,9
+42.351561,-71.131447,seoul topokki,166 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Allston Village,POINT (-71.131447 42.351561),,7,9
+42.353156,-71.131769,seoul jangteo,151 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131769 42.353156),,7,9
+42.3528,-71.1328,security bed bug control,11 Jordan Rd,2134,561710,Exterminating and Pest Control Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.355179,-71.132874,scissorsound hair salon,11 Harvard Ave,2134,812112,Beauty Salons,81,Other Services,4.0,1 to 9,Allston Village,POINT (-71.132874 42.355179),,7,9
+42.355107,-71.132908,scissor sound hair,17 Harvard Ave,2134,812112,Beauty Salons,81,Other Services,5.0,1 to 9,Allston Village,POINT (-71.132908 42.355107),,7,9
+42.355146,-71.134243,sam's place,417 Cambridge St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.134243 42.355146),,7,9
+42.35249,-71.13041,sakanaya,75 Linden St,2134,445220,Fish and Seafood Markets,44,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.13041 42.35249),,7,9
+42.351773,-71.131527,s & j crepes inc,154 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131527 42.351773),,7,9
+42.352911,-71.132914,s & i to go,168A Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Allston Village,POINT (-71.132914 42.352911),,7,9
+42.353832,-71.137159,roxy's grilled cheese & burgers,485 Cambridge St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.137159 42.353832),,7,9
+42.353207,-71.136219,rma architects,244 Brighton Ave,2134,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Allston Village,POINT (-71.136219 42.353207),,7,9
+42.354621,-71.132648,ritual arts,153 Harvard Ave,2134,712110,Museums,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Allston Village,POINT (-71.132648 42.354621),,7,9
+42.355574,-71.133154,ricardo's infinity hair salon,391 Cambridge St,2134,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.133154 42.355574),,7,9
+42.354415,-71.132799,restaurant & business alliance llc,47 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132799 42.354415),,7,9
+42.353326,-71.136549,replay d,252 Brighton Ave,2134,811211,Consumer Electronics Repair and Maintenance,81,Other Services,2.0,1 to 9,Allston Village,POINT (-71.136549 42.353326),,7,9
+42.356129,-71.132629,regina pizzeria,353 Cambridge St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,35.0,25 to 49,Allston Village,POINT (-71.132629 42.356129),,7,9
+42.351681,-71.131878,regeneration tattoo,155 Harvard Ave,2134,443142,Electronics Stores,44,Retail Trade,6.0,1 to 9,Allston Village,POINT (-71.131878 42.351681),,7,9
+42.353247,-71.131861,refuge cafe,155 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131861 42.353247),,7,9
+42.348987,-71.130185,realty lords inc,231 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130185 42.348987),,7,9
+42.348987,-71.130185,realty & insurance lords,231 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130185 42.348987),,7,9
+42.352997,-71.130439,realr skin care,105 Brighton Ave,2134,611511,Cosmetology and Barber Schools,61,Educational Services,3.0,1 to 9,Allston Village,POINT (-71.130439 42.352997),,7,9
+42.354628,-71.13302,rainbow visions,161 Harvard Ave,2134,323111,Commercial Printing (except Screen and Books),32,Manufacturing,3.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.353911,-71.137191,quality liquors,489 Cambridge St,2134,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,4.0,1 to 9,Allston Village,POINT (-71.137191 42.353911),,7,9
+42.353821,-71.137184,purposeful palate e-newsletter,487 Cambridge St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.137184 42.353821),,7,9
+42.353009,-71.130556,punjab palace restaurant,109 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Allston Village,POINT (-71.130556 42.353009),,7,9
+42.350829,-71.130893,princeton barber shop,1213 Commonwealth Ave,2134,812111,Barber Shops,81,Other Services,2.0,1 to 9,Allston Village,POINT (-71.130893 42.350829),,7,9
+42.354535,-71.132303,pizzawings llc,54 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Allston Village,POINT (-71.132303 42.354535),,7,9
+42.353016,-71.130614,pizza days inc,111 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.130614 42.353016),,7,9
+42.354415,-71.132799,phantom gourmet-wsbk-tv,47 Harvard Ave,2134,515210,Cable and Other Subscription Programming,51,Information,3.0,1 to 9,Allston Village,POINT (-71.132799 42.354415),,7,9
+42.350909,-71.13153,peter cole law office,183 Harvard Ave,2134,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",4.0,1 to 9,Allston Village,POINT (-71.13153 42.350909),,7,9
+42.351504,-71.131811,pet shop,165 Harvard Ave,2134,453910,Pet and Pet Supplies Stores,45,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.131811 42.351504),,7,9
+42.354839,-71.132904,penske truck rental,25 Harvard Ave,2134,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.132904 42.354839),,7,9
+42.352725,-71.131682,patrons,138 Brighton Ave,2134,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,40.0,25 to 49,Allston Village,POINT (-71.131682 42.352725),,7,9
+42.35018,-71.130346,park associates inc,1216 Commonwealth Ave,2134,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,2.0,1 to 9,Allston Village,POINT (-71.130346 42.35018),,7,9
+42.352557,-71.131343,panda spicy pot inc,128 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131343 42.352557),,7,9
+42.351773,-71.131527,panda panda inc,154 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131527 42.351773),,7,9
+42.352725,-71.131682,panda factory inc,140 Brighton Ave,2134,339999,All Other Miscellaneous Manufacturing,33,Manufacturing,17.0,10 to 24,Allston Village,POINT (-71.131682 42.352725),,7,9
+42.351077,-71.131068,painted house,186 Harvard Ave,2134,561990,All Other Support Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",4.0,1 to 9,Allston Village,POINT (-71.131068 42.351077),,7,9
+42.3528,-71.1328,paint by the mile,20 Rugg Rd,2134,444120,Paint and Wallpaper Stores,44,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.355179,-71.132874,out of the blue allston,11 Harvard Ave,2134,453920,Art Dealers,45,Retail Trade,1.0,1 to 9,Allston Village,POINT (-71.132874 42.355179),,7,9
+42.355584,-71.130661,our future learning center allstn,14 Linden St,2134,624410,Child Day Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Allston Village,POINT (-71.130661 42.355584),,7,9
+42.353868,-71.133691,osco pharmacy,181 Brighton Ave,2134,446110,Pharmacies and Drug Stores,44,Retail Trade,7.0,1 to 9,Allston Village,POINT (-71.133691 42.353868),,7,9
+42.351737,-71.131514,orchard skateshop,156 Harvard Ave,2134,451110,Sporting Goods Stores,45,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.131514 42.351737),,7,9
+42.354063,-71.135682,ora catering,450 Cambridge St,2134,722320,Caterers,72,Accommodation and Food Services,19.0,10 to 24,Allston Village,POINT (-71.135682 42.354063),,7,9
+42.353783,-71.137459,onebeacon professional partners,1 N Beacon St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.137459 42.353783),,7,9
+42.353247,-71.131861,one zo,145 Brighton Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.131861 42.353247),,7,9
+42.353273,-71.13196,one stop cleaners,94 Harvard Ave,2134,812320,Drycleaning and Laundry Services (except Coin-Operated),81,Other Services,1.0,1 to 9,Allston Village,POINT (-71.13196 42.353273),,7,9
+42.353954,-71.132013,odyssey wellness tattoo,68 Harvard Ave,2134,812199,Other Personal Care Services,81,Other Services,2.0,1 to 9,Allston Village,POINT (-71.132013 42.353954),,7,9
+42.355347,-71.132906,o'briens pub,3 Harvard Ave,2134,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,7.0,1 to 9,Allston Village,POINT (-71.132906 42.355347),,7,9
+42.3528,-71.1328,nova bridon residents,,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.354211,-71.132581,night star convenience,63 Harvard Ave,2134,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.132581 42.354211),,7,9
+42.352537,-71.130441,next door cafe,110 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,10.0,10 to 24,Allston Village,POINT (-71.130441 42.352537),,7,9
+42.355574,-71.133154,nelum beauty salon,391 Cambridge St,2134,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Allston Village,POINT (-71.133154 42.355574),,7,9
+42.35333,-71.131972,muygn dogn,90 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131972 42.35333),,7,9
+42.355037,-71.13429,murampo inc,421 Cambridge St,2134,511210,Software Publishers,51,Information,10.0,10 to 24,Allston Village,POINT (-71.13429 42.355037),,7,9
+42.348824,-71.130041,mozart moving,239 Harvard Ave,2134,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,5.0,1 to 9,Allston Village,POINT (-71.130041 42.348824),,7,9
+42.354741,-71.133709,motorsport garage,410 Cambridge St,2134,811111,General Automotive Repair,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.133709 42.354741),,7,9
+42.352911,-71.132914,morris shoe repair & leather goods,168 Brighton Ave,2134,811430,Footwear and Leather Goods Repair,81,Other Services,1.0,1 to 9,Allston Village,POINT (-71.132914 42.352911),,7,9
+42.352537,-71.130441,moon flower house allston inc,110 Brighton Ave,2134,453110,Florists,45,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.130441 42.352537),,7,9
+42.352849,-71.132915,moge tee,164 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Allston Village,POINT (-71.132915 42.352849),,7,9
+42.353247,-71.131861,modern real estate,141 Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.131861 42.353247),,7,9
+42.354922,-71.132584,model hardware,22 Harvard Ave,2134,444130,Hardware Stores,44,Retail Trade,8.0,1 to 9,Allston Village,POINT (-71.132584 42.354922),,7,9
+42.353798,-71.137665,model cafe,7 N Beacon St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Allston Village,POINT (-71.137665 42.353798),,7,9
+42.35288,-71.133438,mixx studios,56 Park Vale Ave,2134,541921,"Photography Studios, Portrait",54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Allston Village,POINT (-71.133438 42.35288),,7,9
+42.352169,-71.131601,mister music inc,128 Harvard Ave,2134,451140,Musical Instrument and Supplies Stores,45,Retail Trade,4.0,1 to 9,Allston Village,POINT (-71.131601 42.352169),,7,9
+42.354856,-71.132377,"metro dining, inc",34 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132377 42.354856),,7,9
+42.352993,-71.133796,metro by t-mobile-authorized retailer,188 Brighton Ave,2134,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Allston Village,POINT (-71.133796 42.352993),,7,9
+42.353484,-71.133155,metheny pat,173 Brighton Ave,2134,515112,Radio Stations,51,Information,16.0,10 to 24,Allston Village,POINT (-71.133155 42.353484),,7,9
+42.352725,-71.131682,meet fresh,140 Brighton Ave,2134,424490,Other Grocery and Related Products Merchant Wholesalers,42,Wholesale Trade,8.0,1 to 9,Allston Village,POINT (-71.131682 42.352725),,7,9
+42.349398,-71.129656,medical steward,226 Harvard Ave,2134,621493,Freestanding Ambulatory Surgical and Emergency Centers,62,Healthcare and Social Assistance,28.0,25 to 49,Allston Village,POINT (-71.129656 42.349398),,7,9
+42.350909,-71.13153,medford pads,183 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.13153 42.350909),,7,9
+42.350829,-71.130893,mcdonald's,1223 Commonwealth Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,17.0,10 to 24,Allston Village,POINT (-71.130893 42.350829),,7,9
+42.349137,-71.129578,mayflower medicinals,230 Harvard Ave,2134,445299,All Other Specialty Food Stores,44,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.129578 42.349137),,7,9
+42.353127,-71.137917,mayfair foods inc,506 Cambridge St,2134,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.137917 42.353127),,7,9
+42.352169,-71.131601,massachusetts great times inc,128 Harvard Ave,2134,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Allston Village,POINT (-71.131601 42.352169),,7,9
+42.355574,-71.133154,mass apparel concept store,383 Cambridge St,2134,448190,Other Clothing Stores,44,Retail Trade,4.0,1 to 9,Allston Village,POINT (-71.133154 42.355574),,7,9
+42.353826,-71.137595,martys liquors,103 N Beacon St,2134,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,10.0,10 to 24,Allston Village,POINT (-71.137595 42.353826),,7,9
+42.353073,-71.131138,mala restaurant,129 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Allston Village,POINT (-71.131138 42.353073),,7,9
+42.353247,-71.131861,mala kungfu inc,155 Brighton Ave,2134,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,Allston Village,POINT (-71.131861 42.353247),,7,9
+42.35511,-71.133171,mad oak studios,390 Cambridge St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.133171 42.35511),,7,9
+42.355532,-71.133146,m g hair artisitc boston inc,379 Cambridge St,2134,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.133146 42.355532),,7,9
+42.3528,-71.1328,m & m food store,85 Glenville Ave,2134,452319,All Other General Merchandise Stores,45,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.354458,-71.132264,lucky brothers corp,44 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.132264 42.354458),,7,9
+42.353188,-71.131744,lu fu zi,147 Brighton Ave,2134,454390,Other Direct Selling Establishments,45,Retail Trade,75.0,50 to 99,Allston Village,POINT (-71.131744 42.353188),,7,9
+42.353911,-71.137191,lone star taco bar,479 Cambridge St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,30.0,25 to 49,Allston Village,POINT (-71.137191 42.353911),,7,9
+42.349458,-71.130751,live realty-boston,215 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130751 42.349458),,7,9
+42.355574,-71.133154,liso's & rizzo's beauty salon,391 Cambridge St,2134,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.133154 42.355574),,7,9
+42.353081,-71.130624,linden's superette,101 Brighton Ave,2134,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.130624 42.353081),,7,9
+42.349243,-71.13053,liberty real estate,223 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.13053 42.349243),,7,9
+42.353207,-71.136219,leopold & mcmasters realty,244 Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.136219 42.353207),,7,9
+42.353243,-71.131192,le's,137 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,11.0,10 to 24,Allston Village,POINT (-71.131192 42.353243),,7,9
+42.3528,-71.1328,lavietes pavilion,45 N Harvard St,2134,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",71,"Arts, Entertainment, and Recreation",10.0,10 to 24,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.354839,-71.132904,landbird,25 Harvard Ave,2134,532111,Passenger Car Rental,53,Real Estate Rental and Leasing,0.0,Not Available,Allston Village,POINT (-71.132904 42.354839),,7,9
+42.353245,-71.136537,la sirenita music,248 Brighton Ave,2134,452210,Department Stores,45,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.136537 42.353245),,7,9
+42.352993,-71.133796,la mamma pizza & more,190 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Allston Village,POINT (-71.133796 42.352993),,7,9
+42.353954,-71.132013,la favorita market,66 Harvard Ave,2134,445120,Convenience Stores,44,Retail Trade,8.0,1 to 9,Allston Village,POINT (-71.132013 42.353954),,7,9
+42.353484,-71.133155,kurland ted associates,173 Brighton Ave,2134,711190,Other Performing Arts Companies,71,"Arts, Entertainment, and Recreation",15.0,10 to 24,Allston Village,POINT (-71.133155 42.353484),,7,9
+42.352268,-71.13208,kung fu tea,131 Harvard Ave,2134,445299,All Other Specialty Food Stores,44,Retail Trade,8.0,1 to 9,Allston Village,POINT (-71.13208 42.352268),,7,9
+42.353207,-71.136219,krefetz law firm,244 Brighton Ave,2134,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Allston Village,POINT (-71.136219 42.353207),,7,9
+42.352635,-71.131804,korean garden,122 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,2.0,1 to 9,Allston Village,POINT (-71.131804 42.352635),,7,9
+42.352725,-71.131682,kirin teppanyaki inc,130 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131682 42.352725),,7,9
+42.353954,-71.132013,kinvara realty trust,66 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,3.0,1 to 9,Allston Village,POINT (-71.132013 42.353954),,7,9
+42.353703,-71.132448,kimchipapi kitchen,81 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132448 42.353703),,7,9
+42.352891,-71.132721,kim's tofu,160 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132721 42.352891),,7,9
+42.348987,-71.130185,keller williams realty,231 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130185 42.348987),,7,9
+42.354628,-71.13302,kb education,161 Harvard Ave,2134,611710,Educational Support Services,61,Educational Services,7.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.354628,-71.13302,katz & whitehead,161 Harvard Ave,2134,541110,Offices of Lawyers,54,"Professional, Scientific, and Technical Services",2.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.353423,-71.132313,kao bbq,85 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Allston Village,POINT (-71.132313 42.353423),,7,9
+42.35442,-71.132268,kaju tofu house,56 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132268 42.35442),,7,9
+42.352169,-71.131601,k town chicken,136 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131601 42.352169),,7,9
+42.353039,-71.130524,jo jo taipei,103 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.130524 42.353039),,7,9
+42.352993,-71.133796,jn wireless inc,188 Brighton Ave,2134,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Allston Village,POINT (-71.133796 42.352993),,7,9
+42.353637,-71.134906,jjl education boston corp,215 Brighton Ave,2134,611710,Educational Support Services,61,Educational Services,7.0,1 to 9,Allston Village,POINT (-71.134906 42.353637),,7,9
+42.354767,-71.135673,jcb auto,8 Rugg Rd,2134,541990,"All Other Professional, Scientific, and Technical Services",54,"Professional, Scientific, and Technical Services",3.0,1 to 9,Allston Village,POINT (-71.135673 42.354767),,7,9
+42.350909,-71.13153,jamaica plain apartments,183 Harvard Ave,2134,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.13153 42.350909),,7,9
+42.353312,-71.132667,"jajb, inc",161 Brighton Ave,2134,511210,Software Publishers,51,Information,10.0,10 to 24,Allston Village,POINT (-71.132667 42.353312),,7,9
+42.353142,-71.137459,jackson mann community center,500 Cambridge St,2134,813319,Other Social Advocacy Organizations,81,Other Services,50.0,50 to 99,Allston Village,POINT (-71.137459 42.353142),,7,9
+42.350909,-71.13153,ivy cafe,185 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Allston Village,POINT (-71.13153 42.350909),,7,9
+42.354228,-71.134807,irving oil,434 Cambridge St,2134,447190,Other Gasoline Stations,44,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.134807 42.354228),,7,9
+42.355132,-71.134232,instant agency,427 Cambridge St,2134,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,2.0,1 to 9,Allston Village,POINT (-71.134232 42.355132),,7,9
+42.352557,-71.131343,inshallah inc,128 Brighton Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.131343 42.352557),,7,9
+42.354063,-71.135682,indian kitchen,450 Cambridge St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.135682 42.354063),,7,9
+42.35466,-71.13541,hynes auto service,445 Cambridge St,2134,811111,General Automotive Repair,81,Other Services,5.0,1 to 9,Allston Village,POINT (-71.13541 42.35466),,7,9
+42.3528,-71.1328,horace mann school for the deaf & hard of hearing,,2134,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.351952,-71.131348,hidden do plus bos inc,140 Harvard Ave,2134,611620,Sports and Recreation Instruction,61,Educational Services,2.0,1 to 9,Allston Village,POINT (-71.131348 42.351952),,7,9
+42.354628,-71.13302,hfs cleaning & maintenance inc,161 Harvard Ave,2134,561720,Janitorial Services,56,"Adminstrative, Support, Waste Management, and Remediation Services",5.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.3528,-71.1328,harvard university,361 Soldiers Field Rd,2134,611310,"Colleges, Universities, and Professional Schools",61,Educational Services,21.0,10 to 24,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.35018,-71.130346,harvard ave realty,1216 Commonwealth Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130346 42.35018),,7,9
+42.351526,-71.131434,hanmaru restaurant,168 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131434 42.351526),,7,9
+42.353088,-71.138161,hamilton co,514 Cambridge St,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Allston Village,POINT (-71.138161 42.353088),,7,9
+42.352849,-71.132915,hair screen,164 Brighton Ave,2134,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Allston Village,POINT (-71.132915 42.352849),,7,9
+42.352906,-71.132866,habierano mexican grill,166 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132866 42.352906),,7,9
+42.353461,-71.133477,h&r block,177 Brighton Ave,2134,541213,Tax Preparation Services,54,"Professional, Scientific, and Technical Services",17.0,10 to 24,Allston Village,POINT (-71.133477 42.353461),,7,9
+42.353207,-71.136219,gridspan energy llc,244 Brighton Ave,2134,0,,99,Undefined,7.0,1 to 9,Allston Village,POINT (-71.136219 42.353207),,7,9
+42.354439,-71.134344,gratitude sound,390R Cambridge St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.134344 42.354439),,7,9
+42.353783,-71.137459,grasshopper vegan restaurant,1 N Beacon St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Allston Village,POINT (-71.137459 42.353783),,7,9
+42.3528,-71.1328,grace church boston,557 Cambridge St,2134,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.350203,-71.13026,gorman insurance,1212 Commonwealth Ave,2134,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,2.0,1 to 9,Allston Village,POINT (-71.13026 42.350203),,7,9
+42.353207,-71.136219,good glass gallery,244 Brighton Ave,2134,444190,Other Building Material Dealers,44,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.136219 42.353207),,7,9
+42.351773,-71.131527,gong cha,154 Harvard Ave,2134,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Allston Village,POINT (-71.131527 42.351773),,7,9
+42.352993,-71.133796,gns street food llc,182 Brighton Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.133796 42.352993),,7,9
+42.353708,-71.13245,global wireless,77 Harvard Ave,2134,517312,Wireless Telecommunications Carriers (except Satellite),51,Information,2.0,1 to 9,Allston Village,POINT (-71.13245 42.353708),,7,9
+42.354422,-71.13598,glc painting & carpentry inc,451 Cambridge St,2134,238320,Painting and Wall Covering Contractors,23,Construction,5.0,1 to 9,Allston Village,POINT (-71.13598 42.354422),,7,9
+42.352991,-71.131471,gateway real estate group,139 Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,20.0,10 to 24,Allston Village,POINT (-71.131471 42.352991),,7,9
+42.353247,-71.131861,gateway property management llc,141 Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Allston Village,POINT (-71.131861 42.353247),,7,9
+42.352077,-71.132021,garlic 'n lemons,133 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,13.0,10 to 24,Allston Village,POINT (-71.132021 42.352077),,7,9
+42.350158,-71.130519,gallop global,1216B Commonwealth Ave,2134,561510,Travel Agencies,56,"Adminstrative, Support, Waste Management, and Remediation Services",3.0,1 to 9,Allston Village,POINT (-71.130519 42.350158),,7,9
+42.35018,-71.130346,galaxy insurance agency,1216 Commonwealth Ave,2134,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,3.0,1 to 9,Allston Village,POINT (-71.130346 42.35018),,7,9
+42.353708,-71.13245,fruity tea inc,77 Harvard Ave,2134,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Allston Village,POINT (-71.13245 42.353708),,7,9
+42.351645,-71.131865,froyoworld,157 Harvard Ave,2134,445299,All Other Specialty Food Stores,44,Retail Trade,4.0,1 to 9,Allston Village,POINT (-71.131865 42.351645),,7,9
+42.352411,-71.132192,friendly care,121 Harvard Ave,2134,621610,Home Health Care Services,62,Healthcare and Social Assistance,40.0,25 to 49,Allston Village,POINT (-71.132192 42.352411),,7,9
+42.353845,-71.137127,fomu ice cream,481 Cambridge St,2134,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,9.0,1 to 9,Allston Village,POINT (-71.137127 42.353845),,7,9
+42.353845,-71.137127,fomu,481 Cambridge St,2134,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,12.0,10 to 24,Allston Village,POINT (-71.137127 42.353845),,7,9
+42.350688,-71.13101,five guys,1227 Commonwealth Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,20.0,10 to 24,Allston Village,POINT (-71.13101 42.350688),,7,9
+42.352917,-71.132963,fish market sushi bar,170 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Allston Village,POINT (-71.132963 42.352917),,7,9
+42.354628,-71.13302,fiar,161 Harvard Ave,2134,323120,Support Activities for Printing,32,Manufacturing,2.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.350939,-71.13152,fast eddies barber shop,179 Harvard Ave,2134,812112,Beauty Salons,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.13152 42.350939),,7,9
+42.353708,-71.13245,fairway independent mortgage,77 Harvard Ave,2134,522292,Real Estate Credit,52,Finance and Insurance,2.0,1 to 9,Allston Village,POINT (-71.13245 42.353708),,7,9
+42.3528,-71.1328,f c legends corp,35 Stadium Way,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.350734,-71.131001,esl school,196 Harvard Ave,2134,611110,Elementary and Secondary Schools,61,Educational Services,16.0,10 to 24,Allston Village,POINT (-71.131001 42.350734),,7,9
+42.353666,-71.134485,emerson bearing,201 Brighton Ave,2134,444130,Hardware Stores,44,Retail Trade,22.0,10 to 24,Allston Village,POINT (-71.134485 42.353666),,7,9
+42.3528,-71.1328,elton & associates,28 Penniman Rd,2134,541310,Architectural Services,54,"Professional, Scientific, and Technical Services",9.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353703,-71.132448,eighty one harvard st lic,81 Harvard Ave,2134,523110,Investment Banking and Securities Dealing,52,Finance and Insurance,5.0,1 to 9,Allston Village,POINT (-71.132448 42.353703),,7,9
+42.354628,-71.13302,eduexpress education cnstltng,161 Harvard Ave,2134,611710,Educational Support Services,61,Educational Services,46.0,25 to 49,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.354628,-71.13302,edu boston,161 Harvard Ave,2134,611710,Educational Support Services,61,Educational Services,9.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.353081,-71.130624,eden properties,107 Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,2.0,1 to 9,Allston Village,POINT (-71.130624 42.353081),,7,9
+42.350203,-71.13026,east coast realty,1212 Commonwealth Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,11.0,10 to 24,Allston Village,POINT (-71.13026 42.350203),,7,9
+42.350203,-71.13026,east coast management,1212 Commonwealth Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.13026 42.350203),,7,9
+42.351387,-71.131765,e shan tang,171 Harvard Ave,2134,445299,All Other Specialty Food Stores,44,Retail Trade,7.0,1 to 9,Allston Village,POINT (-71.131765 42.351387),,7,9
+42.349864,-71.130212,dunkin',210 Harvard Ave,2134,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,13.0,10 to 24,Allston Village,POINT (-71.130212 42.349864),,7,9
+42.353493,-71.13843,dunkin',509 Cambridge St,2134,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.13843 42.353493),,7,9
+42.353461,-71.133477,dunkin',179 Brighton Ave,2134,722515,Snack and Nonalcoholic Beverage Bars,72,Accommodation and Food Services,4.0,1 to 9,Allston Village,POINT (-71.133477 42.353461),,7,9
+42.352268,-71.13208,dumpling kingdom,137 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.13208 42.352268),,7,9
+42.354856,-71.132377,draft bar & grille,34 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132377 42.354856),,7,9
+42.354484,-71.133936,domino's,414 Cambridge St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,22.0,10 to 24,Allston Village,POINT (-71.133936 42.354484),,7,9
+42.349458,-71.130751,disposable america,215 Harvard Ave,2134,512240,Sound Recording Studios,51,Information,1.0,1 to 9,Allston Village,POINT (-71.130751 42.349458),,7,9
+42.3528,-71.1328,diniz brazilian housecleaning,Commonwealth Ave,2134,238990,All Other Specialty Trade Contractors,23,Construction,3.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353637,-71.134906,development evaluation adjustment facilities inc,215 Brighton Ave,2134,624310,Vocational Rehabilitation Services,62,Healthcare and Social Assistance,14.0,10 to 24,Allston Village,POINT (-71.134906 42.353637),,7,9
+42.353704,-71.135448,depot realty llc,229 Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.135448 42.353704),,7,9
+42.349827,-71.130853,dentistar,205 Harvard Ave,2134,621210,Offices of Dentists,62,Healthcare and Social Assistance,5.0,1 to 9,Allston Village,POINT (-71.130853 42.349827),,7,9
+42.35206,-71.132111,dental,127 Harvard Ave,2134,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Allston Village,POINT (-71.132111 42.35206),,7,9
+42.352867,-71.129135,delany real estate realtors,79 Brighton Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,8.0,1 to 9,Allston Village,POINT (-71.129135 42.352867),,7,9
+42.3528,-71.1328,deaf inc-allston,,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353423,-71.135059,deaf inc,215 Brighton Ave,2134,813319,Other Social Advocacy Organizations,81,Other Services,20.0,10 to 24,Allston Village,POINT (-71.135059 42.353423),,7,9
+42.350769,-71.130981,dawa md inc,92 Harvard Ave,2134,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,6.0,1 to 9,Allston Village,POINT (-71.130981 42.350769),,7,9
+42.353868,-71.133691,cvs pharmacy,181 Brighton Ave,2134,446110,Pharmacies and Drug Stores,44,Retail Trade,14.0,10 to 24,Allston Village,POINT (-71.133691 42.353868),,7,9
+42.355584,-71.130661,crystal restaurant,14 Linden St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.130661 42.355584),,7,9
+42.352922,-71.133011,coreanos,172 Brighton Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.133011 42.352922),,7,9
+42.350734,-71.131001,contal realty,196 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,2.0,1 to 9,Allston Village,POINT (-71.131001 42.350734),,7,9
+42.351399,-71.131374,commonwealth realty,176 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.131374 42.351399),,7,9
+42.35018,-71.130346,commonwealth chiropractic,1216 Commonwealth Ave,2134,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Allston Village,POINT (-71.130346 42.35018),,7,9
+42.349566,-71.130863,club realty,211 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130863 42.349566),,7,9
+42.352569,-71.132624,city church boston,158 Brighton Ave,2134,813110,Religious Organizations,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.132624 42.352569),,7,9
+42.353902,-71.132126,church of the holy resurrection,64 Harvard Ave,2134,813110,Religious Organizations,81,Other Services,4.0,1 to 9,Allston Village,POINT (-71.132126 42.353902),,7,9
+42.352849,-71.132915,chic chick inc,164 Brighton Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.132915 42.352849),,7,9
+42.353082,-71.134271,chez bella salon,196 Brighton Ave,2134,812112,Beauty Salons,81,Other Services,4.0,1 to 9,Allston Village,POINT (-71.134271 42.353082),,7,9
+42.353247,-71.131861,chatime,145 Brighton Ave,2134,445299,All Other Specialty Food Stores,44,Retail Trade,5.0,1 to 9,Allston Village,POINT (-71.131861 42.353247),,7,9
+42.3528,-71.1328,charles view apartments,75 Stadium Way,2134,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.3528,-71.1328,charles river reservation,1175A Soldiers Field Rd,2134,722320,Caterers,72,Accommodation and Food Services,12.0,10 to 24,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.352993,-71.133796,chang express,190 Brighton Ave,2134,561520,Tour Operators,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,Allston Village,POINT (-71.133796 42.352993),,7,9
+42.350203,-71.13026,cedar rock ventures inc,1212 Commonwealth Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.13026 42.350203),,7,9
+42.35206,-71.132111,casa brasil bakery inc,125 Harvard Ave,2134,311811,Retail Bakeries,31,Manufacturing,6.0,1 to 9,Allston Village,POINT (-71.132111 42.35206),,7,9
+42.353079,-71.131196,carlos cucina italiana,131 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Allston Village,POINT (-71.131196 42.353079),,7,9
+42.35466,-71.13541,cambridge street auto service,445 Cambridge St,2134,811111,General Automotive Repair,81,Other Services,2.0,1 to 9,Allston Village,POINT (-71.13541 42.35466),,7,9
+42.3528,-71.1328,cambridge general welding,32 Rugg Rd,2134,332323,Ornamental and Architectural Metal Work Manufacturing,33,Manufacturing,3.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353009,-71.134303,cafe pizzarelli inc,192 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.134303 42.353009),,7,9
+42.352725,-71.131682,cafe mitti's,140 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131682 42.352725),,7,9
+42.354228,-71.134807,c j resources inc,434 Cambridge St,2134,541614,"Process, Physical Distribution, and Logistics Consulting Services",54,"Professional, Scientific, and Technical Services",30.0,25 to 49,Allston Village,POINT (-71.134807 42.354228),,7,9
+42.355576,-71.132966,buried treasures,377 Cambridge St,2134,448120,Women's Clothing Stores,44,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.132966 42.355576),,7,9
+42.353023,-71.135053,burger king,210 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,24.0,10 to 24,Allston Village,POINT (-71.135053 42.353023),,7,9
+42.353081,-71.130624,bullseye inc,107 Brighton Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.130624 42.353081),,7,9
+42.351331,-71.131339,buffalo exchange,180 Harvard Ave,2134,453310,Used Merchandise Stores,45,Retail Trade,14.0,10 to 24,Allston Village,POINT (-71.131339 42.351331),,7,9
+42.354422,-71.13598,bruno araujo inc,451 Cambridge St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.13598 42.354422),,7,9
+42.349398,-71.129656,brookline womens health,226 Harvard Ave,2134,621111,Offices of Physicians (except Mental Health Specialists),62,Healthcare and Social Assistance,30.0,25 to 49,Allston Village,POINT (-71.129656 42.349398),,7,9
+42.3528,-71.1328,brookline moving co,32 Rugg Rd,2134,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,6.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.3538,-71.133079,brookline development corp,8 Harvard Ter,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,0.0,Not Available,Allston Village,POINT (-71.133079 42.3538),,7,9
+42.353149,-71.131516,brighton ave condominium trust,139 Brighton Ave,2134,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,6.0,1 to 9,Allston Village,POINT (-71.131516 42.353149),,7,9
+42.353954,-71.132013,briar group,66 Harvard Ave,2134,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,20.0,10 to 24,Allston Village,POINT (-71.132013 42.353954),,7,9
+42.355187,-71.132384,"brazilian worker center, inc",14 Harvard Ave,2134,541612,Human Resources Consulting Services,54,"Professional, Scientific, and Technical Services",12.0,10 to 24,Allston Village,POINT (-71.132384 42.355187),,7,9
+42.355187,-71.132384,brazilian policy center inc,14 Harvard Ave,2134,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Allston Village,POINT (-71.132384 42.355187),,7,9
+42.348987,-71.130185,boynton insurance associates inc,231 Harvard Ave,2134,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Allston Village,POINT (-71.130185 42.348987),,7,9
+42.35018,-71.130346,boston-living,1216 Commonwealth Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130346 42.35018),,7,9
+42.3528,-71.1328,boston taxis & vans,10 Penniman Rd,2134,485310,Taxi Service,48,Transportation and Warehosuing,0.0,Not Available,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353783,-71.137459,boston shawa fel corp,3 N Beacon St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.137459 42.353783),,7,9
+42.353081,-71.130624,boston sax shop,107 Brighton Ave,2134,451140,Musical Instrument and Supplies Stores,45,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.130624 42.353081),,7,9
+42.350909,-71.13153,boston property management,183 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,6.0,1 to 9,Allston Village,POINT (-71.13153 42.350909),,7,9
+42.354628,-71.13302,boston martial arts center,161 Harvard Ave,2134,611620,Sports and Recreation Instruction,61,Educational Services,1.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.354628,-71.13302,boston korean,161 Harvard Ave,2134,511110,Newspaper Publishers,51,Information,6.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.354458,-71.132264,boston kaju tofu restaurant,58 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Allston Village,POINT (-71.132264 42.354458),,7,9
+42.353081,-71.130624,bonchon,123 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.130624 42.353081),,7,9
+42.355526,-71.133209,body mechanics,387 Cambridge St,2134,812199,Other Personal Care Services,81,Other Services,2.0,1 to 9,Allston Village,POINT (-71.133209 42.355526),,7,9
+42.350909,-71.13153,boardwalk properties,183 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,3.0,1 to 9,Allston Village,POINT (-71.13153 42.350909),,7,9
+42.353745,-71.137596,blue ocean management,5 N Beacon St,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.137596 42.353745),,7,9
+42.351331,-71.131339,blue moon international inc,180 Harvard Ave,2134,327215,Glass Product Manufacturing Made of Purchased Glass,32,Manufacturing,4.0,1 to 9,Allston Village,POINT (-71.131339 42.351331),,7,9
+42.353022,-71.130672,blue asia cafe,113 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Allston Village,POINT (-71.130672 42.353022),,7,9
+42.352753,-71.132214,blanchard liquors,103 Harvard Ave,2134,445310,"Beer, Wine, and Liquor Stores",44,Retail Trade,27.0,25 to 49,Allston Village,POINT (-71.132214 42.352753),,7,9
+42.352537,-71.130441,big bowl brothers inc,110 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.130441 42.352537),,7,9
+42.354839,-71.132904,bestway auto rental,25 Harvard Ave,2134,532111,Passenger Car Rental,53,Real Estate Rental and Leasing,4.0,1 to 9,Allston Village,POINT (-71.132904 42.354839),,7,9
+42.351543,-71.131409,best choice insurance,163 Harvard Ave,2134,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,2.0,1 to 9,Allston Village,POINT (-71.131409 42.351543),,7,9
+42.3528,-71.1328,beren tennis center,Soldiers Field Rd,2134,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",71,"Arts, Entertainment, and Recreation",10.0,10 to 24,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353081,-71.130624,benjamin apartments & cityside homes,107 Brighton Ave,2134,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130624 42.353081),,7,9
+42.353081,-71.130624,benjamin apartments,107 Brighton Ave,2134,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130624 42.353081),,7,9
+42.354458,-71.132264,beautiful cut,52 Harvard Ave,2134,812112,Beauty Salons,81,Other Services,1.0,1 to 9,Allston Village,POINT (-71.132264 42.354458),,7,9
+42.353546,-71.134499,bearing enterprises,203 Brighton Ave,2134,423840,Industrial Supplies Merchant Wholesalers,42,Wholesale Trade,7.0,1 to 9,Allston Village,POINT (-71.134499 42.353546),,7,9
+42.352187,-71.131377,beantown co,138 Harvard Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,8.0,1 to 9,Allston Village,POINT (-71.131377 42.352187),,7,9
+42.35099,-71.131147,bbq chicken allston,182 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131147 42.35099),,7,9
+42.35099,-71.131147,bbq chicken,182 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131147 42.35099),,7,9
+42.354439,-71.134344,bazaar on cambridge st,424 Cambridge St,2134,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.134344 42.354439),,7,9
+42.350829,-71.130893,bay state properties,1223 Commonwealth Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.130893 42.350829),,7,9
+42.351751,-71.131905,basics carpet & furniture,151 Harvard Ave,2134,442210,Floor Covering Stores,44,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.131905 42.351751),,7,9
+42.353088,-71.138161,barrows place apartments,514 Cambridge St,2134,531110,Lessors of Residential Buildings and Dwellings,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.138161 42.353088),,7,9
+42.350386,-71.131634,bank of america,1237 Commonwealth Ave,2134,522110,Commercial Banking,52,Finance and Insurance,11.0,10 to 24,Allston Village,POINT (-71.131634 42.350386),,7,9
+42.354415,-71.132799,baldwin co,47 Harvard Ave,2134,531320,Offices of Real Estate Appraisers,53,Real Estate Rental and Leasing,1.0,1 to 9,Allston Village,POINT (-71.132799 42.354415),,7,9
+42.351436,-71.131902,b h express corp,175 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.131902 42.351436),,7,9
+42.354535,-71.132303,azama grill,54 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132303 42.354535),,7,9
+42.350829,-71.130893,awol,190 Harvard Ave,2134,448210,Shoe Stores,44,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.130893 42.350829),,7,9
+42.35511,-71.133171,avn systems,390 Cambridge St,2134,443142,Electronics Stores,44,Retail Trade,5.0,1 to 9,Allston Village,POINT (-71.133171 42.35511),,7,9
+42.352574,-71.130736,avenue bar & grill,116 Brighton Ave,2134,722410,Drinking Places (Alcoholic Beverages),72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.130736 42.352574),,7,9
+42.354118,-71.132062,austin networks llc,7 Farrington Ave,2134,541613,Marketing Consulting Services,54,"Professional, Scientific, and Technical Services",8.0,1 to 9,Allston Village,POINT (-71.132062 42.354118),,7,9
+42.353954,-71.132013,auraplayer,68 Harvard Ave,2134,511210,Software Publishers,51,Information,10.0,10 to 24,Allston Village,POINT (-71.132013 42.353954),,7,9
+42.351559,-71.131351,at union,174 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131351 42.351559),,7,9
+42.350203,-71.13026,at home realty,1212 Commonwealth Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,9.0,1 to 9,Allston Village,POINT (-71.13026 42.350203),,7,9
+42.351387,-71.131765,asian healing arts & lc,171 Harvard Ave,2134,712110,Museums,71,"Arts, Entertainment, and Recreation",3.0,1 to 9,Allston Village,POINT (-71.131765 42.351387),,7,9
+42.354458,-71.132264,asia wok,44 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,4.0,1 to 9,Allston Village,POINT (-71.132264 42.354458),,7,9
+42.354172,-71.132518,artful edge framing,55 Harvard Ave,2134,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),45,Retail Trade,1.0,1 to 9,Allston Village,POINT (-71.132518 42.354172),,7,9
+42.352411,-71.132192,art of care,121 Harvard Ave,2134,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,16.0,10 to 24,Allston Village,POINT (-71.132192 42.352411),,7,9
+42.3528,-71.1328,archdiocese-boston catholic appeals office,66 Brooks Dr,2134,813110,Religious Organizations,81,Other Services,20.0,10 to 24,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353704,-71.135448,arcand's brake center,229 Brighton Ave,2134,811118,Other Automotive Mechanical and Electrical Repair and Maintenance,81,Other Services,2.0,1 to 9,Allston Village,POINT (-71.135448 42.353704),,7,9
+42.350734,-71.131001,approach test preparation center,196 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.131001 42.350734),,7,9
+42.350734,-71.131001,approach international student,196 Harvard Ave,2134,611630,Language Schools,61,Educational Services,12.0,10 to 24,Allston Village,POINT (-71.131001 42.350734),,7,9
+42.354741,-71.133709,apac child care,406 Cambridge St,2134,624410,Child Day Care Services,62,Healthcare and Social Assistance,6.0,1 to 9,Allston Village,POINT (-71.133709 42.354741),,7,9
+42.352993,-71.133796,amelia's taqueria,180 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,5.0,1 to 9,Allston Village,POINT (-71.133796 42.352993),,7,9
+42.354628,-71.13302,allston village main st,161 Harvard Ave,2134,813319,Other Social Advocacy Organizations,81,Other Services,1.0,1 to 9,Allston Village,POINT (-71.13302 42.354628),,7,9
+42.352574,-71.130736,"allston venture five, inc",116 Brighton Ave,2134,813319,Other Social Advocacy Organizations,81,Other Services,9.0,1 to 9,Allston Village,POINT (-71.130736 42.352574),,7,9
+42.354119,-71.135268,allston velo,442 Cambridge St,2134,451110,Sporting Goods Stores,45,Retail Trade,5.0,1 to 9,Allston Village,POINT (-71.135268 42.354119),,7,9
+42.352187,-71.131377,allston storage company llc,138 Harvard Ave,2134,531130,Lessors of Miniwarehouses and Self-Storage Units,53,Real Estate Rental and Leasing,2.0,1 to 9,Allston Village,POINT (-71.131377 42.352187),,7,9
+42.3505,-71.131403,allston nails,1231 Commonwealth Ave,2134,812113,Nail Salons,81,Other Services,2.0,1 to 9,Allston Village,POINT (-71.131403 42.3505),,7,9
+42.351434,-71.131784,allston market,169 Harvard Ave,2134,445110,Supermarkets and Other Grocery (except Convenience) Stores,44,Retail Trade,3.0,1 to 9,Allston Village,POINT (-71.131784 42.351434),,7,9
+42.3528,-71.1328,allston locksmith,224 Harvard Ave,2134,561622,Locksmiths,56,"Adminstrative, Support, Waste Management, and Remediation Services",2.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.3528,-71.1328,allston family dental,127 N Harvard St,2134,621210,Offices of Dentists,62,Healthcare and Social Assistance,9.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.350734,-71.131001,allston dental associates,196 Harvard Ave,2134,621210,Offices of Dentists,62,Healthcare and Social Assistance,6.0,1 to 9,Allston Village,POINT (-71.131001 42.350734),,7,9
+42.354607,-71.134297,allston collision center inc,420 Cambridge St,2134,811121,"Automotive Body, Paint, and Interior Repair and Maintenance",81,Other Services,9.0,1 to 9,Allston Village,POINT (-71.134297 42.354607),,7,9
+42.350386,-71.131634,allston chiropractor,1237 Commonwealth Ave,2134,621310,Offices of Chiropractors,62,Healthcare and Social Assistance,3.0,1 to 9,Allston Village,POINT (-71.131634 42.350386),,7,9
+42.354538,-71.135022,allston car wash inc,434 Cambridge St,2134,447190,Other Gasoline Stations,44,Retail Trade,30.0,25 to 49,Allston Village,POINT (-71.135022 42.354538),,7,9
+42.354621,-71.132648,allston brighton area planning,143 Harvard Ave,2134,921120,Legislative Bodies,92,Public Administration,5.0,1 to 9,Allston Village,POINT (-71.132648 42.354621),,7,9
+42.354741,-71.133709,allston brighton apac child,406 Cambridge St,2134,624410,Child Day Care Services,62,Healthcare and Social Assistance,10.0,10 to 24,Allston Village,POINT (-71.133709 42.354741),,7,9
+42.354741,-71.133709,allston brighton apac cfsc,406 Cambridge St,2134,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Allston Village,POINT (-71.133709 42.354741),,7,9
+42.35466,-71.13541,allston billiards,445 Cambridge St,2134,611620,Sports and Recreation Instruction,61,Educational Services,5.0,1 to 9,Allston Village,POINT (-71.13541 42.35466),,7,9
+42.353548,-71.132422,allston auto works inc,87 Harvard Ave,2134,811111,General Automotive Repair,81,Other Services,10.0,10 to 24,Allston Village,POINT (-71.132422 42.353548),,7,9
+42.3528,-71.1328,allston appliance repair men,195 Brighton Ave,2134,811412,Appliance Repair and Maintenance,81,Other Services,30.0,25 to 49,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353088,-71.138161,all bright nail & spa,514 Cambridge St,2134,812113,Nail Salons,81,Other Services,3.0,1 to 9,Allston Village,POINT (-71.138161 42.353088),,7,9
+42.353704,-71.135448,alfredo's restaurant,229 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,1.0,1 to 9,Allston Village,POINT (-71.135448 42.353704),,7,9
+42.3528,-71.1328,affordable angels moving & storage,10 Penniman Rd,2134,484110,"General Freight Trucking, Local",48,Transportation and Warehosuing,5.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353149,-71.131516,adventure rent-a-car,139 Brighton Ave,2134,532111,Passenger Car Rental,53,Real Estate Rental and Leasing,4.0,1 to 9,Allston Village,POINT (-71.131516 42.353149),,7,9
+42.355352,-71.133639,advance auto parts,393 Cambridge St,2134,441310,Automotive Parts and Accessories Stores,44,Retail Trade,9.0,1 to 9,Allston Village,POINT (-71.133639 42.355352),,7,9
+42.354415,-71.132799,adt security service,47 Harvard Ave,2134,423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",42,Wholesale Trade,8.0,1 to 9,Allston Village,POINT (-71.132799 42.354415),,7,9
+42.353359,-71.134524,action bearing co,201 Brighton Ave,2134,452210,Department Stores,45,Retail Trade,26.0,25 to 49,Allston Village,POINT (-71.134524 42.353359),,7,9
+42.353009,-71.134303,acougue brasil convenient str,192 Brighton Ave,2134,445120,Convenience Stores,44,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.134303 42.353009),,7,9
+42.352411,-71.132192,absolute care,121 Harvard Ave,2134,624190,Other Individual and Family Services,62,Healthcare and Social Assistance,9.0,1 to 9,Allston Village,POINT (-71.132192 42.352411),,7,9
+42.354741,-71.133709,abcd,406 Cambridge St,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.133709 42.354741),,7,9
+42.355574,-71.133154,aaw insurance agency,373 Cambridge St,2134,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,4.0,1 to 9,Allston Village,POINT (-71.133154 42.355574),,7,9
+42.355574,-71.133154,aaw insurance,373 Cambridge St,2134,524210,Insurance Agencies and Brokerages,52,Finance and Insurance,5.0,1 to 9,Allston Village,POINT (-71.133154 42.355574),,7,9
+42.3528,-71.1328,aaa taxi,165 Western Ave,2134,485310,Taxi Service,48,Transportation and Warehosuing,4.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.355132,-71.134232,a@time,433 Cambridge St,2134,454390,Other Direct Selling Establishments,45,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.134232 42.355132),,7,9
+42.355352,-71.133639,a & l's auto repair,405 Cambridge St,2134,811111,General Automotive Repair,81,Other Services,4.0,1 to 9,Allston Village,POINT (-71.133639 42.355352),,7,9
+42.353708,-71.13245,89 celsius inc,77 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.13245 42.353708),,7,9
+42.350688,-71.13101,7-eleven,1227 Commonwealth Ave,2134,445120,Convenience Stores,44,Retail Trade,7.0,1 to 9,Allston Village,POINT (-71.13101 42.350688),,7,9
+42.350803,-71.130701,7-eleven,1219 Commonwealth Ave,2134,445120,Convenience Stores,44,Retail Trade,8.0,1 to 9,Allston Village,POINT (-71.130701 42.350803),,7,9
+42.353493,-71.13843,7-eleven,509 Cambridge St,2134,445120,Convenience Stores,44,Retail Trade,7.0,1 to 9,Allston Village,POINT (-71.13843 42.353493),,7,9
+42.35288,-71.133438,56 parkvale ave condo,56 Park Vale Ave,2134,531210,Offices of Real Estate Agents and Brokers,53,Real Estate Rental and Leasing,5.0,1 to 9,Allston Village,POINT (-71.133438 42.35288),,7,9
+42.35466,-71.13541,4 x4 billiards,445 Cambridge St,2134,611620,Sports and Recreation Instruction,61,Educational Services,5.0,1 to 9,Allston Village,POINT (-71.13541 42.35466),,7,9
+42.350688,-71.13101,1227 commonwealth inc,1227 Commonwealth Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.13101 42.350688),,7,9
+42.352411,-71.132192,121 harvard ave trust,121 Harvard Ave,2134,0,,99,Undefined,0.0,Not Available,Allston Village,POINT (-71.132192 42.352411),,7,9
+42.35206,-71.132111,unique restaurant,145 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132111 42.35206),,7,9
+42.353821,-71.137184,turkish lazuri cafe,487 Cambridge St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,7.0,1 to 9,Allston Village,POINT (-71.137184 42.353821),,7,9
+42.351632,-71.131474,subway,162 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Allston Village,POINT (-71.131474 42.351632),,7,9
+42.351561,-71.131447,seoul tteokbokki,166 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131447 42.351561),,7,9
+42.353073,-71.131138,rangoli restaurant,129 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,6.0,1 to 9,Allston Village,POINT (-71.131138 42.353073),,7,9
+42.350909,-71.13153,oppa sushi,185 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.13153 42.350909),,7,9
+42.35333,-71.131972,myung dong 1st ave,90-92 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131972 42.35333),,7,9
+42.355037,-71.13429,lulu's allston,421 Cambridge St,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.13429 42.355037),,7,9
+42.352849,-71.132915,iron kitchen,164 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.132915 42.352849),,7,9
+42.352169,-71.131601,international pizza & sub,136 Harvard Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,3.0,1 to 9,Allston Village,POINT (-71.131601 42.352169),,7,9
+42.3528,-71.1328,greenfield restaurant,78 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,30.0,25 to 49,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353039,-71.130524,friendship bbq,103 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Allston Village,POINT (-71.130524 42.353039),,7,9
+42.3528,-71.1328,florist in allston,,2134,453110,Florists,45,Retail Trade,2.0,1 to 9,Allston Village,POINT (-71.1328 42.3528),,7,9
+42.353039,-71.130524,china garden restaurant,103 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,0.0,Not Available,Allston Village,POINT (-71.130524 42.353039),,7,9
+42.353348,-71.132988,c fruit life,171 Brighton Ave,2134,445230,Fruit and Vegetable Markets,44,Retail Trade,6.0,1 to 9,Allston Village,POINT (-71.132988 42.353348),,7,9
+42.353156,-71.131769,bab restaurant inc,151 Brighton Ave,2134,722511,Full-Service Restaurants,72,Accommodation and Food Services,8.0,1 to 9,Allston Village,POINT (-71.131769 42.353156),,7,9
