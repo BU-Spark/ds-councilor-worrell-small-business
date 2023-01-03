@@ -1,0 +1,2 @@
+.csv filter=lfs diff=lfs merge=lfs -text
+datasets/companies_sorted.csv filter=lfs diff=lfs merge=lfs -text
