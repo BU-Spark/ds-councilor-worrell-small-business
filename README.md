@@ -1,12 +1,6 @@
-# CS506 Team 5 Project (Councilor Worrell)
-## Team Members:
-* Xiaojie Li
-* Simon Cen
-* Reshab Chhabra
-* Dave Godfrey
+# TEMPLATE-base-repo
 
-## Topic
-Our topic is focusing on analyzing the foot traffic, spending rate, and other predictors to determine what Boston's District 4 can do to improve on attracting small businesses and compared this idea to other districts.
+# Add Users
+To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.
 
-## Organization
-We've organized each assignment --- `Deliverable 0`, `Deliverable 1`, `Deliverable 2`, `Deliverable 3`, `Deliverale 4`, `Deliverable 5`, `Final Report` --- into folders for legibility. We've also organized all of our datasets into the `datasets` folder.
+All Pull Requests must follow the Pull Request Template, with a title formatted like such `[Project Name]: <Descriptive Title>`
